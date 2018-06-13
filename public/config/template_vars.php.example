@@ -1,0 +1,9 @@
+<?php
+return array(
+    "mail" => array(
+        "template-key" => array(
+            "subject" => "Nice and short heading",
+            "from" => array("address" => "foo@example.com", "name" => "Foo Bar")
+        )
+    )
+);

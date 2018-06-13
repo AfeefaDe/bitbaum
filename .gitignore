@@ -1,0 +1,10 @@
+node_modules/
+# built css files
+public/styles/
+public/twitter_feed_cache.txt
+public/config/*.php
+public/config/*.ini
+# windows shit
+php.bat
+# IDE
+.vscode

@@ -1,0 +1,31 @@
+Hallo {{name}},
+
+danke für deine Nachricht. Wir werden uns schnellstmöglich bei dir zurückmelden.
+
+Viele Grüße
+Das Team von Bits & Bäume
+
+--
+Hiermit erhälst du eine Kopie deiner übermittelten Daten:
+
+{{name}}
+{{orga}}
+{{email}}
+{{comment}}
+
+Falls du keine Nachricht an uns gesendet hast, bitten wir dich, uns dies an team@bits-und-baeume.org zu melden.
+
+--
+Bits & Bäume
+Die Konferenz für Digitalisierung und Nachhaltigkeit
+17. bis 18. November 2018 in Berlin (Technische Universität)
+
+www.bits-und-baeume.org
+team@bits-und-baeume.org
+
+--
+Diese E-Mail unterliegt folgender Datenschutzerklärung:
+www.bits-und-baeume.org/datenschutz
+
+Impressum:
+www.bits-und-baeume.org/impressum

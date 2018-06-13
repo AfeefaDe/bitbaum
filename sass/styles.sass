@@ -1,0 +1,25 @@
+// use like: @media #{$tablet}
+$tablet: "(min-width: 768px) and (max-width: 1023px)"
+$desktop: "(min-width: 1024px)"
+$mobile: "(max-width: 767px), (orientation : portrait)"
+
+*
+  box-sizing: border-box
+// IMPORTS
+@import colors
+@import typo
+@import forms
+@import footer
+@import layout
+@import header
+@import portrait
+@import buttons
+@import sidebar
+
+body
+  background-image: url('/img/poly.svg')
+  // background-attachment: fixed
+  background-size: cover
+  color: $text
+  margin: 0px
+  clear: both

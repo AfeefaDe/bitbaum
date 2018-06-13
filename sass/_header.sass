@@ -1,0 +1,58 @@
+header.main
+  width: 100%
+  background-image: url('/img/bits-und-baeume-logo.png')
+  background-repeat: no-repeat
+  background-position: top right
+  background-size: 5em
+
+  display: flex
+  flex-direction: column
+
+  h1
+    display: flex
+    flex-direction: column
+  a
+    text-decoration: none
+    font-style: normal
+  p
+    margin: 0
+    font-weight: $regular
+  p.counter
+    text-align: right
+    color: rgba(0,0,0,.5)
+    font-style: italic
+    font-weight: $thin
+
+.sub-page header.main
+  width: calc(100% / 3 * 2)
+  min-height: 15vh
+  display: flex
+  flex-wrap: wrap
+  background-color: $alpha-white
+  background-position: center left 2em
+  background-size: 3em
+  flex-direction: row
+  align-items: center
+  align-content: center
+  padding-left: 7em
+
+  h2
+    margin-right: 2em
+    font-size: 1.3rem
+  p.counter
+    display: none
+  div
+    h1
+      font-size: 1.3rem
+      display: block
+      margin-bottom: 0.3em
+    p
+      font-size: 1.3rem
+      display: inline-block
+      margin: 0 .5em .5em 0
+
+@media #{$mobile}
+  .sub-page header.main
+    width: 100%
+    div
+      display: none

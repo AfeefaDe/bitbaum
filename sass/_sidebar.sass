@@ -1,0 +1,86 @@
+aside
+  box-shadow: rgba(0,0,0,0.2) 0 0 10px
+  overflow-y: hidden
+  
+  section.stats
+    display: flex
+    align-items: center
+    justify-content: space-between
+    height: 5rem
+    margin: 2.5vmax
+    
+    p
+      font-size: $larger
+      margin: 0 0 .5em
+  
+  section.switch
+    margin: 0 2.5vmax
+    height: calc(100vh - 10rem - 10vmax)
+    overflow: hidden
+    display: none
+    &.active
+      display: flex
+      flex-direction: column
+      flex-wrap: wrap
+      justify-content: center
+
+  section.twitter
+    article
+      width: 100%
+      margin-bottom: 2em
+    header
+      display: flex
+      justify-content: space-between
+      margin: .3em 0 0
+      
+      address
+        background-image: url(/img/tweet-blue.svg)
+        background-repeat: no-repeat
+        background-size: 1em
+        padding-left: 1.5em
+    time
+      font-size: $smaller
+    a
+      text-decoration: none
+
+  .control
+    height: calc(5rem + 5vmax)
+    padding: 0 2.5vmax
+    background-color: $alpha-blue-light
+    display: flex
+    justify-content: space-around
+    align-items: center
+    & > div
+      cursor: pointer
+      opacity: .5
+      filter: blur(1px)
+      &:hover, &.active
+        opacity: 1
+        filter: none
+    .icon
+      background-repeat: no-repeat
+      background-size: contain
+      background-position: center
+      height: 2rem
+    .program .icon
+        background-image: url(/img/program.svg)
+    .twitter .icon
+        background-image: url(/img/tweet.svg)
+    p
+      text-align: center
+      font-weight: $regular
+
+@media #{$mobile}
+  aside
+    overflow-y: hidden
+
+.ie-browser
+  aside
+    section.stats
+      margin: 2.5rem
+    section.switch
+      margin: 0 2.5rem
+      height: calc(100vh - 10rem - 10rem)
+    .control
+      height: calc(5rem + 5rem)
+      padding: 0 2.5rem

@@ -1,0 +1,9 @@
+; copy this file to 'smtpconf.ini' and add your configuration
+; make sure that it is not accessable directly but by apache user
+
+host = 'localhost'
+port = '25'
+; security is one of '' | 'ssl' | 'tls'
+security = ''
+user = 'your_username'
+password = 'your_secret_password'

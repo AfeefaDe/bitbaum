@@ -1,0 +1,9 @@
+{
+    "config": {
+        "vendor-dir": "vendor"
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.0",
+        "mikecao/flight": "^1.3"
+    }
+}

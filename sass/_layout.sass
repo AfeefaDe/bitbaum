@@ -1,0 +1,114 @@
+body > section
+  min-height: 85vh
+  width: calc(100% / 3 * 2)
+  background-color: $alpha-green-dark
+  padding: 4vmax
+
+article
+  p
+    line-height: 1.5em
+  h2
+    font-weight: $regular
+    margin-top: 2em
+  .row
+    display: flex
+    justify-content: space-between
+    & > *
+      width: 45%
+
+  &.cluster
+    margin-top: 2.5vmax
+    header
+      position: relative
+      img
+        width: calc(100% + 8vmax)
+        height: 25vh
+        position: relative
+        left: -4vmax
+        object-fit: cover
+        box-shadow: rgba(0,0,0,.2) 0 3px 6px
+      h2
+        position: absolute
+        top: 0
+        font-weight: $regular
+        display: flex
+        flex-direction: column
+        margin-top: 1em
+        span
+          background-color: white
+          width: fit-content
+          padding: 0 .1em
+
+#grid
+  width: calc(100% / 3 * 2)
+  display: flex
+  flex-wrap: wrap
+    
+  .square
+    display: flex
+    align-items: center
+
+    flex-basis: calc(100% / 2)
+    flex-grow: 0
+    flex-shrink: 0
+    height: calc(100vh / 2)
+    padding: 2.5vmax
+    overflow: hidden
+
+    &.title
+      background-color: $alpha-white
+    
+    &.description
+      background-color: $alpha-gray
+
+    &.quotes
+      background-color: $alpha-green-light
+
+    &.cluster
+      background-color: $alpha-green
+
+    .square-action
+      margin: 2rem 0 0
+
+    article
+      width: 100%
+      p
+        line-height: 1.3em
+
+aside
+  width: calc(100% / 3)
+  height: 100vh
+  position: absolute
+  top: 0
+  right: 0
+  background-color: $alpha-blue
+
+@media #{$mobile}
+  body > section
+    width: 100%
+  
+  article
+    .row
+      display: block
+      & > *
+        width: 100%
+
+  #grid
+    width: 100vw
+  
+    .square
+      flex-basis: 100vw
+  
+  aside
+    width: 100vw
+    position: initial
+
+.ie-browser
+  overflow-x: hidden
+  
+  #grid .square
+    flex-basis: calc((100% - 10rem) / 2 - 1px)
+    padding: 2.5rem
+    box-sizing: border-box
+  & > section
+    padding: 4rem

@@ -1,0 +1,40 @@
+body > footer
+  padding: 1em 4vmax
+  background-color: $background
+  color: $text-white
+  .logos 
+    margin: 2rem 0
+    div
+      display: flex
+      justify-content: space-between
+      flex-wrap: wrap
+      align-items: center
+    img
+      height: 5rem
+      max-width: 100%
+      filter: contrast(0) brightness(1.5)
+      margin: 2em
+      &.gray
+        filter: grayscale(100%)
+      &.larger
+        height: 8rem
+      &.smaller
+        height: 3rem
+      &:hover
+        filter: none
+  p
+    margin: 2em 0 1em
+    &.submenu
+      a
+        margin-right: 1em
+  a
+    color: $text-white
+  .funding-note
+    font-size: $smaller
+    text-align: left
+    a
+      margin-left: 0
+
+.ie-browser
+  & > footer
+    padding: 1em 4rem

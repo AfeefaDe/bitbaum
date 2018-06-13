@@ -1,0 +1,26 @@
+button, .button
+	background-color: rgba(255, 255, 255, 0.3)
+	border: none
+	padding: 1em 1.5em
+	cursor: pointer
+	color: $text
+	font-family: $aller
+	font-size: $larger
+	font-weight: $regular
+	display: inline-block
+	text-decoration: none
+	font-style: normal
+	color: inherit
+	
+	&:hover
+		transition: background-color 300ms
+		background: lighten($text, 90)
+
+	&.back-button
+		background-color: rgba(255, 255, 255, 0.6)
+		padding: .5em 1em
+		font-size: $normal
+		font-weight: $thin
+		position: relative
+		left: -1em
+		top: -2vmax

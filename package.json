@@ -1,0 +1,22 @@
+{
+  "name": "bitbaum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-connect-php": "^1.0.1",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "jquery": "^3.3.1"
+  },
+  "scripts": {
+    "dev": "gulp",
+    "build": "gulp sass"
+  },
+  "author": "Afeefa Kollektiv > https://kollektiv.afeefa.de"
+}

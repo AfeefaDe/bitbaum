@@ -1,0 +1,24 @@
+.people
+    .portrait
+        // text-align: center
+        display: none
+
+        &:first-of-type
+            display: block
+        
+        .image
+            width: calc(100vw / 3 * .3)
+            height: calc(100vw / 3 * .3)
+            border-radius: calc(100vw / 3 * .3)
+            margin: 0 auto 2em
+            background-color: #ddd
+            background-size: cover
+            background-position: center
+        
+        @media #{$mobile}
+            .image
+                width: calc(100vw * .3)
+                height: calc(100vw * .3)
+                border-radius: calc(100vw * .3)
+        p
+            font-size: $smaller

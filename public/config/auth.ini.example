@@ -1,0 +1,2 @@
+; make sure that it is not accessable directly but by apache user
+key = ''
