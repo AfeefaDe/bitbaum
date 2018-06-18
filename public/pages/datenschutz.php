@@ -38,9 +38,9 @@
 </ul>
 <p>Die Verantwortlichen gestalten die innerbetriebliche Organisation so, dass sie den Anforderungen des Datenschutzes gerecht wird. Sie treffen technische und organisatorische Ma&szlig;nahmen zur angemessenen Sicherung der Daten vor Missbrauch und Verlust, die den Forderungen der DS-GVO entsprechen. Dies beinhaltet die Zugangskontrolle, Datentr&auml;gerkontrolle, Speicherkontrolle, Benutzerkontrolle sowie die Zugriffskontrolle.</p>
 <p><strong>Ansprechpartner f&uuml;r die Verarbeitung der mittels dieser Website erhobenen personenbezogenen Daten ist:</strong></p>
-<p>Tilman Santarius <br />TU Berlin <br />Sekr. MAR 1-1<br />Marchstr. 23<br />D-10587 Berlin<br />Telefon: +49-30-314 78869<br />E-Mail: team(at)bits-und-baeume.org</p>
+<p>Tilman Santarius <br />TU Berlin <br />Sekr. MAR 1-1<br />Marchstr. 23<br />D-10587 Berlin<br />Telefon: +49-30-314 78869<br />E-Mail: &#x74;&#x65;&#x61;&#109;&#x40;&#98;&#x69;&#x74;&#x73;&#x2d;&#117;&#110;&#100;&#x2d;&#98;&#x61;&#101;&#117;&#109;&#101;&#46;&#x6f;&#x72;&#103;</p>
 <p>Die <strong>beh&ouml;rdliche Datenschutzbeauftragte</strong> der TU Berlin ist:</p>
-<p>Frau Annette Hiller<br />Datenschutzbeauftragte der TU Berlin<br />K3-DS<br />Stra&szlig;e des 17. Juni 135<br />10623 Berlin<br />Tel: +49 (0)30 314 21784<br />datenschutzbeauftragte(at)tu-berlin.de</p>
+<p>Frau Annette Hiller<br />Datenschutzbeauftragte der TU Berlin<br />K3-DS<br />Stra&szlig;e des 17. Juni 135<br />10623 Berlin<br />Tel: +49 (0)30 314 21784<br />&#100;&#x61;&#x74;&#101;&#x6e;&#x73;&#x63;&#x68;&#117;&#x74;&#x7a;&#x62;&#101;&#97;&#117;&#x66;&#116;&#x72;&#97;&#103;&#116;&#101;&#x40;&#x74;&#117;&#45;&#x62;&#x65;&#x72;&#108;&#105;&#x6e;&#46;&#x64;&#101;</p>
 <h2>3. Auftragsverarbeiter</h2>
 <p>Wir verwenden ausschlie&szlig;lich vertrauensw&uuml;rdige Auftragsverarbeiter, die deine personenbezogenen Daten f&uuml;r uns verarbeiten.</p>
 <h3>Host</h3>
@@ -101,10 +101,10 @@
 <p>Gem&auml;&szlig; Art. 20 DSGVO haben Sie das Recht, Ihre personenbezogenen Daten, die Sie uns bereitgestellt haben, in einem strukturierten, g&auml;ngigen und maschinenlesebaren Format zu erhalten oder die &Uuml;bermittlung an einen anderen Verantwortlichen zu verlangen;</p>
 <h3>Recht auf Widerruf der Einwilligung</h3>
 <p>Gem&auml;&szlig; Art. 7 Abs. 3 DSGVO haben Sie das Recht, Ihre einmal erteilte Einwilligung jederzeit gegen&uuml;ber uns zu widerrufen. Dies hat zur Folge, dass wir die Datenverarbeitung, die auf dieser Einwilligung beruhte, f&uuml;r die Zukunft nicht mehr fortf&uuml;hren d&uuml;rfen und Sie nicht an der Veranstaltung teilnehmen k&ouml;nnen.</p>
-<p><strong>&Uuml;ber die Wahrnehmung Ihrer Rechte k&ouml;nnen Sie uns unter folgenden E-Mail informieren: team(at)bits-und-baeume.org . Alternativ k&ouml;nnen Sie unsere Kontaktdaten nutzen, die Sie im Impressum finden.</strong></p>
+<p><strong>&Uuml;ber die Wahrnehmung Ihrer Rechte k&ouml;nnen Sie uns unter folgenden E-Mail informieren: &#x74;&#x65;&#x61;&#109;&#x40;&#98;&#x69;&#x74;&#x73;&#x2d;&#117;&#110;&#100;&#x2d;&#98;&#x61;&#101;&#117;&#109;&#101;&#46;&#x6f;&#x72;&#103; . Alternativ k&ouml;nnen Sie unsere Kontaktdaten nutzen, die Sie im Impressum finden.</strong></p>
 <h2>6. Beschwerderecht</h2>
 <p>Sie haben, unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs das Recht, auf Beschwerde bei der beh&ouml;rdlichen Datenschutzbeauftragten der TU Berlin (Kontaktdaten s.o.) einer Datenschutz-Aufsichtsbeh&ouml;rde, insbesondere in dem EU-Mitgliedstaat Ihres Aufenthaltsorts, ihres Arbeitsplatzes oder des Orts des mutma&szlig;lichen Versto&szlig;es, wenn Sie der Ansicht sind, dass die Verarbeitung der Sie betreffenden personenbezogenen Daten gegen das geltende Recht verst&ouml;&szlig;t.</p>
 <p>Sie d&uuml;rfen Ihre Beschwerde auch an die zust&auml;ndige Datenschutz-Aufsichtsbeh&ouml;rde,</p>
-<p>Berliner Beauftragte f&uuml;r Datenschutz und Informationsfreiheit<br />Maja Smoltczyk<br />Friedrichstr. 219<br />10969 Berlin<br />Tel.: +49 (0)30 13889-0<br />Fax: +49 (0)30 2155050<br />E-Mail: <a href="mailto:mailbox@datenschutz-berlin.de">mailbox@datenschutz-berlin.de</a></p>
+<p>Berliner Beauftragte f&uuml;r Datenschutz und Informationsfreiheit<br />Maja Smoltczyk<br />Friedrichstr. 219<br />10969 Berlin<br />Tel.: +49 (0)30 13889-0<br />Fax: +49 (0)30 2155050<br />E-Mail: &#109;&#x61;&#105;&#108;&#x62;&#111;&#x78;&#x40;&#100;&#97;&#116;&#x65;&#x6e;&#115;&#99;&#x68;&#117;&#x74;&#x7a;&#x2d;&#x62;&#x65;&#x72;&#108;&#105;&#110;&#46;&#100;&#101;</p>
 <p>richten.</p>
 </article>
