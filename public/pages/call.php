@@ -2,7 +2,7 @@
     <h1>Call for Participation</h1>
     <article>
         <div class="row">
-            <p><strong>Anmeldeschluss:</strong> 12. August<br>
+            <p><strong>Anmeldeschluss:</strong> 19. August<br>
                 <strong>Rückmeldung Forum:</strong> 3. September<br>
                 <strong>Rückmeldung Programmbeiträge:</strong> Ende September</p>
             <p class="square-action align-center">
@@ -58,7 +58,7 @@
 
 
     <p class="square-action align-center vertical-space">
-        <a class="button" href="/downloads/call.pdf">Call als PDF herunterladen</a>
+        <a class="button" href="/downloads/bits-und-bäume-call-for-participation.pdf">Call als PDF herunterladen</a>
     </p>
 
 
