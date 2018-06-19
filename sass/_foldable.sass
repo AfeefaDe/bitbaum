@@ -1,0 +1,19 @@
+.foldableButton
+	cursor: pointer
+	&:before
+		content: ''
+		border: solid $text
+		border-width: 0 3px 3px 0
+		display: inline-block
+		padding: 3px
+		transform: rotate(-45deg)
+		vertical-align: middle
+		margin-right: 0.5em
+		margin-bottom: 5px
+		transition: transform ease 0.2s
+	&--active
+		&:before
+			transform: rotate(45deg)
+.foldableContent
+	&--hidden
+		display: none
