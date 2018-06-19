@@ -51,7 +51,7 @@
         an Aktivist*innen-Infotischen, auf Pausen-Sofas, bei Hackathons und vielem mehr. Wir laden Initiativen und
         Organisationen ein, sich in unserem <em>Forum</em> vorzustellen, ihr Wissen zu teilen und miteinander ins
         Gespräch zu kommen. </p>
-    
+
     <p><em>Bits &amp; Bäume</em> möchte politisieren und den Auftakt geben für eine gemeinsame Position zu einer
         nachhaltigen Digitalisierung und wider demokratiefeindliche Trends!</p>
     <p>Wir freuen uns auf eure Beteiligung.</p>
@@ -282,11 +282,14 @@
     <p>Themenanregungen und sonstige Hilfestellungen zur Einreichung oben unter Programmbeitrag.</p>
 
 
-    <h3><em>Bits &amp; Bäume</em> wird organisiert von:</h3>
+    <h2><em>Bits &amp; Bäume</em> wird organisiert von:</h2>
     <p>Bund für Umwelt und Naturschutz Deutschland (BUND), Brot für die Welt, Chaos Computer Club (CCC), Deutscher
         Naturschutz Ring (DNR), Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung e. V. (FIfF),
         Germanwatch e.V., Institut für ökologische Wirtschaftsforschung (IÖW), Konzeptwerk Neue Ökonomie,
-        Netzpolitik.org, Open Knowledge Foundation Deutschland e. V. (OKF), Technische Universität Berlin</p>
+        Netzpolitik.org, Open Knowledge Foundation Deutschland e. V. (OKF), Technische Universität Berlin.</p>
+
+    <p>Die Veranstaltung wird gefördert durch die Deutsche Bundesstiftung Umwelt und via Förderung von Projekten
+        einzelner Trägerkreisorganisationen vom Bundesministerium für Bildung und Forschung (BMBF) kofinanziert.</p>
 
 
     <p class="square-action align-center vertical-space">
