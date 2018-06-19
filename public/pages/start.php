@@ -11,7 +11,7 @@
     <p>Digitale Infrastrukturen</p>
     <p>Grundsatzfragen</p>
     <p class="square-action align-center">
-      <a class="button" href="/call">Themen der Konferenz</a>
+      <a class="button" href="/call">Call for Participation</a>
     </p>
   </article>
 </section>

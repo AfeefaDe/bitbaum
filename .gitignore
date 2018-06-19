@@ -8,3 +8,4 @@ public/config/*.ini
 php.bat
 # IDE
 .vscode
+.idea
