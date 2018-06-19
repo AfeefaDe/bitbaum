@@ -290,9 +290,6 @@
         Germanwatch e.V., Institut für ökologische Wirtschaftsforschung (IÖW), Konzeptwerk Neue Ökonomie,
         Netzpolitik.org, Open Knowledge Foundation Deutschland e. V. (OKF), Technische Universität Berlin.</p>
 
-    <p>Die Veranstaltung wird gefördert durch die Deutsche Bundesstiftung Umwelt und via Förderung von Projekten
-        einzelner Trägerkreisorganisationen vom Bundesministerium für Bildung und Forschung (BMBF) kofinanziert.</p>
-
     <hr>
 
     <p>Bei Fragen wendet ihr euch bitte an <span id="mail_replace"></span>
