@@ -92,7 +92,7 @@
             <header>
                 <img src="/img/call-2.jpg">
                 <h2>
-                    <span>Nachhaltige Nischen</span>
+                    <span>Nachhaltige Nischen, </span>
                     <span>Mainstream-Monopole?</span>
                     <span>Alternatives Wirtschaften</span>
                 </h2>
@@ -336,7 +336,7 @@
             contentElement.toggleClass('foldableContent--hidden');
             element.toggleClass('foldableButton--active');
             //[0]: use raw DOM element for comparing, this ignores the classList
-            if(lastFoldedElement[0] != null && element[0] != lastFoldedElement[0][0]) {
+            if(lastFoldedElement[0] != null && element[0] !== lastFoldedElement[0][0]) {
                 lastFoldedElement[0].removeClass('foldableButton--active');
                 lastFoldedElement[1].addClass('foldableContent--hidden');
             }
