@@ -1,17 +1,69 @@
 <article>
-    <h1>Themen der Konferenz</h1>
-    <p>Die Themen der Konferenz "Bits und Bäume" reichen von vernetzter Mobilität über den Rohstoffbedarf digitaler
-        Geräte, Datensuffizienz und kooperativen Plattformökonomien bis hin zu smarten Energienetzen oder
-        Monopolisierungstendenzen in der digitalen Ökonomie. Im Zentrum steht dabei immer die Schnittstelle von
-        Nachhaltigkeit und Digitalisierung. Eine partizipative Konferenz, wie wir sie veranstalten wollen, lebt von den
-        Ideen der Menschen, die sie mit uns gemeinsam gestalten werden. Daher sind die nachfolgend aufgeführten
-        Leitfragen und Themen lediglich als Anregungen zu verstehen, welche Aspekte uns wichtig erscheinen. Wir freuen
-        uns über Einreichungen in einem Call for Participation, der in Kürze mit allen dafür relevanten Infos an dieser
-        Stelle erscheinen wird. Möchtest du das auf keinen Fall verpassen, kannst du dich hier bereits unverbindlich
-        anmelden – und wir informieren dich, sobald der Call online ist.</p>
-    <p class="square-action align-center">
+    <h1>Call for Participation</h1>
+    <article>
+        <div class="row">
+            <p><strong>Anmeldeschluss:</strong> 12. August<br>
+                <strong>Rückmeldung Forum:</strong> 3. September<br>
+                <strong>Rückmeldung Programmbeiträge:</strong> Ende September</p>
+            <p class="square-action align-center">
+                <a class="button" href="https://frab.bits-und-baeume.org" target="_blank">Zur Anmeldung</a>
+            </p>
+        </div>
+    </article>
+
+
+    <h3>Was will <em>Bits &amp; Bäume</em>?</h3>
+
+    <p>Wir bringen Communities zusammen!</p>
+
+    <p>In den letzten Jahrzehnten sind gesellschaftsverändernde Bewegungen gewachsen, die jeweils ihren eigenen Utopien
+        folgen: Sie kämpfen dafür, die Natur und unsere natürlichen Lebensgrundlagen zu erhalten, für weltweit faire
+        Arbeitsbedingungen ohne Ausbeutung und für eine Eindämmung der Macht von Konzernen. Sie setzen sich ein für
+        demokratische Teilhabe, für nachhaltige Produktions- und Konsumweisen, für gerechten Handel zwischen globalem
+        Süden und Norden und für verbindliche Regeln für Konzerne im Sinne dieser Ziele. Andere Communities arbeiten
+        daran, die Digitalisierung so zu gestalten, dass Bürgerrechte, Schutz der Privatsphäre, Datenschutz,
+        Souveränität und Demokratie für eine offene Gesellschaft gewahrt sind. Sie stehen auf für einen freien Zugang
+        zum Wissen der Mächtigen für eine Kultur des Miteinander-Teilens, für eine überwachungsfreie digitale Welt, für
+        flache Hierarchien, globale Vernetzung und Dezentralität, für Selbstbestimmung und Menschenrechte angesichts
+        eines Zeitalters der Künstlichen Intelligenz und globaler Internet-Monopole.</p>
+
+    <p>Bislang agieren diese Bewegungen der Umwelt-Aktivist<em>innen und digitale Menschenrechtler</em>innen oft
+        nebeneinander. Sie bieten Lösungsansätze und Ideen für ihre jeweils eigenen Themen, die inzwischen nicht nur
+        Politik, Zivilgesellschaft, Wirtschaft, sondern sogar fast jeden Haushalt erreicht haben. Beide wollen die Welt
+        verstehen, aber vor allem aktiv gestalten. Sie sehen, dass wesentliche Veränderungen für ein ‚gutes Leben’ sowie
+        eine gerechte und zukunftsfähige Gesellschaft nötig sind. Doch eine demokratische und nachhaltige Gesellschaft
+        kann nur gemeinsam gelingen – dafür müssen diese Communities zusammenkommen, voneinander lernen, die
+        Gemeinsamkeiten ihrer Utopien erkennen und diese mit neuer Wucht umsetzen!</p>
+
+    <p>Die Konferenz <em>Bits &amp; Bäume</em> bietet ein Forum, um Schnittstellen zwischen Nachhaltigkeitsthemen und
+        einer umsichtigen Digitalisierung herauszuarbeiten, visionäre Lösungen zu finden und gemeinsame Aktionen zu
+        planen. Unsere Leitfragen sind: Welche Rolle spielt Nachhaltigkeit für stabile Tech-Communities? Welche
+        ökologischen Chancen stecken in digitalen Anwendungen etwa für Klima- und Ressourcenschutz? Welche Arten von
+        Digitalisierung stehen diesen Zielen entgegen oder sind gar kontraproduktiv? Wie kann die digitale Gesellschaft
+        demokratisch und gerecht gestaltet und zugleich darauf ausgerichtet sein, auf friedvolle Weise die Grundlagen
+        unseres Lebens auf diesem Planeten zu bewahren?</p>
+
+    <p>Mit dem <em>Call for Participation</em> rufen wir Menschen aus zivilgesellschaftlichen Organisationen, aber auch
+        progressive Akteure aus der Wissenschaft, Wirtschaft und Politik auf, die Konferenz durch eigene Beiträge
+        mitzugestalten! Je vielfältiger die Themen und Formate, desto mehr bunte Kreativität und freudige Tatkraft
+        entstehen. Wir wollen Raum geben für Diskussionsrunden und für die Planung von Projekten und Kampagnen, die die
+        unterschiedlichen Communities verbinden. Wir wollen voneinander lernen – aus Vorträgen, in Hands-on-Workshops,
+        an Aktivist*innen-Infotischen, auf Pausen-Sofas, bei Hackathons und vielem mehr. Wir laden Initiativen und
+        Organisationen ein, sich in unserem <em>Forum</em> vorzustellen, ihr Wissen zu teilen und miteinander ins
+        Gespräch zu kommen. </p>
+    
+    <p><em>Bits &amp; Bäume</em> möchte politisieren und den Auftakt geben für eine gemeinsame Position zu einer
+        nachhaltigen Digitalisierung und wider demokratiefeindliche Trends!</p>
+    <p>Wir freuen uns auf eure Beteiligung.</p>
+
+
+    <p class="square-action align-center vertical-space">
         <a class="button" href="/downloads/call.pdf">Call als PDF herunterladen</a>
     </p>
+
+
+    <h2>Programmbeitrag (Einreichung zum Programm)</h2>
+
     <article class="cluster">
         <header>
             <img src="/img/call-1.jpg">
@@ -24,12 +76,14 @@
         <div class="row">
             <ul>
                 <li>Rohstoffabbau für die Digitalisierung</li>
+                <li>nachhaltige Produktions- und Lieferketten</li>
                 <li>Digitale Werkzeuge für den Erhalt von Biodiversität</li>
-                <li>Nachhaltige Wertschöpfungsketten</li>
+                <li>Energie- und Ressourceneffizienz durch digitale Werkzeuge</li>
             </ul>
             <ul>
-                <li>Energie- und Ressourceneffizienz durch digitale Werkzeuge</li>
-                <li>Ressoucensintensität und Rebound-Effekte</li>
+                <li>Stromverbrauch digitaler Geräte und Infrastrukturen</li>
+                <li>Ressourcenintensität und Rebound-Effekte</li>
+                <li>Verantwortlichkeiten globaler Klima- und Digitalisierungseffekte</li>
             </ul>
         </div>
     </article>
@@ -38,22 +92,23 @@
         <header>
             <img src="/img/call-2.jpg">
             <h2>
-                <span>David gegen Goliath.</span>
-                <span>Digitale Wirtschaft zwischen Monopolkapitalismus</span>
-                <span>und alternativer Postwachstums-Ökonomie</span>
+                <span>Nachhaltige Nischen</span>
+                <span>Mainstream-Monopole?</span>
+                <span>Alternatives Wirtschaften</span>
             </h2>
         </header>
         <div class="row">
             <ul>
-                <li>Gutes Sharing, schlechtes Sharing</li>
+                <li>IT-Monopole, Plattform-Kapitalismus, Datenakkumulation</li>
+                <li>gutes Sharing, schlechtes Sharing</li>
                 <li>Kooperative Plattformökonomien</li>
                 <li>Open Source / freie Software</li>
-                <li>Dezentrales Wirtschaften</li>
+                <li>dezentrales Wirtschaften</li>
                 <li>Re-Regionalisierung von Produktionsketten</li>
             </ul>
             <ul>
                 <li>DIY, Reparaturrechte bis Global Village Construction Set</li>
-                <li>Immaterialgüterrechte, Patente & Lizenzen</li>
+                <li>Immaterialgüterrechte, Patente &amp; Lizenzen</li>
                 <li>Preisdiskriminierung und Konsumsteigerung</li>
                 <li>Veränderungen der Agrar- und Ernährungswirtschaft</li>
                 <li>Suffizienzorientiertes Marketing</li>
@@ -101,18 +156,18 @@
         </header>
         <div class="row">
             <ul>
-                <li>Lokale Energiespeicher und Infrastrukturen für die Energiewende</li>
+                <li>lokale Energiespeicher und Infrastrukturen für die Energiewende</li>
                 <li>Verwundbarkeiten digitalisierter Infrastrukturen</li>
-                <li>Digitale Energiewende: Speicher, Smart Grid, Smarthome</li>
-                <li>Automatisierte Energiemanagementsysteme</li>
-                <li>"Smarte" Mobilität und ökologische Verkehrswende</li>
+                <li>digitale Energiewende: Speicher, Smart Grid, Smarthome</li>
+                <li>automatisierte Energiemanagementsysteme</li>
+                <li>&quot;Smarte&quot; Mobilität und ökologische Verkehrswende</li>
                 <li>Elektrifizierung und Vernetzung von Haushalten, Verkehr, Industrie (Sektorkopplung)</li>
             </ul>
             <ul>
                 <li>Agrarwende und neue Formen von Landwirtschaft</li>
-                <li>Vernetzte Dörfer</li>
+                <li>vernetzte Dörfer</li>
                 <li>E-Government und digitale Bürger*innenbeteiligung</li>
-                <li>Digitale Stadtsouveränität</li>
+                <li>digitale Stadtsouveränität</li>
                 <li>Reclaim Smart Cities!</li>
             </ul>
         </div>
@@ -145,40 +200,103 @@
         </div>
     </article>
 
-    <!-- <a class="button">Call als PDF herunterladen</a>
+    <h3>Was soll ich angeben? (Titel, Beschreibung, Formate, Zeit-Slots, Raumwünsche)</h3>
 
-    <h2>Formatvorschläge</h2>
+    <h4>Abstract, Beschreibung &amp; Links</h4>
+
+    <p>Der "Abstract" ist später dein Teaser - formuliere bitte ganz also ganz konkret, aber kurz und knapp dein Thema
+        und deine Thesen sowie deine Kurzbio. Worum geht es? Warum ist deine Einreichung für die Konferenz interessant?
+        Mehr Platz hast du dann in der ausführlichen Beschreibung. Bitte ergänze unbedingt Links zu Vorträgen, Papers o.
+        ä., die du schon einmal anderswo gehalten/geschrieben hast oder Links ggf. zu deiner Website, sofern uns dies
+        hilft, dein Thema, deinen Vortragsstil und deine Expertise besser zu verstehen.</p>
+
+    <h4>Formate der Konferenz</h4>
     <p>Wir freuen uns über eine möglichst große Vielfalt an unterschiedlichen Formaten, z.B.:</p>
-    <div class="row">
-      <ul>
-        <li>Workshop</li>
-        <li>Vortrag</li>
-        <li>Slam</li>
-        <li>Hackathon</li>
-        <li>Panel, Fishbowl- oder Podiumsdiskussion</li>
-        <li>Themen- oder Worldcafé</li>
-      </ul>
-      <ul>
-        <li>Kleingruppenarbeit</li>
-        <li>Kamingespräch</li>
-        <li>Speed-Dating</li>
-        <li>Kreativ-Workshop</li>
-        <li>und vieles mehr!</li>
-      </ul>
-    </div>
+    <ul>
+        <li>Workshop: Hands-on-Workshop, Kreativ-Workshop, Kleingruppenarbeit, Hackathon (gerne auch englisch, aber ohne
+            Übersetzung)
+        </li>
+        <li>Podium: Panel, Interview, "Kamingespräch", Fishbowl- oder Podiumsdiskussion</li>
+        <li>Vortrag: Impuls-/Vortrag, Lightning Talk</li>
+        <li>Science-Session: Präsentation deines wissenschaftlichen Papers</li>
+        <li>Themen- oder Worldcafé, thematische FAQ-Runden</li>
+        <li>oder was immer euch einfällt</li>
+    </ul>
 
-    <h2>Raum und Zeit</h2>
-    <p>
-      Erfolgreiche Einreichungen erhalten in der Regel einen <strong>Slot von 90 Minuten</strong> im Programm plus Auf- und Abbau. Auf Anfrage und je nach Konzept ist mehr Zeit möglich. Individuellen Raumbedarf bitte ebenfalls angeben.
+    <p>(Falls nicht Workshop, Diskussion oder Vortrag bitte "Sonstiges" auswählen und Beitragsformat in der Beschreibung
+        konkretisieren.)</p>
+
+    <h4>Raum und Zeit</h4>
+    <p>Bitte wähle die von dir gewünschte Dauer deines Formats aus. Erfolgreiche Einreichungen erhalten in der Regel
+        einen Slot von 20, 40 oder 60 Minuten im Programm, interaktive Formate wie Workshops ggf. auch 90 Minuten (plus
+        Auf- und Abbau), auf Anfrage und je nach Konzept ist ggf. auch mehr Zeit möglich. Je dialogischer und
+        diskursiver ein Format, desto mehr Zeit kannst du anfragen. Individuellen Raumbedarf (Größe, Technik, Mobiliar,
+        etc.) bitte ggf. ebenfalls angeben.</p>
+
+    <h2>Forum (kreative Fläche auf dem Konferenzareal)</h2>
+    <h3>Wir sind ein/e Initiative/Organisation/Institution/Netzwerk ... und möchten gern vor Ort präsent und aktiv sein.
+        Wie geht das?</h3>
+    <p>An beiden Tagen gibt es über das konkrete Programm hinaus Platz für sozial-ökologisch/technisch/aktivistische
+        ausgerichtete Initiativen, Vereine, Organisationen oder Netzwerke, sodass ein gemeinsamer Ort des Austauschs
+        entstehen kann: unser <em>Forum</em>. Hierzu einfach den <em>Call for Participation</em> benutzen und als Format
+        „Forum“ einreichen. </p>
+
+    <h3>Was sollen wir angeben?</h3>
+    <p>Im "Abstract" (kurz und knapp) und der Beschreibung (ausführlicher &amp; mit Links zu euch) bitte ausführen, wer
+        ihr seid, wie sich eure Organisation finanziert, welche Aktionen ihr euch vor Ort vorstellt, wieviel Platz ihr
+        braucht und ggf. euren Bedarf an Technik (v. a. Strom) und Mobiliar. Als Format bitte auswählen: „Forum“,
+        Zeitangabenfeld ignorieren.</p>
+
+    <h3>Wie können wir das <em>Forum</em> gestalten?</h3>
+    <p>Hier einige Anregungen, wie ihr euren Platz beim <em>Bits &amp; Bäume-Forum</em> gestalten könnt</p>
+    <ul>
+        <li>Info- oder Diskurs-Sofa</li>
+        <li>Küchendiskussion an Tisch + Stühlen</li>
+        <li>Stammtisch mit Biertisch + -bänken</li>
+        <li>feste DIY-Ecke</li>
+        <li>Mikroausstellung</li>
+        <li>Mikrokino</li>
+        <li>Hackathon</li>
+        <li>geheime Flashmob-Fläche</li>
+        <li>oder was immer euch einfällt</li>
+    </ul>
+
+    <p><strong>Hinweis:</strong> Wir stellen euch zwar Platz, Tisch und Stuhl, aber eure Fläche müsst ihr selbst
+        betreuen.</p>
+
+
+    <h2>Das <em>Bits &amp; Bäume-Sporangium</em> (Sonderformat)</h2>
+    <p>So wie Farnpflanzen ihre
+        <a href='https://www.spektrum.de/news/sporenkatapult-des-farns-ergruendet/1145522' target='_blank'>
+            Sporen aus der Kapsel mit bis zu 10m/s heraus in die Welt katapultieren</a>,
+        auf dass sie dort auf fruchtbaren Boden fallen, wollen wir zur Primetime am Samstagabend
+        spektakulär, wirkungsvoll und unterhaltsam unser Nerd- und Fach-Wissen weitergeben! Ein großartiges Format dazu
+        sind Science-Slams, aber wir wollen ja nicht konkurrieren, sondern einander anspornen (!), um uns mit all dem
+        Neuland (!!) zu beschäftigen, das uns umgibt. </p>
+    <p>Du hast ein Thema, das zur Konferenz passt, ein lockeres Mundwerk und Spaß an deinem Expert*innentum? – Dufte!
+        Wir geben dir &amp; deinem Mikrokosmos 8min, wenn du uns überzeugen kannst, dass du richtig bist auf der Bühne
+        für die wichtigsten, informativsten und zugleich unterhaltendsten Vorträge, die es bei <em>Bits &amp; Bäume</em>
+        nur geben kann!</p>
+    <p>Wir freuen uns auf deine (oder auch: eure) Bewerbung (Link(s) zu Beispielvorträgen nicht vergessen)! Einreichen
+        im <em>Call-for-Participation</em> mit dem Format <em>Sporangium</em>.</p>
+    <p>Themenanregungen und sonstige Hilfestellungen zur Einreichung oben unter Programmbeitrag.</p>
+
+
+    <h3><em>Bits &amp; Bäume</em> wird organisiert von:</h3>
+    <p>Bund für Umwelt und Naturschutz Deutschland (BUND), Brot für die Welt, Chaos Computer Club (CCC), Deutscher
+        Naturschutz Ring (DNR), Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung e. V. (FIfF),
+        Germanwatch e.V., Institut für ökologische Wirtschaftsforschung (IÖW), Konzeptwerk Neue Ökonomie,
+        Netzpolitik.org, Open Knowledge Foundation Deutschland e. V. (OKF), Technische Universität Berlin</p>
+
+
+    <p class="square-action align-center vertical-space">
+        <a class="button" href="/downloads/call.pdf">Call als PDF herunterladen</a>
     </p>
 
-    <h2>Anmeldung</h2>
-    <p>über frab</p>
-    <a class="button">frab öffnen</a> -->
-
     <hr>
+
     <p>Bei Fragen wendet ihr euch bitte an <span id="mail_replace"></span>
-    <noscript><i>(Sorry. Aktiviere JavaScript, um die E-Mailadresse zu sehen.)</i></noscript>
+    <noscript><em>(Sorry. Aktiviere JavaScript, um die E-Mailadresse zu sehen.)</em></noscript>
     </p>
 
 </article>
@@ -196,7 +314,7 @@
             shift = coded.length
             link = ""
             for (i = 0; i < coded.length; i++) {
-                if (key.indexOf(coded.charAt(i)) == -1) {
+                if (key.indexOf(coded.charAt(i)) === -1) {
                     ltr = coded.charAt(i)
                     link += (ltr)
                 }

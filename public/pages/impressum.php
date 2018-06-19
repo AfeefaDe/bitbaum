@@ -43,7 +43,7 @@
     E-Mail: &#x66;&#105;&#x66;&#102;&#x40;&#x66;&#105;&#102;&#102;&#46;&#x64;&#101;
   </p>
   <p>
-    <i>Vertreten durch:</i><br>
+    <em>Vertreten durch:</em><br>
     Rainer Rehak
   </p>
 
