@@ -92,7 +92,7 @@
             <header>
                 <img src="/img/call-2.jpg">
                 <h2>
-                    <span>Nachhaltige Nischen</span>
+                    <span>Nachhaltige Nischen, </span>
                     <span>Mainstream-Monopole?</span>
                     <span>Alternatives Wirtschaften</span>
                 </h2>
@@ -150,8 +150,7 @@
                 <img src="/img/call-4.jpg">
                 <h2>
                     <span>Stadt, Land, Info-Fluss?</span>
-                    <span>Gestaltung der</span>
-                    <span>digitalen Infrastrukturen</span>
+                    <span>Gestaltung digitaler Infrastrukturen</span>
                 </h2>
             </header>
             <div class="row">
