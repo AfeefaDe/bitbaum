@@ -14,4 +14,6 @@
   </div>
   <p>Medienpartner</p>
     <a href="https://netzpolitik.org" target="_blank"><img class="smaller" src="/img/logo-netzpolitik-org.svg" title="Netzpolitik.org"></a>
+  <p>Förderer</p>
+    <a href="https://www.dbu.de/" target="_blank"><img class="smaller" src="/img/logo-dbu.png" title="Deutsche Bundesstiftung Umwelt (DBU)"></a>
 </div>
