@@ -4,7 +4,7 @@
         <div class="row">
             <p><strong>Anmeldeschluss:</strong> 19. August<br>
                 <strong>Rückmeldung Forum:</strong> 3. September<br>
-                <strong>Rückmeldung Programmbeiträge:</strong> Ende September</p>
+                <strong>Rückmeldung Programmbeiträge:</strong> im September</p>
             <p class="square-action align-center">
                 <a class="button" href="https://frab.bits-und-baeume.org" target="_blank">Zur CfP-Anmeldung</a>
             </p>
