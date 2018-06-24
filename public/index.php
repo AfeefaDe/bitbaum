@@ -36,6 +36,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="initial-scale=1">
   <meta name="viewport" content="initial-scale=1">
+  <meta name="referrer" content="same-origin">
   <?php require('components/meta_descriptions.php'); ?>
   <?php require('components/embeds.php'); ?>
 </head> 
