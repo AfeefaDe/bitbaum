@@ -1,5 +1,5 @@
 <div class="logos">
-  <p>Trägerkreis</p>
+  <p><strong>Trägerkreis</strong></p>
   <div>
     <a href="https://www.dnr.de" target="_blank"><img src="/img/logo-dnr.svg" title="Deutscher Naturschutzring"></a>
     <a href="https://www.ioew.de" target="_blank"><img src="/img/logo-ioew.svg" title="Institut für ökologische Wirtschaftsforschung"></a>
@@ -12,8 +12,13 @@
     <a href="https://www.konzeptwerk-neue-oekonomie.org" target="_blank"><img class="larger" src="/img/logo-konzeptwerk.svg" title="konzeptwerk neue ökonomie"></a>
     <a href="https://okfn.de" target="_blank"><img class="larger" src="/img/logo-okfn.svg" title="Open Knowledge Foundation"></a>
   </div>
-  <p>Medienpartner</p>
+  <p><strong>Medienpartner</strong></p>
     <a href="https://netzpolitik.org" target="_blank"><img class="smaller" src="/img/logo-netzpolitik-org.svg" title="Netzpolitik.org"></a>
-  <p>Förderer</p>
-    <a href="https://www.dbu.de/" target="_blank"><img class="smaller" src="/img/logo-dbu.png" title="Deutsche Bundesstiftung Umwelt (DBU)"></a>
+    <p><strong>Finanzierung</strong></p>
+    <p>Die Veranstaltung wird gefördert durch die Deutsche Bundesstiftung Umwelt und via Förderung von Projekten
+        einzelner Trägerkreisorganisationen vom
+        <a href="https://www.bmbf.de" target="_blank">Bundesministerium für Bildung und Forschung (BMBF)</a> kofinanziert.
+    </p>
+        <a href="https://www.dbu.de" target="_blank"><img src="/img/logo-dbu.png" title="Deutsche Bundesstiftung Umwelt (DBU)"></a>
+        <a href="https://www.bmbf.de" target="_blank"><img src="/img/logo-bmbf.svg" title="Bundesministerium für Bildung und Forschung (BMBF)"></a>
 </div>

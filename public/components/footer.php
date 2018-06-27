@@ -4,9 +4,8 @@
     <a href="/datenschutz">Datenschutzerklärung</a>
     <a href="/impressum">Impressum</a>
 </p>
-<p class="funding-note">Die Veranstaltung wird gefördert durch die Deutsche Bundesstiftung Umwelt und via Förderung von Projekten
-    einzelner Trägerkreisorganisationen vom <a
-            href="https://www.bmbf.de/" target="_blank">Bundesministerium für Bildung und Forschung (BMBF)</a> kofinanziert.</p>
-<p class="funding-note">Konzept und Umsetzung: <a href="https://kollektiv.afeefa.de" target="_blank">Afeefa
-        Kollektiv</a>
-    <br><a href="https://github.com/afeefade/bitbaum" target="_blank">Quellcode auf GitHub.com</a><p>
+<p class="funding-note">Konzept und Umsetzung: <a href="https://kollektiv.afeefa.de" target="_blank">
+        Afeefa Kollektiv</a>
+    <br>
+    <a href="https://github.com/afeefade/bitbaum" target="_blank">Quellcode auf GitHub.com</a>
+<p>
