@@ -27,7 +27,7 @@
         flache Hierarchien, globale Vernetzung und Dezentralität, für Selbstbestimmung und Menschenrechte angesichts
         eines Zeitalters der Künstlichen Intelligenz und globaler Internet-Monopole.</p>
 
-    <p>Bislang agieren diese Bewegungen der Umwelt-Aktivist<em>innen und digitale Menschenrechtler</em>innen oft
+  <p>Bislang agieren diese Bewegungen der Umwelt-Aktivist<em>innen und digitale Menschenrechtler</em>innen oft
         nebeneinander. Sie bieten Lösungsansätze und Ideen für ihre jeweils eigenen Themen, die inzwischen nicht nur
         Politik, Zivilgesellschaft, Wirtschaft, sondern sogar fast jeden Haushalt erreicht haben. Beide wollen die Welt
         verstehen, aber vor allem aktiv gestalten. Sie sehen, dass wesentliche Veränderungen für ein ‚gutes Leben’ sowie
@@ -65,28 +65,27 @@
     <h2 class="foldableButton" role="button" data-foldable="#programmbeitrag">Programmbeitrag (Einreichung zum Programm)</h2>
     <section id="programmbeitrag" class="foldableContent--hidden">
         <article class="cluster">
-            <header>
-                <img src="/img/call-1.jpg">
-                <h2>
-                    <span>Wie schwer wiegt ein Bit?</span>
-                    <span>Die materielle Basis</span>
-                    <span>der Digitalisierung</span>
-                </h2>
-            </header>
-            <div class="row">
-                <ul>
-                    <li>Rohstoffabbau für die Digitalisierung</li>
-                    <li>nachhaltige Produktions- und Lieferketten</li>
+    <header>
+      <img src="/img/call-1.jpg">
+      <h2>
+        <span>Wie schwer wiegt ein Bit?</span>
+        <span>Die materielle Basis</span>
+        <span>der Digitalisierung</span>
+      </h2>
+    </header>
+    <div class="row">
+      <ul>
+        <li>Rohstoffabbau für die Digitalisierung</li>
+        <li>nachhaltige Produktions- und Lieferketten</li>
                     <li>Digitale Werkzeuge für den Erhalt von Biodiversität</li>
-                    <li>Energie- und Ressourceneffizienz durch digitale Werkzeuge</li>
-                </ul>
-                <ul>
-                    <li>Stromverbrauch digitaler Geräte und Infrastrukturen</li>
-                    <li>Ressourcenintensität und Rebound-Effekte</li>
-                    <li>Verantwortlichkeiten globaler Klima- und Digitalisierungseffekte</li>
-                </ul>
-            </div>
-        </article>
+        <li>Energie- und Ressourceneffizienz durch digitale Werkzeuge</li>
+      </ul>
+      <ul>
+        <li>Stromverbrauch digitaler Geräte und Infrastrukturen</li>
+        <li>Ressourcenintensität und Rebound-Effekte</li><li>Verantwortlichkeiten globaler Klima- und Digitalisierungseffekte</li>
+      </ul>
+    </div>
+  </article>
 
         <article class="cluster">
             <header>

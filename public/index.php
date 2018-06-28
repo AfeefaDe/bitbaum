@@ -40,16 +40,16 @@ switch ($lang) {
 ?>
 
 <!DOCTYPE html>
-<html lang="de">
-<head>
-    <title><?php echo $page_title ?></title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="initial-scale=1">
-    <meta name="viewport" content="initial-scale=1">
-    <meta name="referrer" content="same-origin">
+<html lang="de"> 
+<head> 
+  <title><?php echo $page_title ?></title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1">
+  <meta name="viewport" content="initial-scale=1">
+  <meta name="referrer" content="same-origin">
     <?php require('components/meta_descriptions.php'); ?>
-    <?php require('components/embeds.php'); ?>
-</head>
+  <?php require('components/embeds.php'); ?>
+</head> 
 <body class="<?php echo 'page-' . $page . ' ' . $page_type; ?>">
 
 <?php if ($page == 'start') { ?>
