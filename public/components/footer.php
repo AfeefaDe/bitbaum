@@ -1,8 +1,16 @@
 <?php require('components/logos.php'); ?>
 <p class="submenu">
-    <a href="#" onclick="alert('Pardon! The English version is coming very soon.')">In English</a>
-    <a href="/datenschutz">Datenschutzerklärung</a>
-    <a href="/impressum">Impressum</a>
+    <?php
+    switch ($lang) {
+        case "en":
+            echo "<a href='$page/de'>In Deutsch</a>";
+            break;
+        default:
+            echo "<a href='$page/en'>In Englisch</a>";
+    }
+    ?>
+    <a href="/datenschutz/<?php echo $lang; ?>">Datenschutzerklärung</a>
+    <a href="/impressum/<?php echo $lang; ?>">Impressum</a>
 </p>
 <p class="funding-note">Konzept und Umsetzung: <a href="https://kollektiv.afeefa.de" target="_blank">
         Afeefa Kollektiv</a>

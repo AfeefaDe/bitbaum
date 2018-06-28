@@ -2,7 +2,7 @@
     <h1>Anmeldung</h1>
 
     <div class="form">
-        <p>Du möchtest mit einem Beitrag die Konferenz <em>Bits & Bäume</em> mitgestalten? <a href="/call">Hier findest du
+        <p>Du möchtest mit einem Beitrag die Konferenz <em>Bits & Bäume</em> mitgestalten? <a href="/call/<?php echo $lang; ?>">Hier findest du
                 den Call for Participation.</a> Wenn du als Besucher*in teilnehmen willst, kannst du deine Kontaktdaten
             hinterlassen und wir melden uns rechtzeitig bei dir, sobald die offizielle Anmeldung startet.</p>
         <form>
@@ -11,7 +11,7 @@
             <input id="form-email" placeholder="Ihre E-Mail Adresse" required/>
             <textarea id="form-comment" placeholder="Anmerkungen oder Fragen" maxlength="500"></textarea>
             <p class="smaller">Wir verwenden deine Daten ausschließlich um deine Anmeldung zu bearbeiten. Mehr dazu
-                findest du in unserer <a href="/datenschutz#anmeldefunktion">Datenschutzerklärung</a>.</p>
+                findest du in unserer <a href="/datenschutz/<?php echo $lang; ?>#anmeldefunktion">Datenschutzerklärung</a>.</p>
             <button type="submit">Jetzt unverbindlich anmelden</button>
         </form>
     </div>

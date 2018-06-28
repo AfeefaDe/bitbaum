@@ -27,7 +27,7 @@ if ($lang_uri != $lang || sizeof($route) > 3 || ($page == 'start' && sizeof($rou
     die();
 }
 
-switch($lang) {
+switch ($lang) {
     case "en":
         $page_title = 'Bits & Bäume Conference 17./18. Nov 2018 in Berlin';
         $page_description = 'Die Konferenz „Bits & Bäume“ bringt alle wichtigen Themen der Digitalisierung und der ökologischen und sozialen Nachhaltigkeit zusammen.';
@@ -59,7 +59,7 @@ switch($lang) {
 <?php } else { ?>
     <?php require('components/header.php'); ?>
     <section>
-        <a class="button back-button" href="/">zur Übersicht</a>
+        <a href="/<?php echo $lang; ?>" class="button back-button">zur Übersicht</a>
         <?php require('pages/' . $page . '.php'); ?>
     </section>
 <?php } ?>

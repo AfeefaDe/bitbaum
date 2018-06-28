@@ -3,7 +3,7 @@
     <!-- <p>127 Teilnehmer</p> -->
     <!-- <p>24 Speakers</p> -->
   </div>
-  <a class="button" href="/anmelden">Jetzt anmelden</a>
+  <a href="/anmelden/<?php echo $lang; ?>" class="button">Jetzt anmelden</a>
 </section>
 
 <section class="switch program active">

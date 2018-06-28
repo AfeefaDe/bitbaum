@@ -7,7 +7,7 @@ $days = round($datediff / (60 * 60 * 24));
 ?>
 
 <header class="main">
-  <h2><a href="/">Bits & Bäume</a></h2>
+  <h2><a href="/<?php echo $lang; ?>">Bits & Bäume</a></h2>
   
   <div>
     <h1>
