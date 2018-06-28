@@ -19,7 +19,7 @@ case "en":
     default:
     ?>
 <p class="submenu">
-    <a href='<?php echo $page; ?>/de'>In English</a>
+    <a href='<?php echo $page; ?>/en'>In English</a>
     <a href="/datenschutz/<?php echo $lang; ?>">Datenschutzerklärung</a>
     <a href="/impressum/<?php echo $lang; ?>">Impressum</a>
 </p>
