@@ -14,7 +14,7 @@
   </div>
   <p><strong>Medienpartner</strong></p>
     <a href="https://netzpolitik.org" target="_blank"><img class="smaller" src="/img/logo-netzpolitik-org.svg" title="Netzpolitik.org"></a>
-    <p><strong>Finanzierung</strong></p>
+    <p><strong>Förderer</strong></p>
     <p>Die Veranstaltung wird gefördert durch die Deutsche Bundesstiftung Umwelt und via Förderung von Projekten
         einzelner Trägerkreisorganisationen vom
         <a href="https://www.bmbf.de" target="_blank">Bundesministerium für Bildung und Forschung (BMBF)</a> kofinanziert.
