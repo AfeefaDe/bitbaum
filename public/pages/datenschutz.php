@@ -9,7 +9,7 @@
             ?>
             <h1>Datenschutzerkl&auml;rung</h1>
         <?php } ?>
-    <p><em>Wir freuen uns, dass Sie unsere Website &ndash; Bits &amp; B&auml;ume / Die Konferenz f&uuml;r
+    <p><em>Wir freuen uns, dass Sie unsere Website &ndash; Bits & B<em>Bits & Bäume</em> / Die Konferenz f&uuml;r
             Digitalisierung und Nachhaltigkeit 17. bis 18. November 2018 in Berlin (Technische Universit&auml;t) -
             besuchen.</em></p>
     <p><strong>Mittels dieser Datenschutzerkl&auml;rung m&ouml;chten wir Sie im Einklang mit der europ&auml;ischen

@@ -2,7 +2,7 @@
     case "en":
         ?>
         <article>
-            <h1>Goals of the Bits & Bäume Conference</h1>
+            <h1>Goals of the <em>Bits & Bäume</em> Conference</h1>
             <p>We bring communities together!</p>
             <p>In recent decades, socially-changing movements have grown, each following its own utopias: They fight to
                 preserve nature and our natural foundations of life, for fair working conditions without exploitation
@@ -31,7 +31,7 @@
                 digitalization are in conflict with this goals, or even counterproductive? How can the digital society
                 be democratic, equitable and at the same time designed to preserve the very foundations of our lives on
                 this planet?</p>
-            <p>Among these key questions, Bits & Bäume stands as an open networking conference - for new perspectives on
+            <p>Among these key questions, <em>Bits & Bäume</em> stands as an open networking conference - for new perspectives on
                 digitalization with sustainability! We want mutual exchange; we need active networking. Therefore, we
                 want to</p>
             <ul>
@@ -52,7 +52,7 @@
     default:
         ?>
         <article>
-            <h1>Ziele der Bits & Bäume Konferenz</h1>
+            <h1>Ziele der <em>Bits & Bäume</em> Konferenz</h1>
             <p>Wir bringen Communities zusammen!</p>
             <p>In den letzten Jahrzehnten sind gesellschaftsverändernde Bewegungen gewachsen, die jeweils ihren eigenen
                 Utopien folgen: Sie kämpfen dafür, die Natur und unsere natürlichen Lebensgrundlagen zu erhalten, für
@@ -83,7 +83,7 @@
                 Welche Arten von Digitalisierung stehen diesen entgegen oder sind sogar kontraproduktiv? Wie kann die
                 digitale Gesellschaft demokratisch und gerecht gestaltet und zugleich darauf ausgerichtet sein, die
                 Grundlagen unseres Lebens auf diesem Planeten zu bewahren?</p>
-            <p>Unter diesen Leitfragen steht „Bits & Bäume“ als eine offene Vernetzungskonferenz – für neue Perspektiven
+            <p>Unter diesen Leitfragen steht „<em>Bits & Bäume</em>“ als eine offene Vernetzungskonferenz – für neue Perspektiven
                 auf eine Digitalisierung mit Nachhaltigkeit! Wir wollen gegenseitigen Austausch, wir brauchen aktive
                 Vernetzung. Dafür wollen wir</p>
             <ul>
@@ -95,7 +95,7 @@
             </ul>
             <p>Neben Vorträgen wird es Raum geben für Diskussionsrunden sowie für die Planung von Projekten und
                 Kampagnen, die die unterschiedlichen Communities verbinden: Hands-on-Workshops, Aktivisten-Infotische,
-                Sofas oder Hackathons. „Bits & Bäume“ soll politisieren und den Auftakt geben für gemeinsame Positionen
+                Sofas oder Hackathons. „<em>Bits & Bäume</em>“ soll politisieren und den Auftakt geben für gemeinsame Positionen
                 zu einer nachhaltigen Digitalisierung und wider demokratiefeindliche Trends. Zwei Konferenztage geben
                 Anstoß für intensiven Austausch und politische Aktivitäten. Neben Akteuren aus zivilgesellschaftlichen
                 Organisationen richten wir uns auch ausdrücklich an die interessierte Öffentlichkeit und an progressive

@@ -16,7 +16,7 @@
             </article>
 
 
-            <h3>What does <em>Bits &amp; Bäume</em> want?</h3>
+            <h3>What does <em>Bits & Bäume</em> want?</h3>
 
             <p>We bring communities together!</p>
 
@@ -57,7 +57,7 @@
                 organisations to introduce themselves in our Forum, to share their knowledge and to get in touch with
                 each other.</p>
 
-            <p><em>Bits &amp; Bäume</em> wants to politicize and give the prelude for a common position for
+            <p><em>Bits & Bäume</em> wants to politicize and give the prelude for a common position for
                 a sustainable digitalization and against anti-democratic trends!</p>
             <p>We look forward to your participation.</p>
 
@@ -256,7 +256,7 @@
                     furniture. Please select the format: "Forum", ignore time field.</p>
 
                 <h3>How can we design the <em>Forum?</em></h3>
-                <p>Here are some suggestions on how to design your place in the <em>Bits & Bäume Forum</em></p>
+                <p>Here are some suggestions on how to design your place in the <em><em>Bits & Bäume</em> Forum</em></p>
                 <ul>
                     <li>Information or discourse sofa</li>
                     <li>Kitchen discussion at table + chairs</li>
@@ -272,7 +272,7 @@
                 <p><strong>Note:</strong> We will provide you with space, table and chair, but you will have to look
                     after your own area.</p>
             </section>
-            <h2 class="foldableButton" role="button" data-foldable="#sporangium">The Bits & Bäume-Sporangium (special
+            <h2 class="foldableButton" role="button" data-foldable="#sporangium">The <em>Bits & Bäume</em>-Sporangium (special
                 format)</h2>
             <section id="sporangium" class="foldableContent--hidden">
                 <p>Just as <a href='https://www.spektrum.de/news/sporenkatapult-des-farns-ergruendet/1145522'
@@ -293,7 +293,7 @@
                 <p>Suggestions for topics and other assistance for submission above under program contribution.</p>
             </section>
 
-            <h2><em>Bits &amp; Bäume</em> is organized by:</h2>
+            <h2><em>Bits & Bäume</em> is organized by:</h2>
             <p>Bund für Umwelt und Naturschutz Deutschland (BUND), Brot für die Welt, Chaos Computer Club (CCC),
                 Deutscher
                 Naturschutz Ring (DNR), Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung e. V.
@@ -332,7 +332,7 @@
             </article>
 
 
-            <h3>Was will <em>Bits &amp; Bäume</em>?</h3>
+            <h3>Was will <em>Bits & Bäume</em>?</h3>
 
             <p>Wir bringen Communities zusammen!</p>
 
@@ -367,7 +367,7 @@
                 kann nur gemeinsam gelingen – dafür müssen diese Communities zusammenkommen, voneinander lernen, die
                 Gemeinsamkeiten ihrer Utopien erkennen und diese mit neuer Wucht umsetzen!</p>
 
-            <p>Die Konferenz <em>Bits &amp; Bäume</em> bietet ein Forum, um Schnittstellen zwischen
+            <p>Die Konferenz <em>Bits & Bäume</em> bietet ein Forum, um Schnittstellen zwischen
                 Nachhaltigkeitsthemen und
                 einer umsichtigen Digitalisierung herauszuarbeiten, visionäre Lösungen zu finden und gemeinsame Aktionen
                 zu
@@ -396,7 +396,7 @@
                 ins
                 Gespräch zu kommen. </p>
 
-            <p><em>Bits &amp; Bäume</em> möchte politisieren und den Auftakt geben für eine gemeinsame Position zu einer
+            <p><em>Bits & Bäume</em> möchte politisieren und den Auftakt geben für eine gemeinsame Position zu einer
                 nachhaltigen Digitalisierung und wider demokratiefeindliche Trends!</p>
             <p>Wir freuen uns auf eure Beteiligung.</p>
 
@@ -623,7 +623,7 @@
                     Zeitangabenfeld ignorieren.</p>
 
                 <h3>Wie können wir das <em>Forum</em> gestalten?</h3>
-                <p>Hier einige Anregungen, wie ihr euren Platz beim <em>Bits &amp; Bäume-Forum</em> gestalten könnt</p>
+                <p>Hier einige Anregungen, wie ihr euren Platz beim <em><em>Bits & Bäume</em>-Forum</em> gestalten könnt</p>
                 <ul>
                     <li>Info- oder Diskurs-Sofa</li>
                     <li>Küchendiskussion an Tisch + Stühlen</li>
@@ -640,7 +640,7 @@
                     selbst
                     betreuen.</p>
             </section>
-            <h2 class="foldableButton" role="button" data-foldable="#sporangium">Das <em>Bits &amp;
+            <h2 class="foldableButton" role="button" data-foldable="#sporangium">Das <em>Bits &
                     Bäume-Sporangium</em>
                 (Sonderformat)</h2>
             <section id="sporangium" class="foldableContent--hidden">
@@ -671,7 +671,7 @@
                 <p>Themenanregungen und sonstige Hilfestellungen zur Einreichung oben unter Programmbeitrag.</p>
             </section>
 
-            <h2><em>Bits &amp; Bäume</em> wird organisiert von:</h2>
+            <h2><em>Bits & Bäume</em> wird organisiert von:</h2>
             <p>Bund für Umwelt und Naturschutz Deutschland (BUND), Brot für die Welt, Chaos Computer Club (CCC),
                 Deutscher
                 Naturschutz Ring (DNR), Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung e. V.

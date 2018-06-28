@@ -25,7 +25,7 @@
                     Will digitalization lead to a sustainable future in which everyone benefits from technological
                     progress and at the same time we treat the environment with care? Or are we heading for a digital
                     turbo-capitalism in which a few hold money, information and power in their hands and the economy
-                    continues to grow beyond the planetary boundaries? The "Bits & Bäume" conference brings together all
+                    continues to grow beyond the planetary boundaries? The <em>Bits & Bäume</em> conference brings together all
                     the important topics of digitalization and ecological and social sustainability.
                 </p>
                 <p class="square-action"><a href="/info/en">Brief description of the conference</a></p>
@@ -63,7 +63,7 @@
                     profitieren und wir zugleich schonender mit der Umwelt umgehen? Oder steuern wir auf einen digitalen
                     Turbokapitalismus zu, in dem einige Wenige Geld, Informationen und Macht in den Händen halten und
                     die
-                    Wirtschaft noch weiter über die planetaren Grenzen hinauswächst? Die Konferenz „Bits & Bäume“ bringt
+                    Wirtschaft noch weiter über die planetaren Grenzen hinauswächst? Die Konferenz „<em>Bits & Bäume</em>“ bringt
                     alle
                     wichtigen Themen der Digitalisierung und der ökologischen und sozialen Nachhaltigkeit zusammen.
                 </p>

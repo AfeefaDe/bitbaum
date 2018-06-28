@@ -2,7 +2,7 @@
     case "en":
         ?>
         <article>
-            <h1>Bits & Bäume 2018 in Berlin</h1>
+            <h1><em>Bits & Bäume</em> 2018 in Berlin</h1>
             <div class="row">
                 <section>
                     <p><strong>Will digitalization lead to a sustainable future in which everyone benefits from
@@ -24,7 +24,7 @@
                             auf OpenStreetMap</a></p>
                 </section>
             </div>
-            <p>The conference Bits & Bäume aims to inform, politicize and launch a public debate on the design of
+            <p>The conference <em>Bits & Bäume</em> aims to inform, politicize and launch a public debate on the design of
                 digital technologies for the transformation towards an ecologically sustainable and democratic society.
                 Because not all development trends are currently pointing in a sustainable direction. Huge Internet
                 monopolists such as Amazon, Uber or AirBnB make billions, while municipalities and local providers get
@@ -36,27 +36,27 @@
                 data leeches of the advertising industry are setting up a monitoring device so that users click on
                 advertising and increase their consumption. How can data protection and environmental protection be
                 considered together?</p>
-            <p>With the conference Bits & Bäume we bring together topics of digitalization and ecological and social
+            <p>With the conference <em>Bits & Bäume</em> we bring together topics of digitalization and ecological and social
                 sustainability. To this end, we bring together people from the environmental and sustainability
                 movements with people from the techie communities in order to discuss with people from science,
                 politics, business and the interested public, to argue and to develop united campaigns and actions. It's
                 gonna be big, and it's gonna be fun! Register now for the conference on November 17 + 18, 2018 at the
                 Technische Universität Berlin.</p>
-            <p>It looks forward to seeing you,<br>The team of "Bits & Bäume"</p>
+            <p>It looks forward to seeing you,<br>The team of <em>Bits & Bäume</em></p>
         </article>
         <?php
         break;
     default:
         ?>
         <article>
-            <h1>Die Bits & Bäume 2018 in Berlin</h1>
+            <h1>Die <em>Bits & Bäume</em> 2018 in Berlin</h1>
             <div class="row">
                 <section>
                     <p><strong>Führt die Digitalisierung in eine nachhaltige Zukunft, in der alle vom technologischen
                             Fortschritt profitieren und wir zugleich schonender mit der Umwelt umgehen? Oder steuern wir
                             auf einen digitalen Turbokapitalismus zu, in dem einige Wenige Geld, Informationen und Macht
                             in den Händen halten und die Wirtschaft noch weiter über die planetaren Grenzen
-                            hinauswächst? Die Konferenz „Bits & Bäume“ bringt alle wichtigen Themen der Digitalisierung
+                            hinauswächst? Die Konferenz „<em>Bits & Bäume</em>“ bringt alle wichtigen Themen der Digitalisierung
                             und der ökologischen und sozialen Nachhaltigkeit zusammen.</strong></p>
                 </section>
                 <section>
@@ -71,7 +71,7 @@
                             auf OpenStreetMap</a></p>
                 </section>
             </div>
-            <p>Die Konferenz „Bits & Bäume“ möchte informieren, politisieren und eine öffentliche Debatte über die
+            <p>Die Konferenz „<em>Bits & Bäume</em>“ möchte informieren, politisieren und eine öffentliche Debatte über die
                 Gestaltung digitaler Technologien für die Transformation hin zu einer ökologisch nachhaltigen und
                 demokratischen Gesellschaft lostreten. Denn nicht alle Entwicklungstrends weisen derzeit in eine
                 zukunftsfähige Richtung. Riesige Internet-Monopolisten wie Amazon, Uber oder AirBnB scheffeln
@@ -83,12 +83,12 @@
                 technologischen Entwicklung teilhaben und die Umwelt entlastet wird? Facebook, Google und die
                 Datenkraken der Werbeindustrie bauen einen Überwachungsapparat auf, damit Nutzer*innen auf Werbung
                 klicken und ihren Konsum steigern. Wie können Datenschutz und Umweltschutz zusammengedacht werden?</p>
-            <p>Mit der Konferenz „Bits & Bäume“ bringen wir Themen der Digitalisierung und der ökologischen und sozialen
+            <p>Mit der Konferenz „<em>Bits & Bäume</em>“ bringen wir Themen der Digitalisierung und der ökologischen und sozialen
                 Nachhaltigkeit zusammen. Dazu bringen wir Menschen aus den Umwelt- und Nachhaltigkeitsbewegungen mit
                 Menschen aus den netzpolitischen und Techie-Communities zusammen, um gemeinsam mit Menschen aus
                 Wissenschaft, Politik, Unternehmen und der interessierten Öffentlichkeit zu diskutieren, zu streiten und
                 vereinte Kampagnen und Aktionen auszuhecken. Es wird groß, und es wird Spaß machen! Jetzt anmelden zur
                 Konferenz am 17.+18. November 2018 in der Technischen Universität Berlin.</p>
-            <p>Es freut sich auf Euch,<br>das Team des Trägerkreises von „Bits & Bäume“</p>
+            <p>Es freut sich auf Euch,<br>das Team des Trägerkreises von „<em>Bits & Bäume</em>“</p>
         </article>
     <?php } ?>
