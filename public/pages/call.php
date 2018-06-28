@@ -303,7 +303,7 @@
                 Foundation Deutschland e. V. (OKF), Technische Universität Berlin.
             </p>
             <p><strong>Media Partner:</strong> netzpolitik.org</p>
-            <p><strong>Founded by:</strong> The event is funded by the German Federal Environmental Foundation (DBU) and via financial support of
+            <p><strong>Funded by:</strong> The event is funded by the German Federal Environmental Foundation (DBU) and via financial support of
                 specific projects from the Organization committee co-financed by the
                 Federal Ministry of Education and Research (BMBF)</p>
 
