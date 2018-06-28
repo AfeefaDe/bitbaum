@@ -1,26 +1,65 @@
-<article>
-    <h1>Anmeldung</h1>
+<?php switch ($lang) {
+    case "en":
+        ?>
+        <article>
+            <h1>Registration</h1>
 
-    <div class="form">
-        <p>Du möchtest mit einem Beitrag die Konferenz <em>Bits & Bäume</em> mitgestalten? <a href="/call/<?php echo $lang; ?>">Hier findest du
-                den Call for Participation.</a> Wenn du als Besucher*in teilnehmen willst, kannst du deine Kontaktdaten
-            hinterlassen und wir melden uns rechtzeitig bei dir, sobald die offizielle Anmeldung startet.</p>
-        <form>
-            <input id="form-name" placeholder="Ihr Name"/>
-            <input id="form-orga" placeholder="Ihre Organisation"/>
-            <input id="form-email" placeholder="Ihre E-Mail Adresse" required/>
-            <textarea id="form-comment" placeholder="Anmerkungen oder Fragen" maxlength="500"></textarea>
-            <p class="smaller">Wir verwenden deine Daten ausschließlich um deine Anmeldung zu bearbeiten. Mehr dazu
-                findest du in unserer <a href="/datenschutz/<?php echo $lang; ?>#anmeldefunktion">Datenschutzerklärung</a>.</p>
-            <button type="submit">Jetzt unverbindlich anmelden</button>
-        </form>
-    </div>
+            <div class="form">
+                <p>Du möchtest mit einem Beitrag die Konferenz <em>Bits & Bäume</em> mitgestalten? <a
+                            href="/call/<?php echo $lang; ?>">Hier findest du
+                        den Call for Participation.</a> Wenn du als Besucher*in teilnehmen willst, kannst du deine
+                    Kontaktdaten
+                    hinterlassen und wir melden uns rechtzeitig bei dir, sobald die offizielle Anmeldung startet.</p>
+                <form>
+                    <input id="form-name" placeholder="Ihr Name"/>
+                    <input id="form-orga" placeholder="Ihre Organisation"/>
+                    <input id="form-email" placeholder="Ihre E-Mail Adresse" required/>
+                    <textarea id="form-comment" placeholder="Anmerkungen oder Fragen" maxlength="500"></textarea>
+                    <p class="smaller">Wir verwenden deine Daten ausschließlich um deine Anmeldung zu bearbeiten. Mehr
+                        dazu
+                        findest du in unserer <a
+                                href="/datenschutz/<?php echo $lang; ?>#anmeldefunktion">Datenschutzerklärung</a>.</p>
+                    <button type="submit">Jetzt unverbindlich anmelden</button>
+                </form>
+            </div>
 
-    <div class="message">
-        <p>Danke. Wir haben deine Nachricht erhalten und werden uns schnellstmöglich bei dir zurückmelden.</p>
-        <button class="redo">Weitere Anmeldung</button>
-    </div>
-</article>
+            <div class="message">
+                <p>Danke. Wir haben deine Nachricht erhalten und werden uns schnellstmöglich bei dir zurückmelden.</p>
+                <button class="redo">Weitere Anmeldung</button>
+            </div>
+        </article>
+        <?php
+        break;
+    default:
+        ?>
+        <article>
+            <h1>Anmeldung</h1>
+
+            <div class="form">
+                <p>Du möchtest mit einem Beitrag die Konferenz <em>Bits & Bäume</em> mitgestalten? <a
+                            href="/call/<?php echo $lang; ?>">Hier findest du
+                        den Call for Participation.</a> Wenn du als Besucher*in teilnehmen willst, kannst du deine
+                    Kontaktdaten
+                    hinterlassen und wir melden uns rechtzeitig bei dir, sobald die offizielle Anmeldung startet.</p>
+                <form>
+                    <input id="form-name" placeholder="Ihr Name"/>
+                    <input id="form-orga" placeholder="Ihre Organisation"/>
+                    <input id="form-email" placeholder="Ihre E-Mail Adresse" required/>
+                    <textarea id="form-comment" placeholder="Anmerkungen oder Fragen" maxlength="500"></textarea>
+                    <p class="smaller">Wir verwenden deine Daten ausschließlich um deine Anmeldung zu bearbeiten. Mehr
+                        dazu
+                        findest du in unserer <a
+                                href="/datenschutz/<?php echo $lang; ?>#anmeldefunktion">Datenschutzerklärung</a>.</p>
+                    <button type="submit">Jetzt unverbindlich anmelden</button>
+                </form>
+            </div>
+
+            <div class="message">
+                <p>Danke. Wir haben deine Nachricht erhalten und werden uns schnellstmöglich bei dir zurückmelden.</p>
+                <button class="redo">Weitere Anmeldung</button>
+            </div>
+        </article>
+    <?php } ?>
 
 <script>
     // catch form
@@ -58,7 +97,7 @@
         })
             .always(function (response) {
                 if (!callback) return;
-                if (response.status == 200 || response.status == 201) cb(true);
+                if (response.status === 200 || response.status === 201) cb(true);
                 else cb(false);
             });
     }

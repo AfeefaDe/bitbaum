@@ -35,7 +35,7 @@
         <section class="square quotes">
             <article>
                 <?php require('components/quotes.php'); ?>
-                <p class="square-action"><a href="/ziele/<?php echo $lang; ?>">Ziele der Konferenz</a></p>
+                <p class="square-action"><a href="/ziele/<?php echo $lang; ?>">Goals of the Conference</a></p>
                 <article>
         </section>
         <?php

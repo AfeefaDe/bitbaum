@@ -68,7 +68,7 @@
             <a href="https://netzpolitik.org" target="_blank"><img class="smaller" src="/img/logo-netzpolitik-org.svg"
                                                                    title="Netzpolitik.org"></a>
             <p><strong>Förderer</strong></p>
-            <p>Die Veranstaltung wird gefördert durch die Deutsche Bundesstiftung Umwelt (DBU) und via Förderung von Projekten
+            <p>Die Veranstaltung wird gefördert durch die <a href="https://www.dbu.de" target="_blank">Deutsche Bundesstiftung Umwelt (DBU)</a> und via Förderung von Projekten
                 einzelner Trägerkreisorganisationen vom
                 <a href="https://www.bmbf.de" target="_blank">Bundesministerium für Bildung und Forschung (BMBF)</a>
                 kofinanziert.
