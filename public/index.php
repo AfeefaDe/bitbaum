@@ -20,7 +20,10 @@ if (!in_array($page, $pages_permitted)) {
 
 // clean URL
 if ($lang_uri != $lang || sizeof($route) > 3 || ($page == 'start' && sizeof($route) > 2)) {
-    $rediect_url = 'Location: https://' . $_SERVER['SERVER_NAME'];
+    if ($_SERVER['SERVER_NAME'] == "127.0.0.1")
+        $rediect_url = 'Location: http://localhost:3020';
+    else
+        $rediect_url = 'Location: https://' . $_SERVER['SERVER_NAME'];
     if ($page != "start") $rediect_url .= '/' . $page;
     $rediect_url .= '/' . $lang;
     header($rediect_url, true, 301);
