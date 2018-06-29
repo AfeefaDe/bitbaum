@@ -36,20 +36,26 @@ switch ($lang) {
         $page_title = 'Bits & Bäume Konferenz 17. - 18. Nov 2018 in Berlin';
         $page_description = 'Die Konferenz „Bits & Bäume“ bringt alle wichtigen Themen der Digitalisierung und der ökologischen und sozialen Nachhaltigkeit zusammen.';
         break;
-}
-?>
+} ?>
 
 <!DOCTYPE html>
-<html lang="de"> 
-<head> 
-  <title><?php echo $page_title ?></title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="initial-scale=1">
-  <meta name="viewport" content="initial-scale=1">
-  <meta name="referrer" content="same-origin">
+<?php switch ($lang) {
+case "en": ?>
+<html lang="en">
+<?php break;
+default: ?>
+<html lang="de">
+<?php break;
+} ?>
+<head>
+    <title><?php echo $page_title ?></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1">
+    <meta name="viewport" content="initial-scale=1">
+    <meta name="referrer" content="same-origin">
     <?php require('components/meta_descriptions.php'); ?>
-  <?php require('components/embeds.php'); ?>
-</head> 
+    <?php require('components/embeds.php'); ?>
+</head>
 <body class="<?php echo 'page-' . $page . ' ' . $page_type; ?>">
 
 <?php if ($page == 'start') { ?>
