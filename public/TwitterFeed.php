@@ -30,15 +30,17 @@ class TwitterFeed {
 		if (file_exists($this->cacheFile) && (filemtime($this->cacheFile) > (time() - $this->interval))) {
 			return file_get_contents($this->cacheFile);
 		} else {
-			$tweets = $this->apiClient->performRequest();
-			if ($this->apiClient->getHttpStatusCode() == 200) {
-				file_put_contents($this->cacheFile, $tweets, LOCK_EX);
-				return $tweets;
-			} else {
-				return "{error: \"" . $this->apiClient->getHttpStatusCode() . "\"}";
-			}
+            try {
+                $tweets = $this->apiClient->performRequest();
+                if ($this->apiClient->getHttpStatusCode() == 200) {
+                    file_put_contents($this->cacheFile, $tweets, LOCK_EX);
+                    return $tweets;
+                } else {
+                    return "{error: \"" . $this->apiClient->getHttpStatusCode() . "\"}";
+                }
+            } catch (Exception $e) {
+                return "{error: \"Twitter API not reachable\"}";
+            }
 		}
 	}
 }
-
-?>
