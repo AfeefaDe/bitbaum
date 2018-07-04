@@ -6,13 +6,13 @@
                 <!-- <p>127 Teilnehmer</p> -->
                 <!-- <p>24 Speakers</p> -->
             </div>
-            <a href="/anmelden/<?php echo $lang; ?>" class="button">Register</a>
+            <a href="/anmelden/<?php echo $lang; ?>" class="button">Register now</a>
         </section>
 
         <section class="switch program active">
             <h4>Program</h4>
             <p>Lectures, workshops, panels, fishbowl and panel discussions, world cafés, a market of possibilities and
-                much more await you. Details of the program will follow shortly.</p>
+                much more await you. Details of the program will follow soon.</p>
         </section>
 
         <section class="switch twitter">

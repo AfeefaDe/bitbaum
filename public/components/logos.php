@@ -30,7 +30,7 @@
                                                                    title="Netzpolitik.org"></a>
             <p><strong>Funded by</strong></p>
             <p>The event is funded by the <a href="https://www.dbu.de" target="_blank">German Federal Environmental Foundation (DBU)</a> and via financial support of
-                specific projects from the Organization committee co-financed by the
+                specific projects from the organization committee co-financed by the
                 <a href="https://www.bmbf.de" target="_blank">Federal Ministry of Education and Research (BMBF)</a>.
             </p>
             <a href="https://www.dbu.de" target="_blank"><img src="/img/logo-dbu.png"

@@ -5,12 +5,12 @@
             <h1>Call for Participation</h1>
             <article>
                 <div class="row">
-                    <p><strong>Registration deadline:</strong> 19 August<br>
-                        <strong>Feedback Forum:</strong> September 3rd<br>
+                    <p><strong>Registration deadline:</strong> 19th August<br>
+                        <strong>Feedback Forum:</strong> 3rd September<br>
                         <strong>Feedback program contributions:</strong> September</p>
                     <p class="square-action align-center">
-                        <a class="button" href="https://frab.bits-und-baeume.org" target="_blank">Contribute to the Call
-                            for Participation</a>
+                        <a class="button" href="https://frab.bits-und-baeume.org" target="_blank">Submission of
+                            proposals</a>
                     </p>
                 </div>
             </article>
@@ -20,44 +20,44 @@
 
             <p>We bring communities together!</p>
 
-            <p>In recent decades, socially-changing movements have grown, each following its own utopias: They fight to
-                preserve nature and our natural foundations of life, for fair working conditions without exploitation
-                worldwide and for curbing the power of corporations. They are committed to democratic participation,
-                sustainable modes of production and consumption, fair trade between the global South and North and
-                binding rules for corporations in line with these goals. Other communities are working to shape
+            <p>In recent decades, socially-changing movements have steadily grown, each following its own utopias: They
+                fight to preserve nature and our natural livelihoods, for world-wide fair working conditions without
+                exploitation and for curbing the power of corporations. They are committed to democratic participation,
+                sustainable modes of production and consumption, fair trade between the global South and North as well
+                as binding rules for corporations in line with these goals. Other communities aim at shaping
                 digitalization in such a way that civil rights, protection of privacy, data protection, sovereignty and
                 democracy are safeguarded for an open society. They stand up for free access to the knowledge of the
                 powerful for a culture of sharing, for a surveillance-free digital world, for flat hierarchies, global
-                networking and decentralization, for self-determination and human rights in the face of an age of
+                networking and decentralization, for self-determination and human rights in light of an age of
                 artificial intelligence and global Internet monopolies.</p>
 
             <p>Until now, these movements of environmental activists and digital human rights activists have often acted
-                side by side. They offer solutions and ideas for their own respective topics, which have now reached not
-                only politics, civil society and the economy, but even almost every household. Both want to understand
-                the world, but above all actively shape it. They see that substantial changes are necessary for a 'good
-                life' and a just and sustainable society. But a democratic and sustainable society can only succeed
-                together - to achieve this, these communities must come together, learn from each other, recognize the
+                apart. They offer solutions and ideas for their own respective topics, which have now reached not only
+                politics, civil society and the economy, but nearly every household. Both want to understand the world
+                and, above all, actively shape it. They see that substantial changes are necessary for a 'good life' and
+                a just and sustainable society. However, a democratic and sustainable society can only succeed together
+                – to achieve this, these communities must come together, learn from each other, recognize the
                 similarities of their utopias and implement them with new force!</p>
 
-            <p>The <em>Bits & Bäume</em> conference provides a forum for identifying interfaces between sustainability
+            <p>The <em>Bits & Bäume</em> Conference provides a forum for identifying interfaces between sustainability
                 issues and
-                thoughtful digitalization, finding visionary solutions and planning joint actions. Our guiding questions
-                are: What role does sustainability play for stable tech communities? What ecological opportunities are
-                there in digital applications for climate and resource protection? What types of digitalization are
-                opposed or even counterproductive to these goals? How can the digital society be democratic and just
-                while at the same time peacefully preserving the foundations of our lives on this planet?</p>
+                a prudent digitalization, finding visionary solutions as well as planning joint actions. Our key
+                questions are: What role does sustainability play for stable tech communities? Which ecological
+                opportunities do digital applications offer for climate and resource protection? What types of
+                digitalization are opposed or even counterproductive to these goals? How can the digital society be
+                democratic and just while peacefully preserving the basis of our lives on this planet?</p>
 
-            <p>With the <em>Call for Participation</em> we invite people from civil society organisations, but also
+            <p>With the <em>Call for Participation</em>, we invite people from civil society organizations, but also
                 progressive
-                actors from science, business and politics to participate in shaping the conference with their own
+                actors from science, business and politics, to participate in shaping the conference with their own
                 inputs! The more varied the themes and formats, the more colorful creativity and joyful energy arise. We
-                want to give room for discussion rounds and for the planning of projects and campaigns that connect the
-                different communities. We want to learn from each other - from lectures, in hands-on workshops, at
+                want to offer space for discussion rounds as well as the planning of projects and campaigns that connect
+                the different communities. We want to learn from each other - from lectures, in hands-on workshops, at
                 activist info tables, on break sofas, at hackathons and much more. We invite initiatives and
-                organisations to introduce themselves in our Forum, to share their knowledge and to get in touch with
+                organizations to introduce themselves in our Forum, to share their knowledge and to get in touch with
                 each other.</p>
 
-            <p><em>Bits & Bäume</em> wants to politicize and give the prelude for a common position for
+            <p><em>Bits & Bäume</em> aims to politicize and give the prelude for a common position for
                 a sustainable digitalization and against anti-democratic trends!</p>
             <p>We look forward to your participation.</p>
 
@@ -81,15 +81,15 @@
                     </header>
                     <div class="row">
                         <ul>
-                            <li>Raw material extraction for digitalization</li>
-                            <li>Sustainable production and supply chains</li>
-                            <li>Digital tools for the conservation of biodiversity</li>
-                            <li>Energy and resource efficiency through digital tools</li>
+                            <li>raw material extraction for digitalization</li>
+                            <li>sustainable production and supply chains</li>
+                            <li>digital tools for the conservation of biodiversity</li>
+                            <li>energy and resource efficiency through digital tools</li>
                         </ul>
                         <ul>
-                            <li>Power consumption of digital devices and infrastructures</li>
-                            <li>Resource intensity and rebound effects</li>
-                            <li>Responsibilities of global climate and digitalization effects</li>
+                            <li>power consumption of digital devices and infrastructures</li>
+                            <li>resource intensity and rebound effects</li>
+                            <li>responsibilities with regard ro global climate and digitalization effects</li>
                         </ul>
                     </div>
                 </article>
@@ -107,17 +107,17 @@
                         <ul>
                             <li>IT monopolies, platform capitalism, data accumulation</li>
                             <li>good sharing, bad sharing</li>
-                            <li>Cooperative platform economies</li>
-                            <li>Open Source / free software</li>
+                            <li>cooperative platform economies</li>
+                            <li>open source / free software</li>
                             <li>decentralized economy</li>
-                            <li>Re-regionalization of production chains</li>
+                            <li>re-regionalization of production chains</li>
                         </ul>
                         <ul>
                             <li>DIY, repair rights up to Global Village Construction Set</li>
-                            <li>Intellectual Property Rights, Patents & Licenses</li>
+                            <li>intellectual property rights, patents & licenses</li>
                             <li>price discrimination and increased consumption</li>
                             <li>changes in the agricultural and food industries</li>
-                            <li>Sufficiency-oriented marketing</li>
+                            <li>sufficiency-oriented marketing</li>
                         </ul>
                     </div>
                 </article>
@@ -133,20 +133,20 @@
                     </header>
                     <div class="row">
                         <ul>
-                            <li>Raw materials policy for new technologies</li>
-                            <li>Digital policy for transport, energy and agriculture transformation</li>
-                            <li>Distribution of automation gains</li>
-                            <li>Unconditional basic income, short full-time and care economy</li>
-                            <li>Digitalization in education and digital literacy</li>
-                            <li>Freedom of information, transparency, open data and open government</li>
+                            <li>raw materials policy for new technologies</li>
+                            <li>digital policy for transport, energy and agriculture transformation</li>
+                            <li>distribution of automation gains</li>
+                            <li>unconditional basic income, short full-time and care economy</li>
+                            <li>digitalization in education and digital literacy</li>
+                            <li>freedom of information, transparency, open data and open government</li>
                         </ul>
                         <ul>
-                            <li>Data protection and data economy</li>
+                            <li>data protection and data economy</li>
                             <li>IT security, (software) liability and responsibility in the digital world</li>
                             <li>controlling with taxes - digital-ecological tax reforms</li>
-                            <li>Monopolies and competition law in the digital sector</li>
-                            <li>Advertising and manipulation regulation</li>
-                            <li>Regulation of automated decision-making systems</li>
+                            <li>monopolies and competition law in the digital sector</li>
+                            <li>advertising and manipulation regulation</li>
+                            <li>regulation of automated decision-making systems</li>
                         </ul>
                     </div>
                 </article>
@@ -161,19 +161,19 @@
                     </header>
                     <div class="row">
                         <ul>
-                            <li>Local energy storage and infrastructures for the energy transition</li>
-                            <li>Vulnerabilities of digitized infrastructures</li>
-                            <li>Digital energy transition: storage, smart grid, smarthome</li>
-                            <li>Automated energy management systems</li>
-                            <li>"Smart" mobility and ecological traffic turn</li>
-                            <li>Electrification and networking of households, transport, industry (sector coupling)</li>
+                            <li>local energy storage and infrastructures for the energy transition</li>
+                            <li>vulnerabilities of digitized infrastructures</li>
+                            <li>digital energy transition: storage, smart grid, smart home</li>
+                            <li>automated energy management systems</li>
+                            <li>"smart" mobility and ecological traffic turn</li>
+                            <li>electrification and networking of households, transport, industry (sector coupling)</li>
                         </ul>
                         <ul>
-                            <li>Agricultural turnaround and new forms of agriculture</li>
-                            <li>Networked villages</li>
-                            <li>eGovernment and Digital Citizen Participation</li>
-                            <li>Digital city sovereignty</li>
-                            <li>Reclaim Smart Cities!</li>
+                            <li>agricultural turnaround and new forms of agriculture</li>
+                            <li>networked villages</li>
+                            <li>eGovernment and digital citizen participation</li>
+                            <li>digital city sovereignty</li>
+                            <li>reclaim Smart Cities!</li>
                         </ul>
                     </div>
                 </article>
@@ -184,23 +184,23 @@
                         <h2>
                             <span>What world do we</span>
                             <span>want to live in?</span>
-                            <span>The really big questions!</span>
+                            <span>The very big questions!</span>
                         </h2>
                     </header>
                     <div class="row">
                         <ul>
-                            <li>Power asymmetries and decentralization</li>
-                            <li>Automation of workstations</li>
-                            <li>Workers' rights*and the future of work</li>
-                            <li>Belief in technology - technophilia - technocracy</li>
-                            <li>Surveillance and manipulation vs. freedom of action</li>
+                            <li>power asymmetries and decentralization</li>
+                            <li>automation of workstations</li>
+                            <li>workers' rights*and the future of work</li>
+                            <li>belief in technology - technophilia - technocracy</li>
+                            <li>surveillance and manipulation vs. freedom of action</li>
                         </ul>
                         <ul>
-                            <li>Democratic participation and emancipation of citizens</li>
-                            <li>Access to information and knowledge Commons</li>
-                            <li>Nudging and big data based incentive systems</li>
-                            <li>Consequences of imperial digitalization</li>
-                            <li>Re-Feudalization of the Internet</li>
+                            <li>democratic participation and emancipation of citizens</li>
+                            <li>access to information and knowledge commons</li>
+                            <li>nudging and Big Data-based incentive systems</li>
+                            <li>consequences of imperial digitalization</li>
+                            <li>re-Feudalization of the Internet</li>
                         </ul>
                     </div>
                 </article>
@@ -217,15 +217,15 @@
                     expertise.</p>
 
                 <h4>Conference formats</h4>
-                <p>We are pleased about the greatest possible variety of different formats, e.g.:</p>
+                <p>We welcome the greatest possible variety of different formats, e.g.:</p>
                 <ul>
-                    <li>Workshop: Hands-on-Workshop, creative workshop, small group work, hackathon (also available in
+                    <li>workshop: hands-on-workshop, creative workshop, small group work, hackathon (also available in
                         English, but without translation)
                     </li>
-                    <li>Panel: Panel, interview, "fireside chat", fishbowl or panel discussion</li>
-                    <li>Lecture: Impulse-/Lecture, Lightning Talk</li>
-                    <li>Science Session: Presentation of your scientific paper</li>
-                    <li>World Café, thematic FAQ rounds</li>
+                    <li>panel: panel, interview, "fireside chat", fishbowl or panel discussion</li>
+                    <li>lecture: Impulse-/Lecture, Lightning Talk</li>
+                    <li>science session: presentation of your scientific paper</li>
+                    <li>world café, thematic FAQ rounds</li>
                     <li>or whatever comes to your mind</li>
                 </ul>
 
@@ -235,9 +235,10 @@
                 <h4>Space and Time</h4>
                 <p>Please choose the duration of your format. Successful submissions usually receive a slot of 20, 40 or
                     60 minutes in the program, interactive formats such as workshops 90 minutes (plus set-up and
-                    dismantling), on request and, depending on the concept, more time may be possible. The more
-                    dialogical and discursive a format, the more time you can request. Please also specify individual
-                    space requirements (size, technology, furniture, etc.) if necessary.</p>
+                    dismantling). On request and depending on the concept, more time may be available. The more
+                    dialogical and discursive a format, the more time you can demand. Please also specify individual
+                    space requirements (size, technology, furniture, etc.) if necessary.
+                </p>
             </section>
 
             <h2 class="foldableButton" role="button" data-foldable="#forum">Forum (creative area on the conference
@@ -250,7 +251,7 @@
                     emerge: our Forum. Simply use the Call for Participation and submit it as a "Forum" format.</p>
 
                 <h3>What should we write?</h3>
-                <p>In the "Abstract" (short and concise) and the description (detailed & with links to you) please
+                <p>In the "abstract" (short and concise) and the description (detailed and with links to you) please
                     explain who you are, how your organization finances itself, which actions you imagine on site, how
                     much space you need and if necessary your need for technology (especially electricity) and
                     furniture. Please select the format: "Forum", ignore time field.</p>
@@ -258,9 +259,9 @@
                 <h3>How can we design the <em>Forum?</em></h3>
                 <p>Here are some suggestions on how to design your place in the <em><em>Bits & Bäume</em> Forum</em></p>
                 <ul>
-                    <li>Information or discourse sofa</li>
-                    <li>Kitchen discussion at table + chairs</li>
-                    <li>Regulars' table with beer table + benches</li>
+                    <li>information or discourse sofa</li>
+                    <li>kitchen discussion at table + chairs</li>
+                    <li>regulars' table with beer table + benches</li>
                     <li>fixed DIY corner</li>
                     <li>microexhibition</li>
                     <li>microcinema</li>
@@ -272,25 +273,27 @@
                 <p><strong>Note:</strong> We will provide you with space, table and chair, but you will have to look
                     after your own area.</p>
             </section>
-            <h2 class="foldableButton" role="button" data-foldable="#sporangium">The <em>Bits & Bäume</em>-Sporangium (special
+            <h2 class="foldableButton" role="button" data-foldable="#sporangium">The <em>Bits & Bäume</em>-Sporangium
+                (special
                 format)</h2>
             <section id="sporangium" class="foldableContent--hidden">
                 <p>Just as <a href='https://www.spektrum.de/news/sporenkatapult-des-farns-ergruendet/1145522'
                               target='_blank'>ferns catapult their spores out of the capsule at speeds of up to 10m/s
-                        into the world so
+                        into the world, so
                         that they fall onto fertile ground there</a>, we want to pass on our nerd- and technical
                     knowledge
                     spectacularly, effectively and entertainingly at prime time on Saturday evening! Science slams are a
                     great format for this, but we don't want to compete, we want to inspire each other (!) to deal with
-                    all the Neuland (!!) that surrounds us.</p>
-                <p>Do you have a topic that fits the conference, a relaxed mouth and fun with your expertise? Great! We
-                    give you & your microcosm 8min, if you can convince us that you are right on stage for the most
-                    important, informative and at the same time most entertaining lectures, which can only exist at <em>Bits
+                    all the new territory (!!) that surrounds us.</p>
+                <p>Do you have a topic that fits the conference, a loose tongue and fun with your expertise? Great! We
+                    give you and your microcosm 8min, if you can convince us that you are right on stage for the most
+                    important, informative and at the same time most entertaining lectures, which can be given at <em>Bits
                         & Bäume!</em></p>
-                <p>We look forward to receiving your (or your) application (don't forget your link(s) to sample
-                    presentations)! Submission in <em>call for participation</em> with the <em>Sporangium</em> format.
+                <p>We look forward to receiving your application (please don't forget your link(s) to sample
+                    presentations)! Submission via <em>Call for Participation</em> in the <em>Sporangium</em> format.
                 </p>
-                <p>Suggestions for topics and other assistance for submission above under program contribution.</p>
+                <p>Please find suggestions for topics and other assistance for submission above under program
+                    contribution.</p>
             </section>
 
             <h2><em>Bits & Bäume</em> is organized by:</h2>
@@ -300,10 +303,11 @@
                 (FIfF),
                 Germanwatch e.V., nstitute for Ecological Economy Research (IÖW), Konzeptwerk Neue Ökonomie, Open
                 Knowledge
-                Foundation Deutschland e. V. (OKF), Technische Universität Berlin.
+                Foundation Germany e. V. (OKF), Technische Universität Berlin.
             </p>
             <p><strong>Media Partner:</strong> netzpolitik.org</p>
-            <p><strong>Funded by:</strong> The event is funded by the German Federal Environmental Foundation (DBU) and via financial support of
+            <p><strong>Funded by:</strong> The event is funded by the German Federal Environmental Foundation (DBU) and
+                via financial support of
                 specific projects from the Organization committee co-financed by the
                 Federal Ministry of Education and Research (BMBF)</p>
 
@@ -623,7 +627,8 @@
                     Zeitangabenfeld ignorieren.</p>
 
                 <h3>Wie können wir das <em>Forum</em> gestalten?</h3>
-                <p>Hier einige Anregungen, wie ihr euren Platz beim <em><em>Bits & Bäume</em>-Forum</em> gestalten könnt</p>
+                <p>Hier einige Anregungen, wie ihr euren Platz beim <em><em>Bits & Bäume</em>-Forum</em> gestalten könnt
+                </p>
                 <ul>
                     <li>Info- oder Diskurs-Sofa</li>
                     <li>Küchendiskussion an Tisch + Stühlen</li>
