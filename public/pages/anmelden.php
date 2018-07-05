@@ -10,10 +10,10 @@
                         Participation.</a> If you want to participate as a visitor, you can leave your contact details
                     and we will contact you as soon as the official registration starts.</p>
                 <form>
-                    <input id="form-name" placeholder="Ihr Name"/>
-                    <input id="form-orga" placeholder="Ihre Organisation"/>
-                    <input id="form-email" placeholder="Ihre E-Mail Adresse" required/>
-                    <textarea id="form-comment" placeholder="Anmerkungen oder Fragen" maxlength="500"></textarea>
+                    <input id="form-name" placeholder="Your name"/>
+                    <input id="form-orga" placeholder="Your organisation"/>
+                    <input id="form-email" placeholder="Your e-mail address" required/>
+                    <textarea id="form-comment" placeholder="Remarks or questions" maxlength="500"></textarea>
                     <p class="smaller">We use your data exclusively to process your registration. You can find out more about this in our <a
                                 href="/datenschutz/<?php echo $lang; ?>#anmeldefunktion">privacy policy</a>.</p>
                     <button type="submit">Register now without commitment</button>

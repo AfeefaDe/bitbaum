@@ -62,10 +62,9 @@
             <p>We look forward to your participation.</p>
 
 
-            <p class="square-action align-center vertical-space">
+            <!--<p class="square-action align-center vertical-space">
                 <a class="button" href="/downloads/bits-und-bäume-call-for-participation.pdf">Download CfP as PDF</a>
-            </p>
-
+            </p>-->
 
             <h2 class="foldableButton" role="button" data-foldable="#programmbeitrag">Program contribution (submission
                 to the program)</h2>
@@ -301,7 +300,7 @@
                 Deutscher
                 Naturschutz Ring (DNR), Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung e. V.
                 (FIfF),
-                Germanwatch e.V., nstitute for Ecological Economy Research (IÖW), Konzeptwerk Neue Ökonomie, Open
+                Germanwatch e.V., Institute for Ecological Economy Research (IÖW), Konzeptwerk Neue Ökonomie, Open
                 Knowledge
                 Foundation Germany e. V. (OKF), Technische Universität Berlin.
             </p>

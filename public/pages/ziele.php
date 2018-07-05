@@ -36,8 +36,7 @@
                 Therefore, we aim to</p>
             <ul>
                 <li>bring different scenes, actors and organizations into discussion,</li>
-                <li>identify interfaces between sustainability issues and circumspect digitalization,
-                <li>
+                <li>identify interfaces between sustainability issues and circumspect digitalization,</li>
                 <li>find visionary solutions and implement them with joint vehemence.</li>
             </ul>
             <p>In addition to lectures, there will be space for discussion rounds as well as for planning projects and campaigns

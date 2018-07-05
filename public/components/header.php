@@ -20,7 +20,7 @@ $days = round($datediff / (60 * 60 * 24));
                     <span>and Sustainability</span>
                 </h1>
 
-                <p>17. to 18. November 2018</p>
+                <p>17th to 18th November 2018</p>
                 <p><a href="https://www.openstreetmap.org/node/3343267710#map=16/52.5124/13.3280" target="_blank">in
                         Berlin
                         (Technische Universität)</a></p>
