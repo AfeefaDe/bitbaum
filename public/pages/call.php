@@ -62,9 +62,9 @@
             <p>We look forward to your participation.</p>
 
 
-            <!--<p class="square-action align-center vertical-space">
-                <a class="button" href="/downloads/bits-und-bäume-call-for-participation.pdf">Download CfP as PDF</a>
-            </p>-->
+            <p class="square-action align-center vertical-space">
+                <a class="button" href="/downloads/bits-und-bäume-call-for-participation.pdf">Download CfP as PDF (in German)</a>
+            </p>
 
             <h2 class="foldableButton" role="button" data-foldable="#programmbeitrag">Program contribution (submission
                 to the program)</h2>
