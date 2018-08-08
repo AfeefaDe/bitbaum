@@ -1,12 +1,11 @@
+<?php require('components/logos.php'); ?>
+
 <?php
 switch ($lang) {
 case "en":
 ?>
-<p class="language-switch">
-    <a href='<?php echo $page; ?>/de'>Auf Deutsch</a>
-</p>
-<?php require('components/logos.php'); ?>
 <p class="submenu">
+    <a href='<?php echo $page; ?>/de'>Auf Deutsch</a>
     <a href="/datenschutz/<?php echo $lang; ?>">Data protection declaration</a>
     <a href="/impressum/<?php echo $lang; ?>">Imprint</a>
 </p>
@@ -19,11 +18,8 @@ case "en":
     break;
     default:
     ?>
-<p class="language-switch">
-    <a href='<?php echo $page; ?>/en'>In English</a>
-</p>
-<?php require('components/logos.php'); ?>
 <p class="submenu">
+    <a href='<?php echo $page; ?>/en'>In English</a>
     <a href="/datenschutz/<?php echo $lang; ?>">Datenschutzerklärung</a>
     <a href="/impressum/<?php echo $lang; ?>">Impressum</a>
 </p>
