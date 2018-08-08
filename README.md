@@ -15,7 +15,7 @@ $ composer install
 ```
 $ npm install
 $ npm run build
-$ cd public/master
+$ cd public/message
 $ composer install
 ```
 - adapt `.example` configuration files in `public/config`
