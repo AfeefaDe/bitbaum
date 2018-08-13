@@ -499,7 +499,7 @@
                         <img src="/img/call-4.jpg">
                         <h2>
                             <span>Stadt, Land, Info-Fluss?</span>
-                            <span>Gestaltung digitaler Infrastrukturen</span>
+                            <span>Digitale Infrastrukturen gestalten</span>
                         </h2>
                     </header>
                     <div class="row">
