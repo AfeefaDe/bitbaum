@@ -295,21 +295,6 @@
                     contribution.</p>
             </section>
 
-            <h2><em>Bits & Bäume</em> is organized by:</h2>
-            <p>Bund für Umwelt und Naturschutz Deutschland (BUND), Brot für die Welt, Chaos Computer Club (CCC),
-                Deutscher
-                Naturschutz Ring (DNR), Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung e. V.
-                (FIfF),
-                Germanwatch e.V., Institute for Ecological Economy Research (IÖW), Konzeptwerk Neue Ökonomie, Open
-                Knowledge
-                Foundation Germany e. V. (OKF), Technische Universität Berlin.
-            </p>
-            <p><strong>Media Partner:</strong> netzpolitik.org</p>
-            <p><strong>Funded by:</strong> The event is funded by the German Federal Environmental Foundation (DBU) and
-                via financial support of
-                specific projects from the Organization committee co-financed by the
-                Federal Ministry of Education and Research (BMBF)</p>
-
             <hr>
 
             <p>If you have any questions, please contact <span id="mail_replace"></span>
@@ -675,25 +660,15 @@
                 <p>Themenanregungen und sonstige Hilfestellungen zur Einreichung oben unter Programmbeitrag.</p>
             </section>
 
-            <h2><em>Bits & Bäume</em> wird organisiert von:</h2>
-            <p>Bund für Umwelt und Naturschutz Deutschland (BUND), Brot für die Welt, Chaos Computer Club (CCC),
-                Deutscher
-                Naturschutz Ring (DNR), Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung e. V.
-                (FIfF),
-                Germanwatch e.V., Institut für ökologische Wirtschaftsforschung (IÖW), Konzeptwerk Neue Ökonomie, Open
-                Knowledge
-                Foundation Deutschland e. V. (OKF), Technische Universität Berlin.
-            </p>
-            <p><strong>Medienpartner:</strong> netzpolitik.org</p>
-            <p><strong>Förderer:</strong> Die Veranstaltung wird gefördert durch die Deutsche Bundesstiftung Umwelt
-                (DBU) und via Förderung von Projekten
-                einzelner Trägerkreisorganisationen vom Bundesministerium für Bildung und Forschung (BMBF)
-                kofinanziert.</p>
-
             <hr>
 
             <p>Bei Fragen wendet ihr euch bitte an <span id="mail_replace"></span>
             <noscript><em>(Sorry. Aktiviere JavaScript, um die E-Mailadresse zu sehen.)</em></noscript>
+            </p>
+            <p>Bei konkreten Fragen zu Programmbeiträgen, Forumsfläche und Sporangium helfen euch unsere einzelnen Teams gerne weiter:
+                <br>Programm: <a href="mailto:call@bits-und-baeume.org">call@bits-und-baeume.org</a>
+                <br>Forum: <a href="mailto:forum@bits-und-baeume.org">forum@bits-und-baeume.org</a>
+                <br>Sporangium: <a href="mailto:sporangium@bits-und-baeume.org">sporangium@bits-und-baeume.org</a>.
             </p>
 
         </article>
@@ -707,8 +682,8 @@
     // A wizard to generate this code is at http://www.jottings.com/obfuscator/
     setTimeout(
         function () {
-            coded = "wbLW@sDwh-aYt-sLbaWb.GgU"
-            key = "96DsSKonuMZOwABx0elWIv5UjCdhEFGYafc7QrNzibkTJ3pyPqtH8V14Lm2XRg"
+            coded = "t0qL@Et9u-70I-EJY7QY.LUO"
+            key = "iZK8QXrjzGs6qFI0Oy5baYLVt2CN43UpThuvMWkwARmEJPD19cfSdngHxB7eol"
             shift = coded.length
             link = ""
             for (i = 0; i < coded.length; i++) {
@@ -722,7 +697,7 @@
                 }
             }
             let cont = document.getElementById("mail_replace")
-            cont.innerHTML = "<a href='mailto:" + link + "'>&#x74;&#101;&#x61;&#x6d;&#x40;&#x62;&#x69;&#116;&#x73;&#45;&#x75;&#x6e;&#x64;&#x2d;&#x62;&#x61;&#x65;&#117;&#109;&#x65;&#x2e;&#x6f;&#x72;&#x67;</a>."
+            cont.innerHTML = "<a href='mailto:" + link + "'>&#x69;&#x6e;&#x66;&#x6f;&#x40;&#x62;&#x69;&#116;&#x73;&#45;&#x75;&#x6e;&#x64;&#x2d;&#x62;&#x61;&#x65;&#117;&#109;&#x65;&#x2e;&#x6f;&#x72;&#x67;</a>."
         }, 2000)
 
     /* Foldable headings */
