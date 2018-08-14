@@ -53,13 +53,21 @@
             <h1>Die <em>Bits & Bäume</em> 2018 in Berlin</h1>
             <div class="row">
                 <section>
-                    <p><strong>Führt die Digitalisierung in eine nachhaltige Zukunft, in der alle vom technologischen
-                            Fortschritt profitieren und wir zugleich schonender mit der Umwelt umgehen? Oder steuern wir
-                            auf einen digitalen Turbokapitalismus zu, in dem einige Wenige Geld, Informationen und Macht
-                            in den Händen halten und die Wirtschaft noch weiter über die planetaren Grenzen
-                            hinauswächst? Die Konferenz „<em>Bits & Bäume</em>“ bringt alle wichtigen Themen der
-                            Digitalisierung
-                            und der ökologischen und sozialen Nachhaltigkeit zusammen.</strong></p>
+                    <p><strong>Wir bringen Communities zusammen!</strong><br />
+                        <br />
+                        In den letzten Jahrzehnten sind gesellschaftsverändernde Bewegungen gewachsen, die jeweils ihren 
+                        eigenen Utopien folgen: Sie kämpfen dafür, die Natur und unsere natürlichen Lebensgrundlagen 
+                        zu erhalten, für weltweit faire Arbeitsbedingungen ohne Ausbeutung, für eine Eindämmung der 
+                        Macht von Konzernen und gegen die Zerstörung des Planeten. Sie setzen sich ein für 
+                        demokratische Teilhabe, für nachhaltige Produktions- und Konsumweisen, für gerechten 
+                        Handel zwischen globalem Süden und Norden und für verbindliche Regeln für die Wirtschaft 
+                        im Sinne dieser Ziele. Andere Communities arbeiten daran, die Digitalisierung so zu 
+                        gestalten, dass Bürgerrechte, Schutz der Privatsphäre, Datenschutz, Souveränität und 
+                        Demokratie für eine offene Gesellschaft gewahrt sind. Sie stehen auf für einen freien 
+                        Zugang zum Wissen der Mächtigen und der Konzerne, für eine Kultur des Miteinander-Teilens, 
+                        für eine überwachungsfreie digitale Welt, für flache Hierarchien, globale Vernetzung und 
+                        Dezentralität, für Selbstbestimmung und Menschenrechte angesichts eines Zeitalters der 
+                        Künstlichen Intelligenz und der Übermacht globaler Internet-Monopole.</p>
                 </section>
                 <section>
                     <dl>
