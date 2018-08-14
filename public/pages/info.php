@@ -53,21 +53,7 @@
             <h1>Die <em>Bits & Bäume</em> 2018 in Berlin</h1>
             <div class="row">
                 <section>
-                    <p><strong>Wir bringen Communities zusammen!</strong><br />
-                        <br />
-                        In den letzten Jahrzehnten sind gesellschaftsverändernde Bewegungen gewachsen, die jeweils ihren 
-                        eigenen Utopien folgen: Sie kämpfen dafür, die Natur und unsere natürlichen Lebensgrundlagen 
-                        zu erhalten, für weltweit faire Arbeitsbedingungen ohne Ausbeutung, für eine Eindämmung der 
-                        Macht von Konzernen und gegen die Zerstörung des Planeten. Sie setzen sich ein für 
-                        demokratische Teilhabe, für nachhaltige Produktions- und Konsumweisen, für gerechten 
-                        Handel zwischen globalem Süden und Norden und für verbindliche Regeln für die Wirtschaft 
-                        im Sinne dieser Ziele. Andere Communities arbeiten daran, die Digitalisierung so zu 
-                        gestalten, dass Bürgerrechte, Schutz der Privatsphäre, Datenschutz, Souveränität und 
-                        Demokratie für eine offene Gesellschaft gewahrt sind. Sie stehen auf für einen freien 
-                        Zugang zum Wissen der Mächtigen und der Konzerne, für eine Kultur des Miteinander-Teilens, 
-                        für eine überwachungsfreie digitale Welt, für flache Hierarchien, globale Vernetzung und 
-                        Dezentralität, für Selbstbestimmung und Menschenrechte angesichts eines Zeitalters der 
-                        Künstlichen Intelligenz und der Übermacht globaler Internet-Monopole.</p>
+                    <p><strong>Wir bringen Communities zusammen!</strong><br /></p>
                 </section>
                 <section>
                     <dl>
