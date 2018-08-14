@@ -23,7 +23,7 @@
         <section class="square description">
             <article>
                 <p>
-                Our key questions are: What role does sustainability play for stable tech communities?
+                    What role does sustainability play for stable tech communities?
                     Which ecological opportunities do digital applications offer for climate and resource
                     protection? What types of digitalization are opposed or even counterproductive to these goals?
                     How can the digital society be democratic and just while peacefully preserving the basis of our
@@ -60,7 +60,7 @@
         <section class="square description">
             <article>
                 <p>
-                Unsere Leitfragen sind: Welche Rolle spielt Nachhaltigkeit für stabile Tech-Communities?
+                    Welche Rolle spielt Nachhaltigkeit für stabile Tech-Communities?
                     Welche ökologischen Chancen stecken in digitalen Anwendungen etwa für Klima- und 
                     Ressourcenschutz? Welche Arten von Digitalisierung stehen diesen Zielen entgegen 
                     oder sind gar kontraproduktiv? Wie kann die digitale Gesellschaft demokratisch und 
