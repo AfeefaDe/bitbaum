@@ -28,8 +28,8 @@
             <p><strong>Media Partner</strong></p>
             <a href="https://netzpolitik.org" target="_blank"><img class="smaller" src="/img/logo-netzpolitik-org.svg"
                                                                    title="Netzpolitik.org"></a>
-            <p><strong>Funded by</strong></p>
-            <p>The event is funded by the <a href="https://www.dbu.de" target="_blank">German Federal Environmental Foundation (DBU)</a> and via financial support of
+            <p><strong>Supported by</strong></p>
+            <p>The event is supported by the <a href="https://www.dbu.de" target="_blank">German Federal Environmental Foundation (DBU)</a> and via financial support of
                 specific projects from the organization committee co-financed by the
                 <a href="https://www.bmbf.de" target="_blank">Federal Ministry of Education and Research (BMBF)</a>.
             </p>
