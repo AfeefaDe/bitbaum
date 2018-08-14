@@ -15,6 +15,7 @@
                 <p>Fundamental issues</p>
                 <p class="square-action align-center">
                     <a href="/call/<?php echo $lang; ?>" class="button">Call for Participation</a>
+                    <br><br><small>Submissions end on August 19th!</small>
                 </p>
             </article>
         </section>
@@ -53,6 +54,7 @@
                 <p>Grundsatzfragen</p>
                 <p class="square-action align-center">
                     <a href="/call/<?php echo $lang; ?>" class="button">Call for Participation</a>
+                    <br><br><small>noch bis 19. August einreichen!</small>
                 </p>
             </article>
         </section>
