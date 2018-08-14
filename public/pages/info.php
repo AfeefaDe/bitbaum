@@ -58,10 +58,7 @@
                     In den letzten Jahrzehnten sind gesellschaftsverändernde Bewegungen gewachsen, die jeweils 
                     ihren eigenen Utopien folgen: Sie kämpfen dafür, die Natur und unsere natürlichen 
                     Lebensgrundlagen zu erhalten, für weltweit faire Arbeitsbedingungen ohne Ausbeutung, 
-                    für eine Eindämmung der Macht von Konzernen und gegen die Zerstörung des Planeten. 
-                    Sie setzen sich ein für demokratische Teilhabe, für nachhaltige Produktions- und 
-                    Konsumweisen, für gerechten Handel zwischen globalem Süden und Norden und für 
-                    verbindliche Regeln für die Wirtschaft im Sinne dieser Ziele.                 
+                    für eine Eindämmung der Macht von Konzernen und gegen die Zerstörung des Planeten.                 
                     </p>
                 </section>
                 <section>
@@ -76,7 +73,9 @@
                             auf OpenStreetMap</a></p>
                 </section>
             </div>
-            <p>Andere Communities arbeiten daran, die
+            <p>Sie setzen sich ein für demokratische Teilhabe, für nachhaltige Produktions- und Konsumweisen, für 
+                gerechten Handel zwischen globalem Süden und Norden und für verbindliche Regeln für die Wirtschaft
+                im Sinne dieser Ziele. Andere Communities arbeiten daran, die
                 Digitalisierung so zu gestalten, dass Bürgerrechte, Schutz der Privatsphäre, Datenschutz, Souveränität
                 und Demokratie für eine offene Gesellschaft gewahrt sind. Sie stehen auf für einen freien Zugang zum
                 Wissen der Mächtigen und der Konzerne, für eine Kultur des Miteinander-Teilens, für eine
