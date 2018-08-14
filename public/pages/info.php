@@ -5,13 +5,11 @@
             <h1><em>Bits & Bäume</em> 2018 in Berlin</h1>
             <div class="row">
                 <section>
-                    <p><strong>Will digitalization lead to a sustainable future, in which everyone benefits from
-                            technological progress and we simultaneously treat the environment with care? Or are we
-                            heading for a digital turbo-capitalism, in which a few hold money, information and power in
-                            their hands and the economy continues to grow beyond the planetary boundaries? The <em>Bits
-                                &
-                                Bäume</em> Conference brings together all the important topics of digitalization as well
-                            as ecological and social sustainability.</strong></p>
+                    <p><strong>We bring communities together!</strong><br />
+                    <br />
+                    In recent decades, socially-changing movements have steadily grown, each following its own utopias: They
+                fight to preserve nature and our natural livelihoods, for world-wide fair working conditions without
+                exploitation, for containment of the power of corporations and against the destruction of the planet.</p>
                 </section>
                 <section>
                     <dl>
@@ -25,25 +23,44 @@
                             on OpenStreetMap</a></p>
                 </section>
             </div>
-            <p>The conference <em>Bits & Bäume</em> aims to inform, politicize and launch a public debate on the design
-                of digital technologies for the transformation towards an ecologically sustainable and democratic
-                society. Because not all development trends are currently pointing in a sustainable direction. Huge
-                Internet monopolists, such as Amazon, Uber or AirBnB, make billions, while municipalities and local
-                providers get nothing. What are alternatives, which serve the common good? With the 'Internet of Things'
-                and the 'Industry 4.0' millions of items are to be digitally networked and controlled in the future. How
-                can we avoid an increase in resource and energy consumption? Robots and applications of artificial
-                intelligence will rationalize away jobs. How do we shape digitalization so that all people participate
-                in the positive aspects of technological development and the environment is relieved? Facebook, Google
-                and the data leeches of the advertising industry are setting up a monitoring device so that users click
-                on advertising and increase their consumption. How can data protection and environmental protection be
-                combined?</p>
-            <p>With the conference <em>Bits & Bäume</em>, we aim to reconcile topics of digitalization and ecological
-                and social sustainability. To this end, we bring together people both from the environmental and
-                sustainability movements and from the techie communities, in order to discuss with people from science,
-                politics, business and the interested public, to argue and to develop united campaigns and actions. It's
-                gonna be big, and it's gonna be fun! Register now for the conference on November 17 + 18, 2018 at the
-                Technische Universität Berlin.</p>
-            <p>It looks forward to seeing you,<br>The team of <em>Bits & Bäume</em></p>
+            <p>They are committed to democratic participation, sustainable modes of production and consumption, fair
+                trade between the global South and North as well as binding rules for the economy in line with these
+                goals. Other communities aim at shaping digitalization in such a way that civil rights, protection of
+                privacy, data protection, sovereignty and democracy are safeguarded for an open society. They stand up
+                for free access to the knowledge of the powerful and the corporations, for a culture of sharing, for a
+                digital world without surveillance, for flat hierarchies, global networking and decentralization, for
+                self-determination and human rights in light of an age of artificial intelligence and the superiority of
+                global Internet monopolies.</p>
+            <p>Until now, these movements of environmental activists and digital human rights activists have often acted
+                apart. They offer solutions and ideas for their own respective topics, which have now reached not only
+                politics, civil society and the economy, but nearly every household. Both want to understand the world
+                and, above all, actively shape it. They see that substantial changes are necessary for a 'good life' and
+                a just and sustainable society. However, a democratic and sustainable society can only succeed together
+                - to achieve this, these communities must come together, learn from each other, recognize the
+                commonalities of their utopias and implement them with new force!</p>
+            <p>So how can digitalization contribute to the sustainable transformation of society and the economy? How
+                can thinking about sustainability inspire the techie scene so that digitalization guarantees long-term
+                civil rights and individual freedoms? How, for example, can electricity from renewable energies and
+                intelligent grids be further developed with combined knowledge from both scenes? What role do the two
+                sustainability pillars ecology and social equity play for stable tech communities? Which ecological
+                opportunities do digital applications offer for climate and resource protection? What types of
+                digitalization are in conflict with these goals, or even counterproductive? How can the digital society
+                be democratic, equitable and at the same time designed to preserve the basis of our lives on this
+                planet?</p>
+            <p>Among these key questions, <em>Bits & Bäume</em> stands – as an open networking conference – for new
+                perspectives on digitalization with sustainability! We want mutual exchange; we need active networking.
+                Therefore, we aim to</p>
+            <ul>
+                <li>bring different scenes, actors and organizations into discussion,</li>
+                <li>identify interfaces between sustainability issues and circumspect digitalization,</li>
+                <li>find visionary solutions and implement them with joint vehemence.</li>
+            </ul>
+            <p>In addition to lectures, there will be space for discussion rounds as well as for planning projects and campaigns
+                that link the various communities: hands-on workshops, activist information tables or hackathons. <em>Bits &
+                    Bäume</em> is intended to politicize and kick off common positions on sustainable digitalization and against
+                anti-democratic trends. Two conference days provide impetus for intensive exchange and political
+                activities. In addition to actors from civil society organizations, we also expressly address the
+                interested public and progressive actors from science, politics and business.</p>
         </article>
         <?php
         break;
