@@ -53,7 +53,16 @@
             <h1>Die <em>Bits & Bäume</em> 2018 in Berlin</h1>
             <div class="row">
                 <section>
-                    <p><strong>Wir bringen Communities zusammen!</strong><br /></p>
+                    <p><strong>Wir bringen Communities zusammen!</strong><br />
+                    <br />
+                    In den letzten Jahrzehnten sind gesellschaftsverändernde Bewegungen gewachsen, die jeweils 
+                    ihren eigenen Utopien folgen: Sie kämpfen dafür, die Natur und unsere natürlichen 
+                    Lebensgrundlagen zu erhalten, für weltweit faire Arbeitsbedingungen ohne Ausbeutung, 
+                    für eine Eindämmung der Macht von Konzernen und gegen die Zerstörung des Planeten. 
+                    Sie setzen sich ein für demokratische Teilhabe, für nachhaltige Produktions- und 
+                    Konsumweisen, für gerechten Handel zwischen globalem Süden und Norden und für 
+                    verbindliche Regeln für die Wirtschaft im Sinne dieser Ziele.                 
+                    </p>
                 </section>
                 <section>
                     <dl>
@@ -67,19 +76,12 @@
                             auf OpenStreetMap</a></p>
                 </section>
             </div>
-            <p>Die Konferenz „<em>Bits & Bäume</em>“ möchte informieren, politisieren und eine öffentliche Debatte über
-                die
-                Gestaltung digitaler Technologien für die Transformation hin zu einer ökologisch nachhaltigen und
-                demokratischen Gesellschaft lostreten. Denn nicht alle Entwicklungstrends weisen derzeit in eine
-                zukunftsfähige Richtung. Riesige Internet-Monopolisten wie Amazon, Uber oder AirBnB scheffeln
-                Milliarden, während Kommunen und lokale Anbieter leer ausgehen. Was sind Alternativen, die dem
-                Gemeinwohl dienen? Mit dem ‚Internet der Dinge’ und der ‚Industrie 4.0’ sollen künftig Millionen Dinge
-                digital vernetzt und gesteuert werden. Wie kann vermieden werden, dass Ressourcen- und Energieverbräuche
-                durch die Decke gehen? Roboter und Anwendungen der künstlichen Intelligenz werden Arbeitsplätze
-                wegrationalisieren. Wie gestalten wir die Digitalisierung, dass alle Menschen an den Früchten der
-                technologischen Entwicklung teilhaben und die Umwelt entlastet wird? Facebook, Google und die
-                Datenkraken der Werbeindustrie bauen einen Überwachungsapparat auf, damit Nutzer*innen auf Werbung
-                klicken und ihren Konsum steigern. Wie können Datenschutz und Umweltschutz zusammengedacht werden?</p>
+            <p>Andere Communities arbeiten daran, die Digitalisierung so zu gestalten, dass Bürgerrechte, Schutz der 
+                Privatsphäre, Datenschutz, Souveränität und Demokratie für eine offene Gesellschaft gewahrt sind. 
+                Sie stehen auf für einen freien Zugang zum Wissen der Mächtigen und der Konzerne, für eine Kultur 
+                des Miteinander-Teilens, für eine überwachungsfreie digitale Welt, für flache Hierarchien, globale 
+                Vernetzung und Dezentralität, für Selbstbestimmung und Menschenrechte angesichts eines Zeitalters 
+                der Künstlichen Intelligenz und der Übermacht globaler Internet-Monopole.</p>
             <p>Mit der Konferenz „<em>Bits & Bäume</em>“ bringen wir Themen der Digitalisierung und der ökologischen und
                 sozialen
                 Nachhaltigkeit zusammen. Dazu bringen wir Menschen aus den Umwelt- und Nachhaltigkeitsbewegungen mit
