@@ -295,13 +295,7 @@
                     contribution.</p>
             </section>
 
-            <hr>
-
-            <p>If you have any questions, please contact <span id="mail_replace"></span>
-            <noscript><em>(Sorry. Please activate javascroipt to see this emailadress.)</em></noscript>
-            </p>
-            
-            
+                    
             <hr>
 
             <p>If you have any questions, please contact <span id="mail_replace"></span>
