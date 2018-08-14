@@ -23,12 +23,15 @@
         <section class="square description">
             <article>
                 <p>
-                    Will digitalization lead to a sustainable future, in which everyone benefits from
-                    technological progress and we simultaneously treat the environment with care? Or are we
-                    heading for a digital turbo-capitalism, in which a few hold money, information and power in
-                    their hands and the economy continues to grow beyond the planetary boundaries? The <em>Bits &
-                        Bäume</em> Conference brings together all the important topics of digitalization as well
-                    as ecological and social sustainability.
+                How can digitalization contribute to the sustainable transformation of society and the economy? How
+                can thinking about sustainability inspire the techie scene so that digitalization guarantees long-term
+                civil rights and individual freedoms? How, for example, can electricity from renewable energies and
+                intelligent grids be further developed with combined knowledge from both scenes? What role do the two
+                sustainability pillars ecology and social equity play for stable tech communities? Which ecological
+                opportunities do digital applications offer for climate and resource protection? What types of
+                digitalization are in conflict with these goals, or even counterproductive? How can the digital society
+                be democratic, equitable and at the same time designed to preserve the basis of our lives on this
+                planet?
                 </p>
                 <p class="square-action"><a href="/info/en">Brief description of the conference</a></p>
             </article>
@@ -62,14 +65,15 @@
         <section class="square description">
             <article>
                 <p>
-                    Führt die Digitalisierung in eine nachhaltige Zukunft, in der alle vom technologischen Fortschritt
-                    profitieren und wir zugleich schonender mit der Umwelt umgehen? Oder steuern wir auf einen digitalen
-                    Turbokapitalismus zu, in dem einige Wenige Geld, Informationen und Macht in den Händen halten und
-                    die
-                    Wirtschaft noch weiter über die planetaren Grenzen hinauswächst? Die Konferenz „<em>Bits &
-                        Bäume</em>“ bringt
-                    alle
-                    wichtigen Themen der Digitalisierung und der ökologischen und sozialen Nachhaltigkeit zusammen.
+                Wie kann Digitalisierung zur nachhaltigen Transformation der Gesellschaft und des Wirtschaftens
+                beitragen? Wie kann Nachhaltigkeitsdenken die Techie-Szene inspirieren, sodass die Digitalisierung
+                langfristig Bürgerrechte und individuelle Freiheiten garantiert? Wie können beispielsweise Strom aus
+                Erneuerbaren Energien und intelligente Netze mit vereintem Wissen weiterentwickelt werden? Welche Rolle
+                spielen die beiden Nachhaltigkeits-Säulen Ökologie und Gerechtigkeit für stabile Tech-Communities?
+                Welche ökologischen Chancen stecken in digitalen Anwendungen etwa für Klima- und Ressourcenschutz?
+                Welche Arten von Digitalisierung stehen diesen entgegen oder sind sogar kontraproduktiv? Wie kann die
+                digitale Gesellschaft demokratisch und gerecht gestaltet und zugleich darauf ausgerichtet sein, die
+                Grundlagen unseres Lebens auf diesem Planeten zu bewahren?
                 </p>
                 <p class="square-action"><a href="/info/<?php echo $lang; ?>">Kurzbeschreibung zur Konferenz</a></p>
             </article>
