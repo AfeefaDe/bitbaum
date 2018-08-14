@@ -33,14 +33,13 @@
                 be democratic, equitable and at the same time designed to preserve the basis of our lives on this
                 planet?
                 </p>
-                <p class="square-action"><a href="/info/en">Brief description of the conference</a></p>
+                <p class="square-action"><a href="/info/en">Description of the conference</a></p>
             </article>
         </section>
 
         <section class="square quotes">
             <article>
                 <?php require('components/quotes.php'); ?>
-                <p class="square-action"><a href="/ziele/<?php echo $lang; ?>">Goals of the Conference</a></p>
                 <article>
         </section>
         <?php
@@ -75,14 +74,13 @@
                 digitale Gesellschaft demokratisch und gerecht gestaltet und zugleich darauf ausgerichtet sein, die
                 Grundlagen unseres Lebens auf diesem Planeten zu bewahren?
                 </p>
-                <p class="square-action"><a href="/info/<?php echo $lang; ?>">Kurzbeschreibung zur Konferenz</a></p>
+                <p class="square-action"><a href="/info/<?php echo $lang; ?>">Beschreibung der Konferenz</a></p>
             </article>
         </section>
 
         <section class="square quotes">
             <article>
                 <?php require('components/quotes.php'); ?>
-                <p class="square-action"><a href="/ziele/<?php echo $lang; ?>">Ziele der Konferenz</a></p>
                 <article>
         </section>
     <?php } ?>
