@@ -300,6 +300,19 @@
             <p>If you have any questions, please contact <span id="mail_replace"></span>
             <noscript><em>(Sorry. Please activate javascroipt to see this emailadress.)</em></noscript>
             </p>
+            
+            
+            <hr>
+
+            <p>If you have any questions, please contact <span id="mail_replace"></span>
+            <noscript><em>(Sorry. Please activate javascroipt to see this emailadress.)</em></noscript>
+            </p>
+            <p>In case of specific questions regarding the program, the forum and the sporangium please contact the teams directly:
+                <br>Program: <a href="mailto:call@bits-und-baeume.org">call@bits-und-baeume.org</a>
+                <br>Forum: <a href="mailto:forum@bits-und-baeume.org">forum@bits-und-baeume.org</a>
+                <br>Sporangium: <a href="mailto:sporangium@bits-und-baeume.org">sporangium@bits-und-baeume.org</a>.
+            </p>          
+            
 
         </article>
         <?php
