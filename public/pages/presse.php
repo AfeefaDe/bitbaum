@@ -3,32 +3,32 @@
         ?>
         <article>
             <h1>Press</h1>
-            <div class="row">
                 <section>
-                    <img class="larger gray" src="/img/nina-rehm.png">
-                    <p>Nina Prehm<br>+49 (0) 30 884594 16<br>kommunikation@ioew.de</p>
+                    <h3>Contact</h3>
+                    <img class="portrait" src="/img/nina-rehm.png">
+                    <p><strong>Nina Prehm</strong><br>+49 (0) 30 884594 16<br><a href="mailto:nina.prehm@ioew.de">nina.prehm@ioew.de</a></p>
                 </section>
-                <section>
+                <!-- <section>
                     <h3>Press releases</h3>
                     <p>...</p>
-                </section>
-            </div>
+                </section> -->
         </article>
         <?php
         break;
     default:
         ?>
         <article>
-            <h1>Pressekontakt</h1>
-            <div class="row">
+            <h1>Presse</h1>
                 <section>
-                    <img class="larger gray" src="/img/nina-rehm.png">
-                    <p>Nina Prehm<br>+49 (0) 30 884594 16<br>kommunikation@ioew.de</p>
+                    <h3>Pressekontakt</h3>
+                    <img class="portrait" src="/img/nina-rehm.png">
+                    <p><strong>Nina Prehm</strong><br>+49 (0) 30 884594 16<br><a href="mailto:nina.prehm@ioew.de">nina.prehm@ioew.de</a></p>
+                    <p>Wenn Sie Pressemitteilungen und –informationen zur Konferenz erhalten wollen, schreiben Sie mir bitte eine E-Mail.</p>
                 </section>
-                <section>
+                <!-- <section>
                     <h3>Pressemitteilungen</h3>
                     <p>...</p>
-                </section>
+                </section> -->
             </div>
         </article>
     <?php } ?>

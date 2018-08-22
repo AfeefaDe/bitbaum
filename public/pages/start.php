@@ -15,7 +15,6 @@
                 <p>Fundamental issues</p>
                 <p class="square-action align-center">
                     <a href="/call/<?php echo $lang; ?>" class="button">Call for Participation</a>
-                    <br><br><small>Submissions end on August 19th!</small>
                 </p>
             </article>
         </section>
@@ -31,6 +30,7 @@
                     as ecological and social sustainability.
                 </p>
                 <p class="square-action"><a href="/info/en">Brief description of the conference</a></p>
+                <p class="square-action"><a href="/presse/en">Press information</a></p>
             </article>
         </section>
 
@@ -54,7 +54,6 @@
                 <p>Grundsatzfragen</p>
                 <p class="square-action align-center">
                     <a href="/call/<?php echo $lang; ?>" class="button">Call for Participation</a>
-                    <br><br><small>noch bis 19. August einreichen!</small>
                 </p>
             </article>
         </section>
@@ -72,6 +71,7 @@
                     wichtigen Themen der Digitalisierung und der ökologischen und sozialen Nachhaltigkeit zusammen.
                 </p>
                 <p class="square-action"><a href="/info/<?php echo $lang; ?>">Kurzbeschreibung zur Konferenz</a></p>
+                <p class="square-action"><a href="/presse/en">Presseinformationen</a></p>
             </article>
         </section>
 
