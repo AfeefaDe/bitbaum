@@ -71,7 +71,7 @@
                     wichtigen Themen der Digitalisierung und der ökologischen und sozialen Nachhaltigkeit zusammen.
                 </p>
                 <p class="square-action"><a href="/info/<?php echo $lang; ?>">Kurzbeschreibung zur Konferenz</a></p>
-                <p class="square-action"><a href="/presse/en">Presseinformationen</a></p>
+                <p class="square-action"><a href="/presse/">Presseinformationen</a></p>
             </article>
         </section>
 
