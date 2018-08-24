@@ -15,7 +15,6 @@
                 <p>Fundamental issues</p>
                 <p class="square-action align-center">
                     <a href="/call/<?php echo $lang; ?>" class="button">Call for Participation</a>
-                    <br><br><small>Submissions ended on August 19th!</small>
                 </p>
             </article>
         </section>
@@ -29,7 +28,8 @@
                     How can the digital society be democratic and just while peacefully preserving the basis of our
                     lives on this planet?
                 </p>
-                <p class="square-action"><a href="/info/en">Description of the conference</a></p>
+                <p class="square-action"><a href="/info/en">Brief description of the conference</a></p>
+                <p class="square-action"><a href="/presse/en">Press information</a></p>
             </article>
         </section>
 
@@ -52,7 +52,6 @@
                 <p>Grundsatzfragen</p>
                 <p class="square-action align-center">
                     <a href="/call/<?php echo $lang; ?>" class="button">Call for Participation</a>
-                    <br><br><small>Einreichfrist war der 19. August!</small>
                 </p>
             </article>
         </section>
@@ -67,7 +66,8 @@
                     gerecht gestaltet und zugleich darauf ausgerichtet sein, auf friedvolle Weise die 
                     Grundlagen unseres Lebens auf diesem Planeten zu bewahren?
                 </p>
-                <p class="square-action"><a href="/info/<?php echo $lang; ?>">Beschreibung der Konferenz</a></p>
+                <p class="square-action"><a href="/info/<?php echo $lang; ?>">Kurzbeschreibung zur Konferenz</a></p>
+                <p class="square-action"><a href="/presse/">Presseinformationen</a></p>
             </article>
         </section>
 
