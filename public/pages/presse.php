@@ -5,8 +5,10 @@
             <h1>Press</h1>
                 <section>
                     <h3>Contact</h3>
+                    <p>Here you will soon find more information, press releases and download material regarding the conference.</p>
                     <img class="portrait" src="/img/nina-rehm.png">
                     <p><strong>Nina Prehm</strong><br>+49 (0) 30 884594 16<br><a href="mailto:nina.prehm@ioew.de">nina.prehm@ioew.de</a></p>
+                    <p>If you would like to receive press releases and information about the conference, please send an e-mail.</p>
                 </section>
                 <!-- <section>
                     <h3>Press releases</h3>
