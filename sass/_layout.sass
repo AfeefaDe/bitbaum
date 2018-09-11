@@ -41,11 +41,16 @@ article
           width: fit-content
           padding: 0 .1em
 
+.square-action
+    margin: 2rem 0 0
+    &--right
+      text-align: right
+
 #grid
   width: calc(100% / 3 * 2)
   display: flex
   flex-wrap: wrap
-    
+
   .square
     display: flex
     align-items: center
@@ -68,9 +73,6 @@ article
 
     &.cluster
       background-color: $alpha-green
-
-    .square-action
-      margin: 2rem 0 0
 
     article
       width: 100%

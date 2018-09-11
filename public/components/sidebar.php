@@ -10,9 +10,8 @@
         </section>
 
         <section class="switch program active">
-            <h4>Program</h4>
-            <p>Lectures, workshops, panels, fishbowl and panel discussions, world cafés, a vibrant forum space and
-                much more await you. Details of the program will follow soon.</p>
+        <?php require('components/frab-highlights.php'); ?>
+            <p class="square-action square-action--right"><a href="/programm/en">See full programme</a></p>
         </section>
 
         <section class="switch twitter">
@@ -42,12 +41,13 @@
         </section>
 
         <section class="switch program active">
-            <h4>Programm</h4>
-            <p>Euch erwarten Vorträge, Workshops, Panel, Fishbowl- und Podiumsdiskussionen, Worldcafés, ein buntes Forum und vieles mehr. Genaue Programmpunkte folgen in Kürze.</p>
+            <?php require('components/frab-highlights.php'); ?>
+            <p class="square-action square-action--right"><a href="/programm/">Programm ansehen</a></p>
         </section>
 
         <section class="switch twitter">
             <?php require('components/twitter.php'); ?>
+
         </section>
 
         <div class="control">

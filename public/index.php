@@ -1,6 +1,6 @@
 <?php
 $route = explode("/", $_SERVER['REQUEST_URI']);
-$pages_permitted = ["anmelden", "call", "datenschutz", "impressum", "info", "ziele", "presse"];
+$pages_permitted = ["anmelden", "call", "datenschutz", "programm", "impressum", "info", "ziele", "presse"];
 $langs_permitted = ["de", "en"];
 $lang = $langs_permitted[0];  // default language: de
 
