@@ -298,13 +298,13 @@
                     
             <hr>
 
-            <p>If you have any questions, please contact <span id="mail_replace_info"></span>
+            <p>If you have any questions, please contact <span class="mail_replace_info"></span>
             <noscript><em>(Sorry. Please activate javascroipt to see this emailadress.)</em></noscript>
             </p>
             <p>In case of specific questions regarding the program, the forum and the sporangium please contact the teams directly:
-                <br>Program: <a href="mailto:call@bits-und-baeume.org">call@bits-und-baeume.org</a>
-                <br>Forum: <a href="mailto:forum@bits-und-baeume.org">forum@bits-und-baeume.org</a>
-                <br>Sporangium: <a href="mailto:sporangium@bits-und-baeume.org">sporangium@bits-und-baeume.org</a>.
+                <br>Programm: <span class="mail_replace_call"></span>
+                <br>Forum: <span class="mail_replace_forum"></span>
+                <br>Sporangium: <span class="mail_replace_sporangium"></span>
             </p>          
             
 
@@ -669,81 +669,19 @@
 
             <hr>
 
-            <p>Bei Fragen wendet ihr euch bitte an <span id="mail_replace_info"></span>
+            <p>Bei Fragen wendet ihr euch bitte an <span class="mail_replace_info"></span>
             <noscript><em>(Sorry. Aktiviere JavaScript, um die E-Mailadresse zu sehen.)</em></noscript>
             </p>
             <p>Bei konkreten Fragen zu Programmbeiträgen, Forumsfläche und Sporangium helfen euch unsere einzelnen Teams gerne weiter:
-                <br>Programm: <span id="mail_replace_call"></span>
-                <br>Forum: <span id="mail_replace_forum"></span>
-                <br>Sporangium: <span id="mail_replace_sporangium"></span>
+                <br>Programm: <span class="mail_replace_call"></span>
+                <br>Forum: <span class="mail_replace_forum"></span>
+                <br>Sporangium: <span class="mail_replace_sporangium"></span>
             </p>
 
         </article>
     <?php } ?>
 
 <script type="text/javascript" language="javascript">
-    <!--
-    // Email obfuscator script 2.1 by Tim Williams, University of Arizona
-    // Random encryption key feature coded by Andrew Moulden
-    // This code is freeware provided these four comment lines remain intact
-    // A wizard to generate this code is at http://www.jottings.com/obfuscator/
-    
-    var mailCodes = [
-        {
-            address: "info@bits-und-baeume.org",
-            hex: "&#x69;&#x6e;&#x66;&#x6f;&#x40;&#x62;&#x69;&#116;&#x73;&#45;&#x75;&#x6e;&#x64;&#x2d;&#x62;&#x61;&#x65;&#117;&#109;&#x65;&#x2e;&#x6f;&#x72;&#x67;",
-            coded: "t0qL@Et9u-70I-EJY7QY.LUO",
-            key: "iZK8QXrjzGs6qFI0Oy5baYLVt2CN43UpThuvMWkwARmEJPD19cfSdngHxB7eol",
-            cssId: "mail_replace_info"
-        },
-        {
-            address: "call@bits-und-baeume.org",
-            hex: "&#x63;&#x61;&#x6c;&#x6c;&#x40;&#x62;&#x69;&#x74;&#x73;&#x2d;&#x75;&#x6e;&#x64;&#x2d;&#x62;&#x61;&#x65;&#x75;&#x6d;&#x65;&#x2e;&#x6f;&#x72;&#x67",
-            coded: "kICC@pYac-djU-pIfduf.x5E",
-            key: "FgXe91K4nkrCIvhPdiSVbxwsBEtfy3mMj05QWHZ8UYzGpRqcAlaNJDu6TLOo27",
-            cssId: "mail_replace_call"
-        },
-        {
-            address: "forum@bits-und-baeume.org",
-            hex: "&#x66;&#x6f;&#x72;&#x75;&#x6d;&#x40;&#x62;&#x69;&#x74;&#x73;&#x2d;&#x75;&#x6e;&#x64;&#x2d;&#x62;&#x61;&#x65;&#x75;&#x6d;&#x65;&#x2e;&#x6f;&#x72;&#x67",
-            coded: "wIBQ7@nNAf-QYc-nJqQ7q.IB6",
-            key: "GjWVpNJcm5S1DueBFzOxYATf48kPREgob7X9M3QqyliadhHKwZL2rCU6Intvs0",
-            cssId: "mail_replace_forum"
-        },
-        {
-            address: "sporangium@bits-und-baeume.org",
-            hex: "&#x73;&#x70;&#x6f;&#x72;&#x61;&#x6e;&#x67;&#x69;&#x75;&#x6d;&#x40;&#x62;&#x69;&#x74;&#x73;&#x2d;&#x75;&#x6e;&#x64;&#x2d;&#x62;&#x61;&#x65;&#x75;&#x6d;&#x65;&#x2e;&#x6f;&#x72;&#x67",
-            coded: "EuCNzakmHd@RmvE-Haq-RzoHdo.CNk",
-            key: "K45BW1osjfbcD96kqUmAPhT7vI2ruawlLVOXCEeFR8yZJxGgdSiM0YQ3tNHzpn",
-            cssId: "mail_replace_sporangium"
-        }
-    ];
-    
-    setTimeout(
-        function () {
-
-            for (var k=0; k<mailCodes.length; k++) {
-                var mail = mailCodes[k];
-
-                coded = mail.coded
-                key = mail.key
-                shift = coded.length
-                link = ""
-                for (i = 0; i < coded.length; i++) {
-                    if (key.indexOf(coded.charAt(i)) === -1) {
-                        ltr = coded.charAt(i)
-                        link += (ltr)
-                    }
-                    else {
-                        ltr = (key.indexOf(coded.charAt(i)) - shift + key.length) % key.length
-                        link += (key.charAt(ltr))
-                    }
-                }
-                let cont = document.getElementById(mail.cssId)
-                cont.innerHTML = "<a href='mailto:" + link + "'>" + mail.hex + "</a>."
-            }
-        }, 2000)
-
     /* Foldable headings */
     var lastFoldedElement = [null, null];
     $("[data-foldable]").on('click', function (event) {
