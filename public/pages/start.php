@@ -14,7 +14,7 @@
                 <p>Digital infrastructures</p>
                 <p>Fundamental issues</p>
                 <p class="square-action align-center">
-                    <a href="/call/<?php echo $lang; ?>" class="button">Call for Participation</a>
+                    <a href="/call/<?php echo $lang; ?>" class="button">That was the Call for Participation</a>
                 </p>
             </article>
         </section>
@@ -51,7 +51,7 @@
                 <p>Digitale Infrastrukturen</p>
                 <p>Grundsatzfragen</p>
                 <p class="square-action align-center">
-                    <a href="/call/<?php echo $lang; ?>" class="button">Call for Participation</a>
+                    <a href="/call/<?php echo $lang; ?>" class="button">Das war der Call for Participation</a>
                 </p>
             </article>
         </section>

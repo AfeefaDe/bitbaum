@@ -3,10 +3,11 @@
         ?>
         <article>
             <h1>Call for Participation</h1>
+            <p>We are pleased to have an incredible number of 231 submissions and therefore need a little more time for the final selection. Please be patient. Updates will follow in September.</p>
             <article>
                 <div class="row">
-                    <p><strong>Registration deadline:</strong> 19th August<br>
-                        <strong>Feedback Forum:</strong> 3rd September<br>
+                    <p><strong>Registration deadline:</strong> was 19th August<br>
+                        <strong>Feedback Forum:</strong> 5th September<br>
                         <strong>Feedback program contributions:</strong> September</p>
                     <p class="square-action align-center">
                         <a class="button" href="https://frab.bits-und-baeume.org" target="_blank">Submission of
@@ -316,9 +317,10 @@
         <article>
             <h1>Call for Participation</h1>
             <article>
+                <p>Wir freuen uns über unglaubliche 231 (!) Einreichungen und brauchen darum noch etwas Zeit für die Auswahl. Bitte habt Geduld, die Rückmeldungen erfolgen noch im September.</p>
                 <div class="row">
-                    <p><strong>Anmeldeschluss:</strong> 19. August<br>
-                        <strong>Rückmeldung Forum:</strong> 3. September<br>
+                    <p><strong>Anmeldeschluss:</strong> war der 19. August<br>
+                        <strong>Rückmeldung Forum:</strong> 5. September<br>
                         <strong>Rückmeldung Programmbeiträge:</strong> im September</p>
                     <p class="square-action align-center">
                         <a class="button" href="https://frab.bits-und-baeume.org" target="_blank">Zur CfP-Anmeldung</a>
