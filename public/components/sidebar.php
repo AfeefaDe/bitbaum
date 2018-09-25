@@ -2,11 +2,8 @@
     case "en":
         ?>
         <section class="stats">
-            <div>
-                <!-- <p>127 Teilnehmer</p> -->
-                <!-- <p>24 Speakers</p> -->
-            </div>
-            <a href="/anmelden/<?php echo $lang; ?>" class="button">Register now</a>
+          <?php require('components/frab-stats.php'); ?>
+          <a href="https://pretix.eu/bits-und-baeume/171811/" target="_blank" class="button">Buy your ticket</a>
         </section>
 
         <section class="switch program active">
@@ -15,7 +12,7 @@
         </section>
 
         <section class="switch twitter">
-            <?php require('components/twitter.php'); ?>
+          <?php require('components/twitter.php'); ?>
         </section>
 
         <div class="control">
@@ -33,11 +30,8 @@
     default:
         ?>
         <section class="stats">
-            <div>
-                <!-- <p>127 Teilnehmer</p> -->
-                <!-- <p>24 Speakers</p> -->
-            </div>
-            <a href="/anmelden/<?php echo $lang; ?>" class="button">Jetzt anmelden</a>
+          <?php require('components/frab-stats.php'); ?>
+          <a href="https://pretix.eu/bits-und-baeume/171811/" target="_blank" class="button">Zum Ticketverkauf</a>
         </section>
 
         <section class="switch program active">
