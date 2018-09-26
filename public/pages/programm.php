@@ -89,16 +89,6 @@
               <article class="cluster">
                 <header>
                   <img class="anonymous" src="/img/poly.svg">
-                  <h2><span>Reclaim Smart City!</span></h2>
-                </header>
-                <p></p>
-                <h3>Speaker*innen:</h3>
-                <p>tba</p>
-              </article>
-
-              <article class="cluster">
-                <header>
-                  <img class="anonymous" src="/img/poly.svg">
                   <h2><span>Philosophischer Salon: Wie digital wird eine wirklich zukunftsfähige Gesellschaft sein?</span></h2>
                 </header>
                 <h3>Fishbowl Diskussion</h3>
