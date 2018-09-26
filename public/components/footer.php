@@ -95,7 +95,7 @@ setTimeout(
             if(cont.length) {
                 for (var index = 0; index < cont.length; index++) {
                     var element = cont[index];
-                    element.innerHTML = "<a href='mailto:" + link + "'>" + mail.hex + "</a>."
+                    element.innerHTML = "<a href='mailto:" + link + "'>" + mail.hex + "</a>"
                 }
             }
         }
