@@ -10,6 +10,6 @@
             ?>
             <p><strong>Kontakt</strong></p>
         <?php } ?>
-    
-  <span class="mail_replace_info"></span><br>01753540452
+
+  <span class="mail_replace_info"></span><br>01753540452<br><br>Organisationsteam der Bits & Bäume:<br>Ekaterina Sergienko / Eva Laderick / Katja George
 </div>
