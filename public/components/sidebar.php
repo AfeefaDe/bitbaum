@@ -8,7 +8,7 @@
 
         <section class="switch program">
           <?php require('components/frab-highlights.php'); ?>
-          <p class="square-action square-action--right"><a href="/programm/en">See full programme</a></p>
+          <p class="square-action square-action--right"><a href="/programm-frab/en">See full programme</a></p>
         </section>
 
         <section class="switch twitter active">
@@ -36,7 +36,7 @@
 
         <section class="switch program">
           <?php require('components/frab-highlights.php'); ?>
-          <p class="square-action square-action--right"><a href="/programm/">Programm ansehen</a></p>
+          <p class="square-action square-action--right"><a href="/programm-frab">Programm ansehen</a></p>
         </section>
 
         <section class="switch twitter active">

@@ -14,7 +14,7 @@
                 <p>Digital infrastructures</p>
                 <p>Fundamental issues</p>
                 <p class="square-action align-center">
-                    <a href="/call/<?php echo $lang; ?>" class="button">Sneak preview of the programme</a>
+                    <a href="/programm/<?php echo $lang; ?>" class="button">Sneak preview of the programme</a>
                 </p>
             </article>
         </section>
@@ -51,7 +51,7 @@
                 <p>Digitale Infrastrukturen</p>
                 <p>Grundsatzfragen</p>
                 <p class="square-action align-center">
-                    <a href="/call/<?php echo $lang; ?>" class="button">Zur ersten Programmvorschau</a>
+                    <a href="/programm/<?php echo $lang; ?>" class="button">Zur ersten Programmvorschau</a>
                 </p>
             </article>
         </section>
