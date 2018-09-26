@@ -6,21 +6,21 @@
           <a href="https://pretix.eu/bits-und-baeume/171811/" target="_blank" class="button">Buy your ticket</a>
         </section>
 
-        <section class="switch program active">
+        <section class="switch program">
           <?php require('components/frab-highlights.php'); ?>
           <p class="square-action square-action--right"><a href="/programm/en">See full programme</a></p>
         </section>
 
-        <section class="switch twitter">
+        <section class="switch twitter active">
           <?php require('components/twitter.php'); ?>
         </section>
 
         <div class="control">
-            <div class="program active">
+            <div class="program">
                 <div class="icon"></div>
                 <p>Program</p>
             </div>
-            <div class="twitter">
+            <div class="twitter active">
                 <div class="icon"></div>
                 <p>#bitsundbäume</p>
             </div>
@@ -34,22 +34,22 @@
           <a href="https://pretix.eu/bits-und-baeume/171811/" target="_blank" class="button">Zum Ticketverkauf</a>
         </section>
 
-        <section class="switch program active">
+        <section class="switch program">
           <?php require('components/frab-highlights.php'); ?>
           <p class="square-action square-action--right"><a href="/programm/">Programm ansehen</a></p>
         </section>
 
-        <section class="switch twitter">
+        <section class="switch twitter active">
             <?php require('components/twitter.php'); ?>
 
         </section>
 
         <div class="control">
-            <div class="program active">
+            <div class="program">
                 <div class="icon"></div>
                 <p>Programm</p>
             </div>
-            <div class="twitter">
+            <div class="twitter active">
                 <div class="icon"></div>
                 <p>#bitsundbäume</p>
             </div>
