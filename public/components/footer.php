@@ -68,6 +68,13 @@ var mailCodes = [
         coded: "EuCNzakmHd@RmvE-Haq-RzoHdo.CNk",
         key: "K45BW1osjfbcD96kqUmAPhT7vI2ruawlLVOXCEeFR8yZJxGgdSiM0YQ3tNHzpn",
         cssId: "mail_replace_sporangium"
+    },
+    {
+        address: "presse@bits-und-baeume.org",
+        hex: "&#x70;&#x72;&#x65;&#x73;&#x73;&#x65;&#x40;&#x62;&#x69;&#x74;&#x73;&#x2d;&#x75;&#x6e;&#x64;&#x2d;&#x62;&#x61;&#x65;&#x75;&#x6d;&#x65;&#x2e;&#x6f;&#x72;&#x67;",
+        coded: "q4KeeK@tdLe-lJo-tjKlFK.h4P",
+        key: "BQ96yx0fhJrmO3agXZdqCeLl8RkTWVA7bUYI4F5DjPG2onEKv1cMSwipzstuHN",
+        cssId: "mail_replace_presse"
     }
 ];
 
