@@ -69,12 +69,7 @@
             <h1>Die <em>Bits & Bäume</em> 2018 in Berlin</h1>
             <div class="row">
                 <section>
-                    <p><strong>Wir bringen Communities zusammen!</strong><br />
-                    <br />
-                    In den letzten Jahrzehnten sind gesellschaftsverändernde Bewegungen gewachsen, die jeweils 
-                    ihren eigenen Utopien folgen: Sie kämpfen dafür, die Natur und unsere natürlichen 
-                    Lebensgrundlagen zu erhalten, für weltweit faire Arbeitsbedingungen ohne Ausbeutung, 
-                    für eine Eindämmung der Macht von Konzernen und gegen die Zerstörung des Planeten.                 
+                    <p><strong>Die Digitalisierung kommt – aber wie?</strong><br /><br />Als digitaler Wachstumsmotor, der Ressourcen verschlingt und einigen wenigen Macht und Informationen sichert? Oder als echte Chance für eine nachhaltigere und faire Zukunft? Sicher ist nur: Jetzt geht es darum, den Megatrend zu gestalten. Die Konferenz <span class="typologo">Bits & Bäume</span> hat es sich zur Aufgabe gemacht, Netz-Aktivist/innen, Umweltbewegte und Interessierte zusammen zu bringen und gemeinsam Lösungen für eine nachhaltige Digitalisierung zu finden. Getragen wird sie von zehn Partnerorganisationen aus Umwelt- und Netzpolitik, Entwicklungszusammenarbeit und Wissenschaft.
                     </p>
                 </section>
                 <section>
@@ -89,51 +84,11 @@
                             auf OpenStreetMap</a></p>
                 </section>
             </div>
-            <p>Sie setzen sich ein für demokratische Teilhabe, für nachhaltige Produktions- und Konsumweisen, für 
-                gerechten Handel zwischen globalem Süden und Norden und für verbindliche Regeln für die Wirtschaft
-                im Sinne dieser Ziele. Andere Communities arbeiten daran, die
-                Digitalisierung so zu gestalten, dass Bürgerrechte, Schutz der Privatsphäre, Datenschutz, Souveränität
-                und Demokratie für eine offene Gesellschaft gewahrt sind. Sie stehen auf für einen freien Zugang zum
-                Wissen der Mächtigen und der Konzerne, für eine Kultur des Miteinander-Teilens, für eine
-                überwachungsfreie digitale Welt, für flache Hierarchien, globale Vernetzung und Dezentralität, für
-                Selbstbestimmung und Menschenrechte angesichts eines Zeitalters der Künstlichen Intelligenz und der
-                Übermacht globaler Internet-Monopole.</p>
-            <p>Bislang agieren diese Bewegungen der Umwelt-Aktivist*innen und digitalen Menschenrechtler oft
-                nebeneinander. Sie bieten Lösungsansätze und Ideen für ihre jeweils eigenen Themen, die inzwischen nicht
-                nur Politik, Zivilgesellschaft, Wirtschaft, sondern sogar fast jeden Haushalt erreicht haben. Beide
-                wollen die Welt verstehen, aber vor allem aktiv gestalten. Sie sehen, dass wesentliche Veränderungen für
-                ein ‚gutes Leben’ sowie eine gerechte und zukunftsfähige Gesellschaft nötig sind. Doch eine
-                demokratische und nachhaltige Gesellschaft kann nur gemeinsam gelingen – dafür müssen diese Communities
-                zusammenkommen, voneinander lernen, die Gemeinsamkeiten ihrer Utopien erkennen und diese mit neuer Wucht
-                umsetzen!</p>
-            <p>Wie also kann Digitalisierung zur nachhaltigen Transformation der Gesellschaft und des Wirtschaftens
-                beitragen? Wie kann Nachhaltigkeitsdenken die Techie-Szene inspirieren, sodass die Digitalisierung
-                langfristig Bürgerrechte und individuelle Freiheiten garantiert? Wie können beispielsweise Strom aus
-                Erneuerbaren Energien und intelligente Netze mit vereintem Wissen weiterentwickelt werden?
-                Welche Rolle spielt Nachhaltigkeit für stabile Tech-Communities? Welche ökologischen Chancen stecken
-                in digitalen Anwendungen etwa für Klima- und Ressourcenschutz? Welche Arten von Digitalisierung stehen
-                diesen Zielen entgegen oder sind gar kontraproduktiv? Wie kann die digitale Gesellschaft demokratisch
-                und gerecht gestaltet und zugleich darauf ausgerichtet sein, auf friedvolle Weise die Grundlagen unseres
-                Lebens auf diesem Planeten zu bewahren?
-            </p>
-            <p>Unter diesen Leitfragen steht „<em>Bits & Bäume</em>“ als eine offene Vernetzungskonferenz – für neue
-                Perspektiven
-                auf eine Digitalisierung mit Nachhaltigkeit! Wir wollen gegenseitigen Austausch, wir brauchen aktive
-                Vernetzung. Dafür wollen wir</p>
-            <ul>
-                <li>unterschiedliche Szenen, Akteure und Organisationen in die Diskussion bringen,</li>
-                <li>Schnittstellen zwischen Nachhaltigkeitsthemen und einer umsichtigen Digitalisierung
-                    herausarbeiten,
-                </li>
-                <li>visionäre Lösungen finden und mit gemeinsamer Vehemenz umsetzen.</li>
-            </ul>
-            <p>Neben Vorträgen wird es Raum geben für Diskussionsrunden sowie für die Planung von Projekten und
-                Kampagnen, die die unterschiedlichen Communities verbinden: Hands-on-Workshops, Aktivisten-Infotische,
-                Sofas oder Hackathons. „<em>Bits & Bäume</em>“ soll politisieren und den Auftakt geben für gemeinsame
-                Positionen
-                zu einer nachhaltigen Digitalisierung und wider demokratiefeindliche Trends. Zwei Konferenztage geben
-                Anstoß für intensiven Austausch und politische Aktivitäten. Neben Akteuren aus zivilgesellschaftlichen
-                Organisationen richten wir uns auch ausdrücklich an die interessierte Öffentlichkeit und an progressive
-                Akteure aus Wissenschaft, Politik und Unternehmen.</p>
+            <p>Smartphones, Internet der Dinge, Big Data, künstliche Intelligenz – noch nie war eine technologische Entwicklung so schnell und hat so tief in unseren Alltag hineingewirkt wie die Digitalisierung. Gleichzeitig zwingen uns Klimawandel und die zunehmende globale Ungleichheit, unsere Art des Wirtschaftens in Frage zu stellen – auch wenn sich die Industrieländer derzeit noch nicht in diese Richtung bewegen. Kann die Digitalisierung helfen, den dringend benötigten Wandel herbeizuführen – hin zu einer nachhaltigeren Gesellschaft?</p>
+            <p>Wie können wir vermeiden, dass unser Ressourcen- und Energieverbrauch durch die Decke geht? Welche ökologischen Chancen stecken in digitalen Anwendungen etwa für Klima- und Ressourcenschutz?</p>
+            <p>Roboter und Anwendungen der künstlichen Intelligenz kosten Arbeitsplätze. Wie gestalten wir die Digitalisierung, sodass alle Menschen an den Früchten des technologischen Fortschritts teilhaben?</p>
+            <p>Mit der Konferenz <span class="typologo">Bits & Bäume</span> bringen wir die Themen der Digitalisierung und der ökologischen und sozialen Nachhaltigkeit zusammen. Wir möchten informieren, politisieren und eine öffentliche Debatte über die Potenziale digitaler Technologien für die Transformation hin zu einer zukunftsfähigen und demokratischen Gesellschaft lostreten. Auf <span class="typologo">Bits & Bäume</span> treffen sich Menschen aus der Umwelt- und Nachhaltigkeitsbewegung mit Menschen aus der netzpolitischen und Techie-Community sowie allen weiteren Interessierten, um gemeinsam zu diskutieren, Lösungen zu entwickeln, Aktionen auszuhecken und die Schnittstelle zwischen Digitalisierung und Nachhaltigkeit zu gestalten.</p>
+            <p>Es wird groß, und es wird Spaß machen! Meldet euch jetzt zur Konferenz am 17.+18. November 2018 an!</p>
+            <p>Es freut sich auf Euch<br>das Team des Trägerkreises von <span class="typologo">Bits & Bäume</span></p>
     </article>
     <?php } ?>
