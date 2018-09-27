@@ -73,6 +73,19 @@
               <article class="cluster">
                 <header>
                   <img class="anonymous" src="/img/poly.svg">
+                  <h2><span>Reclaim Smart City!</span></h2>
+                </header>
+                <p>Die Stadt als Ort engsten Zusammenlebens und anonymer Gesellschaft, oder auch als Ort der kurzen Wege und kultureller Vielfalt. Wie verändert die Digitalisierung Städte und wie nutzen Stände die Digitalisierung für ihre Zwecke? Eine Diskussion über urbane Ballungszentren als Techniklaboratorien globaler Player, als gemeinsam gestaltete Räume lokaler Gemeinschaften. Eine Diskussion über Veränderung und Optimierung zwischen Ressourceneffizienz, Gemeinwohl und (digitaler) Teilhabe.</p>
+                <h3>Speaker*innen:</h3>
+                <ul>
+                  <li>Eva Blum-Dumontet</li>
+                  <li>Andrej Holm</li>
+                </ul>
+              </article>
+
+              <article class="cluster">
+                <header>
+                  <img class="anonymous" src="/img/poly.svg">
                   <h2><span>Von Tech-Monopolen und IT-Giganten: Kritik des digitalen Kapitalismus</span></h2>
                 </header>
                 <p>Die digitale Wirtschaft galt lange Zeit als Nische. Doch längst sind etliche digitale Player riesige Weltkonzerne geworden. Und wirtschaftspolitische Strategien für Industrie 4.0, Big Data oder künstlicher Intelligenz möchten die Digitalisierung zum wichtigsten Wachstumsmotor des 21. Jahrhundert machen. Was sind die gesellschaftlichen Folgen dieses technischen "Fortschritts"? Wie kann sichergestellt werden, dass von ihm alle Menschen profitieren und nicht nur wenige Unternehmen? Ist das überhaupt möglich? Wie können Machtasymmetrien und Monopole verhindert werden - bei Finanzen, Marktanteilen, Datenakkumulation? Sollten große Konzerne wie Facebook oder Google gar zerschlagen oder vergesellschaftet werden? Oder ist die Digitalisierung der Wirtschaft letztlich ein Segen, weil sie gleichzeitig den Kapitalismus transformiert?</p>
