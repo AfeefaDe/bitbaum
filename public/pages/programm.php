@@ -29,7 +29,7 @@
                   <img class="anonymous" src="/img/poly.svg">
                   <h2><span>Wie schwer wiegt ein Bit?</span></h2>
                 </header>
-                <p>Ob die Zukunft unseres Planeten sozial und ökologisch nachhaltig gestaltet wird, hängt wesentlich davon ab, inwieweit es uns gelingt unseren Ressourcenverbrauch zu reduzieren. Bietet die Digitalisierung Möglichkeiten zur Gestaltung eines fairen und ökologischen Wirtschaftens? Wie wirken Energiewende und Elektromobilität in Deutschland sich auf den Globalen Süden aus, wo der überwiegende Anteil von metallischen Rohstoffen abgebaut wird?</p>
+                <p>Auf den ersten Blick verspricht Digitalisierung eine Entmaterialisierung von Produkten und Konsumweisen. Doch wie viel Ressourcen und Energie Bedarf der Aufbau digitaler Infrastrukturen sowie die Herstellung und der Betrieb von Geräten? Und wie sehen die Arbeitsbedingungen und Umweltstandards in der Produktion aus, die meist in den Ländern des globalen Südens stattfindet? In knackigen, sich ergänzenden Inputs präsentiert dieses Podium aktuelle Fakten zum ökologischen und sozialen Fußabdruck der Digitalisierung und lässt Akteure aus den Herkunftsländern der 'digitalen Sweatshops' zu Wort kommen.</p>
                 <h3>Speaker*innen:</h3>
                 <ul>
                   <li>Jenny Chan, School of Interdisciplinary Area Studies at the University of Oxford</li>
