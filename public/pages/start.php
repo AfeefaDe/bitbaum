@@ -58,7 +58,7 @@
 
         <section class="square description">
             <article>
-                <p>Die Digitalisierung kommt – aber wie? Als digitaler Wachstumsmotor, der Ressourcen verschlingt und einigen wenigen Macht und Informationen sichert? Oder als echte Chance für eine nachhaltigere und faire Zukunft? Sicher ist nur: Jetzt geht es darum, den Megatrend zu gestalten. Die Konferenz Bits & Bäume hat es sich zur Aufgabe gemacht, Netz-Aktivist/innen, Umweltbewegte und Interessierte zusammen zu bringen und gemeinsam Lösungen für eine nachhaltige Digitalisierung zu finden. Getragen wird sie von zehn Partnerorganisationen aus Umwelt- und Netzpolitik, Entwicklungszusammenarbeit und Wissenschaft.</p>
+                <p>Welche Rolle spielt Nachhaltigkeit für stabile Tech-Communities? Welche ökologischen Chancen stecken in digitalen Anwendungen etwa für Klima- und Ressourcenschutz? Welche Arten von Digitalisierung stehen diesen Zielen entgegen oder sind gar kontraproduktiv? Wie kann die digitale Gesellschaft demokratisch und gerecht gestaltet und zugleich darauf ausgerichtet sein, auf friedvolle Weise die Grundlagen unseres Lebens auf diesem Planeten zu bewahren?</p>
                 <p class="square-action"><a href="/info/<?php echo $lang; ?>">Kurzbeschreibung zur Konferenz</a></p>
                 <p class="square-action"><a href="/presse/">Presseinformationen</a></p>
             </article>
