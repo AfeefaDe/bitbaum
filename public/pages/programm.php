@@ -8,7 +8,7 @@
               <p>231 (!) Beiträge wurden beim Call for Participation eingereicht. Die Auswahl steht fest, nun basteln wir am Zeitplan. Euch erwarten Vorträge, Workshops, Panel, Fishbowl- und Podiumsdiskussionen, Worldcafés und vieles mehr. Die einzelnen Programmpunkte und den genauen Zeitplan veröffentlichen wir in Kürze.</p>
             </section>
 
-            <h2 class="foldableButton foldableButton--active" role="button" data-foldable="#programmbeitrag">Programmvorschau Hauptbühne</h2>
+            <h2 class="foldableButton foldableButton--active" role="button" data-foldable="#programmbeitrag">Programm Hauptbühne</h2>
             <section id="programmbeitrag">
               <article class="cluster">
                 <header>
@@ -45,7 +45,7 @@
                   <img class="anonymous" src="/img/poly.svg">
                   <h2><span>Digitalisierung und Degrowth. Wege zu einem enkeltauglichen Wirtschaften?</span></h2>
                 </header>
-                <p>Selbstbestimmt und bedürfnisorientiert zu produzieren und zu nutzen - das wollen Hacker*innen, Nerds, Postwachstumsbewegte, Commons-Anhänger*innen und solidarische Ökonomie-Unternehmer*innen gleichermaßen. Mithilfe von digitalen Tools ist es heute möglich, neue Formen des Wirtschaftens auszuprobieren: open source, open data, free software, peer-to-peer sharing und vieles mehr. Zugleich inspiriert das Nachhaltigkeitsdenken die Techie-Szene, um nachhaltige Geschäftsmodelle mit fairen und demokratischen Arbeitsbedingungen zu schaffen. Unter welchen Bedingungen bietet die Digitalisierung Chancen für den Übergang in eine nachhaltige, lokale und kooperative Ökonomie, die ohne Wachstumszwang auskommt? Wo sind Risiken und Grenzen solcher Möglichkeiten?</p>
+                <p>Selbstbestimmt und bedürfnisorientiert zu produzieren und zu nutzen - das wollen Hacker*innen, Nerds, Postwachstumsbewegte, Commons-Anhänger*innen und Solidarische Ökonomie-Unternehmer*innen gleichermaßen. Mithilfe von digitalen Tools ist es heute möglich, neue Formen des Wirtschaftens auszuprobieren: open source, open data, free software, peer-to-peer sharing und vieles mehr. Zugleich inspiriert das Nachhaltigkeitsdenken die Techie-Szene, um nachhaltige Geschäftsmodelle mit fairen und demokratischen Arbeitsbedingungen zu schaffen. Unter welchen Bedingungen bietet die Digitalisierung Chancen für den Übergang in eine nachhaltige, lokale und kooperative Ökonomie, die ohne Wachstumszwang auskommt? Wo sind Risiken und Grenzen solcher Möglichkeiten?</p>
                 <h3>Speaker*innen:</h3>
                 <ul>
                   <li>Johannes Heimrath, oya</li>
@@ -78,8 +78,7 @@
                 <p>Die Stadt als Ort engsten Zusammenlebens und anonymer Gesellschaft, oder auch als Ort der kurzen Wege und kultureller Vielfalt. Wie verändert die Digitalisierung Städte und wie nutzen Stände die Digitalisierung für ihre Zwecke? Eine Diskussion über urbane Ballungszentren als Techniklaboratorien globaler Player, als gemeinsam gestaltete Räume lokaler Gemeinschaften. Eine Diskussion über Veränderung und Optimierung zwischen Ressourceneffizienz, Gemeinwohl und (digitaler) Teilhabe.</p>
                 <h3>Speaker*innen:</h3>
                 <ul>
-                  <li>Eva Blum-Dumontet</li>
-                  <li>Andrej Holm</li>
+                  <li>Eva Blum-Dumontet, Privacy International</li>
                 </ul>
               </article>
 
@@ -108,7 +107,7 @@
                 <p>Analog ist das neue bio, meinen die einen. Vernetzung und schlaue Algorithmen sind der beste Weg zur Nachhaltigkeit, so die anderen. Haben ‘Techies' und ‘Ökos’, auch wenn sie beide für eine bessere Welt kämpfen, vielleicht ganz unterschiedliche Annahmen über die Natur von Mensch, Technik und Gesellschaft? Wie digital wird die ideale Gesellschaft von Morgen sein, wenn in ihr tatsächlich alle Menschen in Würde leben und die Grenzen des Planeten eingehalten werden?</p>
                 <h3>Speaker*innen:</h3>
                 <ul>
-                  <li>Chris de Decker, Low-Tech Magazine, Niederlande</li>
+                  <li>Kris de Decker, Low-Tech Magazine, Niederlande</li>
                   <li>Alexander Pschera, Buchautor</li>
                   <li>Harald Welzer, Stiftung Futur</li>
                   <li>Angelika Zahrnt, Bund für Umwelt und Naturschutz Deutschland</li>
@@ -120,8 +119,7 @@
             <h2 class="foldableButton" role="button" data-foldable="#forum">Forum (kreative Fläche auf dem
                 Konferenzareal)</h2>
             <section id="forum" class="foldableContent--hidden">
-              <p>An beiden Tagen präsentieren sich über das konkrete Programm hinaus sozial-ökologisch/technisch/aktivistische ausgerichtete Initiativen, Vereine, Organisationen und Netzwerke in unserem Forum, sodass ein gemeinsamer Ort des Austauschs entstehen kann. 
-Angaben über die Forums-Teilnehmenden folgen in Kürze.</p>
+              <p>An beiden Tagen präsentieren sich über das konkrete Programm hinaus sozial-ökologisch/technisch/aktivistische ausgerichtete Initiativen, Vereine, Organisationen und Netzwerke in unserem Forum, sodass ein gemeinsamer Ort des Austauschs entstehen kann. Zugesagt haben u.a. Electronics Watch, Mundraub, Transformation Design Kitchen, Fairmove IT, Grüne Liga, Foundation Europe, OpenSourceEcology, Stadt Land Smart, Travel Transform, Sukuma, Robin Wood, Nager IT, Freifunk, Hostsharing e.G., nachhaltig.digital.</p>
             </section>
             <h2 class="foldableButton" role="button" data-foldable="#sporangium">Das <em>Bits &
                     Bäume-Sporangium</em>
