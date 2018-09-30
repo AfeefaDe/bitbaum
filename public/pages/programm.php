@@ -29,7 +29,7 @@
                   <img class="anonymous" src="/img/poly.svg">
                   <h2><span>Wie schwer wiegt ein Bit?</span></h2>
                 </header>
-                <p>Auf den ersten Blick verspricht Digitalisierung eine Entmaterialisierung von Produkten und Konsumweisen. Doch wie viel Ressourcen und Energie Bedarf der Aufbau digitaler Infrastrukturen sowie die Herstellung und der Betrieb von Geräten? Und wie sehen die Arbeitsbedingungen und Umweltstandards in der Produktion aus, die meist in den Ländern des globalen Südens stattfindet? In knackigen, sich ergänzenden Inputs präsentiert dieses Podium aktuelle Fakten zum ökologischen und sozialen Fußabdruck der Digitalisierung und lässt Akteure aus den Herkunftsländern der 'digitalen Sweatshops' zu Wort kommen.</p>
+                <p>Auf den ersten Blick verspricht Digitalisierung eine Entmaterialisierung von Produkten und Konsumweisen. Doch wie viel Ressourcen und Energie Bedarf der Aufbau digitaler Infrastrukturen sowie die Herstellung und der Betrieb von Geräten? Und wie sehen die Arbeitsbedingungen und Umweltstandards in der Produktion aus, die meist in den Ländern des globalen Südens stattfindet? In knackigen, sich ergänzenden Inputs präsentiert dieses Podium aktuelle Fakten zum ökologischen und sozialen Fußabdruck der Digitalisierung und lässt Akteure aus den Herkunftsländern der "digitalen Sweatshops" zu Wort kommen.</p>
                 <h3>Speaker*innen:</h3>
                 <ul>
                   <li>Jenny Chan, School of Interdisciplinary Area Studies at the University of Oxford</li>
@@ -104,7 +104,7 @@
                   <h2><span>Philosophischer Salon: Wie digital wird eine wirklich zukunftsfähige Gesellschaft sein?</span></h2>
                 </header>
                 <h3>Fishbowl Diskussion</h3>
-                <p>Analog ist das neue bio, meinen die einen. Vernetzung und schlaue Algorithmen sind der beste Weg zur Nachhaltigkeit, so die anderen. Haben ‘Techies' und ‘Ökos’, auch wenn sie beide für eine bessere Welt kämpfen, vielleicht ganz unterschiedliche Annahmen über die Natur von Mensch, Technik und Gesellschaft? Wie digital wird die ideale Gesellschaft von Morgen sein, wenn in ihr tatsächlich alle Menschen in Würde leben und die Grenzen des Planeten eingehalten werden?</p>
+                <p>Analog ist das neue bio, meinen die einen. Vernetzung und schlaue Algorithmen sind der beste Weg zur Nachhaltigkeit, so die anderen. Haben "Techies" und "Ökos", auch wenn sie beide für eine bessere Welt kämpfen, vielleicht ganz unterschiedliche Annahmen über die Natur von Mensch, Technik und Gesellschaft? Wie digital wird die ideale Gesellschaft von Morgen sein, wenn in ihr tatsächlich alle Menschen in Würde leben und die Grenzen des Planeten eingehalten werden?</p>
                 <h3>Speaker*innen:</h3>
                 <ul>
                   <li>Kris de Decker, Low-Tech Magazine, Niederlande</li>
