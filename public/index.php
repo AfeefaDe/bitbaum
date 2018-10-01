@@ -1,4 +1,7 @@
 <?php
+header('Cache-Control: no-cache');
+header('Pragma: no-cache');
+
 $route = explode("/", $_SERVER['REQUEST_URI']);
 $pages_permitted = ["anmelden", "datenschutz", "programm", "programm-frab", "impressum", "info", "ziele", "presse"];
 $langs_permitted = ["de", "en"];
@@ -56,6 +59,7 @@ default: ?>
     <meta name="viewport" content="initial-scale=1">
     <meta name="viewport" content="initial-scale=1">
     <meta name="referrer" content="same-origin">
+    <meta http-equiv="Pragma" content="no-cache">
     <?php require('components/meta_descriptions.php'); ?>
     <?php require('components/embeds.php'); ?>
 </head>
