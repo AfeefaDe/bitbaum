@@ -38,7 +38,7 @@
 
         <section class="switch program">
           <h4>Programm</h4>
-          <p>Euch erwarten Vorträge, Workshops, Panel, Fishbowl- und Podiumsdiskussionen, Worldcafés, ein buntes Forum und vieles mehr. Genaue Programmpunkte folgen in Kürze.</p>
+          <p>Euch erwarten Vorträge, Workshops, Panels, Fishbowl- und Podiumsdiskussionen, Worldcafés, ein buntes Forum und vieles mehr. Genaue Programmpunkte folgen in Kürze.</p>
           <?php #require('components/frab-highlights.php'); ?>
           <!-- <p class="square-action square-action--right"><a href="/programm-frab">Programm ansehen</a></p> -->
         </section>
