@@ -33,7 +33,7 @@
                 specific projects from the organization committee co-financed by the
                 <a href="https://www.bmbf.de" target="_blank">Federal Ministry of Education and Research (BMBF)</a>.
             </p>
-            <a href="https://www.dbu.de" target="_blank"><img src="/img/logo-dbu.png" title="Deutsche Bundesstiftung Umwelt (DBU)"></a>
+            <a href="https://www.dbu.de" target="_blank"><img class="no-hover" src="/img/logo-dbu.png" title="Deutsche Bundesstiftung Umwelt (DBU)"></a>
             <!-- <a href="https://www.bmbf.de" target="_blank"><img src="/img/logo-bmbf.svg" title="Bundesministerium für Bildung und Forschung (BMBF)"></a> -->
             <?php
             break;
@@ -71,7 +71,7 @@
                 <a href="https://www.bmbf.de" target="_blank">Bundesministerium für Bildung und Forschung (BMBF)</a>
                 kofinanziert.
             </p>
-            <a href="https://www.dbu.de" target="_blank"><img src="/img/logo-dbu.png" title="Deutsche Bundesstiftung Umwelt (DBU)"></a>
+            <a href="https://www.dbu.de" target="_blank"><img class="no-hover" src="/img/logo-dbu.png" title="Deutsche Bundesstiftung Umwelt (DBU)"></a>
             <!-- <a href="https://www.bmbf.de" target="_blank"><img src="/img/logo-bmbf.svg" title="Bundesministerium für Bildung und Forschung (BMBF)"></a> -->
         <?php } ?>
 
