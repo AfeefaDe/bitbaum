@@ -1,5 +1,7 @@
 <?php
-header('Cache-Control: no-cache');
+header('Expires: Mon, 26 Jul 1997 05:00:00 GMT'); 
+header('Cache-Control: no-store, no-cache, must-revalidate');
+header('Cache-Control: post-check=0, pre-check=0', FALSE);
 header('Pragma: no-cache');
 
 $route = explode("/", $_SERVER['REQUEST_URI']);
@@ -59,6 +61,7 @@ default: ?>
     <meta name="viewport" content="initial-scale=1">
     <meta name="viewport" content="initial-scale=1">
     <meta name="referrer" content="same-origin">
+    <meta http-equiv="expires" content="Mon, 26 Jul 1997 05:00:00 GMT"/>
     <meta http-equiv="Pragma" content="no-cache">
     <?php require('components/meta_descriptions.php'); ?>
     <?php require('components/embeds.php'); ?>
