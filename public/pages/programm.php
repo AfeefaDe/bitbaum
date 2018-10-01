@@ -19,8 +19,8 @@
           <p>The Opening Panel introduces the key questions behind the conference Bits & Bäume, launches the two-day Program and explains why now is a historic moment to raise the issue of digitalization and sustainability to the public and political agenda through an open networking conference!</p>
           <h3>Speakers:</h3>
           <ul>
+            <li>Tilman Santarius, Technical University Berlin and Institute for Ecological Economic Research</li>
             <li>Constanze Kurz, Chaos Computer Club</li>
-            <li>Prof. Tilman Santarius, Technical University Berlin and Institute for Ecological Economic Research</li>
             <li>Jean Ziegler, UN Human Rights Council, Switzerland (inquired)</li>
           </ul>
         </article>
@@ -160,11 +160,11 @@
                   <img class="anonymous" src="/img/poly.svg">
                   <h2><span>Eröffnungspanel</span></h2>
                 </header>
-                <p>Bislang agieren Techies und Ökos, Nachhaltigkeitsbewegte und digitale Menschenrechtler*innen oft nebeneinander her. Warum bringt Bits & Bäume diese communities nun zusammen? Wie kann Digitalisierung zur nachhaltigen Transformation der Gesellschaft und des Wirtschaftens beitragen? Wie kann Nachhaltigkeitsdenken die Techie-Szene inspirieren, sodass die Digitalisierung langfristig Bürgerrechte und individuelle Freiheiten garantiert? Das Eröffnungspodium stellt die Leitfragen hinter der Konferenz „Bits & Bäume“ vor, führt in das zweitägige Programm ein und erklärt, warum jetzt der historische Moment ist, um in einer offenen Vernetzungskonferenz das Thema Digitalisierung und Nachhaltigkeit auf die öffentliche und politische Agenda zu hieven!</p>
+                <p>Bislang agieren Techies und Ökos, Nachhaltigkeitsbewegte und digitale Menschenrechtler*innen oft nebeneinander her. Warum bringt Bits & Bäume diese Communities nun zusammen? Wie kann Digitalisierung zur nachhaltigen Transformation der Gesellschaft und des Wirtschaftens beitragen? Wie kann Nachhaltigkeitsdenken die Techie-Szene inspirieren, sodass die Digitalisierung langfristig Bürgerrechte und individuelle Freiheiten garantiert? Das Eröffnungspodium stellt die Leitfragen hinter der Konferenz „Bits & Bäume“ vor, führt in das zweitägige Programm ein und erklärt, warum jetzt der historische Moment ist, um in einer offenen Vernetzungskonferenz das Thema Digitalisierung und Nachhaltigkeit auf die öffentliche und politische Agenda zu hieven!</p>
                 <h3>Speaker*innen:</h3>
                 <ul>
+                  <li>Tilman Santarius, Technische Universität Berlin und Institut für ökologische Wirtschaftsforschung</li>
                   <li>Constanze Kurz, Chaos Computer Club</li>
-                  <li>Prof. Tilman Santarius, Technische Universität Berlin und Institut für ökologische Wirtschaftsforschung</li>
                   <li>Jean Ziegler, UN Menschrechtsrat, Schweiz (angefragt)</li>
                 </ul>
               </article>
