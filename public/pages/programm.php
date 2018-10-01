@@ -33,11 +33,11 @@
           <p>At first glance, digitalization promises dematerialization of products and consumption patterns. But what quantity of resources and energy is needed to set up digital infrastructures as well as to manufacture and operate machinery? And what about the working conditions and environmental standards of production, which mostly takes place in the countries of the global South? In crisp, complementary inputs, this podium presents current facts on the ecological and social footprint of digitization and lets actors originating from the 'digital sweatshops' countries have their say.</p>
           <h3>Speakers:</h3>
           <ul>
-            <li>Jenny Chan, School of Interdisciplinary Area Studies at the University of Oxford</li>
+            <li>Jenny Chan, "Dying for the iPhone" and University of Oxford, Great Britain</li>
+            <li>Claude Kabemba, Southern Africa Resource Watch, South Africa</li>
+            <li>Sabine Langkau, Fraunhofer-Institut für System- und Innovationsforschung ISI</li>
+            <li>Johanna Pohl, Technische Universität Berlin und Forschungsgruppe „Digitalisierung und sozial-ökologische Transformation“</li>
             <li>Simon Hinterholzer, Borderstep Institute for Innovation and Sustainability</li>
-            <li>Claude Kabemba, Southern Africa Resource Watch</li>
-            <li>Sabine Langkau, Fraunhofer ISI</li>
-            <li>Johanna Pohl, TU Berlin und Forschungsgruppe "Digitalisierung und sozial-ökologische Transformation"</li>
           </ul>
         </article>
 
@@ -65,7 +65,7 @@
           <h3>Speakers:</h3>
           <ul>
             <li>Cathleen Berger, Mozilla</li>
-            <li>Annie Leonard, Greenpeace USA</li>
+            <li>Annie Leonard, Greenpeace USA (inquired)</li>
             <li>Luis Neves, Global e-Sustainability Initiative</li>
             <li>Ingmar Streese, Federal Consumer Association</li>
           </ul>
@@ -76,7 +76,7 @@
             <img class="anonymous" src="/img/poly.svg">
             <h2><span>Reclaim Smart City!</span></h2>
           </header>
-          <p>Die Stadt als Ort engsten Zusammenlebens und anonymer Gesellschaft, oder auch als Ort der kurzen Wege und kultureller Vielfalt. Wie verändert die Digitalisierung Städte und wie nutzen Stände die Digitalisierung für ihre Zwecke? Eine Diskussion über urbane Ballungszentren als Techniklaboratorien globaler Player, als gemeinsam gestaltete Räume lokaler Gemeinschaften. Eine Diskussion über Veränderung und Optimierung zwischen Ressourceneffizienz, Gemeinwohl und (digitaler) Teilhabe.</p>
+          <p>The city as a place of closest coexistence and anonymous society, or as a place of short distances and cultural diversity. How is digitization changing cities and how are can we use digitization for our own purposes? A discussion on urban agglomerations as technology laboratories of global players, as shared spaces of local communities. A discussion on change and optimization between resource efficiency, the common good and (digital) participation.</p>
           <h3>Speaker*innen:</h3>
           <ul>
             <li>Eva Blum-Dumontet, Privacy International</li>
@@ -91,10 +91,10 @@
           <p>The digital economy has long been considered a niche. In the meantime, many digital players have become huge global concerns. And economic policy strategies for Industry 4.0, big data or artificial intelligence want to make digitization the most important engine of growth in the 21st century. What are the social consequences of this technical "progress"? How can we ensure that all and not just a few people benefit from it? Is that even possible? How can power asymmetries and monopolies be prevented - in terms of accumulation of finances, market shares and data? Should big corporations like Facebook or Google be completely dissolved or socialized? Or is the digitization of the economy ultimately a blessing because it simultaneously transforms capitalism?</p>
           <h3>Speakers:</h3>
           <ul>
-            <li>Katharina Beck, Accenture Strategy - Sustainability</li>
-            <li>Friederike Habermann, freelance author and activist</li>
-            <li>Pat Mooney, Etc Group</li>
+            <li>Pat Mooney, Etc Group, Canada</li>
             <li>Frank Rieger, Chaos Computer Club</li>
+            <li>Friederike Habermann, freelance author and activist</li>
+            <li>Katharina Beck, Accenture Strategy – Sustainability</li>
           </ul>
           <p><strong>Moderation:</strong> Steffen Lange, Institute for Ecological Economic Research</p>
         </article>
@@ -108,11 +108,26 @@
           <p>Some claim - analog is the new bio. Networking and smart algorithms are the best way to sustainability – say others. Although they both fight for a better world, could it be that 'techies' and 'ecos' have vastly different assumptions about the nature of humankind, technology and society? How digital will the ideal society of tomorrow be, when all people finally live in dignity and the limits of the planet are respected?</p>
           <h3>Speakers:</h3>
           <ul>
-            <li>Kris de Decker, Low Tech Magazine, Netherlands</li>
-            <li>Alexander Pschera, author</li>
-            <li>Harald Welzer, Futur Foundation</li>
             <li>Angelika Zahrnt, Federation for Environment and Nature Conservation Germany</li>
+            <li>Kris de Decker, Low Tech Magazine, Netherlands</li>
+            <li>Harald Welzer, Futur Foundation</li>
           </ul>
+        </article>
+
+        <article class="cluster">
+          <header>
+            <img class="anonymous" src="/img/poly.svg">
+            <h2><span>Sporangium</span></h2>
+          </header>
+          <p>Like <a href='https://www.spektrum.de/news/sporenkatapult-des-farns-ergruendet/1145522' target='_blank'>fern spores shoot out of their capsule into the world at up to 10m/s</a> to find fertile ground, our 8 contributors will share their nerd and expert knowledge – in a spectacular, effective and entertaining way. As colorful as the best slams, as dense as the best lightning talks.</p>
+          <h3>Unter anderem mit:</h3>
+          <ul>
+            <li>Arne Semsrott</li>
+            <li>Benjamin Kees</li>
+            <li>Katika Kühnreich</li>
+            <li>Leon Kaiser</li>
+          </ul>
+          <p><strong>Moderation:</strong> Juliane Krüger & Rainer Rehak</p>
         </article>
 
       </section>
@@ -120,14 +135,6 @@
       <h2 class="foldableButton" role="button" data-foldable="#forum">Forum (creative space on the conference area)</h2>
       <section id="forum" class="foldableContent--hidden">
         <p>An beiden Tagen präsentieren sich über das konkrete Programm hinaus sozial-ökologisch/technisch/aktivistische ausgerichtete Initiativen, Vereine, Organisationen und Netzwerke in unserem Forum, sodass ein gemeinsamer Ort des Austauschs entstehen kann. Zugesagt haben u.a. Electronics Watch, Mundraub, Transformation Design Kitchen, Fairmove IT, Grüne Liga, Foundation Europe, OpenSourceEcology, Stadt Land Smart, Travel Transform, Sukuma, Robin Wood, Nager IT, Freifunk, Hostsharing e.G., nachhaltig.digital.</p>
-      </section>
-      <h2 class="foldableButton" role="button" data-foldable="#sporangium">The <em>Bits & Bäume-Sporangium</em> (special format)</h2>
-      <section id="sporangium" class="foldableContent--hidden">
-          <p>So wie Farnpflanzen ihre
-              <a href='https://www.spektrum.de/news/sporenkatapult-des-farns-ergruendet/1145522' target='_blank'>
-                  Sporen aus der Kapsel mit bis zu 10m/s heraus in die Welt katapultieren</a>,
-              auf dass sie dort auf fruchtbaren Boden fallen, wollen wir zur Primetime am Samstagabend
-              spektakulär, wirkungsvoll und unterhaltsam unser Nerd- und Fach-Wissen weitergeben! Seid gespannt auf anspornende (!), informative und zugleich unterhaltende Expert*innen-Vorträge im 8 Minuten Format.</p>
       </section>
 
       <hr>
@@ -177,12 +184,13 @@
                 <p>Auf den ersten Blick verspricht Digitalisierung eine Entmaterialisierung von Produkten und Konsumweisen. Doch wie viel Ressourcen und Energie Bedarf der Aufbau digitaler Infrastrukturen sowie die Herstellung und der Betrieb von Geräten? Und wie sehen die Arbeitsbedingungen und Umweltstandards in der Produktion aus, die meist in den Ländern des globalen Südens stattfindet? In knackigen, sich ergänzenden Inputs präsentiert dieses Podium aktuelle Fakten zum ökologischen und sozialen Fußabdruck der Digitalisierung und lässt Akteure aus den Herkunftsländern der "digitalen Sweatshops" zu Wort kommen.</p>
                 <h3>Speaker*innen:</h3>
                 <ul>
-                  <li>Jenny Chan, School of Interdisciplinary Area Studies at the University of Oxford</li>
+                  <li>Jenny Chan, "Dying for the iPhone" und University of Oxford, Großbritannien</li>
+                  <li>Claude Kabemba, Southern Africa Resource Watch, Südafrika</li>
+                  <li>Sabine Langkau, Fraunhofer-Institut für System- und Innovationsforschung ISI</li>
+                  <li>Johanna Pohl, Technische Universität Berlin und Forschungsgruppe „Digitalisierung und sozial-ökologische Transformation“</li>
                   <li>Simon Hinterholzer, Borderstep Institut für Innovation und Nachhaltigkeit</li>
-                  <li>Claude Kabemba, Southern Africa Resource Watch</li>
-                  <li>Sabine Langkau, Fraunhofer ISI</li>
-                  <li>Johanna Pohl, TU Berlin und Forschungsgruppe "Digitalisierung und sozial-ökologische Transformation"</li>
                 </ul>
+                <p><strong>Moderation:</strong> Sven Hilbig, Brot für die Welt</p>
               </article>
 
               <article class="cluster">
@@ -190,11 +198,11 @@
                   <img class="anonymous" src="/img/poly.svg">
                   <h2><span>Digitalisierung und Degrowth. Wege zu einem enkeltauglichen Wirtschaften?</span></h2>
                 </header>
-                <p>Selbstbestimmt und bedürfnisorientiert zu produzieren und zu nutzen - das wollen Hacker*innen, Nerds, Postwachstumsbewegte, Commons-Anhänger*innen und Solidarische Ökonomie-Unternehmer*innen gleichermaßen. Mithilfe von digitalen Tools ist es heute möglich, neue Formen des Wirtschaftens auszuprobieren: open source, open data, free software, peer-to-peer sharing und vieles mehr. Zugleich inspiriert das Nachhaltigkeitsdenken die Techie-Szene, um nachhaltige Geschäftsmodelle mit fairen und demokratischen Arbeitsbedingungen zu schaffen. Unter welchen Bedingungen bietet die Digitalisierung Chancen für den Übergang in eine nachhaltige, lokale und kooperative Ökonomie, die ohne Wachstumszwang auskommt? Wo sind Risiken und Grenzen solcher Möglichkeiten?</p>
+                <p>Selbstbestimmt und bedürfnisorientiert zu produzieren und zu nutzen – das wollen Hacker*innen, Nerds, Postwachstumsbewegte, Commons-Anhänger*innen und Solidarische Ökonomie-Unternehmer*innen gleichermaßen. Mithilfe von digitalen Tools ist es heute möglich, neue Formen des Wirtschaftens auszuprobieren: Open Source, Open Data, Free Software, Peer-to-peer-Sharing und vieles mehr. Zugleich inspiriert das Nachhaltigkeitsdenken die Techie-Szene, um nachhaltige Geschäftsmodelle mit fairen und demokratischen Arbeitsbedingungen zu schaffen. Unter welchen Bedingungen bietet die Digitalisierung Chancen für den Übergang in eine nachhaltige, lokale und kooperative Ökonomie, die ohne Wachstumszwang auskommt? Wo sind Risiken und Grenzen solcher Möglichkeiten?</p>
                 <h3>Speaker*innen:</h3>
                 <ul>
-                  <li>Johannes Heimrath, oya</li>
                   <li>Silke Helfrich, Commons Strategies Group</li>
+                  <li>Johannes Heimrath, oya</li>
                   <li>Frank Karlitschek, Nextcloud</li>
                 </ul>
                 <p><strong>Moderation:</strong> Andrea Vetter, Konzeptwerk neue Ökonomie</p>
@@ -203,13 +211,13 @@
               <article class="cluster">
                 <header>
                   <img class="anonymous" src="/img/poly.svg">
-                  <h2><span>Wie viele Daten kostet die Rettung der Welt?</span></h2>
+                  <h2><span>Datenschutz und digitale Rettung der Welt - Wo verlaufen die roten Linien?</span></h2>
                 </header>
                 <p>Digitale Technologien bieten Chancen für Klima- und Umweltschutz, da sie die dringend erforderlichen Energie-, Verkehrs- und Konsumwenden vorantreiben können. Gleichzeitig birgt die Erhebung und Nutzung persönlicher Daten durch Firmen und Dienstleister die Gefahr, gesellschaftliche Machtasymmetrien und Monopolisierungen zu befördern. Es ist nicht zielführend, Potenziale für Nachhaltigkeit und Effizienzsteigerung gegen Datenschutzaspekte auszuspielen. Wie lassen sich die Kernanliegen der Nachhaltigkeitsbewegung mit den Kernanliegen der Techie-Szene sinnvoll zusammendenken? Und welche politischen Forderungen erwachsen daraus?</p>
                 <h3>Speaker*innen:</h3>
                 <ul>
                   <li>Cathleen Berger, Mozilla</li>
-                  <li>Annie Leonard, Greenpeace USA</li>
+                  <li>Annie Leonard, Greenpeace USA (angefragt)</li>
                   <li>Luis Neves, Global e-Sustainability Initiative</li>
                   <li>Ingmar Streese, Verbraucherzentrale Bundesverband</li>
                 </ul>
@@ -220,7 +228,7 @@
                   <img class="anonymous" src="/img/poly.svg">
                   <h2><span>Reclaim Smart City!</span></h2>
                 </header>
-                <p>Die Stadt als Ort engsten Zusammenlebens und anonymer Gesellschaft, oder auch als Ort der kurzen Wege und kultureller Vielfalt. Wie verändert die Digitalisierung Städte und wie nutzen Stände die Digitalisierung für ihre Zwecke? Eine Diskussion über urbane Ballungszentren als Techniklaboratorien globaler Player, als gemeinsam gestaltete Räume lokaler Gemeinschaften. Eine Diskussion über Veränderung und Optimierung zwischen Ressourceneffizienz, Gemeinwohl und (digitaler) Teilhabe.</p>
+                <p>Die Stadt als Ort engsten Zusammenlebens und anonymer Gesellschaft – oder auch als Ort der kurzen Wege und kultureller Vielfalt. Wie verändert die Digitalisierung Städte und wie nutzen Städte die Digitalisierung für ihre Zwecke? Eine Diskussion über urbane Ballungszentren als Techniklaboratorien globaler Player, als gemeinsam gestaltete Räume lokaler Gemeinschaften. Eine Diskussion über Veränderung und Optimierung zwischen Ressourceneffizienz, Gemeinwohl und (digitaler) Teilhabe.</p>
                 <h3>Speaker*innen:</h3>
                 <ul>
                   <li>Eva Blum-Dumontet, Privacy International</li>
@@ -232,13 +240,13 @@
                   <img class="anonymous" src="/img/poly.svg">
                   <h2><span>Von Tech-Monopolen und IT-Giganten: Kritik des digitalen Kapitalismus</span></h2>
                 </header>
-                <p>Die digitale Wirtschaft galt lange Zeit als Nische. Doch längst sind etliche digitale Player riesige Weltkonzerne geworden. Und wirtschaftspolitische Strategien für Industrie 4.0, Big Data oder künstlicher Intelligenz möchten die Digitalisierung zum wichtigsten Wachstumsmotor des 21. Jahrhundert machen. Was sind die gesellschaftlichen Folgen dieses technischen "Fortschritts"? Wie kann sichergestellt werden, dass von ihm alle Menschen profitieren und nicht nur wenige Unternehmen? Ist das überhaupt möglich? Wie können Machtasymmetrien und Monopole verhindert werden - bei Finanzen, Marktanteilen, Datenakkumulation? Sollten große Konzerne wie Facebook oder Google gar zerschlagen oder vergesellschaftet werden? Oder ist die Digitalisierung der Wirtschaft letztlich ein Segen, weil sie gleichzeitig den Kapitalismus transformiert?</p>
+                <p>Die digitale Wirtschaft galt lange Zeit als Nische. Doch längst sind etliche digitale Player riesige Weltkonzerne geworden. Und wirtschaftspolitische Strategien für Industrie 4.0, Big Data oder künstliche Intelligenz möchten die Digitalisierung zum wichtigsten Wachstumsmotor des 21. Jahrhundert machen. Was sind die gesellschaftlichen Folgen dieses technischen “Fortschritts“? Wie kann sichergestellt werden, dass von ihm alle Menschen profitieren und nicht nur wenige Unternehmen? Ist das überhaupt möglich? Wie können Machtasymmetrien und Monopole verhindert werden – bei Finanzen, Marktanteilen, Datenakkumulation? Sollten große Konzerne wie Facebook oder Google gar zerschlagen oder vergesellschaftet werden? Oder ist die Digitalisierung der Wirtschaft letztlich ein Segen, weil sie gleichzeitig den Kapitalismus transformiert?</p>
                 <h3>Speaker*innen:</h3>
                 <ul>
-                  <li>Katharina Beck, Accenture Strategy - Sustainability</li>
-                  <li>Friederike Habermann, freie Autorin und Aktivistin</li>
-                  <li>Pat Mooney, Etc Group</li>
+                  <li>Pat Mooney, Etc Group, Kanada</li>
                   <li>Frank Rieger, Chaos Computer Club</li>
+                  <li>Friederike Habermann, freie Autorin und Aktivistin</li>
+                  <li>Katharina Beck, Accenture Strategy – Sustainability</li>
                 </ul>
                 <p><strong>Moderation:</strong> Steffen Lange, Institut für ökologische Wirtschaftsforschung</p>
               </article>
@@ -248,15 +256,30 @@
                   <img class="anonymous" src="/img/poly.svg">
                   <h2><span>Philosophischer Salon: Wie digital wird eine wirklich zukunftsfähige Gesellschaft sein?</span></h2>
                 </header>
-                <h3>Fishbowl Diskussion</h3>
-                <p>Analog ist das neue bio, meinen die einen. Vernetzung und schlaue Algorithmen sind der beste Weg zur Nachhaltigkeit, so die anderen. Haben "Techies" und "Ökos", auch wenn sie beide für eine bessere Welt kämpfen, vielleicht ganz unterschiedliche Annahmen über die Natur von Mensch, Technik und Gesellschaft? Wie digital wird die ideale Gesellschaft von Morgen sein, wenn in ihr tatsächlich alle Menschen in Würde leben und die Grenzen des Planeten eingehalten werden?</p>
+                <h3>Fishbowl-Diskussion</h3>
+                <p>Analog ist das neue bio, meinen die einen. Vernetzung und schlaue Algorithmen sind der beste Weg zur Nachhaltigkeit, so die anderen. Haben „Techies“ und „Ökos“, auch wenn sie beide für eine bessere Welt kämpfen, vielleicht ganz unterschiedliche Annahmen über die Natur von Mensch, Technik und Gesellschaft? Wie digital wird die ideale Gesellschaft von Morgen sein, wenn in ihr tatsächlich alle Menschen in Würde leben und die Grenzen des Planeten eingehalten werden?</p>
                 <h3>Speaker*innen:</h3>
                 <ul>
-                  <li>Kris de Decker, Low-Tech Magazine, Niederlande</li>
-                  <li>Alexander Pschera, Buchautor</li>
-                  <li>Harald Welzer, Stiftung Futur</li>
                   <li>Angelika Zahrnt, Bund für Umwelt und Naturschutz Deutschland</li>
+                  <li>Kris de Decker, Low-Tech Magazine, Niederlande</li>
+                  <li>Harald Welzer, Stiftung Futur</li>
                 </ul>
+              </article>
+
+              <article class="cluster">
+                <header>
+                  <img class="anonymous" src="/img/poly.svg">
+                  <h2><span>Sporangium</span></h2>
+                </header>
+                <p>So wie Farnpflanzen ihre <a href='https://www.spektrum.de/news/sporenkatapult-des-farns-ergruendet/1145522' target='_blank'>Sporen aus der Kapsel mit bis zu 10m/s heraus in die Welt katapultieren</a>, auf dass sie dort auf fruchtbaren Boden fallen, werden unsere 8 Expert*innen ihr Nerd- und Fach-Wissen weitergeben – spektakulär, wirkungsvoll und unterhaltsam. So bunt wie die besten Slams, so dicht wie die besten Lightning Talks.</p>
+                <h3>Unter anderem mit:</h3>
+                <ul>
+                  <li>Arne Semsrott</li>
+                  <li>Benjamin Kees</li>
+                  <li>Katika Kühnreich</li>
+                  <li>Leon Kaiser</li>
+                </ul>
+                <p><strong>Moderation:</strong> Juliane Krüger & Rainer Rehak</p>
               </article>
 
             </section>
@@ -266,20 +289,10 @@
             <section id="forum" class="foldableContent--hidden">
               <p>An beiden Tagen präsentieren sich über das konkrete Programm hinaus sozial-ökologisch/technisch/aktivistische ausgerichtete Initiativen, Vereine, Organisationen und Netzwerke in unserem Forum, sodass ein gemeinsamer Ort des Austauschs entstehen kann. Zugesagt haben u.a. Electronics Watch, Mundraub, Transformation Design Kitchen, Fairmove IT, Grüne Liga, Foundation Europe, OpenSourceEcology, Stadt Land Smart, Travel Transform, Sukuma, Robin Wood, Nager IT, Freifunk, Hostsharing e.G., nachhaltig.digital.</p>
             </section>
-            <h2 class="foldableButton" role="button" data-foldable="#sporangium">Das <em>Bits &
-                    Bäume-Sporangium</em>
-                (Sonderformat)</h2>
-            <section id="sporangium" class="foldableContent--hidden">
-                <p>So wie Farnpflanzen ihre
-                    <a href='https://www.spektrum.de/news/sporenkatapult-des-farns-ergruendet/1145522' target='_blank'>
-                        Sporen aus der Kapsel mit bis zu 10m/s heraus in die Welt katapultieren</a>,
-                    auf dass sie dort auf fruchtbaren Boden fallen, wollen wir zur Primetime am Samstagabend
-                    spektakulär, wirkungsvoll und unterhaltsam unser Nerd- und Fach-Wissen weitergeben! Seid gespannt auf anspornende (!), informative und zugleich unterhaltende Expert*innen-Vorträge im 8 Minuten Format.</p>
-            </section>
 
             <hr>
 
-            <p>Bei Fragen wendet ihr euch bitte an <span class="mail_replace_info"></span>
+            <p>Bei Fragen wendet euch gerne an <span class="mail_replace_info"></span>
             <noscript><em>(Sorry. Aktiviere JavaScript, um die E-Mailadresse zu sehen.)</em></noscript>
             </p>
             <p>Bei konkreten Fragen zu Programmbeiträgen, Forumsfläche und Sporangium helfen euch unsere einzelnen Teams gerne weiter:
