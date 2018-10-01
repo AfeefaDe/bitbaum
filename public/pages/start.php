@@ -49,7 +49,7 @@
                 <p>Alternatives Wirtschaften</p>
                 <p>Umwelt- und Netzpolitik</p>
                 <p>Digitale Infrastrukturen</p>
-                <p>Grundsatzfragen</p>
+                <p>Die ganz großen Fragen</p>
                 <p class="square-action align-center">
                     <a href="/programm/<?php echo $lang; ?>" class="button">Zur ersten Programmvorschau</a>
                 </p>
