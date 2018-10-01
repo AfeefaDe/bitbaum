@@ -181,7 +181,7 @@
                   <img class="anonymous" src="/img/poly.svg">
                   <h2><span>Wie schwer wiegt ein Bit?</span></h2>
                 </header>
-                <p>Auf den ersten Blick verspricht Digitalisierung eine Entmaterialisierung von Produkten und Konsumweisen. Doch wie viel Ressourcen und Energie Bedarf der Aufbau digitaler Infrastrukturen sowie die Herstellung und der Betrieb von Geräten? Und wie sehen die Arbeitsbedingungen und Umweltstandards in der Produktion aus, die meist in den Ländern des globalen Südens stattfindet? In knackigen, sich ergänzenden Inputs präsentiert dieses Podium aktuelle Fakten zum ökologischen und sozialen Fußabdruck der Digitalisierung und lässt Akteure aus den Herkunftsländern der "digitalen Sweatshops" zu Wort kommen.</p>
+                <p>Auf den ersten Blick verspricht Digitalisierung eine Entmaterialisierung von Produkten und Konsumweisen. Doch wie viel Ressourcen und Energie Bedarf der Aufbau digitaler Infrastrukturen sowie die Herstellung und der Betrieb von Geräten? Und wie sehen die Arbeitsbedingungen und Umweltstandards in der Produktion aus, die meist in den Ländern des globalen Südens stattfindet? In knackigen, sich ergänzenden Inputs präsentiert dieses Podium aktuelle Fakten zum sozialen und ökologischen Fußabdruck der Digitalisierung und lässt Akteure aus den Herkunftsländern der 'digitalen Sweatshops' zu Wort kommen.</p>
                 <h3>Speaker*innen:</h3>
                 <ul>
                   <li>Jenny Chan, "Dying for the iPhone" und University of Oxford, Großbritannien</li>
