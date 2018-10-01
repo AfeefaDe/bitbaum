@@ -13,7 +13,7 @@
         <article class="cluster">
           <header>
             <img class="anonymous" src="/img/poly.svg">
-            <h2><span>Opening Panel</span></h2>
+            <h2><span>Opening</span></h2>
           </header>
           <p>So far, techies and ecos, members of sustainability movements and digital human rights activists have often been acting parallel to one another. Why is Bits & Bäume bringing these two communities together now? How can digitalization contribute to the sustainable transformation of society and economy? How can thinking about sustainability inspire the techie-scene in such a way that digitalization guarantees civil rights and individual freedoms in the long-term?</p>
           <p>The Opening Panel introduces the key questions behind the conference Bits & Bäume, launches the two-day Program and explains why now is a historic moment to raise the issue of digitalization and sustainability to the public and political agenda through an open networking conference!</p>
@@ -158,7 +158,7 @@
               <article class="cluster">
                 <header>
                   <img class="anonymous" src="/img/poly.svg">
-                  <h2><span>Eröffnungspanel</span></h2>
+                  <h2><span>Eröffnung</span></h2>
                 </header>
                 <p>Bislang agieren Techies und Ökos, Nachhaltigkeitsbewegte und digitale Menschenrechtler*innen oft nebeneinander her. Warum bringt Bits & Bäume diese Communities nun zusammen? Wie kann Digitalisierung zur nachhaltigen Transformation der Gesellschaft und des Wirtschaftens beitragen? Wie kann Nachhaltigkeitsdenken die Techie-Szene inspirieren, sodass die Digitalisierung langfristig Bürgerrechte und individuelle Freiheiten garantiert? Das Eröffnungspodium stellt die Leitfragen hinter der Konferenz „Bits & Bäume“ vor, führt in das zweitägige Programm ein und erklärt, warum jetzt der historische Moment ist, um in einer offenen Vernetzungskonferenz das Thema Digitalisierung und Nachhaltigkeit auf die öffentliche und politische Agenda zu hieven!</p>
                 <h3>Speaker*innen:</h3>
