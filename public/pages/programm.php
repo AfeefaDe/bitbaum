@@ -52,6 +52,7 @@
             <li>Johannes Heimrath, oya</li>
             <li>Silke Helfrich, Commons Strategies Group</li>
             <li>Frank Karlitschek, Nextcloud</li>
+            <li>n.n., Cooperativa Integral Catalunia, Spanien (inquired)</li>
           </ul>
           <p><strong>Moderation:</strong> Andrea Vetter, Concept Work New Economy</p>
         </article>
@@ -68,18 +69,6 @@
             <li>Annie Leonard, Greenpeace USA (inquired)</li>
             <li>Luis Neves, Global e-Sustainability Initiative</li>
             <li>Ingmar Streese, Federal Consumer Association</li>
-          </ul>
-        </article>
-
-        <article class="cluster">
-          <header>
-            <img class="anonymous" src="/img/poly.svg">
-            <h2><span>Reclaim Smart City!</span></h2>
-          </header>
-          <p>The city as a place of closest coexistence and anonymous society, or as a place of short distances and cultural diversity. How is digitization changing cities and how are can we use digitization for our own purposes? A discussion on urban agglomerations as technology laboratories of global players, as shared spaces of local communities. A discussion on change and optimization between resource efficiency, the common good and (digital) participation.</p>
-          <h3>Speaker*innen:</h3>
-          <ul>
-            <li>Eva Blum-Dumontet, Privacy International</li>
           </ul>
         </article>
 
@@ -110,7 +99,8 @@
           <ul>
             <li>Angelika Zahrnt, Federation for Environment and Nature Conservation Germany</li>
             <li>Kris de Decker, Low Tech Magazine, Netherlands</li>
-            <li>Harald Welzer, Futur Foundation</li>
+            <li>Harald Welzer, FutureZwei Foundation</li>
+            <li>Alex Pschera, author</li>
           </ul>
         </article>
 
@@ -204,6 +194,7 @@
                   <li>Silke Helfrich, Commons Strategies Group</li>
                   <li>Johannes Heimrath, oya</li>
                   <li>Frank Karlitschek, Nextcloud</li>
+                  <li>n.n., Cooperativa Integral Catalunia, Spanien (angefragt)</li>
                 </ul>
                 <p><strong>Moderation:</strong> Andrea Vetter, Konzeptwerk neue Ökonomie</p>
               </article>
@@ -220,18 +211,6 @@
                   <li>Annie Leonard, Greenpeace USA (angefragt)</li>
                   <li>Luis Neves, Global e-Sustainability Initiative</li>
                   <li>Ingmar Streese, Verbraucherzentrale Bundesverband</li>
-                </ul>
-              </article>
-
-              <article class="cluster">
-                <header>
-                  <img class="anonymous" src="/img/poly.svg">
-                  <h2><span>Reclaim Smart City!</span></h2>
-                </header>
-                <p>Die Stadt als Ort engsten Zusammenlebens und anonymer Gesellschaft – oder auch als Ort der kurzen Wege und kultureller Vielfalt. Wie verändert die Digitalisierung Städte und wie nutzen Städte die Digitalisierung für ihre Zwecke? Eine Diskussion über urbane Ballungszentren als Techniklaboratorien globaler Player, als gemeinsam gestaltete Räume lokaler Gemeinschaften. Eine Diskussion über Veränderung und Optimierung zwischen Ressourceneffizienz, Gemeinwohl und (digitaler) Teilhabe.</p>
-                <h3>Speaker*innen:</h3>
-                <ul>
-                  <li>Eva Blum-Dumontet, Privacy International</li>
                 </ul>
               </article>
 
@@ -262,7 +241,8 @@
                 <ul>
                   <li>Angelika Zahrnt, Bund für Umwelt und Naturschutz Deutschland</li>
                   <li>Kris de Decker, Low-Tech Magazine, Niederlande</li>
-                  <li>Harald Welzer, Stiftung Futur</li>
+                  <li>Harald Welzer, Stiftung FutureZwei</li>
+                  <li>Alex Pschera, Buchautor</li>
                 </ul>
               </article>
 
