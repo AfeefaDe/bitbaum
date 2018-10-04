@@ -3,6 +3,7 @@ header('Expires: Mon, 26 Jul 1997 05:00:00 GMT');
 header('Cache-Control: no-store, no-cache, must-revalidate');
 header('Cache-Control: post-check=0, pre-check=0', FALSE);
 header('Pragma: no-cache');
+header("Content-Security-Policy: default-src 'self' bits-und-baeume.org 'unsafe-inline'");
 
 $route = explode("/", $_SERVER['REQUEST_URI']);
 $pages_permitted = ["datenschutz", "programm", "programm-frab", "impressum", "info", "ziele", "presse"];
