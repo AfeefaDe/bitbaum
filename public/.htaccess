@@ -49,5 +49,26 @@ mod_gzip_item_exclude rspheader ^Content-Encoding:.*gzip.*
 
 <IfModule expires_module>
     ExpiresActive on
-    ExpiresDefault "access plus 1 week"
+    ExpiresDefault "access plus 1 minute"
+    AddType application/vnd.ms-fontobject .eot 
+    AddType application/x-font-ttf .ttf
+    AddType application/x-font-opentype .otf
+    AddType application/x-font-woff .woff
+    AddType image/svg+xml .svg
+    ExpiresByType application/vnd.ms-fontobject "access 1 month"
+    ExpiresByType application/x-font-ttf "access 1 month"
+    ExpiresByType application/x-font-opentype "access 1 month"
+    ExpiresByType application/x-font-woff "access 1 month"
+    ExpiresByType image/svg+xml "access 1 day"
+    ExpiresByType image/x-icon "access plus 1 month"
+    ExpiresByType image/jpg "access plus 1 hour"
+    ExpiresByType image/jpeg "access plus 1 hour"
+    ExpiresByType image/gif "access plus 1 hour"
+    ExpiresByType image/png "access plus 1 hour"
+    ExpiresByType text/html "access plus 0 seconds"
+    ExpiresByType text/htm "access plus 0 seconds"
+    ExpiresByType text/javascript "access plus 0 seconds"
+    ExpiresByType application/xml "access plus 0 seconds"
+    ExpiresByType application/json "access plus 0 seconds"
+    ExpiresByType text/cache-manifest "access plus 0 seconds"
 </IfModule>
