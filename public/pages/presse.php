@@ -24,8 +24,7 @@
                   <br>🗋 <a target="_blank" href="/downloads/flyer-anmeldestart-2.pdf">Variation 1</a>
                   <br>🗋 <a target="_blank" href="/downloads/flyer-anmeldestart-3.pdf">Variation 2</a>
                   <br>🗋 <a target="_blank" href="/downloads/flyer-anmeldestart-4.pdf">Variation 3</a>
-                  <br>🗋 <a target="_blank" href="/downloads/flyer-anmeldestart-5.pdf">Variation 4</a>
-                  <br>🗋 <a target="_blank" href="/downloads/flyer-anmeldestart-7.pdf">Variation 5</a>
+                  <br>🗋 <a target="_blank" href="/downloads/flyer-anmeldestart-7.pdf">Variation 4</a>
                 </p>
               </section>
             </div>
@@ -42,7 +41,7 @@
               <h2>Pressekontakt</h2>
               <img class="portrait" src="/img/nina-rehm.jpg">
               <p><strong>Nina Prehm</strong><br>+49 (0) 30 884594 48<br><span class="mail_replace_presse"></span></p>
-              <p>Wenn Sie in den Presseverteiler aufgenommen werden wollen, schreiben Sie bitte eine E-Mail</p>
+              <p>Wenn Sie in den Presseverteiler aufgenommen oder sich zur Konferenz anmelden wollen, schreiben Sie bitte eine E-Mail.</p>
             </section>
             <section>
               <h2>Pressemitteilungen</h2>
@@ -58,8 +57,7 @@
                 <br>🗋 <a target="_blank" href="/downloads/flyer-anmeldestart-2.pdf">Variation 1</a>
                 <br>🗋 <a target="_blank" href="/downloads/flyer-anmeldestart-3.pdf">Variation 2</a>
                 <br>🗋 <a target="_blank" href="/downloads/flyer-anmeldestart-4.pdf">Variation 3</a>
-                <br>🗋 <a target="_blank" href="/downloads/flyer-anmeldestart-5.pdf">Variation 4</a>
-                <br>🗋 <a target="_blank" href="/downloads/flyer-anmeldestart-7.pdf">Variation 5</a>
+                <br>🗋 <a target="_blank" href="/downloads/flyer-anmeldestart-7.pdf">Variation 4</a>
               </p>
             
             </section>
