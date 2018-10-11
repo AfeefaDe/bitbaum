@@ -33,7 +33,7 @@
           <p>At first glance, digitalization promises dematerialization of products and consumption patterns. But what quantity of resources and energy is needed to set up digital infrastructures as well as to manufacture and operate machinery? And what about the working conditions and environmental standards of production, which mostly takes place in the countries of the global South? In crisp, complementary inputs, this podium presents current facts on the ecological and social footprint of digitization and lets actors originating from the 'digital sweatshops' countries have their say.</p>
           <h3>Speakers:</h3>
           <ul>
-            <li>Jenny Chan, "Dying for the iPhone" and University of Oxford, Great Britain</li>
+            <li>Jenny Chan, “Dying for an iPhone”, The Hong Kong Polytechnic University, Hong Kong, China</li>
             <li>Claude Kabemba, Southern Africa Resource Watch, South Africa</li>
             <li>Sabine Langkau, Fraunhofer-Institut für System- und Innovationsforschung ISI</li>
             <li>Johanna Pohl, Technische Universität Berlin und Forschungsgruppe „Digitalisierung und sozial-ökologische Transformation“</li>
