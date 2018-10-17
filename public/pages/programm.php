@@ -1,9 +1,9 @@
 <?php switch ($lang) {
-  case "en":
-  ?>
+    case "en":
+        ?>
   <article>
       <h1>Programme Preview</h1>
-      
+
       <section>
         <p>231 (!) contributions were submitted to the Call for Participation. The selection is over, now we are working on the schedule. A variety of lectures, workshops, panels, fishbowl and podium discussions, world cafés and much more awaits you. The detailed program and timetable will be published shortly.</p>
       </section>
@@ -63,10 +63,10 @@
           <p>Digital technologies offer opportunities for climate and environmental protection, as they can urge the needed changes in energy, transport and consumption patterns. On the other hand, the collection and use of personal data by companies and service providers features the risk of reinforcing societal power asymmetries and monopolies. It is not expedient to pit the potentials for sustainability and increased efficiency and data protection against one another. How can the core concerns of the sustainability movement be meaningfully combined with those of the techie scene? And what political demands arise from this?</p>
           <h3>Speakers:</h3>
           <ul>
+            <li>Dr. Thomas Engelke, Leitung Team Energie und Bauen in Verbraucherzentrale Bundesverbands (vzbv) für die Verbrauchersicht</li>
             <li>Cathleen Berger, Mozilla</li>
-            <li>Annie Leonard, Greenpeace USA (inquired)</li>
+            <li>Sweelin Heuss, Executive Director Greenpeace Germany</li>
             <li>Luis Neves, Global e-Sustainability Initiative</li>
-            <li>Ingmar Streese, Federal Consumer Association</li>
           </ul>
         </article>
 
@@ -141,12 +141,12 @@
 
   </article>
   <?php
-        break;
+break;
     default:
         ?>
         <article>
             <h1>Programmvorschau</h1>
-            
+
             <section>
               <p>231 (!) Beiträge wurden beim Call for Participation eingereicht. Die Auswahl steht fest, nun basteln wir am Zeitplan. Euch erwarten Vorträge, Workshops, Panels, Fishbowl- und Podiumsdiskussionen, Worldcafés und vieles mehr. Die einzelnen Programmpunkte und den genauen Zeitplan veröffentlichen wir in Kürze.</p>
             </section>
@@ -173,7 +173,7 @@
                 <p>Auf den ersten Blick verspricht Digitalisierung eine Entmaterialisierung von Produkten und Konsumweisen. Doch wie viel Ressourcen und Energie Bedarf der Aufbau digitaler Infrastrukturen sowie die Herstellung und der Betrieb von Geräten? Und wie sehen die Arbeitsbedingungen und Umweltstandards in der Produktion aus, die meist in den Ländern des globalen Südens stattfindet? In knackigen, sich ergänzenden Inputs präsentiert dieses Podium aktuelle Fakten zum sozialen und ökologischen Fußabdruck der Digitalisierung und lässt Akteure aus den Herkunftsländern der 'digitalen Sweatshops' zu Wort kommen.</p>
                 <h3>Speaker*innen:</h3>
                 <ul>
-                  <li>Jenny Chan, "Dying for the iPhone" und University of Oxford, Großbritannien</li>
+                  <li>Jenny Chan, “Dying for an iPhone”, The Hong Kong Polytechnic University, Hong Kong, China</li>
                   <li>Claude Kabemba, Southern Africa Resource Watch, Südafrika</li>
                   <li>Sabine Langkau, Fraunhofer-Institut für System- und Innovationsforschung ISI</li>
                   <li>Johanna Pohl, Technische Universität Berlin und Forschungsgruppe „Digitalisierung und sozial-ökologische Transformation“</li>
@@ -206,10 +206,10 @@
                 <p>Digitale Technologien bieten Chancen für Klima- und Umweltschutz, da sie die dringend erforderlichen Energie-, Verkehrs- und Konsumwenden vorantreiben können. Gleichzeitig birgt die Erhebung und Nutzung persönlicher Daten durch Firmen und Dienstleister die Gefahr, gesellschaftliche Machtasymmetrien und Monopolisierungen zu befördern. Es ist nicht zielführend, Potenziale für Nachhaltigkeit und Effizienzsteigerung gegen Datenschutzaspekte auszuspielen. Wie lassen sich die Kernanliegen der Nachhaltigkeitsbewegung mit den Kernanliegen der Techie-Szene sinnvoll zusammendenken? Und welche politischen Forderungen erwachsen daraus?</p>
                 <h3>Speaker*innen:</h3>
                 <ul>
-                  <li>Cathleen Berger, Mozilla</li>
-                  <li>Annie Leonard, Greenpeace USA (angefragt)</li>
-                  <li>Luis Neves, Global e-Sustainability Initiative</li>
-                  <li>Ingmar Streese, Verbraucherzentrale Bundesverband</li>
+                  <li>Dr. Thomas Engelke, Leitung Team Energie und Bauen in Verbraucherzentrale Bundesverbands (vzbv) für die Verbrauchersicht</li>
+                  <li>Cathleen Berger, Mozilla (für das Thema Datenschutz)</li>
+                  <li>Sweelin Heuss, Geschäftsführerin Greenpeace e.V. (für die Umweltsicht)</li>
+                  <li>Luis Neves, Global e-Sustainability Initiative (für die Unternehmenssicht)</li>
                 </ul>
               </article>
 
@@ -261,7 +261,7 @@
                 <p><strong>Moderation:</strong> Juliane Krüger & Rainer Rehak</p>
               </article>
 
-         
+
               <article class="cluster">
                 <header>
                   <img class="anonymous" src="/img/poly.svg">
@@ -282,7 +282,7 @@
                 <br>Sporangium: <span class="mail_replace_sporangium"></span>
             </p>
 
-    <?php } ?>
+    <?php }?>
 
 <script type="text/javascript" language="javascript">
     /* Foldable headings */
