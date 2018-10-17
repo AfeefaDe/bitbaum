@@ -8,7 +8,7 @@
         <p>231 (!) contributions were submitted to the Call for Participation. The selection is over, now we are working on the schedule. A variety of lectures, workshops, panels, fishbowl and podium discussions, world cafés and much more awaits you. The detailed program and timetable will be published shortly.</p>
       </section>
 
-      <h2 class="foldableButton foldableButton--active" role="button" data-foldable="#programmbeitrag">Programme Preview – Main Stage</h2>
+      <h2>Programme Preview – Main Stage</h2>
       <section id="programmbeitrag">
         <article class="cluster">
           <header>
@@ -122,9 +122,9 @@
 
       </section>
 
-      <h2 class="foldableButton" role="button" data-foldable="#forum">Forum (creative space on the conference area)</h2>
-      <section id="forum" class="foldableContent--hidden">
-        <p>An beiden Tagen präsentieren sich über das konkrete Programm hinaus sozial-ökologisch/technisch/aktivistische ausgerichtete Initiativen, Vereine, Organisationen und Netzwerke in unserem Forum, sodass ein gemeinsamer Ort des Austauschs entstehen kann. Zugesagt haben u.a. Electronics Watch, Mundraub, Transformation Design Kitchen, Fairmove IT, Grüne Liga, Foundation Europe, OpenSourceEcology, Stadt Land Smart, Travel Transform, Sukuma, Robin Wood, Nager IT, Freifunk, Hostsharing e.G., nachhaltig.digital.</p>
+      <h2>Forum (creative space on the conference area)</h2>
+      <section id="forum">
+        <p>On both days, social-ecological/technical/activist-oriented initiatives, associations, organisations and networks will present themselves in our forum in addition to the scheduled programme, so that a common place of exchange can emerge. Among others, Electronics Watch, Mundraub, Transformation Design Kitchen, Fairmove IT, Grüne Liga, Free Software Foundation Europe, OpenSourceEcology, Stadt Land Smart, Travel Transform, Sukuma, Robin Wood, Nager IT, Freifunk, Hostsharing e.G.and nachhaltig.digital have confirmed their participation. The Bits&BäumeYouthForum is especially open to young folks and everyone with an interest in youth projects, to get to know each other, to develop games or to present their own projects. In short: The Forum is the right place for relaxed discussions or for the joint implementation of ideas beyond the conference programme.</p>
       </section>
 
       <hr>
@@ -264,9 +264,8 @@
 
             </section>
 
-            <h2 class="foldableButton" role="button" data-foldable="#forum">Forum (kreative Fläche auf dem
-                Konferenzareal)</h2>
-            <section id="forum" class="foldableContent--hidden">
+            <h2>Forum (kreative Fläche auf dem Konferenzareal)</h2>
+            <section id="forum">
               <p>An beiden Tagen präsentieren sich über das konkrete Programm hinaus sozial-ökologisch/technisch/aktivistische ausgerichtete Initiativen, Vereine, Organisationen und Netzwerke in unserem Forum, sodass ein gemeinsamer Ort des Austauschs entstehen kann. Zugesagt haben u.a. Electronics Watch, Mundraub, Transformation Design Kitchen, Fairmove IT, Grüne Liga, Free Software Foundation Europe, OpenSourceEcology, Stadt Land Smart, Travel Transform, Sukuma, Robin Wood, Nager IT, Freifunk, Hostsharing e.G., nachhaltig.digital. Ins Bits&Bäume-JugendForum sind insbesondere alle eingeladen mit Interesse für Jugendprojekte, um sich kennenzulernen, Spiele zu entwickeln oder auch eigene Projekte vorzustellen. Kurz: Das Forum ist der richtige Ort für entspannte Gespräche oder zum gemeinsamen Umsetzen von Ideen jenseits des Konferenzprogramms.</p>
             </section>
 
