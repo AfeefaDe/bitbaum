@@ -150,7 +150,7 @@
               <p>231 (!) Beiträge wurden beim Call for Participation eingereicht. Die Auswahl steht fest, nun basteln wir am Zeitplan. Euch erwarten Vorträge, Workshops, Panels, Fishbowl- und Podiumsdiskussionen, Worldcafés und vieles mehr. Die einzelnen Programmpunkte und den genauen Zeitplan veröffentlichen wir in Kürze.</p>
             </section>
 
-            <h2 class="foldableButton foldableButton--active" role="button" data-foldable="#programmbeitrag">Programm Hauptbühne</h2>
+            <h2>Programm Hauptbühne</h2>
             <section id="programmbeitrag">
               <article class="cluster">
                 <header>
