@@ -8,8 +8,7 @@
         <p>231 (!) contributions were submitted to the Call for Participation. The selection is over, now we are working on the schedule. A variety of lectures, workshops, panels, fishbowl and podium discussions, world cafés and much more awaits you. The detailed program and timetable will be published shortly.</p>
       </section>
 
-      <h2>Programme Preview – Main Stage</h2>
-        <article class="cluster">
+      <article class="cluster">
           <header>
             <img class="anonymous" src="/img/poly.svg">
             <h2><span>Opening</span></h2>
@@ -152,8 +151,7 @@
               <p>231 (!) Beiträge wurden beim Call for Participation eingereicht. Die Auswahl steht fest, nun basteln wir am Zeitplan. Euch erwarten Vorträge, Workshops, Panels, Fishbowl- und Podiumsdiskussionen, Worldcafés und vieles mehr. Die einzelnen Programmpunkte und den genauen Zeitplan veröffentlichen wir in Kürze.</p>
             </section>
 
-            <h2>Programm Hauptbühne</h2>
-              <article class="cluster">
+            <article class="cluster">
                 <header>
                   <img class="anonymous" src="/img/poly.svg">
                   <h2><span>Eröffnung</span></h2>
