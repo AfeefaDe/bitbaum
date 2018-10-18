@@ -52,7 +52,7 @@ break;
                 <p>Digitale Infrastrukturen</p>
                 <p>Die ganz großen Fragen</p>
                 <p class="square-action align-center">
-                    <a href="/programm/<?php echo $lang; ?>" class="button">Zum Konferenzprogramm</a>
+                    <a href="/programm/<?php echo $lang; ?>" class="button">Beschreibung der Schwerpunkte</a>
                 </p>
             </article>
         </section>

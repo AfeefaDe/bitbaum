@@ -161,7 +161,7 @@ break;
     default:
         ?>
         <article>
-            <h1>Programm</h1>
+            <h1>Programmschwerpunkte</h1>
 
             <section>
               <p>Nun ist es so weit! Aus 231 (!) Beiträgen haben wir ein schillerndes und vielseitiges Programm gebastelt. Euch erwarten Vorträge, Workshops, Panels, Fishbowl- und Podiumsdiskussionen, Worldcafés und vieles mehr. Welche einzelnen Programmpunkte es gibt und wie der genaue Zeitplan ist, erfahrt ihr hier:</p>
