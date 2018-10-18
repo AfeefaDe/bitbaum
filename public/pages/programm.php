@@ -148,7 +148,8 @@ break;
             <h1>Programm</h1>
 
             <section>
-              <p>Nun ist es so weit! Aus 231 (!) Beiträgen haben wir ein schillerndes und vielseitiges Programm gebastelt. Euch erwarten Vorträge, Workshops, Panels, Fishbowl- und Podiumsdiskussionen, Worldcafés und vieles mehr. Welche einzelnen Programmpunkte es gibt und wie der genaue Zeitplan ist, erfahrt ihr hier: <a href="https://fahrplan.bits-und-baeume.org" target="_blank">https://fahrplan.bits-und-baeume.org</a></p>
+              <p>Nun ist es so weit! Aus 231 (!) Beiträgen haben wir ein schillerndes und vielseitiges Programm gebastelt. Euch erwarten Vorträge, Workshops, Panels, Fishbowl- und Podiumsdiskussionen, Worldcafés und vieles mehr. Welche einzelnen Programmpunkte es gibt und wie der genaue Zeitplan ist, erfahrt ihr hier:</p>
+              <p><a class="button" href="https://fahrplan.bits-und-baeume.org" target="_blank">Zur vollständigen Programmübersicht</a></p>
             </section>
 
             <article class="cluster">
