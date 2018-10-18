@@ -37,7 +37,7 @@ break;
         </section>
 
         <section class="switch program active">
-          <p>Das Programm mit mehr als 100 international besetzten Panels, Talks, Workshops, Philosophischem Salon, Forum, Sporangium, Konzert und 	Party ist jetzt online. Zahlreiche Organisationen, Personen und internationale Referierende gestalten das Programm durch ihre Einreichungen mit und stellen ihre Ansätze für eine nachhaltige Digitalisierung vor. Gemeinsam mit euch wollen wir Lösungsansätze für eine nachhaltigen Zukunft erarbeiten und die Welt verändern.</p>
+          <p>Das Programm mit mehr als 100 international besetzten Panels, Talks, Workshops, Philosophischem Salon, Forum, Sporangium, Konzert und 	Party ist jetzt online. Zahlreiche Organisationen, Personen und internationale Referierende gestalten das Programm durch ihre Einreichungen mit und stellen ihre Ansätze für eine nachhaltige Digitalisierung vor. Gemeinsam mit euch wollen wir Lösungsansätze für eine nachhaltige Zukunft erarbeiten und die Welt verändern.</p>
           <?php #require('components/frab-highlights.php'); ?>
           <p class="square-action square-action--right"><a href="https://fahrplan.bits-und-baeume.org" target="_blank">Programm ansehen</a></p>
         </section>
