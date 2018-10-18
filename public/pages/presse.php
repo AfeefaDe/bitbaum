@@ -14,11 +14,17 @@
               <section>
                 <h2>Press releases</h2>
                 <p>
+                  <strong>Nachhaltige Digitalisierung gemeinsam gestalten: Programm der Konferenz „Bits & Bäume“ online</strong>
+                  <br>Press release from October 18th 2018
+                  <br>🗎 <a target="_blank" href="/downloads/181018_Bits-und-Baeume-Konferenzprogramm-online.pdf">Download PDF</a>
+                </p>
+                <p>
                   <strong>Digitalisierung trifft Nachhaltigkeit: Anmeldestart für die Vernetzungskonferenz Bits & Bäume</strong>
                   <br>Press release from October 2nd 2018
                   <br>🗎 <a target="_blank" href="/downloads/181002-Bits-und-Baueme-Anmeldestart.pdf">Download PDF</a>
                 </p>
-                 <h2>PR-Material</h2>
+
+                <h2>PR-Material</h2>
                 <p>
                   <strong>Flyer for promoting the ticket sale</strong>
                   <br>🗋 <a target="_blank" href="/downloads/flyer-anmeldestart-2.pdf">Variation 1</a>
@@ -45,6 +51,11 @@ break;
             </section>
             <section>
               <h2>Pressemitteilungen</h2>
+              <p>
+                <strong>Nachhaltige Digitalisierung gemeinsam gestalten: Programm der Konferenz „Bits & Bäume“ online</strong>
+                <br>Pressemitteilung vom 18. Oktober 2018
+                <br>🗎 <a target="_blank" href="/downloads/181018_Bits-und-Baeume-Konferenzprogramm-online.pdf">PDF herunterladen</a>
+              </p>
               <p>
                 <strong>Digitalisierung trifft Nachhaltigkeit: Anmeldestart für die Vernetzungskonferenz Bits & Bäume</strong>
                 <br>Pressemitteilung vom 02. Oktober 2018
