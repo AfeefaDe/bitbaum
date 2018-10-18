@@ -30,13 +30,13 @@
             </div>
         </article>
         <?php
-        break;
+break;
     default:
         ?>
         <article>
           <h1>Presse</h1>
           <div class="row">
-            
+
             <section>
               <h2>Pressekontakt</h2>
               <img class="portrait" src="/img/nina-rehm.jpg">
@@ -50,7 +50,7 @@
                 <br>Pressemitteilung vom 02. Oktober 2018
                 <br>🗎 <a target="_blank" href="/downloads/181002-Bits-und-Baueme-Anmeldestart.pdf">PDF herunterladen</a>
               </p>
-              
+
               <h2>ÖA-Material</h2>
               <p>
                 <strong>Flyer zur Bewerbung des Anmeldestarts</strong>
@@ -59,7 +59,7 @@
                 <br>🗋 <a target="_blank" href="/downloads/flyer-anmeldestart-4.pdf">Variation 3</a>
                 <br>🗋 <a target="_blank" href="/downloads/flyer-anmeldestart-7.pdf">Variation 4</a>
               </p>
-            
+
             </section>
           </div>
         </article>
@@ -67,8 +67,8 @@
         <article>
           <h2>FAQ</h2>
 
-          <h3>Wie kann ich als Pressevertreter auf die Bits und Bäume?</h3>
-          <p>Es gibt für Pressevertreter die Möglichkeit sich für die Konferenz akkreditieren zu lassen. Dafür schreibt uns bitte eine Mail an Nina Prehm: <span class="mail_replace_presse"></span>. Wir prüfen alle Anfragen und melden uns schnellstmöglich zurück.</p>
+          <h3>Wie kann ich als Pressevertreter*in auf die Bits und Bäume?</h3>
+          <p>Es gibt für Pressevertreter*innen die Möglichkeit sich für die Konferenz akkreditieren zu lassen. Dafür schreibt uns bitte eine Mail an Nina Prehm: <span class="mail_replace_presse"></span>. Wir prüfen alle Anfragen und melden uns schnellstmöglich zurück.</p>
           <p>Wir freuen uns über Belegexemplare oder Link zum Artikel oder Interview.</p>
 
           <h3>Gibt es eine Möglichkeit Interviews zu führen?</h3>
@@ -83,4 +83,4 @@
 
           <p>Ihr findet uns auf Twitter unter <a href="https://twitter.com/bitsundbaeume" target="_blank">@bitsundbaeume</a></p>
         </article>
-    <?php } ?>
+    <?php }?>
