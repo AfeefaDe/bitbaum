@@ -85,7 +85,7 @@
           </ul>
           <p><strong>Moderation:</strong> Steffen Lange, Institute for Ecological Economic Research</p>
         </article>
-      
+
         <article class="cluster">
           <header>
             <img class="anonymous" src="/img/poly.svg">
@@ -245,21 +245,18 @@ break;
                 </ul>
                 <p><strong>Moderation:</strong> Steffen Lange, Institut für ökologische Wirtschaftsforschung</p>
               </article>
-            
-                    <article class="cluster">
-          <header>
-            <img class="anonymous" src="/img/poly.svg">
-            <h2><span>Reclaim Smart City!</span></h2>
-          </header>
-          <p>Die Stadt als Ort engsten Zusammenlebens und anonymer Gesellschaft, aber auch als Ort der kurzen Wege und kultureller Vielfalt. Wir wollen weniger diskutieren, wie nun 'die Digitalisierung' Städte verändert, sondern eher wie Städte die Digitalisierung für ihre Zwecke nutzen und nutzen können. Der ursprünglich technik-ökonomische Begriff 'Smart city' hat mittlerweise eine gesellschaftlich-soziale Wirkkraft erhalten. Dies hat auch die 'moderne' Stadtgestaltung verändert, da sie nun oftmals weniger von den BewohnerInnen, sondern primär von der Technik her gedacht wird, wie etwa das von Google vorangetriebenen Smart-City-Projekt Toronto Waterfront zeigt. Wir wollen eine Diskussion darüber führen, ob urbane Ballungszentren zu Techniklaboratorien globaler Player werden oder ob und wie wir uns die 'moderne' Stadtplanung zurückholen können, um gemeinsam gestaltete, nachhaltige Räumen lokaler Gemeinschaften zu schaffen – gern mit Nutzung von IT-Systemen, wo nötig und gewünscht. Es geht folglich um Veränderung und Optimierung von Städten zwischen Ressourceneffizienz, Gemeinwohl und (digitaler) Teilhabe. Themenschwerpunkte der Diskussion: Was ist "Smart City" und welche Alternativen gibt es? Welchen Stellenwert hat die "Smart City" im Kontext anderer aktueller Herausforderungen für Städte? Wie geht Fairness und Emanzipation in Systemen, wie sieht Partizipation und Datenschutz auf konkreter Projektebene aus?</p>
-          <h3>Speakers:</h3>
-          <ul>
-            <li>Eva Blum-Dumontet (Privacy International)</li>
-            <li>Stefan Kaufmann (Projekt „Zukunftsstadt“)</li>
-            <li>Sybille Frank (Stadtsoziologin, TU Darmstadt, angefragt)</li>
-          </ul>
-          <p><strong>Moderation:</strong> Leon Kaiser, netzpolitik.org</p>
-        </article>
+
+              <article class="cluster">
+                <h2><span>Reclaim Smart City!</span></h2>
+                <p>Die Stadt als Ort engsten Zusammenlebens und anonymer Gesellschaft, aber auch als Ort der kurzen Wege und kultureller Vielfalt. Wir wollen weniger diskutieren, wie nun 'die Digitalisierung' Städte verändert, sondern eher wie Städte die Digitalisierung für ihre Zwecke nutzen und nutzen können. Der ursprünglich technik-ökonomische Begriff 'Smart city' hat mittlerweise eine gesellschaftlich-soziale Wirkkraft erhalten. Dies hat auch die 'moderne' Stadtgestaltung verändert, da sie nun oftmals weniger von den BewohnerInnen, sondern primär von der Technik her gedacht wird, wie etwa das von Google vorangetriebenen Smart-City-Projekt Toronto Waterfront zeigt. Wir wollen eine Diskussion darüber führen, ob urbane Ballungszentren zu Techniklaboratorien globaler Player werden oder ob und wie wir uns die 'moderne' Stadtplanung zurückholen können, um gemeinsam gestaltete, nachhaltige Räumen lokaler Gemeinschaften zu schaffen – gern mit Nutzung von IT-Systemen, wo nötig und gewünscht. Es geht folglich um Veränderung und Optimierung von Städten zwischen Ressourceneffizienz, Gemeinwohl und (digitaler) Teilhabe. Themenschwerpunkte der Diskussion: Was ist "Smart City" und welche Alternativen gibt es? Welchen Stellenwert hat die "Smart City" im Kontext anderer aktueller Herausforderungen für Städte? Wie geht Fairness und Emanzipation in Systemen, wie sieht Partizipation und Datenschutz auf konkreter Projektebene aus?</p>
+                <h3>Speakers:</h3>
+                <ul>
+                  <li>Eva Blum-Dumontet (Privacy International)</li>
+                  <li>Stefan Kaufmann (Projekt „Zukunftsstadt“)</li>
+                  <li>Sybille Frank (Stadtsoziologin, TU Darmstadt, angefragt)</li>
+                </ul>
+                <p><strong>Moderation:</strong> Leon Kaiser, netzpolitik.org</p>
+              </article>
 
               <article class="cluster">
                 <h2><span>Philosophischer Salon: Wie digital wird eine wirklich zukunftsfähige Gesellschaft sein?</span></h2>
