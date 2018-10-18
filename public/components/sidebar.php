@@ -6,23 +6,22 @@
           <a href="https://pretix.eu/bits-und-baeume/171811/" target="_blank" class="button">Buy your ticket</a>
         </section>
 
-        <section class="switch program">
-          <h4>Program</h4>
-          <p>Lectures, workshops, panels, fishbowl and panel discussions, world cafés, a vibrant forum space and much more await you. Details of the program will follow soon.</p>
+        <section class="switch program active">
+          <p>The program with more than 100 international panels, talks, workshops, philosophical salon, forum, sporangium, concert and party is now online. Numerous organizations, individuals and international speakers are shaping the program with their submissions and presenting their approaches to sustainable digitization. Together with you we want to develop solutions for a sustainable future and change the world.</p>
           <?php #require('components/frab-highlights.php'); ?>
-          <!-- <p class="square-action square-action--right"><a href="/programm-frab/en">See full programme</a></p> -->
+          <p class="square-action square-action--right"><a href="https://fahrplan.bits-und-baeume.org" target="_blank">See programme</a></p>
         </section>
 
-        <section class="switch twitter active">
+        <section class="switch twitter">
           <?php require 'components/twitter.php';?>
         </section>
 
         <div class="control">
-            <div class="program">
+            <div class="program active">
                 <div class="icon"></div>
                 <p>Program</p>
             </div>
-            <div class="twitter active">
+            <div class="twitter">
                 <div class="icon"></div>
                 <p>#bitsundbäume</p>
             </div>
