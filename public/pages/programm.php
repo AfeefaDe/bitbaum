@@ -115,6 +115,7 @@
             <li>Harald Welzer, FutureZwei Foundation</li>
             <li>Alex Pschera, author</li>
           </ul>
+          <p><strong>Moderation:</strong> Katharina Nocun, blogger and author</p>
         </article>
 
         <article class="cluster">
@@ -269,6 +270,7 @@ break;
                   <li>Harald Welzer, Stiftung FutureZwei</li>
                   <li>Alex Pschera, Buchautor</li>
                 </ul>
+                <p><strong>Moderation:</strong> Katharina Nocun, Bloggerin und Autorin</p>
               </article>
 
               <article class="cluster">
