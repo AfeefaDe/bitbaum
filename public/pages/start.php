@@ -1,5 +1,5 @@
 <section class="square title">
-    <?php require('components/header.php'); ?>
+    <?php require 'components/header.php';?>
 </section>
 
 <?php switch ($lang) {
@@ -36,11 +36,11 @@
 
         <section class="square quotes">
             <article>
-                <?php require('components/quotes.php'); ?>
+                <?php require 'components/quotes.php';?>
                 <article>
         </section>
         <?php
-        break;
+break;
     default:
         ?>
         <section class="square cluster">
@@ -52,7 +52,7 @@
                 <p>Digitale Infrastrukturen</p>
                 <p>Die ganz großen Fragen</p>
                 <p class="square-action align-center">
-                    <a href="/programm/<?php echo $lang; ?>" class="button">Zur ersten Programmvorschau</a>
+                    <a href="/programm/<?php echo $lang; ?>" class="button">Programm</a>
                 </p>
             </article>
         </section>
@@ -68,10 +68,10 @@
 
         <section class="square quotes">
             <article>
-                <?php require('components/quotes.php'); ?>
+                <?php require 'components/quotes.php';?>
                 <article>
         </section>
-    <?php } ?>
+    <?php }?>
 
 
 

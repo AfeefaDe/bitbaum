@@ -145,17 +145,30 @@ break;
     default:
         ?>
         <article>
-            <h1>Programmvorschau</h1>
+            <h1>Programm</h1>
 
             <section>
-              <p>231 (!) Beiträge wurden beim Call for Participation eingereicht. Die Auswahl steht fest, nun basteln wir am Zeitplan. Euch erwarten Vorträge, Workshops, Panels, Fishbowl- und Podiumsdiskussionen, Worldcafés und vieles mehr. Die einzelnen Programmpunkte und den genauen Zeitplan veröffentlichen wir in Kürze.</p>
+              <p>Nun ist es so weit! Aus 231 (!) Beiträgen haben wir ein schillerndes und vielseitiges Programm gebastelt. Euch erwarten Vorträge, Workshops, Panels, Fishbowl- und Podiumsdiskussionen, Worldcafés und vieles mehr. Welche einzelnen Programmpunkte es gibt und wie der genaue Zeitplan ist, erfahrt ihr hier: <a href="https://fahrplan.bits-und-baeume.org" target="_blank">https://fahrplan.bits-und-baeume.org</a></p>
             </section>
 
             <article class="cluster">
-                <header>
-                  <img class="anonymous" src="/img/poly.svg">
-                  <h2><span>Eröffnung</span></h2>
-                </header>
+              <header>
+                <img class="anonymous" src="/img/poly.svg">
+                <h2><span>Forum</span></h2>
+              </header>
+              <p>An beiden Tagen präsentieren sich über das konkrete Programm hinaus sozial-ökologisch/technisch/aktivistische ausgerichtete Initiativen, Vereine, Organisationen und Netzwerke in unserem Forum, sodass ein gemeinsamer Ort des Austauschs entstehen kann. Zugesagt haben u.a. Electronics Watch, Mundraub, Transformation Design Kitchen, Fairmove IT, Grüne Liga, Free Software Foundation Europe, OpenSourceEcology, Stadt Land Smart, Travel Transform, Sukuma, Robin Wood, Nager IT, Freifunk, Hostsharing e.G., nachhaltig.digital. Ins Bits&Bäume-JugendForum sind insbesondere alle eingeladen mit Interesse für Jugendprojekte, um sich kennenzulernen, Spiele zu entwickeln oder auch eigene Projekte vorzustellen. Kurz: Das Forum ist der richtige Ort für entspannte Gespräche oder zum gemeinsamen Umsetzen von Ideen jenseits des Konferenzprogramms.</p>
+            </article>
+
+            <article class="cluster">
+              <header>
+                <img class="anonymous" src="/img/poly.svg">
+                <h2><span>Bits & Bäume Bühne</span></h2>
+              </header>
+              <p>Auf der Bits & Bäume-Bühne erwartet euch abseits der von euch eingereichten Programmpunkte:</p>
+            </article>
+
+            <article class="cluster">
+                <h2><span>Eröffnung</span></h2>
                 <p>Bislang agieren Techies und Ökos, Nachhaltigkeitsbewegte und digitale Menschenrechtler*innen oft nebeneinander her. Warum bringt Bits & Bäume diese Communities nun zusammen? Wie kann Digitalisierung zur nachhaltigen Transformation der Gesellschaft und des Wirtschaftens beitragen? Wie kann Nachhaltigkeitsdenken die Techie-Szene inspirieren, sodass die Digitalisierung langfristig Bürgerrechte und individuelle Freiheiten garantiert? Das Eröffnungspodium stellt die Leitfragen hinter der Konferenz „Bits & Bäume“ vor, führt in das zweitägige Programm ein und erklärt, warum jetzt der historische Moment ist, um in einer offenen Vernetzungskonferenz das Thema Digitalisierung und Nachhaltigkeit auf die öffentliche und politische Agenda zu hieven!</p>
                 <h3>Speaker*innen:</h3>
                 <ul>
@@ -166,10 +179,7 @@ break;
               </article>
 
               <article class="cluster">
-                <header>
-                  <img class="anonymous" src="/img/poly.svg">
-                  <h2><span>Wie schwer wiegt ein Bit?</span></h2>
-                </header>
+                <h2><span>Wie schwer wiegt ein Bit?</span></h2>
                 <p>Auf den ersten Blick verspricht Digitalisierung eine Entmaterialisierung von Produkten und Konsumweisen. Doch wie viel Ressourcen und Energie Bedarf der Aufbau digitaler Infrastrukturen sowie die Herstellung und der Betrieb von Geräten? Und wie sehen die Arbeitsbedingungen und Umweltstandards in der Produktion aus, die meist in den Ländern des globalen Südens stattfindet? In knackigen, sich ergänzenden Inputs präsentiert dieses Podium aktuelle Fakten zum sozialen und ökologischen Fußabdruck der Digitalisierung und lässt Akteure aus den Herkunftsländern der 'digitalen Sweatshops' zu Wort kommen.</p>
                 <h3>Speaker*innen:</h3>
                 <ul>
@@ -183,10 +193,7 @@ break;
               </article>
 
               <article class="cluster">
-                <header>
-                  <img class="anonymous" src="/img/poly.svg">
-                  <h2><span>Digitalisierung und Degrowth. Wege zu einem enkeltauglichen Wirtschaften?</span></h2>
-                </header>
+                <h2><span>Digitalisierung und Degrowth. Wege zu einem enkeltauglichen Wirtschaften?</span></h2>
                 <p>Selbstbestimmt und bedürfnisorientiert zu produzieren und zu nutzen – das wollen Hacker*innen, Nerds, Postwachstumsbewegte, Commons-Anhänger*innen und Solidarische Ökonomie-Unternehmer*innen gleichermaßen. Mithilfe von digitalen Tools ist es heute möglich, neue Formen des Wirtschaftens auszuprobieren: Open Source, Open Data, Free Software, Peer-to-peer-Sharing und vieles mehr. Zugleich inspiriert das Nachhaltigkeitsdenken die Techie-Szene, um nachhaltige Geschäftsmodelle mit fairen und demokratischen Arbeitsbedingungen zu schaffen. Unter welchen Bedingungen bietet die Digitalisierung Chancen für den Übergang in eine nachhaltige, lokale und kooperative Ökonomie, die ohne Wachstumszwang auskommt? Wo sind Risiken und Grenzen solcher Möglichkeiten?</p>
                 <h3>Speaker*innen:</h3>
                 <ul>
@@ -199,10 +206,7 @@ break;
               </article>
 
               <article class="cluster">
-                <header>
-                  <img class="anonymous" src="/img/poly.svg">
-                  <h2><span>Datenschutz und digitale Rettung der Welt - Wo verlaufen die roten Linien?</span></h2>
-                </header>
+                <h2><span>Datenschutz und digitale Rettung der Welt - Wo verlaufen die roten Linien?</span></h2>
                 <p>Digitale Technologien bieten Chancen für Klima- und Umweltschutz, da sie die dringend erforderlichen Energie-, Verkehrs- und Konsumwenden vorantreiben können. Gleichzeitig birgt die Erhebung und Nutzung persönlicher Daten durch Firmen und Dienstleister die Gefahr, gesellschaftliche Machtasymmetrien und Monopolisierungen zu befördern. Es ist nicht zielführend, Potenziale für Nachhaltigkeit und Effizienzsteigerung gegen Datenschutzaspekte auszuspielen. Wie lassen sich die Kernanliegen der Nachhaltigkeitsbewegung mit den Kernanliegen der Techie-Szene sinnvoll zusammendenken? Und welche politischen Forderungen erwachsen daraus?</p>
                 <h3>Speaker*innen:</h3>
                 <ul>
@@ -214,10 +218,7 @@ break;
               </article>
 
               <article class="cluster">
-                <header>
-                  <img class="anonymous" src="/img/poly.svg">
-                  <h2><span>Von Tech-Monopolen und IT-Giganten: Kritik des digitalen Kapitalismus</span></h2>
-                </header>
+                <h2><span>Von Tech-Monopolen und IT-Giganten: Kritik des digitalen Kapitalismus</span></h2>
                 <p>Die digitale Wirtschaft galt lange Zeit als Nische. Doch längst sind etliche digitale Player riesige Weltkonzerne geworden. Und wirtschaftspolitische Strategien für Industrie 4.0, Big Data oder künstliche Intelligenz möchten die Digitalisierung zum wichtigsten Wachstumsmotor des 21. Jahrhundert machen. Was sind die gesellschaftlichen Folgen dieses technischen “Fortschritts“? Wie kann sichergestellt werden, dass von ihm alle Menschen profitieren und nicht nur wenige Unternehmen? Ist das überhaupt möglich? Wie können Machtasymmetrien und Monopole verhindert werden – bei Finanzen, Marktanteilen, Datenakkumulation? Sollten große Konzerne wie Facebook oder Google gar zerschlagen oder vergesellschaftet werden? Oder ist die Digitalisierung der Wirtschaft letztlich ein Segen, weil sie gleichzeitig den Kapitalismus transformiert?</p>
                 <h3>Speaker*innen:</h3>
                 <ul>
@@ -230,10 +231,7 @@ break;
               </article>
 
               <article class="cluster">
-                <header>
-                  <img class="anonymous" src="/img/poly.svg">
-                  <h2><span>Philosophischer Salon: Wie digital wird eine wirklich zukunftsfähige Gesellschaft sein?</span></h2>
-                </header>
+                <h2><span>Philosophischer Salon: Wie digital wird eine wirklich zukunftsfähige Gesellschaft sein?</span></h2>
                 <h3>Fishbowl-Diskussion</h3>
                 <p>Analog ist das neue bio, meinen die einen. Vernetzung und schlaue Algorithmen sind der beste Weg zur Nachhaltigkeit, so die anderen. Haben „Techies“ und „Ökos“, auch wenn sie beide für eine bessere Welt kämpfen, vielleicht ganz unterschiedliche Annahmen über die Natur von Mensch, Technik und Gesellschaft? Wie digital wird die ideale Gesellschaft von Morgen sein, wenn in ihr tatsächlich alle Menschen in Würde leben und die Grenzen des Planeten eingehalten werden?</p>
                 <h3>Speaker*innen:</h3>
@@ -246,10 +244,7 @@ break;
               </article>
 
               <article class="cluster">
-                <header>
-                  <img class="anonymous" src="/img/poly.svg">
-                  <h2><span>Sporangium</span></h2>
-                </header>
+                <h2><span>Sporangium</span></h2>
                 <p>So wie Farnpflanzen ihre <a href='https://www.spektrum.de/news/sporenkatapult-des-farns-ergruendet/1145522' target='_blank'>Sporen aus der Kapsel mit bis zu 10m/s heraus in die Welt katapultieren</a>, auf dass sie dort auf fruchtbaren Boden fallen, werden unsere 8 Expert*innen ihr Nerd- und Fach-Wissen weitergeben – spektakulär, wirkungsvoll und unterhaltsam. So bunt wie die besten Slams, so dicht wie die besten Lightning Talks.</p>
                 <h3>Unter anderem mit:</h3>
                 <ul>
@@ -259,16 +254,6 @@ break;
                   <li>Leon Kaiser</li>
                 </ul>
                 <p><strong>Moderation:</strong> Juliane Krüger & Rainer Rehak</p>
-              </article>
-
-
-              <article class="cluster">
-                <header>
-                  <img class="anonymous" src="/img/poly.svg">
-                  <h2><span>Forum</span></h2>
-                </header>
-                <h3>Kreative Fläche auf dem Konferenzareal</h3>
-                <p>An beiden Tagen präsentieren sich über das konkrete Programm hinaus sozial-ökologisch/technisch/aktivistische ausgerichtete Initiativen, Vereine, Organisationen und Netzwerke in unserem Forum, sodass ein gemeinsamer Ort des Austauschs entstehen kann. Zugesagt haben u.a. Electronics Watch, Mundraub, Transformation Design Kitchen, Fairmove IT, Grüne Liga, Free Software Foundation Europe, OpenSourceEcology, Stadt Land Smart, Travel Transform, Sukuma, Robin Wood, Nager IT, Freifunk, Hostsharing e.G., nachhaltig.digital. Ins Bits&Bäume-JugendForum sind insbesondere alle eingeladen mit Interesse für Jugendprojekte, um sich kennenzulernen, Spiele zu entwickeln oder auch eigene Projekte vorzustellen. Kurz: Das Forum ist der richtige Ort für entspannte Gespräche oder zum gemeinsamen Umsetzen von Ideen jenseits des Konferenzprogramms.</p>
               </article>
 
             <hr>
