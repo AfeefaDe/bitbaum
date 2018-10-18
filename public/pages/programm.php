@@ -63,7 +63,7 @@
           <p>Digital technologies offer opportunities for climate and environmental protection, as they can urge the needed changes in energy, transport and consumption patterns. On the other hand, the collection and use of personal data by companies and service providers features the risk of reinforcing societal power asymmetries and monopolies. It is not expedient to pit the potentials for sustainability and increased efficiency and data protection against one another. How can the core concerns of the sustainability movement be meaningfully combined with those of the techie scene? And what political demands arise from this?</p>
           <h3>Speakers:</h3>
           <ul>
-            <li>Dr. Thomas Engelke, Leitung Team Energie und Bauen in Verbraucherzentrale Bundesverbands (vzbv) für die Verbrauchersicht</li>
+            <li>Dr. Thomas Engelke, Leitung Team Energie und Bauen in Verbraucherzentrale Bundesverbands (vzbv)</li>
             <li>Cathleen Berger, Mozilla</li>
             <li>Sweelin Heuss, Executive Director Greenpeace Germany</li>
             <li>Luis Neves, Global e-Sustainability Initiative</li>
@@ -227,10 +227,10 @@ break;
                 <p>Digitale Technologien bieten Chancen für Klima- und Umweltschutz, da sie die dringend erforderlichen Energie-, Verkehrs- und Konsumwenden vorantreiben können. Gleichzeitig birgt die Erhebung und Nutzung persönlicher Daten durch Firmen und Dienstleister die Gefahr, gesellschaftliche Machtasymmetrien und Monopolisierungen zu befördern. Es ist nicht zielführend, Potenziale für Nachhaltigkeit und Effizienzsteigerung gegen Datenschutzaspekte auszuspielen. Wie lassen sich die Kernanliegen der Nachhaltigkeitsbewegung mit den Kernanliegen der Techie-Szene sinnvoll zusammendenken? Und welche politischen Forderungen erwachsen daraus?</p>
                 <h3>Speaker*innen:</h3>
                 <ul>
-                  <li>Dr. Thomas Engelke, Leitung Team Energie und Bauen in Verbraucherzentrale Bundesverbands (vzbv) für die Verbrauchersicht</li>
-                  <li>Cathleen Berger, Mozilla (für das Thema Datenschutz)</li>
-                  <li>Sweelin Heuss, Geschäftsführerin Greenpeace e.V. (für die Umweltsicht)</li>
-                  <li>Luis Neves, Global e-Sustainability Initiative (für die Unternehmenssicht)</li>
+                  <li>Dr. Thomas Engelke, Leitung Team Energie und Bauen in Verbraucherzentrale Bundesverbands (vzbv)</li>
+                  <li>Cathleen Berger, Mozilla</li>
+                  <li>Sweelin Heuss, Geschäftsführerin Greenpeace e.V.</li>
+                  <li>Luis Neves, Global e-Sustainability Initiative</li>
                 </ul>
               </article>
 
