@@ -63,41 +63,39 @@ $twitter = $('section.twitter');
 $programBtn = $('.control .program');
 $twitterBtn = $('.control .twitter');
 
+function showTwitter () {
+  $twitterBtn.addClass('active');
+  $twitter.addClass('active');
+  $programBtn.removeClass('active');
+  $program.removeClass('active');
+}
+
+function showProgramme () {
+  $programBtn.addClass('active');
+  $program.addClass('active');
+  $twitterBtn.removeClass('active');
+  $twitter.removeClass('active');
+}
+
 $twitterBtn.click(function () {
-    $(this).addClass('active');
-    $twitter.addClass('active');
-    $programBtn.removeClass('active');
-    $program.removeClass('active');
+    showTwitter();
 });
 
 $programBtn.click(function () {
-    $(this).addClass('active');
-    $program.addClass('active');
-    $twitterBtn.removeClass('active');
-    $twitter.removeClass('active');
+    showProgramme();
 });
 
-    $portraits = $('.portrait');
+$portraits = $('.portrait');
 
-function switcher(i) {
-    $($portraits[i]).hide();
-    if (i === ($portraits.length - 1)) {
-        i = 0;
-        $($portraits[0]).fadeIn();
-    }
-    else {
-        $($portraits[i + 1]).fadeIn();
-        i++;
-    }
-    return i;
+function switchSidebar() {
+  if ( $program.hasClass('active') )
+    showTwitter();
+  else
+    showProgramme();
 }
 
 var index = 0;
-$('.people').click(function () {
-    index = switcher(index);
-});
-
 setInterval(function () {
-    index = switcher(index);
+    switchSidebar();
 }, 10000)
 </script>
