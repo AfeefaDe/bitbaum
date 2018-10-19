@@ -1,5 +1,5 @@
 <?php
-require_once('TwitterFeed.php');
+require_once 'TwitterFeed.php';
 
 $feed = new TwitterFeed();
 $tweets = json_decode($feed->fetch());
@@ -7,7 +7,8 @@ $tweets = json_decode($feed->fetch());
 foreach ($tweets->statuses as $key => $tweet) {
     if (substr($tweet->text, 0, 2) != "RT") {
         $tweet_url = 'https://twitter.com/statuses/' . $tweet->id_str;
-        $date = date_create($tweet->created_at);
+        // $date = date_create($tweet->created_at);
+        $date = strtotime($tweet->created_at);
         ?>
 
         <article>
@@ -21,13 +22,14 @@ foreach ($tweets->statuses as $key => $tweet) {
                         <small>@<?php echo $tweet->user->screen_name ?></small>
                     </div>
                 </address>
-                <time datetime="<?php echo date_format($date, "Y-m-d H:i") ?>">
+                <time datetime="<?php echo date("Y-m-d H:i", $date) ?>">
                     <?php
-                    if (date("Ymd") == date_format($date, "Ymd"))
-                        echo date_format($date, "H:i");
-                    else
-                        echo date_format($date, "d.m. | H:i");
-                    ?>
+if (date("Ymd") == date("Ymd", $date)) {
+            echo date("H:i", $date);
+        } else {
+            echo date("d.m. | H:i", $date);
+        }
+        ?>
                 </time>
             </header>
             <footer>
@@ -35,4 +37,4 @@ foreach ($tweets->statuses as $key => $tweet) {
         </article>
 
     <?php }
-} ?>
+}?>
