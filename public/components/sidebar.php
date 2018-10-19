@@ -7,7 +7,7 @@
         </section>
 
         <section class="switch program active">
-          <p>The program with more than 100 international panels, talks, workshops, philosophical salon, forum, sporangium, concert and party is now online. Numerous organizations, individuals and international speakers are shaping the program with their submissions and presenting their approaches to sustainable digitization. Together with you we want to develop solutions for a sustainable future and change the world.</p>
+          <p>The program with more than 120 international panels, talks, workshops, philosophical salon, forum, sporangium, concert and party is now online. Numerous organizations, individuals and international speakers are shaping the program with their submissions and presenting their approaches to sustainable digitization. Together with you we want to develop solutions for a sustainable future and change the world.</p>
           <a href="https://fahrplan.bits-und-baeume.org" target="_blank" class="button" style="text-align: center">See full programme</a>
         </section>
 
@@ -36,7 +36,7 @@ break;
 
         <section class="switch program active">
           <h4>PROGRAMM</h4>
-          <p>Das Programm mit mehr als 100 international besetzten Panels, Talks, Workshops, Philosophischem Salon, Forum, Sporangium, Konzert und 	Party ist jetzt online. Zahlreiche Organisationen, Personen und internationale Referierende gestalten das Programm durch ihre Einreichungen mit und stellen ihre Ansätze für eine nachhaltige Digitalisierung vor. Gemeinsam mit euch wollen wir Lösungsansätze für eine nachhaltige Zukunft erarbeiten und die Welt verändern.</p>
+          <p>Das Programm mit mehr als 120 international besetzten Panels, Talks, Workshops, Philosophischem Salon, Forum, Sporangium, Konzert und 	Party ist jetzt online. Zahlreiche Organisationen, Personen und internationale Referierende gestalten das Programm durch ihre Einreichungen mit und stellen ihre Ansätze für eine nachhaltige Digitalisierung vor. Gemeinsam mit euch wollen wir Lösungsansätze für eine nachhaltige Zukunft erarbeiten und die Welt verändern.</p>
           <a href="https://fahrplan.bits-und-baeume.org" target="_blank" class="button" style="text-align: center">Komplettes Programm ansehen</a>
         </section>
 
