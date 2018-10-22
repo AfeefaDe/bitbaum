@@ -19,7 +19,6 @@
           <ul>
             <li>Tilman Santarius, Technical University Berlin and Institute for Ecological Economic Research</li>
             <li>Constanze Kurz, Chaos Computer Club</li>
-            <li>Jean Ziegler, UN Human Rights Council, Switzerland (inquired)</li>
           </ul>
         </article>
 
@@ -96,7 +95,7 @@
           <ul>
             <li>Eva Blum-Dumontet (Privacy International)</li>
             <li>Stefan Kaufmann (Projekt „Zukunftsstadt“)</li>
-            <li>Sybille Frank (Stadtsoziologin, TU Darmstadt, angefragt)</li>
+            <li>Sybille Bauriedl (Stadtsoziologie und Nachhaltigkeit, Europa-Universität Flensburg)</li>
           </ul>
           <p><strong>Moderation:</strong> Leon Kaiser, netzpolitik.org</p>
         </article>
@@ -130,6 +129,7 @@
             <li>Benjamin Kees</li>
             <li>Katika Kühnreich</li>
             <li>Leon Kaiser</li>
+            <li>Letty</li>             
           </ul>
           <p><strong>Moderation:</strong> Juliane Krüger & Rainer Rehak</p>
         </article>
@@ -191,7 +191,6 @@ break;
                 <ul>
                   <li>Tilman Santarius, Technische Universität Berlin und Institut für ökologische Wirtschaftsforschung</li>
                   <li>Constanze Kurz, Chaos Computer Club</li>
-                  <li>Jean Ziegler, UN Menschrechtsrat, Schweiz (angefragt)</li>
                 </ul>
               </article>
 
@@ -254,7 +253,7 @@ break;
                 <ul>
                   <li>Eva Blum-Dumontet (Privacy International)</li>
                   <li>Stefan Kaufmann (Projekt „Zukunftsstadt“)</li>
-                  <li>Sybille Frank (Stadtsoziologin, TU Darmstadt, angefragt)</li>
+                  <li>Sybille Bauriedl (Stadtsoziologie und Nachhaltigkeit, Europa-Universität Flensburg)</li>
                 </ul>
                 <p><strong>Moderation:</strong> Leon Kaiser, netzpolitik.org</p>
               </article>
@@ -282,6 +281,7 @@ break;
                   <li>Benjamin Kees</li>
                   <li>Katika Kühnreich</li>
                   <li>Leon Kaiser</li>
+                  <li>Letty</li>
                 </ul>
                 <p><strong>Moderation:</strong> Juliane Krüger & Rainer Rehak</p>
               </article>
