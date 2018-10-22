@@ -5,7 +5,7 @@
       <h1>Programme Preview</h1>
 
       <section>
-        <p>231 (!) contributions were submitted to the Call for Participation. The selection is over, now we are working on the schedule. A variety of lectures, workshops, panels, fishbowl and podium discussions, world cafés and much more awaits you. The detailed program and timetable will be published shortly.</p>
+        <p>231 (!) contributions were submitted to the Call for Participation. The selection process is over, now we are working on the schedule. A variety of lectures, workshops, panels, fishbowl and podium discussions, world cafés and much more awaits you. The detailed program and timetable will be published shortly.</p>
       </section>
 
       <article class="cluster">
