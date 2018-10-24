@@ -26,11 +26,11 @@
 
                 <h2>PR-Material</h2>
                 <p>
-                  <strong>Flyer for promoting the ticket sale</strong>
-                  <br>🗋 <a target="_blank" href="/downloads/flyer-anmeldestart-2.pdf">Variation 1</a>
-                  <br>🗋 <a target="_blank" href="/downloads/flyer-anmeldestart-3.pdf">Variation 2</a>
-                  <br>🗋 <a target="_blank" href="/downloads/flyer-anmeldestart-4.pdf">Variation 3</a>
-                  <br>🗋 <a target="_blank" href="/downloads/flyer-anmeldestart-7.pdf">Variation 4</a>
+                  🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo.pdf">Logo</a>
+                  <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo-schrift.pdf">Logo mit Schrift</a>
+                  <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-traegerkreis.jpg">Graphik Trägerkreis</a>
+                  <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-loesungen.png">Graphik Lösungen</a>
+                  <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-programmstart.png">Graphik Programmstart</a>
                 </p>
               </section>
             </div>
@@ -64,11 +64,11 @@ break;
 
               <h2>ÖA-Material</h2>
               <p>
-                <strong>Flyer zur Bewerbung des Anmeldestarts</strong>
-                <br>🗋 <a target="_blank" href="/downloads/flyer-anmeldestart-2.pdf">Variation 1</a>
-                <br>🗋 <a target="_blank" href="/downloads/flyer-anmeldestart-3.pdf">Variation 2</a>
-                <br>🗋 <a target="_blank" href="/downloads/flyer-anmeldestart-4.pdf">Variation 3</a>
-                <br>🗋 <a target="_blank" href="/downloads/flyer-anmeldestart-7.pdf">Variation 4</a>
+                🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo.pdf">Logo</a>
+                <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo-schrift.pdf">Logo mit Schrift</a>
+                <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-traegerkreis.jpg">Graphik Trägerkreis</a>
+                <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-loesungen.png">Graphik Lösungen</a>
+                <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-programmstart.png">Graphik Programmstart</a>
               </p>
 
             </section>
