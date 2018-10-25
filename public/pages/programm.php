@@ -19,6 +19,7 @@
           <ul>
             <li>Tilman Santarius, Technical University Berlin and Institute for Ecological Economic Research</li>
             <li>Constanze Kurz, Chaos Computer Club</li>
+            <li>Lorenz Hilty, Universität Zürich, Research group "Computer science and sustainability"</li>
           </ul>
         </article>
 
@@ -191,6 +192,7 @@ break;
                 <ul>
                   <li>Tilman Santarius, Technische Universität Berlin und Institut für ökologische Wirtschaftsforschung</li>
                   <li>Constanze Kurz, Chaos Computer Club</li>
+                  <li>Lorenz Hilty, Universität Zürich, Forschungsgruppe „Informatik und Nachhaltigkeit“</li>
                 </ul>
               </article>
 
