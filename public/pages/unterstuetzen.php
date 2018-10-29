@@ -33,7 +33,7 @@ Ihr erhaltet an beiden Tagen freien Eintritt zur Konferenz und werdet mit bio-ve
                       <li>Verkünden organisatorischer Details</li>
                       <li>darauf achten, dass die Zeit bei Veranstaltungen nicht überzogen wird</li>
                     </ul>
-                     <p>Für welchen<strong>Zeitraum</strong>?</p>
+                     <p>Für welchen <strong>Zeitraum</strong>?</p>
                     <ul>
                       <li>Am Samstag oder Sonntag der Konferenz</li>
                       <li>Für mindestens zwei Programmpunkte (à 90 Minuten)</li>
