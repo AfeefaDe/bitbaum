@@ -40,6 +40,7 @@ Ihr erhaltet an beiden Tagen freien Eintritt zur Konferenz und werdet mit bio-ve
                     </ul>
                 </section>
             </div>
-            <p>Hast du bereits Moderationserfahrung und Lust dich aktiv am Programm der Konferenz zu beteiligen? Dann melde dich <span class="bolder">bis zum 08.10 </span>bei <span class="mail_replace_katja">. Bitte beschreibe in der E-Mail deine bisherige Erfahrung und schicke uns Videos zu deinen Moderationen.</p>           
+            <p>Hast du bereits Moderationserfahrung und Lust dich aktiv am Programm der Konferenz zu beteiligen? Dann melde dich <span class="bolder">bis zum 08.11. </span>bei <span class="mail_replace_katja">. </p>
+            <p>Bitte beschreibe in der E-Mail deine bisherige Erfahrung und schicke uns Videos zu deinen Moderationen.</p>           
     </article>
     <?php } ?>
