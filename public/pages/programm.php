@@ -19,6 +19,7 @@
           <ul>
             <li>Tilman Santarius, Technical University Berlin and Institute for Ecological Economic Research</li>
             <li>Constanze Kurz, Chaos Computer Club</li>
+            <li>Lorenz Hilty, Universität Zürich, Research group "Computer science and sustainability"</li>
           </ul>
         </article>
 
@@ -191,6 +192,7 @@ break;
                 <ul>
                   <li>Tilman Santarius, Technische Universität Berlin und Institut für ökologische Wirtschaftsforschung</li>
                   <li>Constanze Kurz, Chaos Computer Club</li>
+                  <li>Lorenz Hilty, Universität Zürich, Forschungsgruppe „Informatik und Nachhaltigkeit“</li>
                 </ul>
               </article>
 
@@ -277,6 +279,7 @@ break;
                 <p>So wie Farnpflanzen ihre <a href='https://www.spektrum.de/news/sporenkatapult-des-farns-ergruendet/1145522' target='_blank'>Sporen aus der Kapsel mit bis zu 10m/s heraus in die Welt katapultieren</a>, auf dass sie dort auf fruchtbaren Boden fallen, werden unsere 8 Expert*innen ihr Nerd- und Fach-Wissen weitergeben – spektakulär, wirkungsvoll und unterhaltsam. So bunt wie die besten Slams, so dicht wie die besten Lightning Talks.</p>
                 <h3>Unter anderem mit:</h3>
                 <ul>
+                  <li>Antina Sander</li>
                   <li>Arne Semsrott</li>
                   <li>Benjamin Kees</li>
                   <li>Katika Kühnreich</li>
