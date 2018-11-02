@@ -8,11 +8,13 @@
         <section class="square cluster">
             <article class="bolder">
                 <h4>Focus</h4>
-                <p>The material basis of digitalization</p>
-                <p>Alternative economies</p>
-                <p>Environmental and network policy</p>
+                <p>Alternative Economies</p>
+                <p>Cival Society & Communities</p>
+                <p>Data and ecology</p>
                 <p>Digital infrastructures</p>
                 <p>Fundamental issues</p>
+                <p>The material basis of digitalization</p>
+                <p>Smart City, Smart Land</p>
                 <p class="square-action align-center">
                     <a href="/programm/<?php echo $lang; ?>" class="button">Sneak preview of the programme</a>
                 </p>
@@ -46,13 +48,15 @@ break;
         <section class="square cluster">
             <article class="bolder">
                 <h4>Schwerpunkte</h4>
-                <p>Die materielle Basis der Digitalisierung</p>
                 <p>Alternatives Wirtschaften</p>
-                <p>Umwelt- und Netzpolitik</p>
-                <p>Digitale Infrastrukturen</p>
+                <p>Daten & Umwelt</p>
                 <p>Die ganz großen Fragen</p>
+                <p>Die materielle Basis</p>
+                <p>Digitaler Kapitalismus</p>              
+                <p>Stadt, Land, Smart</p>
+                <p>Zivilgesellschaft & Communities</p>
                 <p class="square-action align-center">
-                    <a href="/programm/<?php echo $lang; ?>" class="button">Beschreibung der Schwerpunkte</a>
+                    <a href="/programm/<?php echo $lang; ?>" class="button">Forum & Bits&Bäume-Panels</a>
                 </p>
             </article>
         </section>
