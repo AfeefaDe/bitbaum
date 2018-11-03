@@ -28,9 +28,9 @@
                 <p>
                   🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo.pdf">Logo</a>
                   <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo-schrift.pdf">Logo mit Schrift</a>
-                  <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-traegerkreis.jpg">Graphik Trägerkreis</a>
-                  <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-loesungen.png">Graphik Lösungen</a>
-                  <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-programmstart.png">Graphik Programmstart</a>
+                  <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-traegerkreis.jpg">Grafik Trägerkreis-Organisationen</a>
+                  <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-loesungen.png">Grafik „Lösungen“</a>
+                  <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-programmstart.png">Grafik Programmstart</a>
                 </p>
               </section>
             </div>
@@ -78,19 +78,19 @@ break;
         <article>
           <h2>FAQ</h2>
 
-          <h3>Wie kann ich als Pressevertreter*in auf die Bits und Bäume?</h3>
-          <p>Es gibt für Pressevertreter*innen die Möglichkeit sich für die Konferenz akkreditieren zu lassen. Dafür schreibt uns bitte eine Mail an Nina Prehm: <span class="mail_replace_presse"></span>. Wir prüfen alle Anfragen und melden uns schnellstmöglich zurück.</p>
+          <h3>Wie komme ich als Pressevertreter*in auf die Bits & Bäume?</h3>
+          <p>Es gibt für Pressevertreter*innen die Möglichkeit, sich für die Konferenz akkreditieren zu lassen. Dafür schreibt uns bitte eine Mail an Nina Prehm: <span class="mail_replace_presse"></span>. Wir prüfen alle Anfragen und melden uns schnellstmöglich zurück.</p>
           <p>Wir freuen uns über Belegexemplare oder Link zum Artikel oder Interview.</p>
 
-          <h3>Gibt es eine Möglichkeit Interviews zu führen?</h3>
+          <h3>Gibt es eine Möglichkeit, Interviews zu führen?</h3>
           <p>Falls du ein Interview mit einem*r der Speaker*innen oder den Veranstalter*innen führen möchtest, vermitteln wir dir gerne eine*n Ansprechpartner*in. Dafür schreibe uns bitte eine E-Mail an Nina Prehm: <span class="mail_replace_presse"></span> und wir melden uns baldmöglichst bei dir.</p>
           <p>Auch bei anderen Anliegen bezüglich deiner Berichterstattung melde dich gerne bei uns.</p>
 
           <h3>Kann ich die Pressegrafiken und Bilder nutzen?</h3>
           <p>Die Bilder und Pressegrafiken auf der Website dürfen im Rahmen der Berichterstattung über die Konferenz unter Nennung des Urhebers frei genutzt werden.</p>
 
-          <h3>Wo finde ich das Pressematerial und weiteres Infomaterial zur Konferenz?</h3>
-          <p>Für allgemeine Informationen über die Konferenz findest du viel Material unter <a href="https://bits-und-baeume.org/presse">www.bits-und-baeume.org/presse</a>. Wir ergänzen die Seite laufend mit Infomaterial. Falls ihr noch Fragen habt oder etwas nicht gefunden habt schreibt uns gerne eine Mail an <span class="mail_replace_presse"></span></p>
+          <h3>Wo finde ich das Pressematerial und weitere Infos zur Konferenz?</h3>
+          <p>Für allgemeine Informationen über die Konferenz findest du viel Material unter <a href="https://bits-und-baeume.org/presse">www.bits-und-baeume.org/presse</a>. Wir ergänzen die Seite laufend mit Infomaterial. Falls ihr noch Fragen habt oder etwas nicht gefunden habt, schreibt uns gerne eine Mail an <span class="mail_replace_presse"></span></p>
 
           <p>Ihr findet uns auf Twitter unter <a href="https://twitter.com/bitsundbaeume" target="_blank">@bitsundbaeume</a></p>
         </article>
