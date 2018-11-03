@@ -5,7 +5,7 @@
             <h1>Press & Public Relations</h1>
             <div class="row">
               <section>
-                  <h2>Contact</h2>
+                  <h2>Press Contact</h2>
                   <img class="portrait" src="/img/nina-rehm.jpg">
                   <p><strong>Nina Prehm</strong><br>+49 (0) 30 884594 48<br><span class="mail_replace_presse"></span></p>
                   <p>If you would like to receive press releases and information about the conference, please send an e-mail.</p>
