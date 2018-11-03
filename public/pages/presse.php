@@ -31,10 +31,10 @@
                 <h2>PR-Material</h2>
                 <p>
                   🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo.pdf">Logo</a>
-                  <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo-schrift.pdf">Logo mit Schrift</a>
-                  <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-traegerkreis.jpg">Grafik Trägerkreis-Organisationen</a>
-                  <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-loesungen.png">Grafik „Lösungen“</a>
-                  <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-programmstart.png">Grafik Programmstart</a>
+                  <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo-schrift.pdf">logo with text</a>
+                  <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-traegerkreis.jpg">logo of conference and organizers</a>
+                  <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-loesungen.png">image „Lösungen“ in German</a>
+                  <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-programmstart.png">image program in German</a>
                 </p>
               </section>
             </div>
@@ -75,9 +75,9 @@ break;
               <p>
                 🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo.pdf">Logo</a>
                 <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo-schrift.pdf">Logo mit Schrift</a>
-                <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-traegerkreis.jpg">Graphik Trägerkreis</a>
-                <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-loesungen.png">Graphik Lösungen</a>
-                <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-programmstart.png">Graphik Programmstart</a>
+                <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-traegerkreis.jpg">Grafik mit Trägerkreis-Logos</a>
+                <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-loesungen.png">Grafik „Lösungen“</a>
+                <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-programmstart.png">Grafik Programmstart</a>
               </p>
 
             </section>
