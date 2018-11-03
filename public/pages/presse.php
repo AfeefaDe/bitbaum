@@ -47,7 +47,7 @@ break;
               <h2>Pressekontakt</h2>
               <img class="portrait" src="/img/nina-rehm.jpg">
               <p><strong>Nina Prehm</strong><br>+49 (0) 30 884594 48<br><span class="mail_replace_presse"></span></p>
-              <p>Wenn Sie in den Presseverteiler aufgenommen oder sich zur Konferenz anmelden wollen, schreiben Sie bitte eine E-Mail.</p>
+              <p>Wenn Sie in den Presseverteiler aufgenommen werden oder sich zur Konferenz anmelden wollen, schreiben Sie bitte eine E-Mail.</p>
             </section>
             <section>
             <h2>Social Media</h2>
