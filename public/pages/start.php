@@ -53,7 +53,7 @@ break;
                 <p>Die ganz großen Fragen</p>
                 <p>Die materielle Basis</p>
                 <p>Digitaler Kapitalismus</p>              
-                <p>Stadt, Land, Smart</p>
+                <p>Stadt – Land – Smart</p>
                 <p>Zivilgesellschaft & Communities</p>
                 <p class="square-action align-center">
                     <a href="/programm/<?php echo $lang; ?>" class="button">Forum & Bits&Bäume-Panels</a>
