@@ -2,7 +2,7 @@
     case "en":
         ?>
         <article>
-            <h1>Press</h1>
+            <h1>Press & Public Relations</h1>
             <div class="row">
               <section>
                   <h2>Contact</h2>
@@ -40,7 +40,7 @@ break;
     default:
         ?>
         <article>
-          <h1>Presse</h1>
+          <h1>Presse & Öffentlichkeitsarbeit</h1>
           <div class="row">
 
             <section>
@@ -48,6 +48,11 @@ break;
               <img class="portrait" src="/img/nina-rehm.jpg">
               <p><strong>Nina Prehm</strong><br>+49 (0) 30 884594 48<br><span class="mail_replace_presse"></span></p>
               <p>Wenn Sie in den Presseverteiler aufgenommen oder sich zur Konferenz anmelden wollen, schreiben Sie bitte eine E-Mail.</p>
+            </section>
+            <section>
+            <h2>Social Media</h2>
+            <img class="portrait" src="/img/jasmin-helm.jpg">
+            <p><strong>Jasmin Helm</strong><br><a href="https://twitter.com/bitsundbaeume" target="_blank">@bitsundbaeume</a>
             </section>
             <section>
               <h2>Pressemitteilungen</h2>
