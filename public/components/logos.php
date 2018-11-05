@@ -17,7 +17,7 @@
                                                                                  title="Brot für die Welt"></a>
                 <a href="https://www.ccc.de" target="_blank"><img src="/img/logo-ccc.svg"
                                                                   title="Chaos Computer Club"></a>
-                <a href="https://www.fiff.de" target="_blank"><img class="larger gray" src="/img/logo-fiff.svg"
+                <a href="https://www.fiff.de" target="_blank"><img class="larger gray" src="/img/logo-fiff.png"
                                                                    title="Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung"></a>
                 <a href="https://www.konzeptwerk-neue-oekonomie.org" target="_blank"><img class="larger"
                                                                                           src="/img/logo-konzeptwerk.svg"
