@@ -95,7 +95,7 @@
           <h3>Speakers:</h3>
           <ul>
             <li>Eva Blum-Dumontet (Privacy International)</li>
-            <li>Stefan Kaufmann (Projekt „Zukunftsstadt“)</li>
+            <li>Stefan Kaufmann (Projektleiter Verschwörhaus, Stadt Ulm)</li>
             <li>Sybille Bauriedl (Stadtsoziologie und Nachhaltigkeit, Europa-Universität Flensburg)</li>
           </ul>
           <p><strong>Moderation:</strong> Leon Kaiser, netzpolitik.org</p>
@@ -254,7 +254,7 @@ break;
                 <h3>Speakers:</h3>
                 <ul>
                   <li>Eva Blum-Dumontet (Privacy International)</li>
-                  <li>Stefan Kaufmann (Projekt „Zukunftsstadt“)</li>
+                  <li>Stefan Kaufmann (Projektleiter Verschwörhaus, Stadt Ulm)</li>
                   <li>Sybille Bauriedl (Stadtsoziologie und Nachhaltigkeit, Europa-Universität Flensburg)</li>
                 </ul>
                 <p><strong>Moderation:</strong> Leon Kaiser, netzpolitik.org</p>
