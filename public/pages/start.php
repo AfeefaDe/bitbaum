@@ -52,11 +52,11 @@ break;
                 <p>Daten & Umwelt</p>
                 <p>Die ganz großen Fragen</p>
                 <p>Die materielle Basis</p>
-                <p>Digitaler Kapitalismus</p>              
+                <p>Digitaler Kapitalismus</p>
                 <p>Stadt – Land – Smart</p>
                 <p>Zivilgesellschaft & Communities</p>
                 <p class="square-action align-center">
-                    <a href="/programm/<?php echo $lang; ?>" class="button">Forum & Bits&Bäume-Panels</a>
+                    <a href="/programm/<?php echo $lang; ?>" class="button">Zur Programmbeschreibung</a>
                 </p>
             </article>
         </section>

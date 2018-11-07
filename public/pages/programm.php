@@ -130,7 +130,7 @@
             <li>Benjamin Kees</li>
             <li>Katika Kühnreich</li>
             <li>Leon Kaiser</li>
-            <li>Letty</li>             
+            <li>Letty</li>
           </ul>
           <p><strong>Moderation:</strong> Juliane Krüger & Rainer Rehak</p>
         </article>
@@ -162,144 +162,57 @@ break;
     default:
         ?>
         <article>
-            <h1>Programmschwerpunkte</h1>
+          <h1>Bits & Bäume – Das Programm</h1>
+          <p>Zum ersten Mal werden auf der Konferenz Bits & Bäume zwei Denkwelten zusammengebracht, die sonst noch separat voneinander betrachtet werden. Denn wir wollen, dass sich etwas ändert! Faszinierende Ideen und tolle Leute, Visionen und konkrete Projekte, theoretische Erkenntnisse und praktische Lösungsansätze kommen zusammen, um die Welt nachhaltig zu gestalten.</p>
+          <p>Gemeinsam mit euch erarbeiten wir am 17. und 18. November Lösungen für eine nachhaltige Digitalisierung. Die Beteiligung am Call for Participation war riesig. Das Ergebnis: fünf Bühnen, elf Räume, mehr als 120 international besetzte Panels, Talks, Hands-on-Workshops, geheimnisvolles Sporangium, um-die-Ecke-denkender Philosophischer Salon und ein energiegeladenes Abend- und Rahmenprogramm mit Konzert und Apéro. Bei den ausgewählten Beiträgen geht es etwa darum, wie demokratie- und grundrechtsfreundliche Software entwickelt oder wie die Themen Nachhaltigkeit und Menschenrechte durch Technologie gefördert werden können. Das Programm setzt sich zusammen aus den Einreichungen von vielen inspirierenden Personen, Organisationen und Engagierten sowie der Bits & Bäume-Bühne.</p>
+          <p><a href="https://fahrplan.bits-und-baeume.org/schedule/1.html" target="_blank">Das Programm</a> teilt sich auf in sieben Themenschwerpunkte mit konkreten Fragen und Fachleuten, die so zum ersten Mal miteinander in die Zukunft blicken:</p>
+          <ul>
+            <li>Die materielle Basis: <a href="https://fahrplan.bits-und-baeume.org/events/239.html" target="_blank">Wie schwer wiegt ein Bit?</a></li>
+            <li>Alternatives Wirtschaften: <a href="https://fahrplan.bits-und-baeume.org/events/240.html" target="_blank">Digitalisierung und Degrowth. Wege zu einem enkeltauglichen Wirtschaften?</a></li>
+            <li>Daten & Umwelt: <a href="https://fahrplan.bits-und-baeume.org/events/241.html" target="_blank">Datenschutz und digitale Rettung der Welt? Wo verlaufen die roten Linien?</a></li>
+            <li>Digitaler Kapitalismus: <a href="https://fahrplan.bits-und-baeume.org/events/242.html" target="_blank">Von Tech-Monopolen und IT-Giganten: Kritik des digitalen Kapitalismus</a></li>
+            <li>Stadt, Land, Smart: <a href="https://fahrplan.bits-und-baeume.org/events/235.html" target="_blank">Reclaim Smart City!</a></li>
+          </ul>
+          <p>Unter <a href="https://fahrplan.bits-und-baeume.org/events.html#zivilgesellschaft%20&%20communities%20" target="_blank">Zivilgesellschaft & Community</a> erwarten euch Projekte und Ideen aus der Basis von kleinen Open-Source-Umwelt-Apps bis zu großen Handreichungen für erfolgreichen Aktivismus. <a href="https://fahrplan.bits-und-baeume.org/events/247.html" target="_blank">Die ganz großen Fragen</a> stellen wir an die große Politik, an große Denker und die noch größeren Utopisten.</p>
+        </article>
 
-            <section>
-              <p>Nun ist es so weit! Aus 231 (!) Beiträgen haben wir ein schillerndes und vielseitiges Programm gebastelt. Euch erwarten Vorträge, Workshops, Panels, Fishbowl- und Podiumsdiskussionen, Worldcafés und vieles mehr. Welche einzelnen Programmpunkte es gibt und wie der genaue Zeitplan ist, erfahrt ihr hier: <a href="https://fahrplan.bits-und-baeume.org" target="_blank">https://fahrplan.bits-und-baeume.org</a></p>
-              <p>Zusätzlich zu euren Programmeinreichungen erwarten euch ein <em>Forum</em> und die Panels auf der <em>Bits & Bäume Bühne</em>.</p>
-            </section>
+        <article>
+          <h2>Smart City, alternatives Wirtschaften oder Wandel des digitalen Kapitalismus: sieben Themenschwerpunkte bilden den Rahmen</h2>
+          <p>Constanze Kurz, Sprecherin des Chaos Computer Clubs und Prof. Dr. Tilman Santarius von der Technischen Universität Berlin und dem Institut für ökologische Wirtschaftsforschung <a href="https://fahrplan.bits-und-baeume.org/speakers/310.html" target="_blank">eröffnen die Konferenz</a>. Warum bringt Bits & Bäume Techies, Ökos und digitale Menschenrechtler*innen zusammen? Wie kann Digitalisierung zur nachhaltigen Transformation der Gesellschaft und des Wirtschaftens beitragen? Wie kann Nachhaltigkeitsdenken die Techie-Szene inspirieren, sodass die Digitalisierung langfristig Bürgerrechte und individuelle Freiheiten garantiert? Das Eröffnungspodium erklärt, warum jetzt der historische Moment ist, um in einer offenen Vernetzungskonferenz das Thema Digitalisierung und Nachhaltigkeit auf die öffentliche und politische Agenda zu hieven. Anschließend freuen wir uns auf die Keynote von Prof. Dr. Lorenz Hilty der Universität Zürich.</p>
+          <p>Auf dem ersten Bits&Bäume-Panel diskutieren anschließend unter anderem Claude Kabemba von Southern Africa Resource Watch und Jenny Chan, Ko-Autorin von „Dying for an iPhone“ darüber, wie viele <a href="https://fahrplan.bits-und-baeume.org/events/239.html" target="_blank">Ressourcen</a> der Aufbau digitaler Infrastrukturen kostet oder welchen sozialen und ökologischen Fußabdruck die Digitalisierung hat.</p>
+          <p>Unter welchen Bedingungen die Digitalisierung Chancen für den Übergang in eine nachhaltige, lokale und kooperative Ökonomie bietet, erörtern Commons-Spezialistin Silke Helfrich (Commons Strategies Group), Johannes Heimrath (oya) und Cloud-Programmierer Frank Karlitschek (Nextcloud) auf dem Podium: <a href="https://fahrplan.bits-und-baeume.org/events/240.html" target="_blank">Digitalisierung und Degrowth. Wege zu einem enkeltauglichen Wirtschaften?</a></p>
+          <p>Was sind Folgen des technischen Fortschritts und wie können alle Menschen von ihm profitieren? Wie können Machtasymmetrien und Monopole verhindert werden? Oder ist die Digitalisierung der Wirtschaft ein Segen, weil sie den Kapitalismus transformiert? Diese Fragen prüfen Hacker Frank Rieger und der Träger des Alternativen Nobelpreises Pat Mooney in einer <a href="https://fahrplan.bits-und-baeume.org/events/242.html" target="_blank">Diskussion zur Kritik am digitalen Kapitalismus</a>.</p>
+          <p>Sweelin Heuss, Geschäftsführerin von Greenpeace Deutschland und Cathleen Berger von Mozilla diskutieren in der Session <a href="https://fahrplan.bits-und-baeume.org/events/241.html" target="_blank">Datenschutz und digitale Rettung der Welt - Wo verlaufen die roten Linien?</a>, wie Kernanliegen der Nachhaltigkeitsbewegung mit Datenschutz zusammengebracht werden können. Was bedeuten die neuen Technologien für unsere Privatsphäre?</p>
+          <p>Wie die Digitalisierung die Städte verändert und wie Städte die Digitalisierung für ihre Zwecke nutzen können, wird im Bits&Bäume Panel <a href="https://fahrplan.bits-und-baeume.org/events/235.html" target="_blank">Reclaim Smart City!</a> betrachtet. Eva Blum-Dumontet (Privacy International), Stefan Kaufmann (Projekt „Zukunftsstadt“) und Sybille Bauriedl (Stadtsoziologie und Nachhaltigkeit, Europa-Universität Flensburg) fragen etwa: Was ist „Smart City“? Welchen Stellenwert hat die Smart City im Kontext aktueller Herausforderungen für Städte und welche Alternativen gibt es? Wie geht Fairness und Emanzipation in Systemen, wie sieht Partizipation und Datenschutz auf konkreter Projektebene aus?</p>
+          <p>Auf dem <a href="https://fahrplan.bits-und-baeume.org/events/246.html" target="_blank">Abschlusspanel</a> lassen wir zwei Tage voller Workshops, Talks, Diskussionen und Vernetzung Revue passieren: Was haben wir gelernt? Welche Fragen sind offen geblieben – oder gar neu dazugekommen? Wo können die Communities bewegungsübergreifend zusammenarbeiten? Und vor allem auch: Was für Schlussfolgerungen lassen sich aus der Konferenz und dem Thema Digitalisierung und Nachhaltigkeit ziehen, und welche Gestaltungsvorschläge und Forderungen erwachsen daraus für Politik, Zivilgesellschaft, Unternehmen, Nutzer*innen und Öffentlichkeit?</p>
+        </article>
 
-            <article class="cluster">
-              <header>
-                <img class="anonymous" src="/img/poly.svg">
-                <h2><span>Forum</span></h2>
-              </header>
-              <p>An beiden Tagen präsentieren sich über das konkrete Programm hinaus sozial-ökologisch/technisch/aktivistische ausgerichtete Initiativen, Vereine, Organisationen und Netzwerke in unserem Forum, sodass ein gemeinsamer Ort des Austauschs entstehen kann. Zugesagt haben u.a. Electronics Watch, Mundraub, Transformation Design Kitchen, Fairmove IT, Grüne Liga, Free Software Foundation Europe, OpenSourceEcology, Stadt Land Smart, Travel Transform, Sukuma, Robin Wood, Nager IT, Freifunk, Hostsharing e.G., nachhaltig.digital. Ins Bits&Bäume-JugendForum sind insbesondere alle eingeladen mit Interesse für Jugendprojekte, um sich kennenzulernen, Spiele zu entwickeln oder auch eigene Projekte vorzustellen. Kurz: Das Forum ist der richtige Ort für entspannte Gespräche oder zum gemeinsamen Umsetzen von Ideen jenseits des Konferenzprogramms.</p>
-            </article>
+        <article>
+          <h2>Zwischen „Sporangium“ und Philosophischem Salon: Ein vielfältiges Spektrum der Formate</h2>
+          <p>8 Mikrokosmen, 8 Expert*innen, je 8 Minuten Zeit – <a href="https://fahrplan.bits-und-baeume.org/events/249.html" target="_blank">„Sporangium“</a> heißt Nerd- und Fachwissen wie aus Sporenkapseln mit hoher Geschwindigkeit in die Welt katapultiert, so bunt wie Slams, so dicht wie Lightning Talks. Arne Semsrott beleuchtet „Transparenz und andere Hürden der Demokratie“, Benjamin Kees entlarvt „Computer, die auf Menschen starren“. Katika Kühnreich spielt das Spiel mit den Social-Credit-Scores und Leon Kaiser flüstert: „Blockchain. Ein Gespenst geht um!“. Datenvisualisierungswissenschaftlerin Letty zeigt, wie sich beispielsweise Klimadaten überhaupt begreifen lassen, obwohl uns die Sinne dafür fehlen, Antina Sander fordert: Natürlich 100% erneuerbare Energien!</p>
+          <p>Mehr Zeit für die ganz großen Fragen bleibt beim <a href="https://fahrplan.bits-und-baeume.org/events/247.html" target="_blank">Philosophischen Salon</a> – Wie digital eine wirklich zukunftsfähige Gesellschaft sein wird, erörtern unter anderem Bestsellerautor Harald Welzer und der niederländische Low-Tech-Experte Kris de Decker.</p>
+        </article>
 
-            <article class="cluster">
-              <header>
-                <img class="anonymous" src="/img/poly.svg">
-                <h2><span>Bits & Bäume Bühne</span></h2>
-              </header>
-              <p>Auf der Bits & Bäume-Bühne erwartet euch abseits der von euch eingereichten Programmpunkte:</p>
-            </article>
+        <article>
+          <h2>Digitalisierung und Nachhaltigkeit: Einreichungen für eine bessere Welt</h2>
+          <p>Unglaubliche 231 Einreichungen gingen bei uns ein. Vom Umwelt-Aktivisten bis zur Programmiererin oder vom Nachhaltigkeits-Wissenschaftler bis zur digitalen Menschenrechtlerin gestalten nun viele Engagierte das Programm mit. „Bits for SDGs“, „Wie weh tut ein Bit? Sozialbilanz des Digitalen“, „Welchen Beitrag leisten Unternehmen zu einer nachhaltigen Digitalisierung?“, „Recycling im Digitalen Zeitalter“, „Einfluss von Software auf den Ressourcenverbraucht“, „Care und Grundeinkommen vor dem Hintergrund von Digitalisierung und Degrowth“, „Meine Stromdaten und ich“, „Bits, Bienen und Bäche – Bilanz nach 10 Jahren Digitalisierung in der Landwirtschaft“ – um nur einige der spannenden und inspirierenden Workshops, Vorträge oder Diskussionsrunden zu nennen.<br><a href="https://fahrplan.bits-und-baeume.org/schedule/2.html" target="_blank">Hier geht’s zum ausführlichen Programm</a></p>
+        </article>
 
-            <article class="cluster">
-                <h2><span>Eröffnung</span></h2>
-                <p>Bislang agieren Techies und Ökos, Nachhaltigkeitsbewegte und digitale Menschenrechtler*innen oft nebeneinander her. Warum bringt Bits & Bäume diese Communities nun zusammen? Wie kann Digitalisierung zur nachhaltigen Transformation der Gesellschaft und des Wirtschaftens beitragen? Wie kann Nachhaltigkeitsdenken die Techie-Szene inspirieren, sodass die Digitalisierung langfristig Bürgerrechte und individuelle Freiheiten garantiert? Das Eröffnungspodium stellt die Leitfragen hinter der Konferenz „Bits & Bäume“ vor, führt in das zweitägige Programm ein und erklärt, warum jetzt der historische Moment ist, um in einer offenen Vernetzungskonferenz das Thema Digitalisierung und Nachhaltigkeit auf die öffentliche und politische Agenda zu hieven!</p>
-                <h3>Speaker*innen:</h3>
-                <ul>
-                  <li>Tilman Santarius, Technische Universität Berlin und Institut für ökologische Wirtschaftsforschung</li>
-                  <li>Constanze Kurz, Chaos Computer Club</li>
-                  <li>Lorenz Hilty, Universität Zürich, Forschungsgruppe „Informatik und Nachhaltigkeit“</li>
-                </ul>
-              </article>
+        <article>
+          <h2>Pulsierendes Forum fördert Kennenlernen und Vernetzen</h2>
+          <p><a href="https://fahrplan.bits-und-baeume.org/events/261.html" target="_blank">Das Forum</a> ist der richtige Ort für entspannte Gespräche jenseits des Konferenzprogramms oder um gemeinsame Aktionen auszuhecken. An beiden Tagen präsentieren sich hier über das Programm hinaus sozial-ökologisch/technisch/aktivistische ausgerichtete Initiativen, Vereine, Organisationen und Netzwerke in unserem Forum, sodass ein gemeinsamer Ort des Austauschs entstehen kann – umringt von Installationen und Ständen. Mit dabei sind unter anderem Electronics Watch, Mundraub, Transformation Design Kitchen, Fairmove IT, Grüne Liga, Free Software Foundation Europe, OpenSourceEcology, Stadt Land Smart, Travel Transform, Sukuma, Robin Wood, Nager IT, Freifunk, Hostsharing e.G., nachhaltig.digital. Außerdem ist ein Workshopraum immer frei als Rückzugsort zur Vernetzung – und um die Revolution zu planen.</p>
+        </article>
 
-              <article class="cluster">
-                <h2><span>Wie schwer wiegt ein Bit?</span></h2>
-                <p>Auf den ersten Blick verspricht Digitalisierung eine Entmaterialisierung von Produkten und Konsumweisen. Doch wie viel Ressourcen und Energie Bedarf der Aufbau digitaler Infrastrukturen sowie die Herstellung und der Betrieb von Geräten? Und wie sehen die Arbeitsbedingungen und Umweltstandards in der Produktion aus, die meist in den Ländern des globalen Südens stattfindet? In knackigen, sich ergänzenden Inputs präsentiert dieses Podium aktuelle Fakten zum sozialen und ökologischen Fußabdruck der Digitalisierung und lässt Akteure aus den Herkunftsländern der 'digitalen Sweatshops' zu Wort kommen.</p>
-                <h3>Speaker*innen:</h3>
-                <ul>
-                  <li>Jenny Chan, “Dying for an iPhone”, The Hong Kong Polytechnic University, Hong Kong, China</li>
-                  <li>Claude Kabemba, Southern Africa Resource Watch, Südafrika</li>
-                  <li>Sabine Langkau, Fraunhofer-Institut für System- und Innovationsforschung ISI</li>
-                  <li>Johanna Pohl, Technische Universität Berlin und Forschungsgruppe „Digitalisierung und sozial-ökologische Transformation“</li>
-                  <li>Simon Hinterholzer, Borderstep Institut für Innovation und Nachhaltigkeit</li>
-                </ul>
-                <p><strong>Moderation:</strong> Sven Hilbig, Brot für die Welt</p>
-              </article>
+        <article>
+          <h2>Chillout und Diskussion im Bits&Bäume-JugendForum</h2>
+          <p>Ins <a href="https://fahrplan.bits-und-baeume.org/events/218.html" target="_blank">Bits&Bäume-JugendForum</a> sind insbesondere alle eingeladen mit Interesse für Jugendprojekte, um sich kennenzulernen, in Workshops zusammen zu denken, eigene Projekte zu entwickeln oder auch selbst Projekte vorzustellen. Bei Chillout & Diskussion stellen sich Vereine und Initiativen vor. Beispielsweise kommen: NaturfreundeJugend, Jugend hackt, die Demokratielabore, Chaos macht Schule, das youpaN oder der an Schulen fahrende Turing-Bus. Mit den Demokratielaboren könnt ihr kleine digitale Twine-Spiele zur Nachhaltigkeit entwickeln oder eine QR-Code-Rallye vor Ort erleben. Alle Angebote sind hier offen ab 12 Jahre, aber ohne Altersbeschränkung.</p>
+        </article>
 
-              <article class="cluster">
-                <h2><span>Digitalisierung und Degrowth. Wege zu einem enkeltauglichen Wirtschaften?</span></h2>
-                <p>Selbstbestimmt und bedürfnisorientiert zu produzieren und zu nutzen – das wollen Hacker*innen, Nerds, Postwachstumsbewegte, Commons-Anhänger*innen und Solidarische Ökonomie-Unternehmer*innen gleichermaßen. Mithilfe von digitalen Tools ist es heute möglich, neue Formen des Wirtschaftens auszuprobieren: Open Source, Open Data, Free Software, Peer-to-peer-Sharing und vieles mehr. Zugleich inspiriert das Nachhaltigkeitsdenken die Techie-Szene, um nachhaltige Geschäftsmodelle mit fairen und demokratischen Arbeitsbedingungen zu schaffen. Unter welchen Bedingungen bietet die Digitalisierung Chancen für den Übergang in eine nachhaltige, lokale und kooperative Ökonomie, die ohne Wachstumszwang auskommt? Wo sind Risiken und Grenzen solcher Möglichkeiten?</p>
-                <h3>Speaker*innen:</h3>
-                <ul>
-                  <li>Silke Helfrich, Commons Strategies Group</li>
-                  <li>Johannes Heimrath, oya</li>
-                  <li>Frank Karlitschek, Nextcloud</li>
-                  <li>n.n., Cooperativa Integral Catalunia, Spanien (angefragt)</li>
-                </ul>
-                <p><strong>Moderation:</strong> Andrea Vetter, Konzeptwerk neue Ökonomie</p>
-              </article>
-
-              <article class="cluster">
-                <h2><span>Datenschutz und digitale Rettung der Welt - Wo verlaufen die roten Linien?</span></h2>
-                <p>Digitale Technologien bieten Chancen für Klima- und Umweltschutz, da sie die dringend erforderlichen Energie-, Verkehrs- und Konsumwenden vorantreiben können. Gleichzeitig birgt die Erhebung und Nutzung persönlicher Daten durch Firmen und Dienstleister die Gefahr, gesellschaftliche Machtasymmetrien und Monopolisierungen zu befördern. Es ist nicht zielführend, Potenziale für Nachhaltigkeit und Effizienzsteigerung gegen Datenschutzaspekte auszuspielen. Wie lassen sich die Kernanliegen der Nachhaltigkeitsbewegung mit den Kernanliegen der Techie-Szene sinnvoll zusammendenken? Und welche politischen Forderungen erwachsen daraus?</p>
-                <h3>Speaker*innen:</h3>
-                <ul>
-                  <li>Dr. Thomas Engelke, Leitung Team Energie und Bauen in Verbraucherzentrale Bundesverbands (vzbv)</li>
-                  <li>Cathleen Berger, Mozilla</li>
-                  <li>Sweelin Heuss, Geschäftsführerin Greenpeace e.V.</li>
-                  <li>Luis Neves, Global e-Sustainability Initiative</li>
-                </ul>
-              </article>
-
-              <article class="cluster">
-                <h2><span>Von Tech-Monopolen und IT-Giganten: Kritik des digitalen Kapitalismus</span></h2>
-                <p>Die digitale Wirtschaft galt lange Zeit als Nische. Doch längst sind etliche digitale Player riesige Weltkonzerne geworden. Und wirtschaftspolitische Strategien für Industrie 4.0, Big Data oder künstliche Intelligenz möchten die Digitalisierung zum wichtigsten Wachstumsmotor des 21. Jahrhundert machen. Was sind die gesellschaftlichen Folgen dieses technischen “Fortschritts“? Wie kann sichergestellt werden, dass von ihm alle Menschen profitieren und nicht nur wenige Unternehmen? Ist das überhaupt möglich? Wie können Machtasymmetrien und Monopole verhindert werden – bei Finanzen, Marktanteilen, Datenakkumulation? Sollten große Konzerne wie Facebook oder Google gar zerschlagen oder vergesellschaftet werden? Oder ist die Digitalisierung der Wirtschaft letztlich ein Segen, weil sie gleichzeitig den Kapitalismus transformiert?</p>
-                <h3>Speaker*innen:</h3>
-                <ul>
-                  <li>Pat Mooney, Etc Group, Kanada</li>
-                  <li>Frank Rieger, Chaos Computer Club</li>
-                  <li>Friederike Habermann, freie Autorin und Aktivistin</li>
-                  <li>Katharina Beck, Accenture Strategy – Sustainability</li>
-                </ul>
-                <p><strong>Moderation:</strong> Steffen Lange, Institut für ökologische Wirtschaftsforschung</p>
-              </article>
-
-              <article class="cluster">
-                <h2><span>Reclaim Smart City!</span></h2>
-                <p>Die Stadt als Ort engsten Zusammenlebens und anonymer Gesellschaft, aber auch als Ort der kurzen Wege und kultureller Vielfalt. Wir wollen weniger diskutieren, wie nun 'die Digitalisierung' Städte verändert, sondern eher wie Städte die Digitalisierung für ihre Zwecke nutzen und nutzen können. Der ursprünglich technik-ökonomische Begriff 'Smart city' hat mittlerweise eine gesellschaftlich-soziale Wirkkraft erhalten. Dies hat auch die 'moderne' Stadtgestaltung verändert, da sie nun oftmals weniger von den BewohnerInnen, sondern primär von der Technik her gedacht wird, wie etwa das von Google vorangetriebenen Smart-City-Projekt Toronto Waterfront zeigt. Wir wollen eine Diskussion darüber führen, ob urbane Ballungszentren zu Techniklaboratorien globaler Player werden oder ob und wie wir uns die 'moderne' Stadtplanung zurückholen können, um gemeinsam gestaltete, nachhaltige Räumen lokaler Gemeinschaften zu schaffen – gern mit Nutzung von IT-Systemen, wo nötig und gewünscht. Es geht folglich um Veränderung und Optimierung von Städten zwischen Ressourceneffizienz, Gemeinwohl und (digitaler) Teilhabe. Themenschwerpunkte der Diskussion: Was ist "Smart City" und welche Alternativen gibt es? Welchen Stellenwert hat die "Smart City" im Kontext anderer aktueller Herausforderungen für Städte? Wie geht Fairness und Emanzipation in Systemen, wie sieht Partizipation und Datenschutz auf konkreter Projektebene aus?</p>
-                <h3>Speakers:</h3>
-                <ul>
-                  <li>Eva Blum-Dumontet (Privacy International)</li>
-                  <li>Stefan Kaufmann (Projektleiter Verschwörhaus, Stadt Ulm)</li>
-                  <li>Sybille Bauriedl (Stadtsoziologie und Nachhaltigkeit, Europa-Universität Flensburg)</li>
-                </ul>
-                <p><strong>Moderation:</strong> Leon Kaiser, netzpolitik.org</p>
-              </article>
-
-              <article class="cluster">
-                <h2><span>Philosophischer Salon: Wie digital wird eine wirklich zukunftsfähige Gesellschaft sein?</span></h2>
-                <h3>Fishbowl-Diskussion</h3>
-                <p>Analog ist das neue bio, meinen die einen. Vernetzung und schlaue Algorithmen sind der beste Weg zur Nachhaltigkeit, so die anderen. Haben „Techies“ und „Ökos“, auch wenn sie beide für eine bessere Welt kämpfen, vielleicht ganz unterschiedliche Annahmen über die Natur von Mensch, Technik und Gesellschaft? Wie digital wird die ideale Gesellschaft von Morgen sein, wenn in ihr tatsächlich alle Menschen in Würde leben und die Grenzen des Planeten eingehalten werden?</p>
-                <h3>Speaker*innen:</h3>
-                <ul>
-                  <li>Angelika Zahrnt, Bund für Umwelt und Naturschutz Deutschland</li>
-                  <li>Kris de Decker, Low-Tech Magazine, Niederlande</li>
-                  <li>Harald Welzer, Stiftung FutureZwei</li>
-                  <li>Alex Pschera, Buchautor</li>
-                </ul>
-                <p><strong>Moderation:</strong> Katharina Nocun, Bloggerin und Autorin</p>
-              </article>
-
-              <article class="cluster">
-                <h2><span>Sporangium</span></h2>
-                <p>So wie Farnpflanzen ihre <a href='https://www.spektrum.de/news/sporenkatapult-des-farns-ergruendet/1145522' target='_blank'>Sporen aus der Kapsel mit bis zu 10m/s heraus in die Welt katapultieren</a>, auf dass sie dort auf fruchtbaren Boden fallen, werden unsere 8 Expert*innen ihr Nerd- und Fach-Wissen weitergeben – spektakulär, wirkungsvoll und unterhaltsam. So bunt wie die besten Slams, so dicht wie die besten Lightning Talks.</p>
-                <h3>Unter anderem mit:</h3>
-                <ul>
-                  <li>Antina Sander</li>
-                  <li>Arne Semsrott</li>
-                  <li>Benjamin Kees</li>
-                  <li>Katika Kühnreich</li>
-                  <li>Leon Kaiser</li>
-                  <li>Letty</li>
-                </ul>
-                <p><strong>Moderation:</strong> Juliane Krüger & Rainer Rehak</p>
-              </article>
-
-            <hr>
-
-            <p>Bei Fragen wendet euch gerne an <span class="mail_replace_info"></span>
-            <noscript><em>(Sorry. Aktiviere JavaScript, um die E-Mailadresse zu sehen.)</em></noscript>
-            </p>
-            <p>Bei konkreten Fragen zu Programmbeiträgen, Forumsfläche und Sporangium helfen euch unsere einzelnen Teams gerne weiter:
-                <br>Programm: <span class="mail_replace_call"></span>
-                <br>Forum: <span class="mail_replace_forum"></span>
-                <br>Sporangium: <span class="mail_replace_sporangium"></span>
-            </p>
-
+        <article>
+          <h2>Die Konferenz feiert: <a href="https://fahrplan.bits-und-baeume.org/events/258.html" target="_blank">Beats&Bäume-Konzert</a> und <a href="https://fahrplan.bits-und-baeume.org/events/259.html" target="_blank">Apéro</a></h2>
+          <p>Anarcho-Jodler*innen und Protestgeiger? Auch das könnt ihr auf der Bits & Bäume erleben: Am Samstagabend entspannen wir nach einem Tag mit praktischen und theoretischen Leuchtfeuern des Aktivismus zu Live-Musik und Getränken. Wir freuen uns auf motivierend-utopistische, humorvoll-kritische Texte von „Esels Alptraum – das antikapitalistische Jodel-Duo“ und dem linken Geiger aus der Rigaer Straße „Paul Geigerzähler“ im projektionsverzauberten Lichtraum. Freut euch außerdem mit uns auf DJ-Musik von Ipek, Tasmo und Jez!</p>
+          <p>Die Konferenz wird als <strong>Livestream</strong> übertragen und für alle Rahmenpanels der Bits&Bäume gibt es eine Übersetzung ins Deutsche und Englische.</p>
+        </article>
     <?php }?>
 
 <script type="text/javascript" language="javascript">
