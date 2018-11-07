@@ -117,8 +117,8 @@ break;
           <section>
             <h2>Weitere Informationen zu den Themen der Konferenz</h2>
             <p><a href="https://germanwatch.org/de/digitalisierung" target="_blank">Germanwatch über zukunftsfähige Digitalisierung</a></p>
-            <p><a href="https://info.brot-fuer-die-welt.de/blog/sven-hilbig" target="_blank">Blog von Sven Hilbig (Brot für die Welt)</a></p>
-            <p><a href="https://www.ioew.de/digitaler-wandel/" target="_blank">IÖW zum Thema "Digitaler Wandel"</a></p>
+            <p><a href="https://info.brot-fuer-die-welt.de/blog/sven-hilbig" target="_blank">Brot für die Welt zu Digitalisierung und Entwicklungspolitik (Blog Sven Hilbig)</a></p>
+            <p><a href="https://www.ioew.de/digitaler-wandel/" target="_blank">IÖW zu "Digitaler Wandel"</a></p>
           </section>
         </div>
         </article>
