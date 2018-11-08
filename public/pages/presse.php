@@ -30,11 +30,12 @@
 
                 <h2>PR-Material</h2>
                 <p>
-                  🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo.pdf">Logo</a>
-                  <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo-schrift.pdf">logo with text</a>
+                  🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo.pdf">Logo with title</a>
+                  <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo-schrift.pdf">logo with title and subtitle</a>
                   <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-traegerkreis.jpg">logo of conference and organizers</a>
                   <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-loesungen.png">image „Lösungen“ in German</a>
                   <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-graphik-programmstart.png">image program in German</a>
+                  <br>🗋 <a target="_blank" href="/downloads/B&B_Plakat_DIN-A1_CC_181108.pdf">Poster (A1)</a>
                 </p>
               </section>
             </div>
@@ -82,10 +83,11 @@ break;
               <h2>ÖA-Material</h2>
               <p>
                 🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo.pdf">Logo</a>
-                <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo-schrift.pdf">Logo mit Schrift</a>
-                <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo-konferenzinfos.png">Grafik mit Konferenzinfos</a>
+                <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo-schrift.pdf">Logo mit Titel</a>
+                <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo-konferenzinfos.png">Grafik mit Titel und Untertitel</a>
                 <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo-programmpunkte.png">Grafik mit Programmpunkten</a>
                 <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo-traegerkreis.png">Grafik mit Trägerkreis</a>
+                <br>🗋 <a target="_blank" href="/downloads/B&B_Plakat_DIN-A1_CC_181108.pdf">Poster (A1)</a>
               </p>
               <p>🎬 <a href="https://vimeo.com/user91395992" target="_blank">Kurzinterviews zur Konferenz von Personen aus dem Trägerkreis</a></p>
             </section>
@@ -119,6 +121,7 @@ break;
             <p><a href="https://germanwatch.org/de/digitalisierung" target="_blank">Germanwatch über zukunftsfähige Digitalisierung</a></p>
             <p><a href="https://info.brot-fuer-die-welt.de/blog/sven-hilbig" target="_blank">Brot für die Welt zu Digitalisierung und Entwicklungspolitik (Blog Sven Hilbig)</a></p>
             <p><a href="https://www.ioew.de/digitaler-wandel/" target="_blank">IÖW zu "Digitaler Wandel"</a></p>
+            <p><a href="https://www.fiff.de/themen/fair_it" target="_blank">FIfF zu "Faire Computer"</a></p>
           </section>
         </div>
         </article>
