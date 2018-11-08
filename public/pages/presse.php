@@ -82,9 +82,9 @@ break;
             <section>
               <h2>ÖA-Material</h2>
               <p>
-                🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo.pdf">Logo</a>
-                <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo-schrift.pdf">Logo mit Titel</a>
-                <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo-konferenzinfos.png">Grafik mit Titel und Untertitel</a>
+                🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo.pdf">Logo mit Titel</a>
+                <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo-schrift.pdf">Logo mit Titel und Untertitel</a>
+                <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo-konferenzinfos.png">Grafik mit Konferenzinfos</a>
                 <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo-programmpunkte.png">Grafik mit Programmpunkten</a>
                 <br>🗋 <a target="_blank" href="/downloads/bits-und-baeume-logo-traegerkreis.png">Grafik mit Trägerkreis</a>
                 <br>🗋 <a target="_blank" href="/downloads/B&B_Plakat_DIN-A1_CC_181108.pdf">Poster (A1)</a>
