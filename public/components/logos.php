@@ -35,6 +35,15 @@
             </p>
             <a href="https://www.dbu.de" target="_blank"><img class="no-hover" src="/img/logo-dbu.png" title="Deutsche Bundesstiftung Umwelt (DBU)"></a>
             <!-- <a href="https://www.bmbf.de" target="_blank"><img src="/img/logo-bmbf.svg" title="Bundesministerium für Bildung und Forschung (BMBF)"></a> -->
+    
+            <p><strong>Special assistance</strong></p>
+                    <a href="https://paradie.so" target="_blank"><img class="larger" src="/img/logo-paradieso.png"
+                        title="paradie.so"></a>                    
+                    <a href="https://c3voc.de" target="_blank"><img class="larger" src="/img/logo-c3voc.png"
+                        title="C3VOC"></a>
+                    <a href="http://www.audiorama-berlin.de" target="_blank"><img class="larger" src="/img/logo-audiorama.png"
+                        title="Audiorama Berlin"></a>     
+    
             <?php
             break;
         default:
