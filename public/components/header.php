@@ -11,8 +11,8 @@ $days = round($datediff / (60 * 60 * 24));
 
 
     <?php switch ($lang) {
-        case "en":
-            ?>
+    case "en":
+        ?>
             <div>
                 <h1>
                     <span>The Conference</span>
@@ -24,16 +24,16 @@ $days = round($datediff / (60 * 60 * 24));
                 <p><a href="https://www.openstreetmap.org/node/3343267710#map=16/52.5124/13.3280" target="_blank">in
                         Berlin
                         (Technische Universität)</a></p>
-                <?php if ($days > 1) { ?>
+                <?php if ($days > 1) {?>
                     <p class="counter"><?php echo $days ?> days left</p>
-                <?php } ?>
+                <?php }?>
 
             </div>
 
             <?php
-            break;
-        default:
-            ?>
+break;
+    default:
+        ?>
             <div>
                 <h1>
                     <span>Die Konferenz</span>
@@ -45,11 +45,12 @@ $days = round($datediff / (60 * 60 * 24));
                 <p><a href="https://www.openstreetmap.org/node/3343267710#map=16/52.5124/13.3280" target="_blank">in
                         Berlin
                         (Technische Universität)</a></p>
-                <?php if ($days > 1) { ?>
+                <p>Einlass am Samstag und Sonntag ab 9 Uhr</p>
+                <?php if ($days > 1) {?>
                     <p class="counter">noch <?php echo $days ?> Tage</p>
-                <?php } ?>
+                <?php }?>
 
             </div>
 
-        <?php } ?>
+        <?php }?>
 </header>

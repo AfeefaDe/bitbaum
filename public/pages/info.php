@@ -62,7 +62,7 @@
                 interested public and progressive actors from science, politics and business.</p>
         </article>
         <?php
-        break;
+break;
     default:
         ?>
         <article>
@@ -71,25 +71,28 @@
                 <section>
                     <p><strong>Wir bringen Communities zusammen!</strong><br />
                     <br />
-                    In den letzten Jahrzehnten sind gesellschaftsverändernde Bewegungen gewachsen, die jeweils 
-                    ihren eigenen Utopien folgen: Sie kämpfen dafür, die Natur und unsere natürlichen 
-                    Lebensgrundlagen zu erhalten, für weltweit faire Arbeitsbedingungen ohne Ausbeutung, 
-                    für eine Eindämmung der Macht von Konzernen und gegen die Zerstörung des Planeten.                 
+                    In den letzten Jahrzehnten sind gesellschaftsverändernde Bewegungen gewachsen, die jeweils
+                    ihren eigenen Utopien folgen: Sie kämpfen dafür, die Natur und unsere natürlichen
+                    Lebensgrundlagen zu erhalten, für weltweit faire Arbeitsbedingungen ohne Ausbeutung,
+                    für eine Eindämmung der Macht von Konzernen und gegen die Zerstörung des Planeten.
                     </p>
                 </section>
                 <section>
                     <dl>
                         <dt>Wann?</dt>
-                        <dd>17. bis 18. November 2018</dd>
+                        <dd>17. bis 18. November 2018<br>Einlass am Samstag und Sonntag ab 9 Uhr</dd>
                         <dt>Wo?</dt>
                         <dd>Technische Universität Berlin</dd>
                         <dd>Straße des 17. Juni 135, 10623 Berlin</dd>
                     </dl>
-                    <p><a href="https://www.openstreetmap.org/node/3343267710#map=16/52.5124/13.3280" target="_blank">Ort
-                            auf OpenStreetMap</a></p>
+                    <p>
+                      <a href="https://www.tu-berlin.de/menue/service/standortuebersicht/anreise_tipps/" target="_blank">Anreisetipps</a> oder
+                      <a href="https://www.openstreetmap.org/node/3343267710#map=16/52.5124/13.3280" target="_blank">Ort
+                            auf OpenStreetMap</a>
+                    </p>
                 </section>
             </div>
-            <p>Sie setzen sich ein für demokratische Teilhabe, für nachhaltige Produktions- und Konsumweisen, für 
+            <p>Sie setzen sich ein für demokratische Teilhabe, für nachhaltige Produktions- und Konsumweisen, für
                 gerechten Handel zwischen globalem Süden und Norden und für verbindliche Regeln für die Wirtschaft
                 im Sinne dieser Ziele. Andere Communities arbeiten daran, die
                 Digitalisierung so zu gestalten, dass Bürgerrechte, Schutz der Privatsphäre, Datenschutz, Souveränität
@@ -136,4 +139,4 @@
                 Organisationen richten wir uns auch ausdrücklich an die interessierte Öffentlichkeit und an progressive
                 Akteure aus Wissenschaft, Politik und Unternehmen.</p>
     </article>
-    <?php } ?>
+    <?php }?>

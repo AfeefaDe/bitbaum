@@ -33,8 +33,8 @@ break;
           <?php require 'components/frab-stats.php';?>
           <a href="https://pretix.eu/bits-und-baeume/171811/" target="_blank" class="button">Zum Ticketverkauf</a>
         </section>
-
         <section class="switch program active">
+          <p>Online-Tickets noch bis Dienstag, 13.11. Für Kurzentschlossene öffnen wir eine Tageskasse (nur Barzahlung) vor Ort.</p><br><br>
           <h4>PROGRAMM</h4>
           <p>Das Programm mit mehr als 120 international besetzten Panels, Talks, Workshops, Forum, Philosophischem Salon, Sporangium, Konzert und	Apéro ist jetzt online. Zahlreiche Organisationen, Personen und internationale Referierende gestalten das Programm durch ihre Einreichungen mit und stellen ihre Ansätze für eine nachhaltige Digitalisierung vor. Gemeinsam mit euch wollen wir Lösungsideen für eine nachhaltige Zukunft erarbeiten und die Welt verändern. Wer nicht kommen kann, für den gibt es den Livestream unserer 5 Bühnen.</p>
           <a href="https://fahrplan.bits-und-baeume.org" target="_blank" class="button" style="text-align: center">Komplettes Programm ansehen</a>
