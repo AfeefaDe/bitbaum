@@ -75,11 +75,11 @@
             <!-- <a href="https://www.bmbf.de" target="_blank"><img src="/img/logo-bmbf.svg" title="Bundesministerium für Bildung und Forschung (BMBF)"></a> -->
     
             <p><strong>Besondere Unterstützung</strong></p>
-                    <a href="https://paradie.so" target="_blank"><img class="smaller" src="/img/logo-paradieso.png"
+                    <a href="https://paradie.so" target="_blank"><img class="larger" src="/img/logo-paradieso.png"
                         title="paradie.so"></a>                    
-                    <a href="https://c3voc.de" target="_blank"><img class="smaller" src="/img/logo-c3voc.png"
+                    <a href="https://c3voc.de" target="_blank"><img class="larger" src="/img/logo-c3voc.png"
                         title="C3VOC"></a>
-                    <a href="http://www.audiorama-berlin.de" target="_blank"><img class="smaller" src="/img/logo-audiorama.jpg"
+                    <a href="http://www.audiorama-berlin.de" target="_blank"><img class="larger" src="/img/logo-audiorama.jpg"
                         title="Audiorama Berlin"></a>
     
         <?php } ?>
