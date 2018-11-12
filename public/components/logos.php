@@ -79,7 +79,7 @@
                         title="paradie.so"></a>                    
                     <a href="https://c3voc.de" target="_blank"><img class="smaller" src="/img/logo-c3voc.png"
                         title="C3VOC"></a>
-                    <a href="http://www.audiorama-berlin.de" target="_blank"><img class="smaller" src="/img/logo-audiorama.gif"
+                    <a href="http://www.audiorama-berlin.de" target="_blank"><img class="smaller" src="/img/logo-audiorama.jpg"
                         title="Audiorama Berlin"></a>
     
         <?php } ?>
