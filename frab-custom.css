@@ -1,0 +1,218 @@
+* {
+  font-size: calc(100vh * 0.013);
+  font-family: "Aller", "Open Sans", sans-serif;
+  font-weight: 300;
+}
+
+a, .column a {
+  color: #333333;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+a:hover, .column a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  margin: 0 0 .8em; }
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  font-style: italic;
+  padding: 1.4em 0 0.6em 0;
+  }
+
+h4 {
+  font-size: 1.1rem;
+  font-weight: 300;
+  text-transform: uppercase; 
+}
+
+hr {
+    border: 1px solid #eee;
+}
+
+table.rooms-table td, table.rooms-table th {
+    border: none;
+    background: none;
+    color: #333;
+}
+
+table.list td, table.list th {
+    background: none;
+    color: #333;
+    vertical-align: top;
+    padding: 0.5em 0.8em 1.2em 0.8em;
+}
+
+table.rooms-table, table.list, table.list th {
+  background-color: #fff;
+}
+
+table.list tr:nth-child(2n+1) {
+  background-color: #eee;
+}
+
+table.rooms-table tr:nth-child(2n+1) {
+  background-color: #fafafa;
+}
+
+table.list {
+    border-spacing: 0;
+}
+
+table.rooms-table th, table.list th {
+   padding-bottom: 1em;
+   font-weight: bold;
+}
+
+table.rooms-table td.cell-time {
+    padding-right: 0.5em;
+    padding-top: 0.2em;
+    border: none
+}
+
+table.rooms-table td.cell-time {
+    border-bottom: 0;
+    background: none;
+}
+
+table.rooms-table th.cell-time, table.rooms-table th {
+    border-bottom: 0;
+    background: #fff;
+}
+
+#header {
+  background-color: #fff;
+}
+
+#header h1 {
+  padding: 0.6em 1em;
+  color: #333;
+}
+  
+#main-content {
+    border: none;
+    margin: 1em;
+    padding-left: 3em;
+}
+
+#main-table h2 {
+    padding: 0.5em;
+}
+
+#navigation p.tracks {
+  font-size: 1.3em;
+  font-weight: 600;
+}
+
+#navigation ul li a {
+  font-size: 1.5em;
+}
+
+#navigation ul.tracks li div {
+    margin: 0.3em 0;
+    padding: 0.4em 0.5em 0.1em 0.5em;
+}
+
+#navigation ul.tracks li a {
+  font-size: 1rem;
+}
+
+ul.tracks li div.track-pause {
+  display: none;
+}
+
+.event {
+    border-radius: 0;
+    border: none;
+    border-bottom: 5px solid #fff;
+    margin: 0 0 0 1px;
+    vertical-align: top;
+    
+}
+
+.event-wrapper {
+    background: rgba(255,255,255, 0.7);
+    border-radius: 0;
+    border-bottom: 5px solid #fff;   
+}
+
+.event-list .event-wrapper {
+    height: auto;
+    border: none;
+}
+
+.event-details {
+    padding: 0.5em;
+}
+
+.event.track-alternatives-wirtschaften, .event.track-alternatives-wirtschaften div.event-header {
+    background-color: #FFBB91;
+    border-color: #FFBB91;
+}
+
+.event.track-daten-umwelt, .event.track-daten-umwelt div.event-header {
+    background-color: #BCD8AD;
+    border-color: #BCD8AD;
+}
+
+.event.track-die-ganz-grossen-fragen, .event.track-die-ganz-grossen-fragen div.event-header {
+    background-color: #E09DCE;
+    border-color: #E09DCE;
+}
+
+.event.track-die-materielle-basis, .event.track-die-materielle-basis div.event-header {
+    background-color: #F7E991;
+    border-color: #F7E991;
+}
+
+.event.track-digitaler-kapitalismus, .event.track-digitaler-kapitalismus div.event-header {
+    background-color: #E88B8B;
+    border-color: #E88B8B;
+} 
+
+.event.track-stadt-land-smart, .event.track-stadt-land-smart div.event-header {
+    background-color: #8BC5DD;
+    border-color: #8BC5DD;
+} 
+
+.event.track-zivilgesellschaft-communities, .event.track-zivilgesellschaft-communities div.event-header {
+    background-color: #A6A5EF;
+    border-color: #A6A5EF;
+} 
+
+.event.track-digitaler-kapitalismus div.event-header a {
+  color: #333;
+}
+
+
+.event-navigation ul li, #main-content p.release {
+    background-color: #ddd;
+}
+
+.column#basic div.image {
+  margin: 0 2em 2em 0;
+}
+
+#footer {
+  margin-top: 5em;
+}
+
+b {
+  font-weight: 600;
+}
+
+font.event {
+  border: none;
+  padding: 1px 3px;
+  margin: 0;
+}
