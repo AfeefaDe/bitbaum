@@ -1,5 +1,5 @@
 * {
-  font-size: calc(100vh * 0.013);
+  font-size: 11pt;
   font-family: "Aller", "Open Sans", sans-serif;
   font-weight: 300;
 }
@@ -91,7 +91,7 @@ table.rooms-table th.cell-time, table.rooms-table th {
 }
 
 #header {
-  background-color: #fff;
+  background-color: #a1c854;
 }
 
 #header h1 {
