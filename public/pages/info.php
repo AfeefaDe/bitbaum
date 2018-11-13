@@ -82,7 +82,7 @@ break;
                         <dt>Wann?</dt>
                         <dd>17. bis 18. November 2018<br>Einlass am Samstag und Sonntag ab 9 Uhr</dd>
                         <dt>Wo?</dt>
-                        <dd>Technische Universität Berlin</dd>
+                        <dd>Technische Universität Berlin (Hauptgebäude)</dd>
                         <dd>Straße des 17. Juni 135, 10623 Berlin</dd>
                     </dl>
                     <p>
