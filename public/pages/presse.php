@@ -70,7 +70,7 @@ break;
               <p>
                 <strong>Bits & Bäume: Über 1.000 Teilnehmende auf Konferenz zu Digitalisierung und Nachhaltigkeit in Berlin erwartet</strong>
                 <br>Pressemitteilung vom 12. November 2018
-                <br>🗎 <a target="_blank" href="/downloads/181112-Pressemitteilung-Bits-und-Baeume-Startschuss.pdf">PDF herunterladen</a>
+                <br>🗎 <a target="_blank" href="/downloads/Pressemitteilung-BuB-Startschuss.pdf">PDF herunterladen</a>
               </p>
               <p>
                 <strong>Nachhaltige Digitalisierung gemeinsam gestalten: Programm der Konferenz „Bits & Bäume“ online</strong>
