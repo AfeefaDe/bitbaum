@@ -22,6 +22,8 @@ header.main
     color: rgba(0,0,0,.5)
     font-style: italic
     font-weight: $thin
+  .back-button
+    display: none
 
 .sub-page header.main
   width: calc(100% / 3 * 2)
@@ -56,3 +58,8 @@ header.main
     width: 100%
     div
       display: none
+  .sub-page header.main .back-button
+    display: block
+    margin: 3em 0 .5em
+  .sub-page section .back-button
+    display: none

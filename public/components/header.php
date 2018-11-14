@@ -9,10 +9,10 @@ $days = round($datediff / (60 * 60 * 24));
 <header class="main">
     <h2><a href="/<?php echo $lang; ?>">Bits & Bäume</a></h2>
 
-
     <?php switch ($lang) {
     case "en":
         ?>
+            <a href='/en' class='button back-button'>Overview</a>
             <div>
                 <h1>
                     <span>The Conference</span>
@@ -34,6 +34,7 @@ $days = round($datediff / (60 * 60 * 24));
 break;
     default:
         ?>
+            <a href='/de' class='button back-button'>zur Übersicht</a>
             <div>
                 <h1>
                     <span>Die Konferenz</span>
