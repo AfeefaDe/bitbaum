@@ -34,7 +34,8 @@ break;
           <?php require 'components/frab-stats.php';?>
           <!-- <a href="https://pretix.eu/bits-und-baeume/171811/" target="_blank" class="button">Zum Ticketverkauf</a> -->
           <h4>TICKETS</h4>
-          <p>Für Kurzentschlossene öffnen wir eine Tageskasse (nur Barzahlung) vor Ort.</p>
+          <p style="font-size: 1rem">Der Online Ticketverkauf ist beendet! Für Kurzentschlossene öffnen wir am Samstag und Sonntag ab 9 Uhr eine Tageskasse.</p>
+          <a href="/info">Mehr Infos zu den Tickets</a>
         </section>
         <section class="switch program active">
           <h4>PROGRAMM</h4>

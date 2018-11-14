@@ -67,6 +67,7 @@ break;
         ?>
         <article>
             <h1>Die <em>Bits & Bäume</em> 2018 in Berlin</h1>
+
             <div class="row">
                 <section>
                     <p><strong>Wir bringen Communities zusammen!</strong><br />
@@ -76,6 +77,15 @@ break;
                     Lebensgrundlagen zu erhalten, für weltweit faire Arbeitsbedingungen ohne Ausbeutung,
                     für eine Eindämmung der Macht von Konzernen und gegen die Zerstörung des Planeten.
                     </p>
+                    <p>Sie setzen sich ein für demokratische Teilhabe, für nachhaltige Produktions- und Konsumweisen, für
+                gerechten Handel zwischen globalem Süden und Norden und für verbindliche Regeln für die Wirtschaft
+                im Sinne dieser Ziele. Andere Communities arbeiten daran, die
+                Digitalisierung so zu gestalten, dass Bürgerrechte, Schutz der Privatsphäre, Datenschutz, Souveränität
+                und Demokratie für eine offene Gesellschaft gewahrt sind. Sie stehen auf für einen freien Zugang zum
+                Wissen der Mächtigen und der Konzerne, für eine Kultur des Miteinander-Teilens, für eine
+                überwachungsfreie digitale Welt, für flache Hierarchien, globale Vernetzung und Dezentralität, für
+                Selbstbestimmung und Menschenrechte angesichts eines Zeitalters der Künstlichen Intelligenz und der
+                Übermacht globaler Internet-Monopole.</p>
                 </section>
                 <section>
                     <dl>
@@ -90,17 +100,19 @@ break;
                       <a href="https://www.openstreetmap.org/node/3343267710#map=16/52.5124/13.3280" target="_blank">Ort
                             auf OpenStreetMap</a>
                     </p>
+                    <p style="font-weight: 400">Tickets</p>
+                    <p>Der Online Ticketverkauf ist beendet! Für Kurzentschlossene öffnen wir am Samstag und Sonntag ab 9 Uhr eine Tageskasse.</p>
+                    <p>Ticketoptionen:</p>
+                    <ul>
+                      <li>Standard-Ticket für 25 €*</li>
+                      <li>Unterstützer*innen Ticket für 50 €*</li>
+                      <li>Konferenz-Ticket für 50 €*</li>
+                      <li>Friends-Ticket für 0 €<br><span class="smaller">(Für diejenigen, die aus finanziellen Gründen sonst nicht an der Veranstaltung teilnehmen könnten.)</span></li>
+                    </ul>
+                    <p class="smaller">*Alle Preise inkl. Mwst.</p>
                 </section>
             </div>
-            <p>Sie setzen sich ein für demokratische Teilhabe, für nachhaltige Produktions- und Konsumweisen, für
-                gerechten Handel zwischen globalem Süden und Norden und für verbindliche Regeln für die Wirtschaft
-                im Sinne dieser Ziele. Andere Communities arbeiten daran, die
-                Digitalisierung so zu gestalten, dass Bürgerrechte, Schutz der Privatsphäre, Datenschutz, Souveränität
-                und Demokratie für eine offene Gesellschaft gewahrt sind. Sie stehen auf für einen freien Zugang zum
-                Wissen der Mächtigen und der Konzerne, für eine Kultur des Miteinander-Teilens, für eine
-                überwachungsfreie digitale Welt, für flache Hierarchien, globale Vernetzung und Dezentralität, für
-                Selbstbestimmung und Menschenrechte angesichts eines Zeitalters der Künstlichen Intelligenz und der
-                Übermacht globaler Internet-Monopole.</p>
+<br>
             <p>Bislang agieren diese Bewegungen der Umwelt-Aktivist*innen und digitalen Menschenrechtler oft
                 nebeneinander. Sie bieten Lösungsansätze und Ideen für ihre jeweils eigenen Themen, die inzwischen nicht
                 nur Politik, Zivilgesellschaft, Wirtschaft, sondern sogar fast jeden Haushalt erreicht haben. Beide
