@@ -48,13 +48,19 @@ break;
         <section class="square cluster">
             <article class="bolder">
                 <h4>Schwerpunkte</h4>
-                <p>Alternatives Wirtschaften</p>
-                <p>Daten & Umwelt</p>
-                <p>Die ganz großen Fragen</p>
-                <p>Die materielle Basis</p>
-                <p>Digitaler Kapitalismus</p>
-                <p>Stadt – Land – Smart</p>
-                <p>Zivilgesellschaft & Communities</p>
+                <div class="row">
+                  <div>
+                    <p>Alternatives Wirtschaften</p>
+                    <p>Daten & Umwelt</p>
+                    <p>Die ganz großen Fragen</p>
+                    <p>Die materielle Basis</p>
+                  </div>
+                  <div>
+                    <p>Digitaler Kapitalismus</p>
+                    <p>Stadt – Land – Smart</p>
+                    <p>Zivilgesellschaft & Communities</p>
+                  </div>
+                </div>
                 <p class="square-action align-center">
                     <a href="/programm/<?php echo $lang; ?>" class="button">Zur Programmbeschreibung</a>
                 </p>

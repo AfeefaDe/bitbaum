@@ -41,6 +41,10 @@ break;
           <h4>PROGRAMM</h4>
           <p>Das Programm mit mehr als 120 international besetzten Panels, Talks, Workshops, Forum, Philosophischem Salon, Sporangium, Konzert und	Apéro ist jetzt online. Zahlreiche Organisationen, Personen und internationale Referierende gestalten das Programm durch ihre Einreichungen mit und stellen ihre Ansätze für eine nachhaltige Digitalisierung vor. Gemeinsam mit euch wollen wir Lösungsideen für eine nachhaltige Zukunft erarbeiten und die Welt verändern. Wer nicht kommen kann, für den gibt es den Livestream unserer 5 Bühnen.</p>
           <a href="https://fahrplan.bits-und-baeume.org" target="_blank" class="button" style="text-align: center">Komplettes Programm ansehen</a>
+          <p style="display: flex; justify-content: space-evenly;">
+            <a target="_blank" href="/downloads/bits-und-baeume-2018-programmheft.pdf">Programmheft als PDF</a>
+            <a target="_blank" href="https://media.ccc.de">Live-Stream</a>
+          </p>
         </section>
 
         <section class="switch twitter">
