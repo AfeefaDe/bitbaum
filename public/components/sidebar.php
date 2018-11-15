@@ -43,7 +43,7 @@ break;
           <a href="https://fahrplan.bits-und-baeume.org" target="_blank" class="button" style="text-align: center">Komplettes Programm ansehen</a>
           <p style="display: flex; justify-content: space-evenly;">
             <a target="_blank" href="/downloads/bits-und-baeume-2018-programmheft.pdf">Programmheft als PDF</a>
-            <a target="_blank" href="https://media.ccc.de">Live-Stream</a>
+            <a target="_blank" href="https://streaming.media.ccc.de/bub2018">Live-Stream</a>
           </p>
         </section>
 
