@@ -10,6 +10,11 @@
           <h4>PROGRAMME</h4>
           <p>The program with more than 120 international panels, talks, workshops, forum, philosophical salon, sporangium, concert and party is now online. Numerous organizations, individuals and international speakers are shaping the program with their submissions and presenting their approaches to sustainable digitization. Together with you we want to develop solutions for a sustainable future and change the world. For those who can't join us in Berlin: There wil be a livestream of all talks, panels and discussions on our five stages. All panels on the Bits&Bäume stage will be translated into English. </p>
           <a href="https://fahrplan.bits-und-baeume.org" target="_blank" class="button" style="text-align: center">See full programme</a>
+          <p style="display: flex; justify-content: space-evenly;">
+            <a target="_blank" href="https://streaming.media.ccc.de/bub2018">Live-Stream</a>
+            <a target="_blank" href="/downloads/bits-und-baeume-2018-programmheft.pdf">Programme (PDF)</a>
+            <a target="_blank" href="/downloads/raumplan-kompakt.pdf">Room plan (PDF)</a>
+          </p>
         </section>
 
         <section class="switch twitter">
@@ -42,8 +47,9 @@ break;
           <p>Das Programm mit mehr als 120 international besetzten Panels, Talks, Workshops, Forum, Philosophischem Salon, Sporangium, Konzert und	Apéro ist jetzt online. Zahlreiche Organisationen, Personen und internationale Referierende gestalten das Programm durch ihre Einreichungen mit und stellen ihre Ansätze für eine nachhaltige Digitalisierung vor. Gemeinsam mit euch wollen wir Lösungsideen für eine nachhaltige Zukunft erarbeiten und die Welt verändern. Wer nicht kommen kann, für den gibt es den Livestream unserer 5 Bühnen.</p>
           <a href="https://fahrplan.bits-und-baeume.org" target="_blank" class="button" style="text-align: center">Komplettes Programm ansehen</a>
           <p style="display: flex; justify-content: space-evenly;">
-            <a target="_blank" href="/downloads/bits-und-baeume-2018-programmheft.pdf">Programmheft als PDF</a>
             <a target="_blank" href="https://streaming.media.ccc.de/bub2018">Live-Stream</a>
+            <a target="_blank" href="/downloads/bits-und-baeume-2018-programmheft.pdf">Programmheft (PDF)</a>
+            <a target="_blank" href="/downloads/raumplan-kompakt.pdf">Raumplan (PDF)</a>
           </p>
         </section>
 
