@@ -36,7 +36,7 @@ break;
         ?>
         <section class="stats" style="display: block">
           <?php require 'components/frab-stats.php';?>
-          <a href="https://bits-und-baeume.org/forderungen/<?php echo $lang; ?>" class="button">Unsere Forderungen</a>
+          <a href="https://bits-und-baeume.org/forderungen/<?php echo $lang; ?>" class="button" style="text-align: center">Unsere Forderungen</a>
         </section>
 
         <section class="switch program active">
