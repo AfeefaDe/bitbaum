@@ -1,20 +1,24 @@
 <?php
-header('Expires: Mon, 26 Jul 1997 05:00:00 GMT'); 
+header('Expires: Mon, 26 Jul 1997 05:00:00 GMT');
 header('Cache-Control: no-store, no-cache, must-revalidate');
-header('Cache-Control: post-check=0, pre-check=0', FALSE);
+header('Cache-Control: post-check=0, pre-check=0', false);
 header('Pragma: no-cache');
 header("Content-Security-Policy: default-src 'self' bits-und-baeume.org 'unsafe-inline'");
 
 $route = explode("/", $_SERVER['REQUEST_URI']);
-$pages_permitted = ["datenschutz", "programm", "programm-frab", "impressum", "info", "ziele", "presse", "unterstuetzen"];
+$pages_permitted = ["datenschutz", "programm", "programm-frab", "impressum", "info", "ziele", "presse", "unterstuetzen", "forderungen"];
 $langs_permitted = ["de", "en"];
-$lang = $langs_permitted[0];  // default language: de
+$lang = $langs_permitted[0]; // default language: de
 
 $lang_uri = strtolower($route[sizeof($route) - 1]);
-if (in_array($lang_uri, $langs_permitted)) $lang = $lang_uri;
-else {
+if (in_array($lang_uri, $langs_permitted)) {
+    $lang = $lang_uri;
+} else {
     $lang_ua = strtolower(substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 2));
-    if (in_array($lang_ua, $langs_permitted)) $lang = $lang_ua;
+    if (in_array($lang_ua, $langs_permitted)) {
+        $lang = $lang_ua;
+    }
+
 }
 
 $page_type = 'sub-page';
@@ -26,11 +30,16 @@ if (!in_array($page, $pages_permitted)) {
 
 // clean URL
 if ($lang_uri != $lang || sizeof($route) > 3 || ($page == 'start' && sizeof($route) > 2)) {
-    if ($_SERVER['SERVER_NAME'] == "127.0.0.1")
+    if ($_SERVER['SERVER_NAME'] == "127.0.0.1") {
         $rediect_url = 'Location: http://localhost:3020';
-    else
+    } else {
         $rediect_url = 'Location: https://' . $_SERVER['SERVER_NAME'];
-    if ($page != "start") $rediect_url .= '/' . $page;
+    }
+
+    if ($page != "start") {
+        $rediect_url .= '/' . $page;
+    }
+
     $rediect_url .= '/' . $lang;
     header($rediect_url, true, 301);
     die();
@@ -45,17 +54,17 @@ switch ($lang) {
         $page_title = 'Bits & Bäume Konferenz 17. - 18. Nov 2018 in Berlin';
         $page_description = 'Die Konferenz „Bits & Bäume“ bringt alle wichtigen Themen der Digitalisierung und der ökologischen und sozialen Nachhaltigkeit zusammen.';
         break;
-} ?>
+}?>
 
 <!DOCTYPE html>
 <?php switch ($lang) {
-case "en": ?>
+    case "en": ?>
 <html lang="en">
 <?php break;
-default: ?>
+    default: ?>
 <html lang="de">
 <?php break;
-} ?>
+}?>
 <head>
     <title><?php echo $page_title ?></title>
     <meta charset="utf-8">
@@ -64,37 +73,37 @@ default: ?>
     <meta name="referrer" content="same-origin">
     <meta http-equiv="expires" content="Mon, 26 Jul 1997 05:00:00 GMT"/>
     <meta http-equiv="Pragma" content="no-cache">
-    <?php require('components/meta_descriptions.php'); ?>
-    <?php require('components/embeds.php'); ?>
+    <?php require 'components/meta_descriptions.php';?>
+    <?php require 'components/embeds.php';?>
 </head>
 <body class="<?php echo 'page-' . $page . ' ' . $page_type; ?>">
 
-<?php if ($page == 'start') { ?>
+<?php if ($page == 'start') {?>
     <div id="grid">
-        <?php require('pages/' . $page . '.php'); ?>
+        <?php require 'pages/' . $page . '.php';?>
     </div>
-<?php } else { ?>
-    <?php require('components/header.php'); ?>
+<?php } else {?>
+    <?php require 'components/header.php';?>
     <section>
         <?php
-        switch ($lang) {
-            case "en":
-                echo "<a href='/en' class='button back-button'>Overview</a>";
-                break;
-            default:
-                echo "<a href='/de' class='button back-button'>zur Übersicht</a>";
-        }
-        require('pages/' . $page . '.php');
-        ?>
+switch ($lang) {
+    case "en":
+        echo "<a href='/en' class='button back-button'>Overview</a>";
+        break;
+    default:
+        echo "<a href='/de' class='button back-button'>zur Übersicht</a>";
+}
+    require 'pages/' . $page . '.php';
+    ?>
     </section>
-<?php } ?>
+<?php }?>
 
 <aside>
-    <?php require('components/sidebar.php'); ?>
+    <?php require 'components/sidebar.php';?>
 </aside>
 
 <footer>
-    <?php require('components/footer.php'); ?>
+    <?php require 'components/footer.php';?>
 </footer>
 
 <script>
