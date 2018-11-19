@@ -42,7 +42,7 @@ break;
         </section>
         <section class="switch program active">
           <h4>PROGRAMM</h4>
-          <p>Das Programm mit mehr als 120 international besetzten Panels, Talks, Workshops, Forum, Philosophischem Salon, Sporangium, Konzert und	Apéro ist jetzt online. Zahlreiche Organisationen, Personen und internationale Referierende gestalten das Programm durch ihre Einreichungen mit und stellen ihre Ansätze für eine nachhaltige Digitalisierung vor. Gemeinsam mit euch wollen wir Lösungsideen für eine nachhaltige Zukunft erarbeiten und die Welt verändern. <br><br>Wer nicht kommen konnte oder Vortäge, Projektvorstellungen und Diskussionsrunden verpasst hat: Das Programm unserer fünf Bühnen wurde vom Video Operation Center des CCC aufgezeichnet.</p>
+          <p>Das Programm mit mehr als 120 international besetzten Panels, Talks, Workshops, Forum, Philosophischem Salon, Sporangium, Konzert und	Apéro ist jetzt online. Zahlreiche Organisationen, Personen und internationale Referierende gestalten das Programm durch ihre Einreichungen mit und stellen ihre Ansätze für eine nachhaltige Digitalisierung vor. Gemeinsam mit euch wollen wir Lösungsideen für eine nachhaltige Zukunft erarbeiten und die Welt verändern. <br><br>Das Programm unserer fünf Bühnen wurde vom Video Operation Center des CCC aufgezeichnet.</p>
           <a href="/programm/<?php echo $lang; ?>" class="button" style="text-align: center">Zur Programmbeschreibung</a>
           <p style="display: flex; justify-content: space-evenly;">
             <a href="https://fahrplan.bits-und-baeume.org" target="_blank">Komplettes Programm ansehen</a>
