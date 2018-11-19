@@ -9,6 +9,6 @@
     <?php }?>
 
     <?php if (isset($human['vimeo'])) {?>
-    <p><a href="<?php echo $human['vimeo']; ?>" target="_blank">Kurzinterview</a> mit <?php echo $human['orga']; ?></p>
+    <p><a href="<?php echo $human['vimeo']; ?>" target="_blank">Kurzinterview</a></p>
     <?php }?>
 </div>
