@@ -22,7 +22,7 @@
                   </div>
                 </div>
                 <p class="square-action align-center">
-                    <a href="/forderungen/<?php echo $lang; ?>" class="button">Claims of the conference</a>
+                    <a href="/programm/<?php echo $lang; ?>" class="button">Programme overview</a>
                 </p>
             </article>
         </section>
@@ -78,7 +78,7 @@ break;
                 <p>Welche Rolle spielt Nachhaltigkeit für stabile Tech-Communities? Welche ökologischen Chancen stecken in digitalen Anwendungen etwa für Klima- und Ressourcenschutz? Welche Arten von Digitalisierung stehen diesen Zielen entgegen oder sind gar kontraproduktiv? Wie kann die digitale Gesellschaft demokratisch und gerecht gestaltet und zugleich darauf ausgerichtet sein, auf friedvolle Weise die Grundlagen unseres Lebens auf diesem Planeten zu bewahren?</p>
                 <p class="square-action"><a href="/info/<?php echo $lang; ?>">Kurzbeschreibung zur Konferenz</a></p>
                 <p><a href="/presse/<?php echo $lang; ?>">Presseinformationen</a></p>
-                <p><a href="/forderungen/<?php echo $lang; ?>">Zu den Forderungen</a></p>
+                <p><a href="/programm/<?php echo $lang; ?>">Programmbeschreibung</a></p>
             </article>
         </section>
 
