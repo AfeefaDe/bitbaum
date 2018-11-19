@@ -46,7 +46,6 @@ break;
                 <p><a href="https://www.openstreetmap.org/node/3343267710#map=16/52.5124/13.3280" target="_blank">in
                         Berlin
                         (Technische Universität, Hauptgebäude)</a></p>
-                <p>Einlass am Samstag und Sonntag ab 9 Uhr</p>
                 <?php if ($days > 1) {?>
                     <p class="counter">noch <?php echo $days ?> Tage</p>
                 <?php }?>
