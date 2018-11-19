@@ -36,7 +36,7 @@
                     How can the digital society be democratic and just while peacefully preserving the basis of our
                     lives on this planet?
                 </p>
-                <p class="square-action"><a href="/info/<?php echo $lang; ?>">Brief description of the conference</a></p>
+                <p class="square-action"><a href="/info/<?php echo $lang; ?>">Aims of the conference</a></p>
                 <p><a href="/presse/<?php echo $lang; ?>">Press information</a></p>
             </article>
         </section>
@@ -75,7 +75,7 @@ break;
         <section class="square description">
             <article>
                 <p>Welche Rolle spielt Nachhaltigkeit für stabile Tech-Communities? Welche ökologischen Chancen stecken in digitalen Anwendungen etwa für Klima- und Ressourcenschutz? Welche Arten von Digitalisierung stehen diesen Zielen entgegen oder sind gar kontraproduktiv? Wie kann die digitale Gesellschaft demokratisch und gerecht gestaltet und zugleich darauf ausgerichtet sein, auf friedvolle Weise die Grundlagen unseres Lebens auf diesem Planeten zu bewahren?</p>
-                <p class="square-action"><a href="/info/<?php echo $lang; ?>">Kurzbeschreibung zur Konferenz</a></p>
+                <p class="square-action"><a href="/info/<?php echo $lang; ?>">Ziele der Konferenz</a></p>
                 <p><a href="/presse/<?php echo $lang; ?>">Presseinformationen</a></p>
             </article>
         </section>
