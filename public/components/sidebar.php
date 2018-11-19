@@ -15,7 +15,6 @@
           </p>
           <p style="display: flex; justify-content: space-evenly;">
             <a target="_blank" href="https://media.ccc.de/c/bub2018">Recordings</a>
-            <a target="_blank" href="/downloads/raumplan-kompakt.pdf">Room plan (PDF)</a>
           </p>
         </section>
 
@@ -50,7 +49,6 @@ break;
           </p>
           <p style="display: flex; justify-content: space-evenly;">
             <a target="_blank" href="https://media.ccc.de/c/bub2018">Video- und Audioaufzeichnungen</a>
-            <a target="_blank" href="/downloads/raumplan-kompakt.pdf">Raumplan (PDF)</a>
           </p>
         </section>
 
