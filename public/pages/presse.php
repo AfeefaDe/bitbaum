@@ -51,13 +51,26 @@ break;
               <h2>Pressekontakt</h2>
               <img class="portrait" src="/img/nina-rehm.jpg">
               <p><strong>Nina Prehm</strong><br>+49 (0) 30 884594 48<br><span class="mail_replace_presse"></span></p>
-              <p>Wenn Sie sich zur Konferenz anmelden oder in den Presseverteiler aufgenommen werden wollen, schreiben Sie bitte eine E-Mail.</p>
+              <p class="smaller">Wenn Sie sich zur Konferenz anmelden oder in den Presseverteiler aufgenommen werden wollen, schreiben Sie bitte eine E-Mail.</p>
             </section>
 
             <section>
               <h2>Social Media</h2>
               <img class="portrait" src="/img/jasmin-helm.jpg">
-              <p><strong>Jasmin Helm</strong><br><a href="https://twitter.com/bitsundbaeume" target="_blank">@bitsundbaeume</a>
+              <p><strong>Jasmin Helm</strong><br></p>
+            </section>
+
+          </div>
+        </article>
+
+        <article>
+          <h2>Pressefotos</h2>
+          <div class="row">
+            <section>
+              <a href="/downloads/BuB-Forderungen.jpg" target="_blank"><img class="portrait" src="/downloads/BuB-Forderungen-small.jpg"></a>
+              <p class="smaller">Bildquelle: Santiago Engelhardt</p>
+              <p class="smaller">Erste Reihe von links: Rainer Rehak (FifF), Thomas Korbun (IÖW), Rolf Buschmann (BUND), Sven Hilbig (Brot für die Welt), Maria Bossmann (DNR), Constanze Kurz (CCC), Nadine Evers (OKF)</p>
+              <p class="smaller">Zweite Reihe von links: Christoph Bals (Germanwatch), Nina Treu (Konzeptwerk Neue Ökonomie), Tilman Santarius (Technische Universität Berlin)</p>
             </section>
 
           </div>
