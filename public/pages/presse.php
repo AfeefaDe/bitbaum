@@ -81,9 +81,14 @@ break;
             <section>
               <h2>Pressemitteilungen</h2>
               <p>
+                <strong>Konferenz „Bits & Bäume“: Bündnis fordert nachhaltige Digitalisierungspolitik</strong>
+                <br>Pressemitteilung vom 19. November 2018
+                <br>🗎 <a target="_blank" href="/downloads/181119-Pressemitteilung-Bits-und-Baeume-Forderungen.pdf">PDF herunterladen</a>
+              </p>
+              <p>
                 <strong>Bits & Bäume: Über 1.000 Teilnehmende auf Konferenz zu Digitalisierung und Nachhaltigkeit in Berlin erwartet</strong>
                 <br>Pressemitteilung vom 12. November 2018
-                <br>🗎 <a target="_blank" href="/downloads/Pressemitteilung-BuB-Startschuss.pdf">PDF herunterladen</a>
+                <br>🗎 <a target="_blank" href="/downloads/181112-Pressemitteilung-Bits-und-Baeume-Startschuss.pdf">PDF herunterladen</a>
               </p>
               <p>
                 <strong>Nachhaltige Digitalisierung gemeinsam gestalten: Programm der Konferenz „Bits & Bäume“ online</strong>
@@ -93,7 +98,7 @@ break;
               <p>
                 <strong>Digitalisierung trifft Nachhaltigkeit: Anmeldestart für die Vernetzungskonferenz Bits & Bäume</strong>
                 <br>Pressemitteilung vom 02. Oktober 2018
-                <br>🗎 <a target="_blank" href="/downloads/181002-Bits-und-Baueme-Anmeldestart.pdf">PDF herunterladen</a>
+                <br>🗎 <a target="_blank" href="/downloads/181002-Pressemitteilung-Bits-und-Baueme-Anmeldestart.pdf">PDF herunterladen</a>
               </p>
             </section>
 
