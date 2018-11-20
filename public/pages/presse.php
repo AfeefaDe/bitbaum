@@ -81,6 +81,7 @@ break;
               <p class="smaller">Bildquelle: Santiago Engelhardt</p>
               <p class="smaller">Erste Reihe von links: Rainer Rehak (FifF), Thomas Korbun (IÖW), Rolf Buschmann (BUND), Sven Hilbig (Brot für die Welt), Maria Bossmann (DNR), Constanze Kurz (CCC), Nadine Evers (OKF)</p>
               <p class="smaller">Zweite Reihe von links: Christoph Bals (Germanwatch), Nina Treu (Konzeptwerk Neue Ökonomie), Tilman Santarius (Technische Universität Berlin)</p>
+              <p class="smaller">Fotos dürfen von Dritten nur für Pressezwecke im Rahmen der Berichterstattung über die Konferenz genutzt werden.</p>
             </section>
 
           </div>
