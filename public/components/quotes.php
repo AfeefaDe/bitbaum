@@ -12,7 +12,7 @@ $people = array(
     array("name" => "Constanze Kurz", "orga" => "Chaos Computer Club (CCC)", "picture" => "/img/constanze-kurz.jpg", "quote_de" => "Die Hacker-Community und die Umweltbewegung haben jede Menge gemeinsame Ziele. Jetzt müssen wir nur noch zusammen eine nachhaltige Revolution planen.", "quote_en" => "The hacker community and the environmental movement have a lot in common. Now all we have to do is to plan a sustainable revolution together.", "vimeo" => "https://vimeo.com/301203157"),
     array("name" => "Andrea Vetter", "orga" => "Konzeptwerk Neue Ökonomie e. V.", "picture" => "/img/andrea-vetter.jpg", "quote_de" => "Welche Technik braucht eine Postwachstumsgesellschaft? Bits&Bäume sucht nach Antworten jenseits von Digitalisierungs-Hype und Technikphobie.", "quote_en" => "What technology does a degrowth society need? Bits&Bäume looks for answers beyond digitalization hype and technology phobia.", "vimeo" => "https://vimeo.com/299441345")
     // array("name"=>"", "orga"=>"", "picture"=>"/img/.jpg", "quote_de"=>"", "quote_en" => "")
-); e. V.
+);
 
 shuffle($people);
 array_unshift($people, array("name" => "", "orga" => '<a href="/forderungen/' . $lang . '">Zu den Forderungen</a> der Trägerorganisationen', "picture" => "/downloads/BuB-Forderungen-small.jpg", "quote_de" => "📣 #Datenschutz #Entwicklung #Bildung #Gerechter Handel #Verantwortung #IT-Sicherheit #Open Source #Gemeinwohl #Demokratie #Monopole brechen", "quote_en" => "📣 #Datenschutz #Entwicklung #Bildung #Gerechter Handel #Verantwortung #IT-Sicherheit #Open Source #Gemeinwohl #Demokratie #Monopole brechen"));
