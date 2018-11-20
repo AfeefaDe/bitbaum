@@ -18,14 +18,24 @@
               <section>
                 <h2>Press releases</h2>
                 <p>
+                  <strong>Konferenz „Bits & Bäume“: Bündnis fordert nachhaltige Digitalisierungspolitik</strong>
+                  <br>Press release from November 19th 2018
+                  <br>🗎 <a target="_blank" href="/downloads/181119-Pressemitteilung-Bits-und-Baeume-Forderungen.pdf">Download PDF</a>
+                </p>
+                <p>
+                  <strong>Bits & Bäume: Über 1.000 Teilnehmende auf Konferenz zu Digitalisierung und Nachhaltigkeit in Berlin erwartet</strong>
+                  <br>Press release from November 12th 2018
+                  <br>🗎 <a target="_blank" href="/downloads/181112-Pressemitteilung-Bits-und-Baeume-Startschuss.pdf">Download PDF</a>
+                </p>
+                <p>
                   <strong>Nachhaltige Digitalisierung gemeinsam gestalten: Programm der Konferenz „Bits & Bäume“ online</strong>
                   <br>Press release from October 18th 2018
-                  <br>🗎 <a target="_blank" href="/downloads/181018_Bits-und-Baeume-Konferenzprogramm-online.pdf">Download PDF</a>
+                  <br>🗎 <a target="_blank" href="/downloads/20181018-Pressemitteilung-Bits-und-Baeume-Konferenzprogramm-online.pdf">Download PDF</a>
                 </p>
                 <p>
                   <strong>Digitalisierung trifft Nachhaltigkeit: Anmeldestart für die Vernetzungskonferenz Bits & Bäume</strong>
                   <br>Press release from October 2nd 2018
-                  <br>🗎 <a target="_blank" href="/downloads/181002-Bits-und-Baueme-Anmeldestart.pdf">Download PDF</a>
+                  <br>🗎 <a target="_blank" href="/downloads/181002-Pressemitteilung-Bits-und-Baueme-Anmeldestart.pdf">Download PDF</a>
                 </p>
 
                 <h2>PR-Material</h2>
@@ -93,7 +103,7 @@ break;
               <p>
                 <strong>Nachhaltige Digitalisierung gemeinsam gestalten: Programm der Konferenz „Bits & Bäume“ online</strong>
                 <br>Pressemitteilung vom 18. Oktober 2018
-                <br>🗎 <a target="_blank" href="/downloads/181018_Bits-und-Baeume-Konferenzprogramm-online.pdf">PDF herunterladen</a>
+                <br>🗎 <a target="_blank" href="/downloads/20181018-Pressemitteilung-Bits-und-Baeume-Konferenzprogramm-online.pdf">PDF herunterladen</a>
               </p>
               <p>
                 <strong>Digitalisierung trifft Nachhaltigkeit: Anmeldestart für die Vernetzungskonferenz Bits & Bäume</strong>
