@@ -9,7 +9,7 @@
         <section class="switch program active">
           <h4>PROGRAMME</h4>
           <p>The program with more than 120 international panels, talks, workshops, forum, philosophical salon, sporangium, concert and party is now online. Numerous organizations, individuals and international speakers are shaping the program with their submissions and presenting their approaches to sustainable digitization. Together with you we want to develop solutions for a sustainable future and change the world. <br><br>For those who could not join us in Berlin: All talks, panels and discussions on our five stages were recorded, a translation of all panels on the Bits&Bäume stage ist available. </p>
-          <a href="https://media.ccc.de/c/bub2018" class="button" style="text-align: center">Audio and video recordings</a>
+          <a href="https://media.ccc.de/c/bub2018" class="button" target="_blank" style="text-align: center">Audio and video recordings</a>
           <p style="display: flex; justify-content: space-evenly;">
             <a href="https://fahrplan.bits-und-baeume.org" target="_blank">See full programme</a>
             <a target="_blank" href="/downloads/bits-und-baeume-2018-programmheft.pdf">Programme as PDF</a>
@@ -42,7 +42,7 @@ break;
         <section class="switch program active">
           <h4>PROGRAMM</h4>
           <p>Das Programm mit mehr als 120 international besetzten Panels, Talks, Workshops, Forum, Philosophischem Salon, Sporangium, Konzert und	Apéro ist jetzt online. Zahlreiche Organisationen, Personen und internationale Referierende gestalten das Programm durch ihre Einreichungen mit und stellen ihre Ansätze für eine nachhaltige Digitalisierung vor. Gemeinsam mit euch wollen wir Lösungsideen für eine nachhaltige Zukunft erarbeiten und die Welt verändern. <br><br>Das Programm unserer fünf Bühnen wurde vom Video Operation Center des CCC aufgezeichnet.</p>
-          <a href="https://media.ccc.de/c/bub2018" class="button" style="text-align: center">Audio- und Videoaufzeichnungen</a>
+          <a href="https://media.ccc.de/c/bub2018" class="button" target="_blank" style="text-align: center">Audio- und Videoaufzeichnungen</a>
           <p style="display: flex; justify-content: space-evenly;">
             <a href="https://fahrplan.bits-und-baeume.org" target="_blank">Komplettes Programm ansehen</a>
             <a target="_blank" href="/downloads/bits-und-baeume-2018-programmheft.pdf">Programmheft (PDF)</a>
