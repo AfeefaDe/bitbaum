@@ -3,7 +3,7 @@
         ?>
         <section class="stats" style="display: block">
           <?php require 'components/frab-stats.php';?>
-          <a href="https://bits-und-baeume.org/forderungen/<?php echo $lang; ?>" class="button">Our demands</a>
+          <a href="/forderungen/<?php echo $lang; ?>" class="button">Our demands</a>
         </section>
 
         <section class="switch program active">
@@ -36,7 +36,7 @@ break;
         ?>
         <section class="stats" style="display: block">
           <?php require 'components/frab-stats.php';?>
-          <a href="https://bits-und-baeume.org/forderungen/<?php echo $lang; ?>" class="button" style="text-align: center">Unsere Forderungen</a>
+          <a href="/forderungen/<?php echo $lang; ?>" class="button" style="text-align: center">Unsere Forderungen</a>
         </section>
 
         <section class="switch program active">

@@ -24,6 +24,9 @@ article .row--forderung > p {
             </section>
             <section>
               <img style="max-width: 100%" class="portrait" src="/downloads/BuB-Forderungen-small.jpg">
+              <p class="smaller">Bildquelle: Santiago Engelhardt</p>
+              <p class="smaller">Erste Reihe von links: Rainer Rehak (FifF), Thomas Korbun (IÖW), Rolf Buschmann (BUND), Sven Hilbig (Brot für die Welt), Maria Bossmann (DNR), Constanze Kurz (CCC), Nadine Evers (OKF)</p>
+              <p class="smaller">Zweite Reihe von links: Christoph Bals (Germanwatch), Nina Treu (Konzeptwerk Neue Ökonomie), Tilman Santarius (Technische Universität Berlin)</p>
             </section>
           </div>
 
