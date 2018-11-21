@@ -91,7 +91,7 @@ article .row--forderung > p {
           </section>
 
           <section>
-            <h2></h2>
+            <h2>Langlebigkeit von Software und Hardware</h2>
             <div class="row row--forderung">
               <span>10.</span>
               <p>Software muss selbstbestimmt nutzbar sein, reparierbar sein und langfristig instand gehalten werden können, so wie es Open-Source-Software bereits verwirklicht. Hersteller müssen daher beispielsweise Sicherheitsupdates für die Hardware-Lebensdauer von Geräten bereitstellen und nach Ende des Supports den Quellcode als Open-Source-Variante freigeben, statt „Software Locks“ einzubauen.</p>
