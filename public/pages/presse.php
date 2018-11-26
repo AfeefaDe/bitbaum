@@ -80,8 +80,8 @@ break;
               <a href="/downloads/BuB-Forderungen_TK.jpg" target="_blank"><img class="portrait" src="/downloads/BuB-Forderungen_TK.jpg"></a>               
               <a href="/downloads/BuB-Forderungen.jpg" target="_blank"><img class="portrait" src="/downloads/BuB-Forderungen-small.jpg"></a>
               <p class="smaller">Bildlizenz: CC BY Santiago Engelhardt</p>
-              <p class="smaller">Erste Reihe von links: Rainer Rehak (FIfF), Thomas Korbun (IÖW), Rolf Buschmann (BUND), Sven Hilbig (Brot für die Welt), Maria Bossmann (DNR), Constanze Kurz (CCC), Nadine Evers (OKF)</p>
-              <p class="smaller">Zweite Reihe von links: Christoph Bals (Germanwatch), Nina Treu (Konzeptwerk Neue Ökonomie), Tilman Santarius (Technische Universität Berlin)</p>
+              <p class="smaller">Von links: Maria Bossmann (DNR), Hendrik Zimmermann (Germanwatch), Teresa Hoffmann (Brot für die Welt), Vivian Frick (IÖW), Nicolas Guenot (Konzeptwerk Neue Ökonomie), Juliane Krüger (OKF), Sven Hilbig (Brot für die Welt), Anja Höfner (IÖW), Rolf Buschmann (BUND), Leon Kaiser (Netzpolitik.org), Rainer Rehak (FIfF), Constanze Kurz (CCC), Tilman Santarius (Technische Universität Berlin)</p>              <p class="smaller">Erste Reihe von links: Rainer Rehak (FIfF), Thomas Korbun (IÖW), Rolf Buschmann (BUND), Sven Hilbig (Brot für die Welt), Maria Bossmann (DNR), Constanze Kurz (CCC), Nadine Evers (OKF)<br />
+              Zweite Reihe von links: Christoph Bals (Germanwatch), Nina Treu (Konzeptwerk Neue Ökonomie), Tilman Santarius (Technische Universität Berlin)</p>
             </section>
 
           </div>
