@@ -77,6 +77,7 @@ break;
           <h2>Pressefotos</h2>
           <div class="row">
             <section>
+              <a href="/downloads/BuB-Forderungen_TK.jpg" target="_blank"><img class="portrait" src="/downloads/BuB-Forderungen_TK.jpg"></a>               
               <a href="/downloads/BuB-Forderungen.jpg" target="_blank"><img class="portrait" src="/downloads/BuB-Forderungen-small.jpg"></a>
               <p class="smaller">Bildlizenz: CC BY Santiago Engelhardt</p>
               <p class="smaller">Erste Reihe von links: Rainer Rehak (FIfF), Thomas Korbun (IÖW), Rolf Buschmann (BUND), Sven Hilbig (Brot für die Welt), Maria Bossmann (DNR), Constanze Kurz (CCC), Nadine Evers (OKF)</p>
