@@ -78,10 +78,9 @@ break;
           <div class="row">
             <section>
               <a href="/downloads/BuB-Forderungen.jpg" target="_blank"><img class="portrait" src="/downloads/BuB-Forderungen-small.jpg"></a>
-              <p class="smaller">Bildquelle: Santiago Engelhardt</p>
+              <p class="smaller">Bildlizenz: CC BY Santiago Engelhardt</p>
               <p class="smaller">Erste Reihe von links: Rainer Rehak (FifF), Thomas Korbun (IÖW), Rolf Buschmann (BUND), Sven Hilbig (Brot für die Welt), Maria Bossmann (DNR), Constanze Kurz (CCC), Nadine Evers (OKF)</p>
               <p class="smaller">Zweite Reihe von links: Christoph Bals (Germanwatch), Nina Treu (Konzeptwerk Neue Ökonomie), Tilman Santarius (Technische Universität Berlin)</p>
-              <p class="smaller">Fotos dürfen von Dritten nur für Pressezwecke im Rahmen der Berichterstattung über die Konferenz genutzt werden.</p>
             </section>
 
           </div>
@@ -142,7 +141,7 @@ break;
             <p>Auch bei anderen Anliegen bezüglich deiner Berichterstattung melde dich gerne bei uns.</p>
 
             <h3>Kann ich die Pressegrafiken und Bilder nutzen?</h3>
-            <p>Die Bilder und Pressegrafiken auf der Website dürfen im Rahmen der Berichterstattung über die Konferenz unter Nennung des Urhebers frei genutzt werden.</p>
+            <p>Die Bilder und Pressegrafiken auf der Website stehen wie darauf vermerkt unter <a href="https://creativecommons.org/licenses/by/3.0/de/">CC-BY-Lizenz</a> (Namensnennung) frei genutzt werden.</p>
 
             <h3>Wo finde ich das Pressematerial und weitere Infos zur Konferenz?</h3>
             <p>Für allgemeine Informationen über die Konferenz findest du viel Material unter <a href="https://bits-und-baeume.org/presse">www.bits-und-baeume.org/presse</a>. Wir ergänzen die Seite laufend mit Infomaterial. Falls ihr noch Fragen habt oder etwas nicht gefunden habt, schreibt uns gerne eine Mail an <span class="mail_replace_presse"></span></p>
