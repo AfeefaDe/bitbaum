@@ -78,7 +78,6 @@ break;
           <div class="row">
             <section>
               <a href="/downloads/BuB-Forderungen.jpg" target="_blank"><img class="portrait" src="/downloads/BuB-Forderungen-small.jpg"></a>
-              <a href="/downloads/BuB-Forderungen.jpg" target="_blank"><img class="portrait" src="/downloads/BuB-Forderungen-small.jpg"></a>
               <p class="smaller">Bildlizenz: CC BY Santiago Engelhardt</p>
               <p class="smaller">Erste Reihe von links: Rainer Rehak (FIfF), Thomas Korbun (IÖW), Rolf Buschmann (BUND), Sven Hilbig (Brot für die Welt), Maria Bossmann (DNR), Constanze Kurz (CCC), Nadine Evers (OKF)</p>
               <p class="smaller">Zweite Reihe von links: Christoph Bals (Germanwatch), Nina Treu (Konzeptwerk Neue Ökonomie), Tilman Santarius (Technische Universität Berlin)</p>
