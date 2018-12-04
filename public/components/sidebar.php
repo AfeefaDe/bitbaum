@@ -11,7 +11,7 @@
           <p>The program with more than 120 international panels, talks, workshops, forum, philosophical salon, sporangium, concert and party is now online. Numerous organizations, individuals and international speakers are shaping the program with their submissions and presenting their approaches to sustainable digitization. Together with you we want to develop solutions for a sustainable future and change the world. <br><br>For those who could not join us in Berlin: All talks, panels and discussions on our five stages were recorded, a translation of all panels on the Bits&Bäume stage ist available. </p>
           <a href="https://media.ccc.de/c/bub2018" class="button" target="_blank" style="text-align: center">Audio and video recordings</a>
           <p style="display: flex; justify-content: space-evenly;">
-            <a target="_blank" href="https://cloud.bits-und-baeume.org/index.php/apps/gallery/s/eTH4H8zwdeWmjkE">Photos gallery</a>
+            <a target="_blank" href="https://cloud.bits-und-baeume.org/index.php/apps/gallery/s/eTH4H8zwdeWmjkE">Photo gallery</a>
             <a href="https://fahrplan.bits-und-baeume.org" target="_blank">Online schedule</a>
             <a target="_blank" href="/downloads/bits-und-baeume-2018-programmheft.pdf">PDF schedule</a>
           </p>
