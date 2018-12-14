@@ -42,7 +42,7 @@ break;
 
         <section class="switch program active">
           <h4>PROGRAMM</h4>
-          <p>Unser zweitägiges Programm umfasste mehr als 120 international besetzten Panels, Talks, Workshops, Forum, Philosophischem Salon, Sporangium, Konzert und Apéro. Zahlreiche Organisationen, Personen und internationale Referierende haben das Programm durch ihre Einreichungen mitgestaltet und ihre Ansätze für eine nachhaltige Digitalisierung mit den Teilnehmenden geteilt. Gemeinsam haben wir an Lösungsideen für eine nachhaltige Zukunft getüftelt und unterstützen einander auch weiterhin dabei, die Welt zu verändern! <br><br>Das Programm unserer fünf Bühnen wurde vom Video Operation Center des CCC aufgezeichnet.</p>
+          <p>Unser zweitägiges Programm umfasste mehr als 120 international besetzte Panels, Talks, Workshops, Forum, philosophischen Salon, Sporangium, Konzert und Apéro. Zahlreiche Organisationen, Personen und internationale Referierende haben das Programm durch ihre Einreichungen mitgestaltet und ihre Ansätze für eine nachhaltige Digitalisierung mit den Teilnehmenden geteilt. Gemeinsam haben wir an Lösungsideen für eine nachhaltige Zukunft getüftelt und unterstützen einander auch weiterhin dabei, die Welt zu verändern! <br><br>Das Programm unserer fünf Bühnen wurde vom Video Operation Center des CCC aufgezeichnet.</p>
           <a href="https://media.ccc.de/c/bub2018" class="button" target="_blank" style="text-align: center">Audio- und Videoaufzeichnungen</a>
           <p style="display: flex; justify-content: space-evenly;">
             <a target="_blank" href="/fotogalerie">Fotogalerie</a>
