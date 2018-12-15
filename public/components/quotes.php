@@ -15,7 +15,7 @@ $people = array(
 );
 
 shuffle($people);
-array_unshift($people, array("name" => "", "orga" => '<a href="/forderungen/' . $lang . '">Zu den Forderungen</a> der Trägerorganisationen', "picture" => "/downloads/BuB-Forderungen-small.jpg", "quote_de" => "📣 #Datenschutz #Entwicklung #Bildung #Gerechter Handel #Verantwortung #IT-Sicherheit #Open Source #Gemeinwohl #Demokratie #Monopole brechen", "quote_en" => "📣 #Datenschutz #Entwicklung #Bildung #Gerechter Handel #Verantwortung #IT-Sicherheit #Open Source #Gemeinwohl #Demokratie #Monopole brechen"));
+array_unshift($people, array("name" => "", "orga" => '<a href="/forderungen/' . $lang . '">Zu den Forderungen</a> der Trägerorganisationen', "picture" => "/img/BuB-Forderungen-small.jpg", "quote_de" => "📣 #Datenschutz #Entwicklung #Bildung #Gerechter Handel #Verantwortung #IT-Sicherheit #Open Source #Gemeinwohl #Demokratie #Monopole brechen", "quote_en" => "📣 #Datenschutz #Entwicklung #Bildung #Gerechter Handel #Verantwortung #IT-Sicherheit #Open Source #Gemeinwohl #Demokratie #Monopole brechen"));
 
 foreach ($people as $key => $human) {
     require 'components/portrait.php';
