@@ -77,7 +77,7 @@ break;
           <h2>Pressefotos</h2>
           <div class="row">
             <section>
-              <a href="/img/BuB-Forderungen_TK.jpg" target="_blank"><img class="portrait" src="/img/BuB-Forderungen_TK.jpg"></a>               
+              <a href="/downloads/BuB-Forderungen_TK-small.jpg" target="_blank"><img class="portrait" src="/img/BuB-Forderungen_TK-small.jpg"></a>               
               <a href="/downloads/BuB-Forderungen.jpg" target="_blank"><img class="portrait" src="/img/BuB-Forderungen-small.jpg"></a>
               <p class="smaller">Bildlizenz: CC BY Santiago Engelhardt</p>
               <p class="smaller">Von links: Maria Bossmann (DNR), Hendrik Zimmermann (Germanwatch), Teresa Hoffmann (Brot für die Welt), Vivian Frick (IÖW), Nicolas Guenot (Konzeptwerk Neue Ökonomie), Juliane Krüger (OKF), Sven Hilbig (Brot für die Welt), Anja Höfner (IÖW), Rolf Buschmann (BUND), Leon Kaiser (Netzpolitik.org), Rainer Rehak (FIfF), Constanze Kurz (CCC), Tilman Santarius (TU Berlin)</p>              <p class="smaller">Erste Reihe von links: Rainer Rehak (FIfF), Thomas Korbun (IÖW), Rolf Buschmann (BUND), Sven Hilbig (Brot für die Welt), Maria Bossmann (DNR), Constanze Kurz (CCC), Nadine Evers (OKF)<br />
