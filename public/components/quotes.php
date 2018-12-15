@@ -15,6 +15,7 @@ $people = array(
 );
 
 shuffle($people);
+array_unshift($people, array("name" => "", "orga" => "Kernteam Bits & Bäume", "picture" => "/img/bits-und-baeume-kernteam_ccby-santiago-engelhardt.jpg", "quote_de" => "Maria Bossmann, Hendrik Zimmermann, Teresa Hoffmann, Vivian Frick, Nicolas Guenot, Juliane Krüger, Sven Hilbig, Anja Höfner, Rolf Buschmann, Leon Kaiser, Rainer Rehak, Constanze Kurz, Tilman Santarius", "quote_en" => "Maria Bossmann, Hendrik Zimmermann, Teresa Hoffmann, Vivian Frick, Nicolas Guenot, Juliane Krüger, Sven Hilbig, Anja Höfner, Rolf Buschmann, Leon Kaiser, Rainer Rehak, Constanze Kurz, Tilman Santarius"));
 array_unshift($people, array("name" => "", "orga" => '<a href="/forderungen/' . $lang . '">Zu den Forderungen</a> der Trägerorganisationen', "picture" => "/img/BuB-Forderungen-small.jpg", "quote_de" => "📣 #Datenschutz #Entwicklung #Bildung #Gerechter Handel #Verantwortung #IT-Sicherheit #Open Source #Gemeinwohl #Demokratie #Monopole brechen", "quote_en" => "📣 #Datenschutz #Entwicklung #Bildung #Gerechter Handel #Verantwortung #IT-Sicherheit #Open Source #Gemeinwohl #Demokratie #Monopole brechen"));
 
 foreach ($people as $key => $human) {
