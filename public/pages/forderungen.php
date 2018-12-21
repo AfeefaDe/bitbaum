@@ -23,7 +23,7 @@ article .row--forderung > p {
               <p>Wir können die Digitalisierung nicht alleine der Wirtschaft und der Politik überlassen. Deshalb werden wir uns zukünftig noch stärker und gemeinsam in die gesellschaftliche Diskussion und die praktische Umsetzung einbringen. Gemeinsam stellen wir diese Forderungen:</p>
             </section>
             <section>
-              <img style="max-width: 100%" class="portrait" src="/downloads/BuB-Forderungen-small.jpg">
+              <a href="/downloads/BuB-Forderungen.jpg"><img style="max-width: 100%" class="portrait" src="/img/BuB-Forderungen-small.jpg"></a>
               <p class="smaller">CC BY Santiago Engelhardt</p>
               <p class="smaller">Erste Reihe von links: Rainer Rehak (FIfF), Thomas Korbun (IÖW), Rolf Buschmann (BUND), Sven Hilbig (Brot für die Welt), Maria Bossmann (DNR), Constanze Kurz (CCC), Nadine Evers (OKF)</p>
               <p class="smaller">Zweite Reihe von links: Christoph Bals (Germanwatch), Nina Treu (Konzeptwerk Neue Ökonomie), Tilman Santarius (Technische Universität Berlin)</p>
