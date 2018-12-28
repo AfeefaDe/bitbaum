@@ -13,6 +13,13 @@ article .row--forderung > p {
 }
 </style>
 <?php switch ($lang) {
+    case "en":
+            ?>
+            <h1>Demands</h1>
+            <p>You can find an inofficial translation near the end of this <a href="https://www.degrowth.info/en/2018/12/a-conference-for-digitalization-and-sustainability-reflections-on-bits-baume/
+">article</a>. </p>
+            <?php
+            break;   
     default:
         ?>
         <article>
