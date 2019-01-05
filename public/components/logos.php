@@ -1,7 +1,7 @@
 <div class="logos">
     <?php switch ($lang) {
-        case "en":
-            ?>
+    case "en":
+        ?>
             <p><strong>Organized by</strong></p>
             <div>
                 <a href="https://www.dnr.de" target="_blank"><img src="/img/logo-dnr.svg"
@@ -35,19 +35,22 @@
             </p>
             <a href="https://www.dbu.de" target="_blank"><img class="no-hover" src="/img/logo-dbu.png" title="Deutsche Bundesstiftung Umwelt (DBU)"></a>
             <!-- <a href="https://www.bmbf.de" target="_blank"><img src="/img/logo-bmbf.svg" title="Bundesministerium für Bildung und Forschung (BMBF)"></a> -->
-    
+
             <p><strong>Special assistance</strong></p>
                     <a href="https://paradie.so" target="_blank"><img class="larger" src="/img/logo-paradieso.png"
-                        title="paradie.so"></a>                    
+                        title="paradie.so"></a>
                     <a href="https://c3voc.de" target="_blank"><img class="larger" src="/img/logo-c3voc.png"
                         title="C3VOC"></a>
                     <a href="http://www.audiorama-berlin.de" target="_blank"><img class="larger" src="/img/logo-audiorama.png"
-                        title="Audiorama Berlin"></a>     
-    
+                        title="Audiorama Berlin"></a>
+
+            <p><strong>Concept and realization of the website</strong></p>
+            <a href="https://kollektiv.afeefa.de" target="_blank"><img class="larger gray" src="/img/afeefa-logo.svg"
+                        title="Afeefa Kollektiv"></a>
             <?php
-            break;
-        default:
-            ?>
+break;
+    default:
+        ?>
             <p><strong>Trägerkreis</strong></p>
             <div>
                 <a href="https://www.dnr.de" target="_blank"><img src="/img/logo-dnr.svg"
@@ -82,13 +85,17 @@
             </p>
             <a href="https://www.dbu.de" target="_blank"><img class="no-hover" src="/img/logo-dbu.png" title="Deutsche Bundesstiftung Umwelt (DBU)"></a>
             <!-- <a href="https://www.bmbf.de" target="_blank"><img src="/img/logo-bmbf.svg" title="Bundesministerium für Bildung und Forschung (BMBF)"></a> -->
-    
+
             <p><strong>Besondere Unterstützung</strong></p>
                     <a href="https://paradie.so" target="_blank"><img class="larger" src="/img/logo-paradieso.png"
-                        title="paradie.so"></a>                    
+                        title="paradie.so"></a>
                     <a href="https://c3voc.de" target="_blank"><img class="larger" src="/img/logo-c3voc.png"
                         title="C3VOC"></a>
                     <a href="http://www.audiorama-berlin.de" target="_blank"><img class="larger" src="/img/logo-audiorama.png"
-                        title="Audiorama Berlin"></a>    
-        <?php } ?>
+                        title="Audiorama Berlin"></a>
+
+            <p><strong>Konzept und Umsetzung der Website</strong></p>
+            <a href="https://kollektiv.afeefa.de" target="_blank"><img class="larger gray" src="/img/afeefa-logo.svg"
+                        title="Afeefa Kollektiv"></a>
+        <?php }?>
 </div>
