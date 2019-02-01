@@ -1,13 +1,10 @@
 <?php switch ($lang) {
     case "en":
         ?>
-        <h1>Infrastructure</h1>
         <p>
-            This page is only available in German. <br>
-            <a href="infrastruktur/de">Visit German page "Nachhaltige Konferenzorganisation".</a>
+            This page is only available in German.
         </p>
         <?php
-        break;
     default:
         ?>
         <article>
