@@ -90,7 +90,7 @@ break;
                 <section>
                     <dl>
                         <dt>Wann?</dt>
-                        <dd>17. bis 18. November 2018<br>Einlass am Samstag und Sonntag ab 9 Uhr</dd>
+                        <dd>17. bis 18. November 2018</dd>
                         <dt>Wo?</dt>
                         <dd>Technische Universität Berlin (Hauptgebäude)</dd>
                         <dd>Straße des 17. Juni 135, 10623 Berlin</dd>
@@ -101,7 +101,7 @@ break;
                             auf OpenStreetMap</a>
                     </p>
                     <p style="font-weight: 400">Tickets</p>
-                    <p>Der Online Ticketverkauf ist beendet! Für Kurzentschlossene öffnen wir am Samstag und Sonntag ab 9 Uhr eine Tageskasse.</p>
+                    <p>Der Online Ticketverkauf ist beendet! 
                     <p>Ticketoptionen:</p>
                     <ul>
                       <li>Standard-Ticket für 25 €*</li>
