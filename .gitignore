@@ -1,12 +1,21 @@
+# node & composer
 node_modules/
+vendor/
+
 # built css files
 public/styles/
+
+# cache
 public/twitter_feed_cache.txt
 public/frab_feed_schedule_cache.txt
+
+# config
 public/config/*.php
 public/config/*.ini
-# windows shit
+
+# windows
 php.bat
+
 # IDE
 .vscode
 .idea
