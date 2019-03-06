@@ -1,22 +1,19 @@
 <?php
-require 'src/MessageBuilder.php';
-require 'src/Messenger.php';
+require_once 'MessageBuilder.php';
+require_once 'Messenger.php';
 
-class Router
+class MessageRouter
 {
-
     public function __construct()
     {
         $this->defineRoutes();
         Flight::start();
     }
 
-    public function defineRoutes()
+    private function defineRoutes()
     {
-
         ## >>> ##
         Flight::route('/', function () {
-            $json = $this->validateRequest(true);
             echo 'bnb messaging node';
         });
 
@@ -64,11 +61,8 @@ class Router
         });
     }
 
-    public function validateRequest($skip_auth = false)
+    private function validateRequest()
     {
-        // authenticate
-        if ($skip_auth) return;
-
         $this->auth();
 
         $this->evaluateTemplateVars();
@@ -84,7 +78,7 @@ class Router
     }
 
     // read the config and evaluate the final config depending on given area etc.
-    public function evaluateTemplateVars()
+    private function evaluateTemplateVars()
     {
         $all_vars = include('../config/template_vars.php');
         $vars = $all_vars["default"];
@@ -101,7 +95,7 @@ class Router
         $GLOBALS['tvars'] = $vars;
     }
 
-    public function auth()
+    private function auth()
     {
         $conf = parse_ini_file('../config/auth.ini');
         if (Flight::request()->data->key !== $conf['key']) {
@@ -110,10 +104,8 @@ class Router
         }
     }
 
-    public function returnStatus($status)
+    private function returnStatus($status)
     {
         Flight::halt($status['code'], $status['message']);
     }
 }
-
-?>

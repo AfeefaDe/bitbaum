@@ -1,5 +1,5 @@
 <?php
-require_once('FrabFeed.php');
+require_once('../src/FrabFeed.php');
 
 $feed = new FrabFeed();
 $feed->fetch();

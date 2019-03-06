@@ -1,5 +1,5 @@
 <?php
-require_once 'TwitterFeed.php';
+require_once 'src/TwitterFeed.php';
 
 $feed = new TwitterFeed();
 $tweets = json_decode($feed->fetch());
