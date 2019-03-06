@@ -2,7 +2,7 @@
     case "en":
         ?>
         <p>
-            This page is only available in German.
+            This page is only available in <a href="/infrastruktur/de">German</a>:
         </p>
         <?php
     default:

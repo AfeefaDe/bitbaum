@@ -6,7 +6,7 @@ header('Pragma: no-cache');
 header("Content-Security-Policy: default-src 'self' bits-und-baeume.org 'unsafe-inline'");
 
 $route = explode("/", $_SERVER['REQUEST_URI']);
-$pages_permitted = ["datenschutz", "programm", "programm-frab", "impressum", "info", "ziele", "presse", "unterstuetzen", "forderungen", "infrastruktur"];
+$pages_permitted = ["datenschutz", "programm", "programm-frab", "impressum", "info", "ziele", "presse", "forderungen", "infrastruktur"];
 $langs_permitted = ["de", "en"];
 $lang = $langs_permitted[0]; // default language: de
 
