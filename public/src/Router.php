@@ -10,6 +10,17 @@ class Router
     public function __construct()
     {
         Flight::set('flight.views.path', 'pages');
+
+        $conf = parse_ini_file('config/db.ini');
+
+        Flight::register('db', 'Medoo\Medoo', [[
+            'database_type' => 'mysql',
+            'database_name' => $conf['db_name'],
+            'server' => 'localhost',
+            'username' => $conf['db_user'],
+            'password' => $conf['db_pw']
+        ]]);
+
         $this->defineRoutes();
         Flight::start();
     }

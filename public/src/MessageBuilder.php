@@ -2,7 +2,6 @@
 
 class MessageBuilder
 {
-
     public $tvars;
     public $template_key;
 

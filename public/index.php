@@ -9,3 +9,4 @@ header('Pragma: no-cache');
 header("Content-Security-Policy: default-src 'self' bits-und-baeume.org 'unsafe-inline'");
 
 $Router = new Router;
+
