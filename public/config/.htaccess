@@ -1,4 +1,4 @@
 deny from all
 <Files *.*>
-    deny from all
+    Require all deny
 </Files>

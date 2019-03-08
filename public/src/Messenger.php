@@ -13,7 +13,7 @@ class Messenger
 		$this->mail->CharSet = 'UTF-8';
 
 		// read smtp config
-		$conf = parse_ini_file('../config/smtpconf.ini');
+		$conf = parse_ini_file('config/smtpconf.ini');
 
 		//Server settings
 		$this->mail->SMTPDebug = 2;                                 // Enable verbose debug output

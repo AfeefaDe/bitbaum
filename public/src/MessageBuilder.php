@@ -9,7 +9,7 @@ class MessageBuilder
     public function __construct()
     {
         // set template presets
-        $this->tvars = include('../config/template_vars.php');
+        $this->tvars = include('config/template_vars.php');
     }
 
     public function build($message_type, $template_key, $data)
@@ -29,7 +29,7 @@ class MessageBuilder
 
         if ($message_type == 'email') {
             // merge placeholder data into template
-            $plainText = $this->merge('./templates/mail/' . $template_key . '.txt', $placeholders);
+            $plainText = $this->merge('message/templates/mail/' . $template_key . '.txt', $placeholders);
 
             // return generated message string
             return $plainText;

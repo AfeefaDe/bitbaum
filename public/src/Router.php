@@ -1,4 +1,6 @@
 <?php
+require_once 'MessageBuilder.php';
+require_once 'Messenger.php';
 
 class Router
 {
@@ -14,17 +16,48 @@ class Router
 
     private function defineRoutes()
     {
-        Flight::route('/forderungen/@subpage/@lang', function ($subpage, $lang) {
-            if (!in_array($lang, $this->langs_permitted)) {
-                Flight::redirect("/forderungen/$subpage/" . $this->getLang(), 303);
+        Flight::route('POST /forderungen/unterzeichnen', function () {
+
+            $json = $this->validateRequest();
+
+            $template_key = 'test';
+
+            $MessageBuilder = new MessageBuilder;
+            $Messenger = new Messenger;
+
+            # build and send email
+            $message = $MessageBuilder->build('email', $template_key, $json);
+            $this->returnStatus($Messenger->sendMail($message, $template_key, $json));
+        });
+
+        Flight::route('/forderungen/unterzeichnen/verify/@code', function ($code) {
+
+            echo "verify $code";
+
+            //TODO redirect with status (success/ error) to overview
+            //Flight::redirect('/forderungen/info/' . $this->getLang(), 303);
+        });
+
+        Flight::route('/forderungen/unterzeichner(/@id_or_lang)', function ($id_or_lang) {
+
+            if (in_array($id_or_lang, $this->langs_permitted)) {
+                $this->renderSubPage('forderungen/unterzeichner', $id_or_lang);
+            } elseif (!isset($id_or_lang)) {
+                Flight::redirect('/forderungen/unterzeichner/de', 303);
             } else {
-                switch ($subpage) {
-                    case 'info':
-                        $this->renderSubPage('forderungen', $lang);
-                        break;
-                    default:
-                        Flight::redirect("/forderungen/info/$lang", 303);
-                }
+                //TODO if id matches RegEx xyz, look for entry with id
+                echo "show unterzeichnung id $id_or_lang";
+            }
+
+            //else: if id and lang don't exist: redirect to full list
+            //Flight::redirect('/forderungen/unterzeichner/' . $this->getLang(), 303);
+        });
+
+        Flight::route('/forderungen/info/@lang', function ($lang) {
+            if (!in_array($lang, $this->langs_permitted)) {
+                Flight::redirect("/forderungen/info/" . $this->getLang(), 303);
+            } else {
+                $this->renderSubPage('forderungen/info', $lang);
             }
         });
 
@@ -56,20 +89,6 @@ class Router
         Flight::route('*', function () {
             Flight::redirect('/' . $this->getLang(), 303);
         });
-
-        Flight::route('POST /forderungen/unterzeichnen', function () {
-
-            $json = $this->validateRequest();
-
-            $template_key = 'test';
-
-            $MessageBuilder = new MessageBuilder;
-            $Messenger = new Messenger;
-
-            # build and send email
-            $message = $MessageBuilder->build('email', $template_key, $json);
-            $this->returnStatus($Messenger->sendMail($message, $template_key, $json));
-        });
     }
 
     private function validateRequest()
@@ -91,7 +110,7 @@ class Router
     // read the config and evaluate the final config depending on given area etc.
     private function evaluateTemplateVars()
     {
-        $all_vars = include('../config/template_vars.php');
+        $all_vars = include('config/template_vars.php');
         $vars = $all_vars["default"];
 
         // request data
@@ -108,7 +127,7 @@ class Router
 
     private function auth()
     {
-        $conf = parse_ini_file('../config/auth.ini');
+        $conf = parse_ini_file('config/auth.ini');
         if (Flight::request()->data->key !== $conf['key']) {
             Flight::halt(401, "access denied");
             die;
@@ -120,13 +139,13 @@ class Router
         Flight::halt($status['code'], $status['message']);
     }
 
-    private function renderRootPage($lang)
+    private function renderRootPage($lang = 'de')
     {
         Flight::render('start', ['lang' => $lang], 'page_content');
         Flight::render('layout', ['lang' => $lang, 'page' => 'start', 'page_type' => 'root-page']);
     }
 
-    private function renderSubPage($page, $lang)
+    private function renderSubPage($page, $lang = 'de')
     {
         Flight::render($page, ['lang' => $lang], 'page_content');
         Flight::render('layout', ['lang' => $lang, 'page' => $page, 'page_type' => 'sub-page']);
