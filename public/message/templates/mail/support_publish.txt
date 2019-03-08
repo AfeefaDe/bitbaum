@@ -1,0 +1,19 @@
+Hallo,
+
+eine neue Unterzeichnung ist eingegangen:
+
+{{name}}
+{{orga}}
+{{to}}
+{{comment}}
+
+Über folgenden Link kannst du sie veröffentlichen:
+
+{{link}}/{{id}}/{{code}}
+
+Wenn du (vorher oder nacher) Anpassungen vornehmen möchtest, folge diesem Link:
+
+{{link_cms}}
+
+
+Das Afeefa Kollektiv grüßt. :)

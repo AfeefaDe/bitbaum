@@ -1,6 +1,4 @@
 <?php
-require_once 'MessageBuilder.php';
-require_once 'Messenger.php';
 
 class Router
 {
@@ -31,22 +29,14 @@ class Router
 
             $json = $this->validateRequest();
 
-            $template_key = 'test';
-
-            $MessageBuilder = new MessageBuilder;
-            $Messenger = new Messenger;
-
-            # build and send email
-            $message = $MessageBuilder->build('email', $template_key, $json);
-            $this->returnStatus($Messenger->sendMail($message, $template_key, $json));
+            SupportController::addSupport($this->validateRequest());
         });
 
-        Flight::route('/forderungen/unterzeichnen/verify/@code', function ($code) {
+        Flight::route('/forderungen/unterzeichnen/verify/@id/@code', function ($id, $code) {
 
-            echo "verify $code";
-
-            //TODO redirect with status (success/ error) to overview
-            //Flight::redirect('/forderungen/info/' . $this->getLang(), 303);
+            $return = SupportController::verifySupport($id, $code);
+            //TODO: send return code and display info
+            Flight::redirect('/forderungen/info/' . $this->getLang(), 303);
         });
 
         Flight::route('/forderungen/unterzeichner(/@id_or_lang)', function ($id_or_lang) {
@@ -143,11 +133,6 @@ class Router
             Flight::halt(401, "access denied");
             die;
         }
-    }
-
-    private function returnStatus($status)
-    {
-        Flight::halt($status['code'], $status['message']);
     }
 
     private function renderRootPage($lang = 'de')

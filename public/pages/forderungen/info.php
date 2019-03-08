@@ -167,5 +167,11 @@
                 </div>
             </section>
 
+            <section>
+                <?php
+                require_once 'components/support_form.php';
+                ?>
+            </section>
+
         </article>
     <?php } ?>
