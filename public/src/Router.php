@@ -1,5 +1,7 @@
 <?php
 
+require_once 'SupportController.php';
+
 class Router
 {
     private $langs_permitted = ['de', 'en'];
@@ -26,8 +28,6 @@ class Router
     private function defineRoutes()
     {
         Flight::route('POST /forderungen/unterzeichnen', function () {
-
-            $json = $this->validateRequest();
 
             SupportController::addSupport($this->validateRequest());
         });

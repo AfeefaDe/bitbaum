@@ -8,23 +8,22 @@ class SupportController
 
     public static function addSupport($json)
     {
-        $data = json_decode($json);
+        $data = array_values((array)$json)[0];
         $data["code"] = self::genCode();
-        $data["link"] = $_SERVER['SERVER_ADDR'] . "/forderungen/unterzeichnen/verify";
+        $data["link"] = $_SERVER['SERVER_NAME'] . ":" . $_SERVER['SERVER_PORT'] . "/forderungen/unterzeichnen/verify"; //TODO remove dev port
 
         $db = Flight::db();
         $db->insert("support", [
             "type" => 0, //TODO
-            "mail" => $data["mail"],
+            "mail" => $data["to"],
             "name" => $data["name"],
             "comment" => $data["comment"],
             "code" => $data["code"]
         ]);
 
         $data["id"] = $db->id();
-        $json = json_encode($data);
 
-        $status = self::sendMessage('support_validate', $json);
+        $status = self::sendMessage('support_validate', $data);
         Flight::halt($status['code'], $status['message']);
     }
 
@@ -48,7 +47,7 @@ class SupportController
                     $json = $db->select("support", "*", ["id" => $id])[0];
                     $json['link'] = $_SERVER['SERVER_ADDR'] . "/forderungen/unterzeichnen/verify";
                     $json['link_cms'] = static::$ADMINER_BASE . $id;
-                    self::sendMessage('support_publish', json_encode($json));
+                    self::sendMessage('support_publish', json_decode($json));
                     return true;
                     break;
                 case SupportState::VERIFIED:

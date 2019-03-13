@@ -1,6 +1,6 @@
 <h2>Forderungen untereichnen</h2>
 
-<form id="support_form" class="form">
+<form class="form">
     <input id="form-name" placeholder="Your name" required/>
     <input id="form-orga" placeholder="Your organisation"/>
     <input id="form-email" placeholder="Your e-mail address" required/>
@@ -10,17 +10,16 @@
         You can find out more about this in our
         <a href="/datenschutz/<?php echo $lang; ?>#anmeldefunktion">privacy policy</a>.
     </p>
-    <button type="submit">Jetzt unterzeichnen!</button>
+    <input type="submit">Jetzt unterzeichnen!</input>
 </form>
 
 <div class="message" style="display: none">Vielen Dank für deine Unterstützung! Bitte schau in dein Postfach.
     <button class="redo">Weitere Unterzeichnung.</button>
 </div>
 
-
 <script>
     // catch form
-    $('#support_form').submit(function (e) {
+    $('form').submit(function (e) {
         e.preventDefault();
 
         $('form').addClass("sending");
@@ -31,7 +30,7 @@
             "name": $('#form-name').val(),
             "orga": $('#form-orga').val(),
             "comment": $('#form-comment').val(),
-            "key": <?php parse_ini_file('../config/auth.ini')['key']; ?>
+            "key": "<?php echo parse_ini_file('config/auth.ini')['key']; ?>"
         };
 
         send(data, true);

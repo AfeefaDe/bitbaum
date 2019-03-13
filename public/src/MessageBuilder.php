@@ -17,7 +17,7 @@ class MessageBuilder
         $this->template_key = $template_key;
 
         // prepare placeholder data for template
-        $placeholders = array_values((array)$data)[0]; // TODO: dont take all the POST data, but hey ;)
+        $placeholders = $data;
 
         // additional placeholders?
         switch ($this->template_key) {

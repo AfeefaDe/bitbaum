@@ -26,6 +26,12 @@
         ?>
         <article>
             <h1>Forderungen</h1>
+            <section>
+                <?php
+                require_once 'components/support_form.php';
+                ?>
+            </section>
+
             <div class="row">
                 <section>
                     <p>Wir, zehn Organisationen aus der Netz-, Umwelt- und Entwicklungspolitik, haben mit der Konferenz
@@ -165,12 +171,6 @@
                         Repair-Cafés und gemeinwohlorientierter Forschung und Produktentwicklung. Öffentliches
                         Forschungsgeld darf es nur für Open-Source-Produkte geben.</p>
                 </div>
-            </section>
-
-            <section>
-                <?php
-                require_once 'components/support_form.php';
-                ?>
             </section>
 
         </article>
