@@ -89,7 +89,7 @@ class Router
         });
 
         Flight::route('*', function () {
-            Flight::redirect('/' . $this->getLang(), 303);
+            Flight::redirect('/' . $this->getLang(), 404);
         });
     }
 

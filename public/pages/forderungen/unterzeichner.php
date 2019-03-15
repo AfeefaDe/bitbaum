@@ -14,7 +14,7 @@
             'name',
             'comment'
         ], [
-            'type' => SupportState::PUBLISHED
+            'state' => SupportState::PUBLISHED
         ]));
         ?>
 
