@@ -1,19 +1,20 @@
-<h2>Forderungen untereichnen</h2>
+<h2>Forderungen unterzeichnen</h2>
 
 <form class="form">
-    <input id="form-name" placeholder="Your name" required/>
-    <input id="form-orga" placeholder="Your organisation"/>
-    <input id="form-email" placeholder="Your e-mail address" required/>
+    <input type="text" id="form-name" placeholder="Your name" required/>
+    <input type="text" id="form-orga" placeholder="Your organisation"/>
+    <input type="email" id="form-email" placeholder="Your e-mail address" required/>
     <textarea id="form-comment" placeholder="Your comment to the demands" maxlength="500"></textarea>
     <p class="smaller">
         TODO: data protection stuff...
         You can find out more about this in our
         <a href="/datenschutz/<?php echo $lang; ?>#anmeldefunktion">privacy policy</a>.
     </p>
-    <input type="submit">Jetzt unterzeichnen!</input>
+    <input type="submit" value="Jetzt unterzeichnen!"/>
 </form>
 
 <div class="message" style="display: none">Vielen Dank für deine Unterstützung! Bitte schau in dein Postfach.
+    <br>
     <button class="redo">Weitere Unterzeichnung.</button>
 </div>
 
@@ -70,5 +71,8 @@
         $('.message').hide();
         $('.form').fadeIn();
         $('form button').attr("disabled", false);
+        $('form input[type=text]').val('');
+        $('form input[type=email]').val('');
+        $('form textarea').val('');
     });
 </script>

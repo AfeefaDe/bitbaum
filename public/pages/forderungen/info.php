@@ -26,6 +26,35 @@
         ?>
         <article>
             <h1>Forderungen</h1>
+
+            <?php
+
+            if (isset($_GET['status']) && in_array($_GET['status'], [0, 1, 2, 3, 4, 5])) {
+                echo "<div class='status'>";
+                switch ($_GET['status']) {
+                    case 0:
+                        echo "some error occured";
+                        break;
+                    case 1:
+                        echo "support verified";
+                        break;
+                    case 2:
+                        echo "support published";
+                        break;
+                    case 3:
+                        echo "code invalid, already verified";
+                        break;
+                    case 4:
+                        echo "code invalid, already published";
+                        break;
+                    case 5:
+                        echo "code invalid";
+                        break;
+                }
+            }
+            echo "</div>";
+            ?>
+
             <section>
                 <?php
                 require_once 'components/support_form.php';

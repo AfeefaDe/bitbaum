@@ -4,7 +4,7 @@ danke für deine Unterstützung!
 
 Um deine Unterzeichnung der 10 Forderungen zu veröffentlichen, bestätige deine E-Mailadresse bitte über folgenden Link:
 
-{{link}}/{{id}}//{{code}}
+{{link}}/{{id}}/{{code}}
 
 Viele Grüße
 Das Team von Bits & Bäume

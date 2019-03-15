@@ -4,13 +4,13 @@ require_once 'Messenger.php';
 
 class SupportController
 {
-    private static $ADMINER_BASE = "https://mysql.uberspace.de/adminer/?server=taylor.uberspace.de&username=bitbaum&db=bitbaum&edit=support_view&where[ID]=";
+    private static $ADMINER_BASE = "https://mysql.uberspace.de/adminer/?server=taylor.uberspace.de&username=bitbaum&db=bitbaum&edit=support_view&where%5BID%5D=";
 
     public static function addSupport($json)
     {
         $data = array_values((array)$json)[0];
         $data["code"] = self::genCode();
-        $data["link"] = $_SERVER['SERVER_NAME'] . ":" . $_SERVER['SERVER_PORT'] . "/forderungen/unterzeichnen/verify"; //TODO remove dev port
+        $data["link"] = "https://" . $_SERVER['SERVER_NAME'] . ":" . $_SERVER['SERVER_PORT'] . "/forderungen/unterzeichnen/verify"; //TODO remove dev port
 
         $db = Flight::db();
         $db->insert("support", [
@@ -32,40 +32,55 @@ class SupportController
         $db = Flight::db();
         $data = $db->select("support", ["state", "code"], [
             "id" => $id
-        ]);
+        ])[0];
 
-        if ($data[0]["code"] === $code) {
+        if ($data["code"] === $code) {
 
-            switch ($data[0]["state"]) {
+            switch ($data["state"]) {
+
                 case SupportState::DRAFT:
-                    //update state and generate publishing code
                     $db->update("support", [
                         "code" => self::genCode(),
                         "state" => SupportState::VERIFIED
-                    ]);
+                    ], ['id' => $id]);
 
-                    $json = $db->select("support", "*", ["id" => $id])[0];
-                    $json['link'] = $_SERVER['SERVER_ADDR'] . "/forderungen/unterzeichnen/verify";
-                    $json['link_cms'] = static::$ADMINER_BASE . $id;
-                    self::sendMessage('support_publish', json_decode($json));
-                    return true;
+                    $data = $db->select("support", "*", ["id" => $id])[0];
+                    $data['link'] = "https://" . $_SERVER['SERVER_NAME'] . ":" . $_SERVER['SERVER_PORT'] . "/forderungen/unterzeichnen/verify";
+                    $data['link_cms'] = static::$ADMINER_BASE . $id;
+
+                    self::sendMessage('support_publish', $data);
+
+                    return 1; //"support verified"
                     break;
+
                 case SupportState::VERIFIED:
                     $db->update("support", [
                         "code" => null,
                         "state" => SupportState::PUBLISHED
-                    ]);
+                    ], ['id' => $id]);
 
                     //TODO: send message to supporter again, in case...
-                    return true;
+                    return 2; //"support published"
+
                     break;
                 default:
-                    //TODO: support already published, something went wrong...
+                    return 0; //error
             }
         } else {
-            //TODO: code didn't match
+            switch ($data["state"]) {
+
+                case SupportState::VERIFIED:
+                    return 3; //"code invalid, already verified"
+                    break;
+
+                case SupportState::PUBLISHED:
+                    return 4; //"code invalid, already published"
+                    break;
+
+                default:
+                    return 5; //"code invalid"
+            }
         }
-        return false;
     }
 
     private static function sendMessage($template_key, $json)

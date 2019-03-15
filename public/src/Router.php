@@ -1,6 +1,6 @@
 <?php
-
 require_once 'SupportController.php';
+require_once 'SupportState.php';
 
 class Router
 {
@@ -34,9 +34,10 @@ class Router
 
         Flight::route('/forderungen/unterzeichnen/verify/@id/@code', function ($id, $code) {
 
+            $this->evaluateTemplateVars();
             $return = SupportController::verifySupport($id, $code);
-            //TODO: send return code and display info
-            Flight::redirect('/forderungen/info/' . $this->getLang(), 303);
+
+            Flight::redirect('/forderungen/info/' . $this->getLang() . "?status=$return", 303);
         });
 
         Flight::route('/forderungen/unterzeichner(/@id_or_lang)', function ($id_or_lang) {
