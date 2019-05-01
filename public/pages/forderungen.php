@@ -16,8 +16,7 @@ article .row--forderung > p {
     case "en":
             ?>
 <article>
-          <h1>Demands (<a href="https://www.degrowth.info/en/2018/12/a-conference-for-digitalization-and-sustainability-reflections-on-bits-baume/
-">source</a>)</h1>
+          <h1>Demands</h1>
           <div class="row">
             <section>
               <p>The jointly organized conference “Bits & Bäume” allowed us to initiate a broad and much needed discussion on technology design which serves the common good and peace, takes data protection seriously and promotes social and ecological goals in equal measure. This event, which was a collaborative effort by ten organizations from the fields of digital rights, environmentalism and development policy, hosted over 1,700 visitors, countless sessions, ideas and outstanding use cases. This shows: civil society and a critical scientific community have the skills and the strength to help shape digitization in the long term.</p>
@@ -103,6 +102,10 @@ article .row--forderung > p {
               <p>Electronic devices must be repairable and recyclable – we have to eradicate planned obsolescence or built-in obsolescence of electronic devices. To this end, warranty periods must be massively extended; manufacturers must offer spare parts, repair tools and know-how for everyone and keep it permanently available. This must go hand in hand with greater financial support for open workshops or repair cafés as well as for Research & Development projects geared to the common good. Public funding must be granted to open source products exclusively.</p>
             </div>
           </section>
+          <section>
+            This unofficial translation by Nicolas Guenot, Nina Treu and Nick originates <a href="https://www.degrowth.info/en/2018/12/a-conference-for-digitalization-and-sustainability-reflections-on-bits-baume/">here</a>.
+        </section>
+
         </article>
             <?php
             break;   
