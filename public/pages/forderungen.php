@@ -27,7 +27,7 @@ article .row--forderung > p {
               <a href="/downloads/BuB-Forderungen.jpg"><img style="max-width: 100%" class="portrait" src="/img/BuB-Forderungen-small.jpg"></a>
               <p class="smaller">CC BY Santiago Engelhardt</p>
               <p class="smaller">Back row, left to right: Rainer Rehak (FIfF), Thomas Korbun (IÖW), Rolf Buschmann (BUND), Sven Hilbig (Brot für die Welt), Maria Bossmann (DNR), Constanze Kurz (CCC), Nadine Evers (OKF DE)</p>
-              <p class="smaller">Fron row, left to right: Christoph Bals (Germanwatch), Nina Treu (Konzeptwerk Neue Ökonomie), Tilman Santarius (TU Berlin)</p>
+              <p class="smaller">Front row, left to right: Christoph Bals (Germanwatch), Nina Treu (Konzeptwerk Neue Ökonomie), Tilman Santarius (TU Berlin)</p>
             </section>
           </div>
 
