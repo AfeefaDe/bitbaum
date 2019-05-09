@@ -16,7 +16,7 @@ article .row--forderung > p {
     case "en":
             ?>
 
-Not yet!
+Not yet available in English!
 
             <?php
             break;   
