@@ -31,9 +31,9 @@ Not yet!
             <section>
               <h2>Nächste B&B-Veranstaltungen</h2>
 <ul>
-    <li><a href="https://dresden.bits-und-baeume.org">Bits & Bäume Dresden – Eine Abendveranstaltung zu Digitalisierung und Nachhaltigkeit</a><br />
-Zeit: <strong>23. Mai 2019</strong>, ab 18:30 Uhr<br />
-Ort: TU-Dresden, Fakultät Informatik, <a href="https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2310">Andreas-Pfitzmann-Bau</a>, E023
+    <li><a href="https://dresden.bits-und-baeume.org">Bits & Bäume Dresden – Eine Abendveranstaltung zu Digitalisierung und Nachhaltigkeit</a></li>
+    <li>Zeit: <strong>23. Mai 2019</strong>, ab 18:30 Uhr</li>
+    <li>Ort: TU-Dresden, Fakultät Informatik, <a href="https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2310">Andreas-Pfitzmann-Bau</a>, E023</li>
     </li>
 </ul>
             </section>
