@@ -4,6 +4,7 @@
         <section class="stats" style="display: block">
           <?php require 'components/frab-stats.php';?>
           <a href="/forderungen/<?php echo $lang; ?>" class="button">Our demands</a>
+          <a href="/waechst/<?php echo $lang; ?>" class="button">B&B grows</a>
         </section>
 
         <section class="switch program active">
@@ -38,6 +39,7 @@ break;
         <section class="stats" style="display: block">
           <?php require 'components/frab-stats.php';?>
           <a href="/forderungen/<?php echo $lang; ?>" class="button" style="text-align: center">Unsere Forderungen</a>
+          <a href="/waechst/<?php echo $lang; ?>" class="button">B&B wächst!</a>
         </section>
 
         <section class="switch program active">
