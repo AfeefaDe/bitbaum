@@ -30,7 +30,7 @@ Not yet!
               <p>Über ein Jahr lang haben wir als Team aus 10 Organisationen daran gearbeitet, die Bits&Bäume 2018 aus der Taufe zu heben – das war sehr bereichernd für uns, aber auch viel Arbeit, gerade weil so unterschiedliche Organisationen an einem Tisch saßen. Wir bekommen viele freudige Hoffnungsbekundungen auf eine Wiederholung 2019, was uns sehr freut, allerdings können wir leider diese gemeinsame Arbeit nicht langfristig in unseren Arbeitsalltag integrieren. Aber die Bits & Bäume war auch eine Konferenz von uns allen für uns alle! Nehmt den Faden also doch einfach auf, gründet einen Stammtisch in eurer Stadt, organisiert eine kleinere oder größere Veranstaltung, einen Diskussionsabend, erklärt auf Panels, warum und wie Digitalisierung und Nachhaltigkeit zusammengehören, lasst uns weiterhin unter #bitsundbäume Ideen und Fortschritte austauschen, denkt euch neue Vernetzungsformate aus.</p>              
             </section>
             <section>
-              <h2>Nächste B&B-Veranstaltungen</h2>
+              <h2>Nächste B&B-Veranstaltung</h2>
 <ul>
     <li><a href="https://dresden.bits-und-baeume.org">Bits & Bäume Dresden – Eine Abendveranstaltung zu Digitalisierung und Nachhaltigkeit</a></li>
     <li>Zeit: <strong>23. Mai 2019</strong>, ab 18:30 Uhr</li>
