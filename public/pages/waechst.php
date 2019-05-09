@@ -36,7 +36,7 @@ Was heißt das nun konkret?
     <li>Basisarbeit: Als Beitragende und Teilnehmende wendet ihr euch primär an Aktivist*innen, die wachsende Bits&Bäume-Community, die Wissenschaft und an uns alle als Zivilgesellschaft.</li>
     <li>Forderungen weitertragen: Bedingung ist, dass ihr euch hinter unsere Forderungen [https://bits-und-baeume.org/forderungen/] stellt und diese bzw. deren Inhalte thematisch wesentlich für eure Aktion sind.</li>
     <li>Dem eigenen Anspruch folgen: Wir haben versucht, die Konferenz so nachhaltig wie möglich zu gestalten: von veganer und ökologischer Verpflegung über die Zusammenarbeit mit Kollektiven bis hin zur Nutzung freier Lizenzen und Software – das wünschen wir uns auch von allen nachfolgenden Aktionen. Dokumentation, Tipps und Anregungen haben wir hier zusammengetragen [https://bits-und-baeume.org/infrastruktur/]; Ergänzungen und Hinweise erwünscht!</li>
-<ul>
+</ul>
             </section>
           </div>
 
