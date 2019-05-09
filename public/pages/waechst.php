@@ -53,7 +53,7 @@ Not yet!
 <ul>
     <li><strong>Beteiligung fördern</strong>: Falls ihr eine Konferenz inkl. Vorträgen und Workshops veranstaltet, startet bitte einen Aufruf zur Beteiligung am Programm und verbreitet ihn so weit ihr könnt – denn nur so könnt ihr auch Ideen und Menschen einbeziehen, die ihr noch nicht kennt und es können neue Netzwerke entstehen. </li>
     <li>V<strong>ernetzung ermöglichen</strong>: Sorgt auch vor Ort explizit für Zeit und Raum zum Austausch und für Vernetzung. Verwendet gern und viel den Hashtag <a href="https://twitter.com/hashtag/bitsundbaeume">#bitsundbäume</a>, z.B. auf Mastodon, Twitter oder Diaspora; wir greifen das via @bitsundbaeume gerne auf. </li>
-    <li>Wenn ihr ein größeres Event plant, richten wir euch bei Bedarf eine <strong>Subdomain unter bits-und-baeume.org</ strong> ein, die dann auf eure Seite zeigt. Diese verlinken wir außerdem prominent auf der B&B-Hauptseite in einer Übersicht der nächsten Aktionen. Bitte denkt an ein eigenes Impressum und eine Datenschutzerklärung.</li>
+    <li>Wenn ihr ein größeres Event plant, richten wir euch bei Bedarf eine <strong>Subdomain unter bits-und-baeume.org</strong> ein, die dann auf eure Seite zeigt. Diese verlinken wir außerdem prominent auf der B&B-Hauptseite in einer Übersicht der nächsten Aktionen. Bitte denkt an ein eigenes Impressum und eine Datenschutzerklärung.</li>
 </ul>    
           </section>
 
