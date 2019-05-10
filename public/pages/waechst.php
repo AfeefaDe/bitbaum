@@ -24,7 +24,7 @@ article .row--forderung > p {
               <p>For over a year our team of 10 organizations worked hard to bring the Bits & Bäume 2018 into being - that was very enriching for us, but also a lot of effort, just because so many different organizations were sitting at the same table. We get many joyful expressions of hope for a repeat in 2019, which makes us very happy, but unfortunately we cannot integrate this time intensive work into our daily routines in the long run. But the Bits & Bäume was also a <strong>conference of all of us for all of us!</strong> So just pick up the thread, set up a regular's table in your city, organize a smaller or larger event, a discussion evening, explain on panels why and how digitization and sustainability belong together, let's continue to exchange ideas and successes under <a href="https://twitter.com/hashtag/bitsundbaeume">#bitsundbäume</a> or make up new networking formats.</p>              
             </section>
             <section>
-              <h2>Next B&B-Events</h2>
+              <h2>Next B&B-Event</h2>
 <ul>
     <li><a href="https://dresden.bits-und-baeume.org">Bits & Bäume Dresden – Eine Abendveranstaltung zu Digitalisierung und Nachhaltigkeit</a></li>
     <li>Zeit: <strong>23. Mai 2019</strong>, ab 18:30 Uhr</li>
@@ -36,7 +36,7 @@ article .row--forderung > p {
           <section>
               <h2>What does that mean in concrete terms?</h2>
               <ul>
-                  <li><strong>Topic</strong>: You can use the name for all actions as long as they take place at the interface between critical digitisation and sustainability.</li>
+                  <li><strong>Topic</strong>: You can use the name for all actions as long as they connect critical digitisation and sustainability.</li>
                   <li><strong>Target group</strong>: As contributors and participants, you primarily address activists, the growing Bits & Bäume community, academia and all of us as civil society.</li>
                   <li><strong>Support the demands</strong>: Our condition is that you support our demands and that they are thematically essential for your action.</li>
                   <li><strong>Implement our claims:</strong>:  We have tried to make the conference as sustainable as possible: from vegan and ecological catering and cooperation with collectives to the use of free licenses and software - that's what we want from all subsequent activities. We have compiled <a href="https://bits-und-baeume.org/infrastruktur/">documentation, tips and suggestions here</a>; further additions welcome!</li>
@@ -55,7 +55,7 @@ article .row--forderung > p {
 <p>We explicitly don't want the name to be used for formats where tech giants can buy their way into it and where politicians can advertise for themselves and their party instead of discussing seriously. These groups have enough possibilities already to make themselves heard, but they are surely always welcome as listening visitors.<br />
 We want to work towards this goal with everyone those who have dedicated themselves wholeheartedly to a material and immaterial world worth living in for all.</p>
 
-<p>If you need any suggestions or suspect helpful information from us, please feel free to contact us: At b<a href="mailto:bewegung@bits-und-baeume.org">bewegung@bits-und-baeume.org</a> you can currently reach Juliane (OKF) and Rainer (FIfF).</p>
+<p>If you need any suggestions or suspect helpful information from us, please feel free to contact us: At <a href="mailto:bewegung@bits-und-baeume.org">bewegung@bits-und-baeume.org</a> you can currently reach Juliane (OKF) and Rainer (FIfF).</p>
 
 <p>We dream that the Bits & Bäume 2018 will be followed by far more actions than we could ever organize ourselves! Decentralized and yet connected.</p>
 <p>Let us continue to grow together!<br />
