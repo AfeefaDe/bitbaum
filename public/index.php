@@ -47,11 +47,11 @@ if ($lang_uri != $lang || sizeof($route) > 3 || ($page == 'start' && sizeof($rou
 
 switch ($lang) {
     case "en":
-        $page_title = 'Bits & Bäume Conference (17th - 18th Nov 2018) grows to become a movement!';
+        $page_title = 'Bits & Bäume Conference (was 17th - 18th Nov 2018) grows to become a movement!';
         $page_description = 'The “Bits & Bäume – Conference on digitalisation and sustainability“ continues in a decentralized manner to grow and prosper.';
         break;
     default:
-        $page_title = 'Bits & Bäume Konferenz (17. - 18. Nov 2018) wächst zur Bewegung!';
+        $page_title = 'Bits & Bäume Konferenz (war 17. - 18. Nov 2018) wächst zur Bewegung!';
         $page_description = 'Die „Bits & Bäume – Konferenz für Digitalisierung und Nachhaltigkeit“ wird dezentralisiert fortgeführt, auf dass sie weiter wächst und gedeiht.';
         break;
 }?>
