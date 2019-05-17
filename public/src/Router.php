@@ -5,7 +5,7 @@ require_once 'SupportState.php';
 class Router
 {
     private $langs_permitted = ['de', 'en'];
-    private $pages_permitted = ["datenschutz", "programm", "programm-frab", "impressum", "info", "ziele", "presse", "infrastruktur"];
+    private $pages_permitted = ["datenschutz", "programm", "programm-frab", "impressum", "info", "ziele", "presse", "infrastruktur", "waechst", "rueckblick"];
 
     public function __construct()
     {
@@ -77,7 +77,6 @@ class Router
             }
         });
 
-
         Flight::route('/@page_or_lang', function ($page_or_lang) {
             if (in_array($page_or_lang, $this->langs_permitted)) {
                 $this->renderRootPage($page_or_lang);
@@ -112,7 +111,7 @@ class Router
     // read the config and evaluate the final config depending on given area etc.
     private function evaluateTemplateVars()
     {
-        $all_vars = include('config/template_vars.php');
+        $all_vars = include 'config/template_vars.php';
         $vars = $all_vars["default"];
 
         // request data
