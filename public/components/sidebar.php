@@ -36,21 +36,32 @@
 break;
     default:
         ?>
-        <section class="stats" style="display: block">
-          <?php require 'components/frab-stats.php';?>
-          <a href="/forderungen/<?php echo $lang; ?>" class="button" style="text-align: center">Unsere Forderungen</a>
-          <a href="/waechst/<?php echo $lang; ?>" class="button">Weiter gehts!</a>
+        <section class="stats">
+            <?php require 'components/frab-stats.php';?>
+            <a href="/rueckblick/<?php echo $lang; ?>" class="button">Das war die Konferenz 2018</a>
         </section>
 
-        <section class="switch program active">
-          <h4>PROGRAMM</h4>
-          <p>Unser zweitägiges Programm umfasste mehr als 120 international besetzte Panels, Talks, Workshops, Forum, philosophischen Salon, Sporangium, Konzert und Apéro. Zahlreiche Organisationen, Personen und internationale Referierende haben das Programm durch ihre Einreichungen mitgestaltet und ihre Ansätze für eine nachhaltige Digitalisierung mit den Teilnehmenden geteilt. Gemeinsam haben wir an Lösungsideen für eine nachhaltige Zukunft getüftelt und unterstützen einander auch weiterhin dabei, die Welt zu verändern! <br><br>Das Programm unserer fünf Bühnen wurde vom Video Operation Center des CCC aufgezeichnet.</p>
-          <a href="https://media.ccc.de/c/bub2018" class="button" target="_blank" style="text-align: center">Audio- und Videoaufzeichnungen</a>
-          <p style="display: flex; justify-content: space-evenly;">
-            <a target="_blank" href="/fotogalerie">Fotogalerie</a>
-            <a href="https://fahrplan.bits-und-baeume.org" target="_blank">Online-Programm</a>
-            <a target="_blank" href="/downloads/bits-und-baeume-2018-programmheft.pdf">PDF-Programm</a>
-          </p>           
+        <section class="switch news active">
+          <div>
+            <p class="bold">Das Buch <em>"Was Bits & Bäume verbindet" - jetzt per Crowdfunding unterstützen</em></p>
+
+            <p><b>[als weiterlesen]</b> Das Buch nimmt die Ideen und Diskussionen der <em>Bits & Bäume</em> Konferenz auf und denkt sie
+                weiter. Damit das Buch erscheinen kann, benötigen wir finanzielle Unterstützung - dafür haben wir
+                ein Crowdfunding ins Leben gerufen. Jede*r Unterstützer*in bekommt ein Exemplar und je nach
+                Funding-Summe auch weitere schöne Dinge. Das Buch wird zudem von Anfang an als PDF im Open Access
+                verfügbar sein und soll im Juli 2019 erscheinen.</p>
+            <p>
+                <a href="https://www.oekom-crowd.de/projekte/was-bits-und-baeume-verbindet" target="_blank">Mehr Informationen zum Crowdfunding</a>
+            </p>
+          </div>
+
+          <div>
+            <p class="bold">23. Mai 2019: Bits & Bäume Dresden – Eine Abendveranstaltung zu Digitalisierung und Nachhaltigkeit</p>
+            <p>
+              <a href="https://dresden.bits-und-baeume.org/" target="_blank">Zur Veranstaltung</a>
+            </p>
+          </div>
+
         </section>
 
         <section class="switch twitter">
@@ -59,9 +70,9 @@ break;
         </section>
 
         <div class="control">
-            <div class="program active">
+            <div class="news active">
                 <div class="icon"></div>
-                <p>Programm</p>
+                <p>News</p>
             </div>
             <div class="twitter">
                 <div class="icon"></div>
@@ -71,21 +82,21 @@ break;
     <?php }?>
 
 <script>
-$program = $('section.program');
+$news = $('section.news');
 $twitter = $('section.twitter');
-$programBtn = $('.control .program');
+$newsBtn = $('.control .news');
 $twitterBtn = $('.control .twitter');
 
 function showTwitter () {
   $twitterBtn.addClass('active');
   $twitter.addClass('active');
-  $programBtn.removeClass('active');
-  $program.removeClass('active');
+  $newsBtn.removeClass('active');
+  $news.removeClass('active');
 }
 
-function showProgramme () {
-  $programBtn.addClass('active');
-  $program.addClass('active');
+function showNews () {
+  $newsBtn.addClass('active');
+  $news.addClass('active');
   $twitterBtn.removeClass('active');
   $twitter.removeClass('active');
 }
@@ -94,17 +105,17 @@ $twitterBtn.click(function () {
     showTwitter();
 });
 
-$programBtn.click(function () {
-    showProgramme();
+$newsBtn.click(function () {
+    showNews();
 });
 
 $portraits = $('.portrait');
 
 function switchSidebar() {
-  if ( $program.hasClass('active') )
+  if ( $news.hasClass('active') )
     showTwitter();
   else
-    showProgramme();
+    showNews();
 }
 
 var index = 0;

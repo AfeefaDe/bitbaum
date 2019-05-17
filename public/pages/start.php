@@ -1,5 +1,5 @@
 <section class="square title">
-    <?php require 'components/header.php'; ?>
+    <?php require 'components/header.php';?>
 </section>
 
 <?php switch ($lang) {
@@ -25,19 +25,7 @@
                     <a href="/programm/<?php echo $lang; ?>" class="button">Programme overview</a>
                 </p>
             </article>-->
-            <article class="bolder">
-                <strong>Unterstützt unser Crowdfunding für das Buch <em>"Was Bits & Bäume verbindet"</em></strong>
 
-                <p>Das Buch nimmt die Ideen und Diskussionen der <em>Bits & Bäume</em> Konferenz auf und denkt sie
-                    weiter. Damit das Buch erscheinen kann, benötigen wir finanzielle Unterstützung - dafür haben wir
-                    ein Crowdfunding ins Leben gerufen. Jede*r Unterstützer*in bekommt ein Exemplar und je nach
-                    Funding-Summe auch weitere schöne Dinge. Das Buch wird zudem von Anfang an als PDF im Open Access
-                    verfügbar sein und soll im Juli 2019 erscheinen.</p>
-                <p class="align-center">
-                    <a href="https://www.oekom-crowd.de/projekte/was-bits-und-baeume-verbindet" target="_blank"
-                       class="button">Mehr Informationen zum Crowdfunding</a>
-                </p>
-            </article>
         </section>
 
         <section class="square description">
@@ -58,67 +46,49 @@
 
         <section class="square quotes">
             <article>
-                <?php require 'components/quotes.php'; ?>
+                <?php require 'components/quotes.php';?>
                 <article>
         </section>
         <?php
-        break;
+break;
     default:
         ?>
         <section class="square cluster">
-            <!--<article class="bolder">
-                <h4>Schwerpunkte</h4>
-                <div class="row">
-                  <div>
-                    <p>Alternatives Wirtschaften</p>
-                    <p>Daten & Umwelt</p>
-                    <p>Die ganz großen Fragen</p>
-                    <p>Die materielle Basis</p>
-                  </div>
-                  <div>
-                    <p>Digitaler Kapitalismus</p>
-                    <p>Stadt – Land – Smart</p>
-                    <p>Zivilgesellschaft & Communities</p>
-                  </div>
-                </div>
-                <p class="square-action align-center">
-                  <a href="/programm/<?php echo $lang; ?>" class="button">Programmbeschreibung</a>
-                </p>
-            </article>-->
-            <article class="bolder">
-                <strong>Unterstützt unser Crowdfunding für das Buch <em>"Was Bits & Bäume verbindet"</em></strong>
+            <article class="bolder align-center">
+                <h4>Die Bewegung geht weiter</h4>
 
-                <p>Das Buch nimmt die Ideen und Diskussionen der <em>Bits & Bäume</em> Konferenz auf und denkt sie
-                    weiter. Damit das Buch erscheinen kann, benötigen wir finanzielle Unterstützung - dafür haben wir
-                    ein Crowdfunding ins Leben gerufen. Jede*r Unterstützer*in bekommt ein Exemplar und je nach
-                    Funding-Summe auch weitere schöne Dinge. Das Buch wird zudem von Anfang an als PDF im Open Access
-                    verfügbar sein und soll im Juli 2019 erscheinen.</p>
-                <p class="align-center">
-                    <a href="https://www.oekom-crowd.de/projekte/was-bits-und-baeume-verbindet" target="_blank"
-                       class="button">Mehr Informationen zum Crowdfunding</a>
-                </p>
+                <div class="row">
+
+                  <p class="square-action">
+                    <a href="/waechst/<?php echo $lang; ?>" class="button">Bits & Bäume als "Marke" nutzen</a>
+                  </p>
+
+                  <!-- <h4>Veränderungen einfordern</h4> -->
+                  <p class="square-action">
+                    <a href="/forderungen/<?php echo $lang; ?>" class="button" style="text-align: center">Forderungen unterzeichnen</a>
+                  </p>
+                </div>
             </article>
         </section>
 
         <section class="square description">
             <article>
+              <h4>Intention</h4>
                 <p>Welche Rolle spielt Nachhaltigkeit für stabile Tech-Communities? Welche ökologischen Chancen stecken
                     in digitalen Anwendungen etwa für Klima- und Ressourcenschutz? Welche Arten von Digitalisierung
                     stehen diesen Zielen entgegen oder sind gar kontraproduktiv? Wie kann die digitale Gesellschaft
                     demokratisch und gerecht gestaltet und zugleich darauf ausgerichtet sein, auf friedvolle Weise die
                     Grundlagen unseres Lebens auf diesem Planeten zu bewahren?</p>
-                <p><a href="/info/<?php echo $lang; ?>">Ziele der Konferenz</a></p>
                 <p><a href="/presse/<?php echo $lang; ?>">Presseinformationen</a></p>
-                <p><a href="/infrastruktur/<?php echo $lang; ?>">Nachhaltige Konferenzorganisation</a></p>
             </article>
         </section>
 
         <section class="square quotes">
             <article>
-                <?php require 'components/quotes.php'; ?>
+                <?php require 'components/quotes.php';?>
                 <article>
         </section>
-    <?php } ?>
+    <?php }?>
 
 
 

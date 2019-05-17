@@ -8,7 +8,7 @@
 ?>
 
 <div>
-  <!-- <p>33 Speakers</p> -->
+  <p>130 Beiträge</p>
   <!-- <p><?php #echo $numberOfSlots ?> Slots</p> -->
-  <!-- <p>127 Teilnehmer</p> -->
+  <p>4321 Teilnehmer</p>
 </div>

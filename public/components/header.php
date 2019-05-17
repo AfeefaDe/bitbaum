@@ -1,6 +1,6 @@
 <?php
 $now = time(); // or your date as well
-$your_date = strtotime("2018-11-17");
+$your_date = strtotime("2019-05-23");
 $datediff = $your_date - $now;
 
 $days = round($datediff / (60 * 60 * 24));
@@ -36,16 +36,14 @@ break;
             <a href='/de' class='button back-button'>zur Übersicht</a>
             <div>
                 <h1>
-                    <span>Die Konferenz</span>
+                    <span>Die Bewegung</span>
                     <span>für Digitalisierung</span>
                     <span>und Nachhaltigkeit</span>
                 </h1>
 
-                <p>war am 17. und 18. November 2018</p>
-                <p><a href="https://www.openstreetmap.org/node/3343267710#map=16/52.5124/13.3280" target="_blank">in
-                        Berlin</a></p>
+                <p>Seit 2018 mit Ursprung in Berlin</p><br>
                 <?php if ($days > 1) {?>
-                    <p class="counter">noch <?php echo $days ?> Tage</p>
+                    <p class="counter">noch <?php echo $days ?> Tage bis zum nächsten Event</p>
                 <?php }?>
 
             </div>
