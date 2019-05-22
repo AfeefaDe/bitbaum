@@ -42,25 +42,22 @@ break;
         </section>
 
         <section class="switch news active">
-          <div>
-            <p class="bold">Das Buch <em>"Was Bits & Bäume verbindet" - jetzt per Crowdfunding unterstützen</em></p>
+          <article>
+            <h3 class="bold">Das Buch <em>"Was Bits & Bäume verbindet"</em></h3>
 
-            <p><b>[als weiterlesen]</b> Das Buch nimmt die Ideen und Diskussionen der <em>Bits & Bäume</em> Konferenz auf und denkt sie
-                weiter. Damit das Buch erscheinen kann, benötigen wir finanzielle Unterstützung - dafür haben wir
-                ein Crowdfunding ins Leben gerufen. Jede*r Unterstützer*in bekommt ein Exemplar und je nach
-                Funding-Summe auch weitere schöne Dinge. Das Buch wird zudem von Anfang an als PDF im Open Access
-                verfügbar sein und soll im Juli 2019 erscheinen.</p>
+            <p>Das Buch nimmt die Ideen und Diskussionen der <em>Bits & Bäume</em> Konferenz auf und denkt sie
+                weiter.</p>
             <p>
-                <a href="https://www.oekom-crowd.de/projekte/was-bits-und-baeume-verbindet" target="_blank">Mehr Informationen zum Crowdfunding</a>
+                <a href="https://www.oekom-crowd.de/projekte/was-bits-und-baeume-verbindet" target="_blank">Jetzt per Crowdfunding unterstützen</a>
             </p>
-          </div>
+          </article>
 
-          <div>
-            <p class="bold">23. Mai 2019: Bits & Bäume Dresden – Eine Abendveranstaltung zu Digitalisierung und Nachhaltigkeit</p>
+          <article>
+            <h3 class="bold">23. Mai 2019: Bits & Bäume Dresden – Eine Abendveranstaltung zu Digitalisierung und Nachhaltigkeit</h3>
             <p>
               <a href="https://dresden.bits-und-baeume.org/" target="_blank">Zur Veranstaltung</a>
             </p>
-          </div>
+          </article>
 
         </section>
 
