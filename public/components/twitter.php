@@ -32,8 +32,6 @@ if (date("Ymd") == date("Ymd", $date)) {
         ?>
                 </time>
             </header>
-            <footer>
-            </footer>
         </article>
 
     <?php }
