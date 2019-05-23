@@ -1,8 +1,9 @@
 form
   display: flex
   flex-direction: column
-  input, textarea
-    width: 50%
+
+  input:not([type='checkbox']), textarea
+    width: 100%
     padding: 1em
     margin-bottom: 1rem
     border: none
@@ -10,11 +11,32 @@ form
     font-family: $aller
     color: $text
     font-size: 1rem
-    &[type='checkbox']
-      width: 1.5em
-      height: 1.5em
+
+  input[type='checkbox']
+    width: 1.5em
+    height: 1.5em
+    margin-right: 1.5em
+
   button
     width: 50%
+
+  &.fullWidth
+    input:not([type='checkbox']), textarea
+      width: 100%
+
+  .group
+    display: flex
+    margin: 1rem 0
+    h3
+      width: 20%
+      margin-right: 2em
+    .input
+      width: 50%
+
+    &--inputCheckbox
+      display: flex
+      input
+        flex-shrink: 0
 
   &.sending
     opacity: .5

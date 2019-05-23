@@ -3,25 +3,24 @@
         ?>
         <h1>Supporter</h1>
         <?php
-        break;
+break;
     default:
         ?>
         <h1>Unterzeichner</h1>
 
+        <div class="grid-2">
         <?php
-        $db = Flight::db();
-        var_dump($db->select('support', [
-            'name',
-            'comment'
-        ], [
-            'state' => SupportState::PUBLISHED
-        ]));
-        ?>
+$supports = SupportController::getSupports(5);
 
+        foreach ($supports as $key => $support) {
+            require 'components/support_record.php';
+        }
+        ?>
+</div>
         <section>
             <?php
-            require_once 'components/support_form.php';
-            ?>
+require_once 'components/support_form.php';
+        ?>
         </section>
 
-    <?php } ?>
+    <?php }?>

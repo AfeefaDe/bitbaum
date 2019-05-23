@@ -1,17 +1,55 @@
-<h2>Forderungen unterzeichnen</h2>
+<div class="">
 
-<form class="form">
-    <input type="text" id="form-name" placeholder="Your name" required/>
-    <input type="text" id="form-orga" placeholder="Your organisation"/>
-    <input type="email" id="form-email" placeholder="Your e-mail address" required/>
-    <textarea id="form-comment" placeholder="Your comment to the demands" maxlength="500"></textarea>
-    <p class="smaller">
-        TODO: data protection stuff...
-        You can find out more about this in our
-        <a href="/datenschutz/<?php echo $lang; ?>#anmeldefunktion">privacy policy</a>.
-    </p>
-    <input type="submit" value="Jetzt unterzeichnen!"/>
-</form>
+  <form class="form">
+
+    <div class="group">
+      <h3 class="bolder">Dein vollständiger Name:</h3>
+      <div class="input">
+        <input type="text" id="form-name" placeholder="Vor- und Nachname" required/>
+        <span class="readmore">Ich möchte im Namen einer Organisation unterzeichnen</span>
+        <input class="moreContent" type="text" id="form-orga" placeholder="Name der Organisation"/>
+        <input class="moreContent" type="website" id="form-website" placeholder="Organization Website"/>
+      </div>
+    </div>
+
+    <div class="group">
+      <h3>Kommentar</h3>
+      <div class="input">
+        <textarea id="form-comment" placeholder="Optional kannst du deiner Unterzeichnung einen Kommentar hinzufügen" maxlength="500"></textarea>
+      </div>
+    </div>
+
+    <div class="group">
+      <h3>Kontakt</h3>
+      <div class="input">
+        <input type="email" id="form-email" placeholder="E-Mail Adresse" required/>
+        <span class="smaller">Deine E-Mail Adresse benötigen wir zur Verifizierung. Nachdem du deine Unterzeichnung per E-Mail bestätigt hast, löschen wir deine E-Mail Adresse aus unserer Datenbank.</span>
+      </div>
+    </div>
+
+    <h3>Datenschutz</h3>
+    <div class="group group--checkbox">
+      <input type="checkbox" id="form-data_agreement">
+      <label>
+        <span>Ich willige ein, dass meine Daten zur Verarbeitung übermittelt und auf dieser Website veröffentlicht werden.</span>
+        <br><span class="smaller">Mehr dazu lesen Sie in unserer <a href="/datenschutz/<?php echo $lang; ?>#anmeldefunktion">Datenschutzerklärung</a>.</span>
+      </label>
+    </div>
+
+    <div class="group group--checkbox">
+      <input type="checkbox" id="form-contact_agreement">
+      <label>
+        <span>Ich möchte über den weiteren Verlauf informiert werden.</span>
+        <br><span class="smaller">In diesem Fall speichern wir deine E-Mail Adresse auch nach der Verifizierung deiner Unterzeichnung.</span>
+      </label>
+    </div>
+
+    <div class="group">
+      <input style="width: 50%" type="submit" value="Jetzt unterzeichnen!"/>
+    </div>
+  </form>
+
+</div>
 
 <div class="message" style="display: none">Vielen Dank für deine Unterstützung! Bitte schau in dein Postfach.
     <br>
@@ -31,6 +69,7 @@
             "name": $('#form-name').val(),
             "orga": $('#form-orga').val(),
             "comment": $('#form-comment').val(),
+            "contact_agreement": $('#form-contact_agreement').prop('checked'),
             "key": "<?php echo parse_ini_file('config/auth.ini')['key']; ?>"
         };
 

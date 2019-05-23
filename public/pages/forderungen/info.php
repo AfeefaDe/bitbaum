@@ -22,69 +22,67 @@
 " target="_blank">article</a>. </p>
         <p><em>German content:</em> <br></p>
     <?php
-    default:
+default:
         ?>
         <article>
             <h1>Forderungen</h1>
 
             <?php
 
-            if (isset($_GET['status']) && in_array($_GET['status'], [0, 1, 2, 3, 4, 5])) {
-                echo "<div class='status'>";
-                switch ($_GET['status']) {
-                    case 0:
-                        echo "some error occured";
-                        break;
-                    case 1:
-                        echo "support verified";
-                        break;
-                    case 2:
-                        echo "support published";
-                        break;
-                    case 3:
-                        echo "code invalid, already verified";
-                        break;
-                    case 4:
-                        echo "code invalid, already published";
-                        break;
-                    case 5:
-                        echo "code invalid";
-                        break;
-                }
+        if (isset($_GET['status']) && in_array($_GET['status'], [0, 1, 2, 3, 4, 5])) {
+            echo "<div class='status'>";
+            switch ($_GET['status']) {
+                case 0:
+                    echo "some error occured";
+                    break;
+                case 1:
+                    echo "support verified";
+                    break;
+                case 2:
+                    echo "support published";
+                    break;
+                case 3:
+                    echo "code invalid, already verified";
+                    break;
+                case 4:
+                    echo "code invalid, already published";
+                    break;
+                case 5:
+                    echo "code invalid";
+                    break;
             }
-            echo "</div>";
-            ?>
+        }
+        echo "</div>";
+        ?>
 
-            <section>
-                <?php
-                require_once 'components/support_form.php';
-                ?>
-            </section>
-
-            <div class="row">
+              <div class="row">
                 <section>
                     <p>Wir, zehn Organisationen aus der Netz-, Umwelt- und Entwicklungspolitik, haben mit der Konferenz
                         „Bits & Bäume“ eine gemeinsame Grundlage dafür geschaffen, wie die Digitalisierung so gestaltet
                         werden kann, dass sie dem Gemeinwohl und Frieden dient, Datenschutz ernst nimmt und soziale und
-                        ökologische Ziele gleichermaßen fördert. Die fast 2.000 Teilnehmer*innen der Konferenz in
+                        ökologische Ziele gleichermaßen fördert.</p>
+                    <p class="moreContent">Die fast 2.000 Teilnehmer*innen der Konferenz in
                         Berlin, die Ergebnisse der Workshops und die zahlreichen Diskussionen auf und vor der Bühne
                         zeigen: Die Zivilgesellschaft und eine kritische Wissenschaft haben gemeinsam die
                         Wissensgrundlage, die Kompetenzen, die Weitsicht, den Willen und auch die Kraft, eine
                         nachhaltige Digitalisierung mitzugestalten, wenn sie sich zusammenschließen.</p>
-                    <p>Wir können die Digitalisierung nicht alleine der Wirtschaft und der Politik überlassen. Deshalb
+                    <p class="moreContent">Wir können die Digitalisierung nicht alleine der Wirtschaft und der Politik überlassen. Deshalb
                         werden wir uns zukünftig noch stärker und gemeinsam in die gesellschaftliche Diskussion und die
                         praktische Umsetzung einbringen.</p>
-                    <p>Als Bündnis von Organisationen mit zehn verschiedenen Perspektiven auf die notwendigen
-                        Veränderungen stellen wir gemeinsam diese Forderungen:</p>
+                    <span class="readmore smaller">Mehr lesen</span>
+                    <p>
+                      <strong>Als Bündnis von Organisationen mit zehn verschiedenen Perspektiven auf die notwendigen Veränderungen stellen wir gemeinsam diese Forderungen:</strong>
+                    </p>
                 </section>
                 <section>
                     <a href="/downloads/BuB-Forderungen.jpg"><img style="max-width: 100%" class="portrait"
                                                                   src="/img/BuB-Forderungen-small.jpg"></a>
-                    <p class="smaller">CC BY Santiago Engelhardt</p>
-                    <p class="smaller">Hintere Reihe von links: Rainer Rehak (FIfF), Thomas Korbun (IÖW), Rolf Buschmann
+                    <p class="readmore smaller">Bildinfos anzeigen</p>
+                    <p class="smaller moreContent">CC BY Santiago Engelhardt</p>
+                    <p class="smaller moreContent">Hintere Reihe von links: Rainer Rehak (FIfF), Thomas Korbun (IÖW), Rolf Buschmann
                         (BUND), Sven Hilbig (Brot für die Welt), Maria Bossmann (DNR), Constanze Kurz (CCC), Nadine
                         Evers (OKF DE)</p>
-                    <p class="smaller">Vordere Reihe von links: Christoph Bals (Germanwatch), Nina Treu (Konzeptwerk
+                    <p class="smaller moreContent">Vordere Reihe von links: Christoph Bals (Germanwatch), Nina Treu (Konzeptwerk
                         Neue Ökonomie), Tilman Santarius (TU Berlin)</p>
                 </section>
             </div>
@@ -202,5 +200,12 @@
                 </div>
             </section>
 
+            <section id="unterzeichnen">
+              <h2>Forderungen unterzeichnen</h2>
+                <?php
+require_once 'components/support_form.php';
+        ?>
+            </section>
+
         </article>
-    <?php } ?>
+    <?php }?>

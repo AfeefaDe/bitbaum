@@ -53,7 +53,13 @@ switch ($lang) {
 <?php }?>
 
 <aside>
-    <?php require 'components/sidebar.php';?>
+    <?php
+if (strpos($page, 'forderungen') !== false) {
+    require 'components/sidebar_forderungen.php';
+} else {
+    require 'components/sidebar.php';
+}
+?>
 </aside>
 
 <footer>
@@ -65,6 +71,15 @@ switch ($lang) {
         return navigator.userAgent.match(/MSIE|Trident/i);
     };
     if (isIE()) $('body').addClass('ie-browser');
+
+    $('.readmore, .readless').click(function(){
+      $(this).parent().find('.lessContent').toggle();
+      $(this).parent().find('.moreContent').toggle();
+
+      $(this).parent().find('.readmore').toggle();
+      $(this).parent().find('.readless').toggle();
+    });
+
 </script>
 </body>
 </html>
