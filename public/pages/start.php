@@ -60,7 +60,7 @@ break;
                 <div class="row">
 
                   <p class="square-action">
-                    <a href="/waechst/<?php echo $lang; ?>" class="button">Bits & Bäume als "Marke" nutzen</a>
+                    <a href="/waechst/<?php echo $lang; ?>" class="button">Selbst eine B&B organisieren</a>
                   </p>
 
                   <!-- <h4>Veränderungen einfordern</h4> -->
