@@ -36,46 +36,47 @@
 break;
     default:
         ?>
-        <section class="stats">
-            <?php require 'components/frab-stats.php';?>
-            <a href="/rueckblick/<?php echo $lang; ?>" class="button">Das war die Konferenz 2018</a>
-        </section>
+<section class="stats">
+  <?php require 'components/frab-stats.php';?>
+  <a href="/rueckblick/<?php echo $lang; ?>" class="button">Das war die Konferenz 2018</a>
+</section>
 
-        <section class="switch news active">
-          <article>
-            <h3 class="bold">Das Buch <em>"Was Bits & Bäume verbindet"</em></h3>
+<section class="switch news active">
 
-            <p>Das Buch nimmt die Ideen und Diskussionen der <em>Bits & Bäume</em> Konferenz auf und denkt sie
-                weiter.</p>
-            <p>
-                <a href="https://www.oekom-crowd.de/projekte/was-bits-und-baeume-verbindet" target="_blank">Jetzt per Crowdfunding unterstützen</a>
-            </p>
-          </article>
+  <article>
+    <h3 class="bold">23. Mai 2019: Bits & Bäume Dresden – Eine Abendveranstaltung zu Digitalisierung und Nachhaltigkeit</h3>
+    <p>
+      <a href="https://dresden.bits-und-baeume.org/" target="_blank">Zur Veranstaltung</a>
+    </p>
+  </article>
 
-          <article>
-            <h3 class="bold">23. Mai 2019: Bits & Bäume Dresden – Eine Abendveranstaltung zu Digitalisierung und Nachhaltigkeit</h3>
-            <p>
-              <a href="https://dresden.bits-und-baeume.org/" target="_blank">Zur Veranstaltung</a>
-            </p>
-          </article>
+  <article>
+    <h3 class="bold">Das Buch <em>"Was Bits & Bäume verbindet"</em></h3>
 
-        </section>
+    <p>Das Buch nimmt die Ideen und Diskussionen der <em>Bits & Bäume</em> Konferenz auf und denkt sie
+        weiter.</p>
+    <p>
+        <a href="https://www.oekom-crowd.de/projekte/was-bits-und-baeume-verbindet" target="_blank">Jetzt per Crowdfunding unterstützen</a>
+    </p>
+  </article>
 
-        <section class="switch twitter">
-            <?php require 'components/twitter.php';?>
+</section>
 
-        </section>
+<section class="switch twitter">
+    <?php require 'components/twitter.php';?>
 
-        <div class="control">
-            <div class="news active">
-                <div class="icon"></div>
-                <p>News</p>
-            </div>
-            <div class="twitter">
-                <div class="icon"></div>
-                <p>#bitsundbäume</p>
-            </div>
-        </div>
+</section>
+
+<div class="control">
+    <div class="news active">
+        <div class="icon"></div>
+        <p>News</p>
+    </div>
+    <div class="twitter">
+        <div class="icon"></div>
+        <p>#bitsundbäume</p>
+    </div>
+</div>
     <?php }?>
 
 <script>
