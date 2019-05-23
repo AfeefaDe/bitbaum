@@ -8,7 +8,7 @@ class SupportController
 
     public static function addSupport($json)
     {
-        $data = array_values((array)$json)[0];
+        $data = array_values((array) $json)[0];
         $data["code"] = self::genCode();
         $data["link"] = "https://" . $_SERVER['SERVER_NAME'] . ":" . $_SERVER['SERVER_PORT'] . "/forderungen/unterzeichnen/verify"; //TODO remove dev port
 
@@ -17,7 +17,9 @@ class SupportController
             "type" => 0, //TODO
             "mail" => $data["to"],
             "name" => $data["name"],
+            "orga" => $data["orga"],
             "comment" => $data["comment"],
+            "contact_agreement" => ($data["contact_agreement"]),
             "code" => $data["code"]
         ]);
 
@@ -27,6 +29,21 @@ class SupportController
         Flight::halt($status['code'], $status['message']);
     }
 
+    public static function getSupports($limit = null)
+    {
+        $db = Flight::db();
+        $data = $db->select(
+            "support",
+            ["name", "orga", "comment", "created_at"],
+            [
+                "state" => SupportState::PUBLISHED,
+                "ORDER" => ["support.created_at" => "DESC"],
+                "LIMIT" => $limit
+            ]
+        );
+
+        return $data;
+    }
     public static function verifySupport($id, $code)
     {
         $db = Flight::db();
