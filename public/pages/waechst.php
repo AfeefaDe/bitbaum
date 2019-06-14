@@ -77,6 +77,12 @@ Your B&B-Team</p>
             <section>
               <h2>Nächste B&B-Veranstaltung</h2>
 <ul>
+    <li><a href="https://dresden.bits-und-baeume.org">Bits & Bäume Dresden bei der OUTPUT.DD: Nachaltiger Output statt gehyptem Nonsens</a></li>
+    <li>mit einem Input von Juliane Krüger, Kernteam Bits & Bäume 2018</li>
+    <li>Zeit: <strong>20. Juni 2019</strong>, 14.00 Uhr, anschließende Stammtischrunde vorr. 16.30 Uhr</li>
+    <li>Ort: TU-Dresden, Fakultät Informatik, <a href="https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2310">Andreas-Pfitzmann-Bau</a>, E023</li>
+    </li>  
+    <br>          
     <li><a href="https://dresden.bits-und-baeume.org">Bits & Bäume Dresden – Eine Abendveranstaltung zu Digitalisierung und Nachhaltigkeit</a></li>
     <li>Zeit: <strong>23. Mai 2019</strong>, ab 18:30 Uhr</li>
     <li>Ort: TU-Dresden, Fakultät Informatik, <a href="https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2310">Andreas-Pfitzmann-Bau</a>, E023</li>
