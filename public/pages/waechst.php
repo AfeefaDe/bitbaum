@@ -28,7 +28,7 @@ article .row--forderung > p {
 <ul>
    <li><a href="https://dresden.bits-und-baeume.org">Bits & Bäume Dresden at OUTPUT.DD: Nachaltiger Output statt gehyptem Nonsens</a>
     <br>with an introductory speech by Juliane Krüger, core team Bits & Bäume 2018
-    <br>when: <strong>Juni 20, 2019</strong>, 2:00pm, anschließende Stammtischrunde 4.30pm
+    <br>when: <strong>Juni 20, 2019</strong>, 2:00pm, following regular's round: 4:30pm
       <br>where: <strong>TU Dresden</strong>, Faculty of Computer Science, <a href="https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2310">Andreas-Pfitzmann-Bau</a>, E023
     </li>  
     <br>    
