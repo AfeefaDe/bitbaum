@@ -1,3 +1,4 @@
+<aside>
 <?php switch ($lang) {
     case "en":
         ?>
@@ -78,6 +79,8 @@ break;
     </div>
 </div>
     <?php }?>
+
+</aside>
 
 <script>
 $news = $('section.news');

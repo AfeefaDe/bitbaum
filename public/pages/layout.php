@@ -52,7 +52,6 @@ switch ($lang) {
     </section>
 <?php }?>
 
-<aside>
     <?php
 if (strpos($page, 'forderungen') !== false) {
     require 'components/sidebar_forderungen.php';
@@ -60,13 +59,44 @@ if (strpos($page, 'forderungen') !== false) {
     require 'components/sidebar.php';
 }
 ?>
-</aside>
 
 <footer>
     <?php require 'components/footer.php';?>
 </footer>
 
 <script>
+
+  $(document).ready(function() {
+
+    $.fn.isInViewport = function() {
+      var elementTop = $(this).offset().top;
+      var elementBottom = elementTop + $(this).outerHeight();
+      var viewportTop = $(window).scrollTop();
+      var viewportBottom = viewportTop + $(window).height();
+      return elementBottom > viewportTop && elementTop < viewportBottom;
+    };
+
+    var $footer = $('footer');
+    var $sidebar = $('aside');
+
+    $(document).on('resize scroll', function(){
+      var scrollPos = document.scrollingElement.scrollTop;
+
+      if ( ($footer.length && $footer.isInViewport()) ) {
+        $sidebar.removeClass('fixed');
+        $sidebar.css('top', ($footer.offset().top - $sidebar.height()) );
+      }
+      else {
+        $sidebar.addClass('fixed');
+        $sidebar.css('top', 0);
+      }
+    });
+
+  });
+
+
+
+
     var isIE = function () {
         return navigator.userAgent.match(/MSIE|Trident/i);
     };
