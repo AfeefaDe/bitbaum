@@ -44,6 +44,21 @@ class SupportController
 
         return $data;
     }
+
+    public static function getTotalNumberOfSupports()
+    {
+        $db = Flight::db();
+        $data = $db->select(
+            "support",
+            ["name"],
+            [
+                "state" => SupportState::PUBLISHED
+            ]
+        );
+
+        return count($data);
+    }
+
     public static function verifySupport($id, $code)
     {
         $db = Flight::db();

@@ -10,7 +10,7 @@ break;
 
 <section class="switch support">
 
-  <h2>350 Unterstützer*innen</h2>
+  <h2><?php echo SupportController::getTotalNumberOfSupports(); ?> Unterstützer*innen</h2>
   <p class="bold" style="margin-top: 0">haben unsere Forderungen bereits unterzeichnet.</p>
 
 <div class="records">
