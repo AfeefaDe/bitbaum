@@ -23,7 +23,7 @@ $supports = SupportController::getSupports(5);
         ?>
 
 </div>
-<a href="#unterzeichnen" class="button" style="text-align: center">Forderungen unterzeichnen</a>
+<a href="#unterzeichnen" class="button important" style="text-align: center"><span class="icon sign">Forderungen unterzeichnen</span></a>
 <p class="smaller">Die Unterschriften geben den Forderungen mehr Gewicht, denn alle Beteiligten verweisen regelmäßig auf sie, bei Hintergrundgesprächen über öffentliche Auftritten bis hin zu Gesprächen mit EntscheidungsträgerInnen aus allen möglichen Bereichen.</p>
 
 

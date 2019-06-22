@@ -12,9 +12,23 @@ button, .button
 	font-style: normal
 	color: inherit
 	
+	.icon
+		$iconSize: 1.7em
+		position: relative
+		display: inline-block
+		background-size: contain
+		line-height: $iconSize
+		background-position: 0 center
+		padding-left: calc( #{$iconSize} + 1em)
+		left: calc(-1 * #{$iconSize} / 2)
+		background-repeat: no-repeat
+
+		&.sign
+			background-image: url(/img/sign.svg)
+
 	&:hover
 		transition: background-color 300ms
-		background: lighten($text, 90)
+		background: lighten($text, 90) !important
 
 	&.back-button
 		background-color: rgba(255, 255, 255, 0.6)
@@ -23,3 +37,6 @@ button, .button
 		font-weight: $thin
 		position: relative
 		top: -2vmax
+
+	&.important
+		background-color: rgba(255, 255, 255, 0.7)
