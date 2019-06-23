@@ -25,7 +25,6 @@
                     <a href="/programm/<?php echo $lang; ?>" class="button">Programme overview</a>
                 </p>
             </article>-->
-
         </section>
 
         <section class="square description">

@@ -14,21 +14,27 @@ article .row--forderung > p {
 </style>
 <?php switch ($lang) {
     case "en":
-            ?>
+        ?>
 
 <article>
           <h1>The Bits & Bäume grows to become a movement!</h1>
           <div class="row">
             <section>
               <p>We, the initiators of the first Bits & Bäume Conference, decided to <strong>release the idea of Bits & Bäume into freedom so that it can continue to grow and prosper.</strong></p>
-              <p>For over a year our team of 10 organizations worked hard to bring the Bits & Bäume 2018 into being - that was very enriching for us, but also a lot of effort, just because so many different organizations were sitting at the same table. We get many joyful expressions of hope for a repeat in 2019, which makes us very happy, but unfortunately we cannot integrate this time intensive work into our daily routines in the long run. But the Bits & Bäume was also a <strong>conference of all of us for all of us!</strong> So just pick up the thread, set up a regular's table in your city, organize a smaller or larger event, a discussion evening, explain on panels why and how digitization and sustainability belong together, let's continue to exchange ideas and successes under <a href="https://twitter.com/hashtag/bitsundbaeume">#bitsundbäume</a> or make up new networking formats.</p>              
+              <p>For over a year our team of 10 organizations worked hard to bring the Bits & Bäume 2018 into being - that was very enriching for us, but also a lot of effort, just because so many different organizations were sitting at the same table. We get many joyful expressions of hope for a repeat in 2019, which makes us very happy, but unfortunately we cannot integrate this time intensive work into our daily routines in the long run. But the Bits & Bäume was also a <strong>conference of all of us for all of us!</strong> So just pick up the thread, set up a regular's table in your city, organize a smaller or larger event, a discussion evening, explain on panels why and how digitization and sustainability belong together, let's continue to exchange ideas and successes under <a href="https://twitter.com/hashtag/bitsundbaeume">#bitsundbäume</a> or make up new networking formats.</p>
             </section>
             <section>
-              <h2>Next B&B-Event</h2>
+              <h2>Latest B&B-Events</h2>
 <ul>
-    <li><a href="https://dresden.bits-und-baeume.org">Bits & Bäume Dresden – Eine Abendveranstaltung zu Digitalisierung und Nachhaltigkeit</a></li>
-    <li>Zeit: <strong>23. Mai 2019</strong>, ab 18:30 Uhr</li>
-    <li>Ort: TU-Dresden, Fakultät Informatik, <a href="https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2310">Andreas-Pfitzmann-Bau</a>, E023</li>
+   <li><a href="https://dresden.bits-und-baeume.org">Bits & Bäume Dresden at OUTPUT.DD: Nachaltiger Output statt gehyptem Nonsens</a>
+    <br>with an introductory speech by Juliane Krüger, core team Bits & Bäume 2018
+    <br>when: <strong>Juni 20, 2019</strong>, 2:00pm, following regular's round: 4:30pm
+      <br>where: <strong>TU Dresden</strong>, Faculty of Computer Science, <a href="https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2310">Andreas-Pfitzmann-Bau</a>, E023
+    </li>
+    <br>
+   <li><a href="https://dresden.bits-und-baeume.org">Bits & Bäume Dresden – Eine Abendveranstaltung zu Digitalisierung und Nachhaltigkeit</a>
+    <br>when: <strong>Mai 23, 2019</strong>, 6:30pm
+    <br>where: <strong>TU Dresden</strong>, Faculty of Computer Science, <a href="https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2310">Andreas-Pfitzmann-Bau</a>, E023
     </li>
 </ul>
             </section>
@@ -48,7 +54,7 @@ article .row--forderung > p {
     <li><strong>Encourage participation</strong>: If you organize a conference including lectures and workshops, please start a call for participation (CfP) and spread it as far as you can - because only in this way you can include ideas and people you don't already know and new networks can develop.</li>
     <li><strong>Facilitate networking</strong>: Make sure there is time and space for exchange and networking. Use the Hashtag <a href="https://twitter.com/hashtag/bitsundbaeume">#bitsundbäume</a> with pleasure and often, e.g. on Mastodon, Twitter or Diaspora; we'll gladly take this up via @bitsundbaeume.</li>
     <li>If you're planning a bigger event, we'll set up a <strong>subdomain at bits-und-baeume.org</strong> for you. We will also link it prominently on the B&B main page in an overview of the next actions. Please create your own imprint and privacy policy though.</li>
-</ul>    
+</ul>
           </section>
 
           <section>
@@ -64,7 +70,7 @@ Your B&B-Team</p>
 
         </article>
             <?php
-            break;   
+break;
     default:
         ?>
         <article>
@@ -72,14 +78,20 @@ Your B&B-Team</p>
           <div class="row">
             <section>
               <p>Wir Initiator*innen der ersten Bits&Bäume-Konferenz haben uns entschieden, <strong>die Idee der Bits & Bäume in die Freiheit zu entlassen, auf dass sie weiter wachsen und gedeihen kann.</strong></p>
-              <p>Über ein Jahr lang haben wir als Team aus 10 Organisationen daran gearbeitet, die Bits&Bäume 2018 aus der Taufe zu heben – das war sehr bereichernd für uns, aber auch viel Arbeit, gerade weil so unterschiedliche Organisationen an einem Tisch saßen. Wir bekommen viele freudige Hoffnungsbekundungen auf eine Wiederholung 2019, was uns sehr freut, allerdings können wir leider diese gemeinsame Arbeit nicht langfristig in unseren Arbeitsalltag integrieren. Aber die Bits & Bäume war auch eine <strong>Konferenz von uns allen für uns alle!</strong> Nehmt den Faden also doch einfach auf, gründet einen Stammtisch in eurer Stadt, organisiert eine kleinere oder größere Veranstaltung, einen Diskussionsabend, erklärt auf Panels, warum und wie Digitalisierung und Nachhaltigkeit zusammengehören, lasst uns weiterhin unter <a href="https://twitter.com/hashtag/bitsundbaeume">#bitsundbäume</a> Ideen und Fortschritte austauschen, denkt euch neue Vernetzungsformate aus.</p>              
+              <p>Über ein Jahr lang haben wir als Team aus 10 Organisationen daran gearbeitet, die Bits&Bäume 2018 aus der Taufe zu heben – das war sehr bereichernd für uns, aber auch viel Arbeit, gerade weil so unterschiedliche Organisationen an einem Tisch saßen. Wir bekommen viele freudige Hoffnungsbekundungen auf eine Wiederholung 2019, was uns sehr freut, allerdings können wir leider diese gemeinsame Arbeit nicht langfristig in unseren Arbeitsalltag integrieren. Aber die Bits & Bäume war auch eine <strong>Konferenz von uns allen für uns alle!</strong> Nehmt den Faden also doch einfach auf, gründet einen Stammtisch in eurer Stadt, organisiert eine kleinere oder größere Veranstaltung, einen Diskussionsabend, erklärt auf Panels, warum und wie Digitalisierung und Nachhaltigkeit zusammengehören, lasst uns weiterhin unter <a href="https://twitter.com/hashtag/bitsundbaeume">#bitsundbäume</a> Ideen und Fortschritte austauschen, denkt euch neue Vernetzungsformate aus.</p>
             </section>
             <section>
-              <h2>Nächste B&B-Veranstaltung</h2>
+              <h2>Aktuelle B&B-Veranstaltungen</h2>
 <ul>
-    <li><a href="https://dresden.bits-und-baeume.org">Bits & Bäume Dresden – Eine Abendveranstaltung zu Digitalisierung und Nachhaltigkeit</a></li>
-    <li>Zeit: <strong>23. Mai 2019</strong>, ab 18:30 Uhr</li>
-    <li>Ort: TU-Dresden, Fakultät Informatik, <a href="https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2310">Andreas-Pfitzmann-Bau</a>, E023</li>
+    <li><a href="https://dresden.bits-und-baeume.org">Bits & Bäume Dresden bei der OUTPUT.DD: Nachaltiger Output statt gehyptem Nonsens</a>
+    <br>mit einem Input von Juliane Krüger, Kernteam Bits & Bäume 2018
+    <br>Zeit: <strong>20. Juni 2019</strong>, 14.00 Uhr, anschließende Stammtischrunde 16.30 Uhr
+      <br>Ort: <strong>TU Dresden</strong>, Fakultät Informatik, <a href="https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2310">Andreas-Pfitzmann-Bau</a>, E023
+    </li>
+    <br>
+    <li><a href="https://dresden.bits-und-baeume.org">Bits & Bäume Dresden – Eine Abendveranstaltung zu Digitalisierung und Nachhaltigkeit</a>
+    <br>Zeit: <strong>23. Mai 2019</strong>, ab 18.30 Uhr
+    <br>Ort: <strong>TU Dresden</strong>, Fakultät Informatik, <a href="https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2310">Andreas-Pfitzmann-Bau</a>, E023
     </li>
 </ul>
             </section>
@@ -99,7 +111,7 @@ Your B&B-Team</p>
     <li><strong>Beteiligung fördern</strong>: Falls ihr eine Konferenz inkl. Vorträgen und Workshops veranstaltet, startet bitte einen Aufruf zur Beteiligung am Programm und verbreitet ihn so weit ihr könnt – denn nur so könnt ihr auch Ideen und Menschen einbeziehen, die ihr noch nicht kennt und es können neue Netzwerke entstehen. </li>
     <li>V<strong>ernetzung ermöglichen</strong>: Sorgt auch vor Ort explizit für Zeit und Raum zum Austausch und für Vernetzung. Verwendet gern und viel den Hashtag <a href="https://twitter.com/hashtag/bitsundbaeume">#bitsundbäume</a>, z.B. auf Mastodon, Twitter oder Diaspora; wir greifen das via @bitsundbaeume gerne auf. </li>
     <li>Wenn ihr ein größeres Event plant, richten wir euch bei Bedarf eine <strong>Subdomain unter bits-und-baeume.org</strong> ein, die dann auf eure Seite zeigt. Diese verlinken wir außerdem prominent auf der B&B-Hauptseite in einer Übersicht der nächsten Aktionen. Bitte denkt an ein eigenes Impressum und eine Datenschutzerklärung.</li>
-</ul>    
+</ul>
           </section>
 
           <section>
