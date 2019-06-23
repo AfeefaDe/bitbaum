@@ -188,6 +188,13 @@ echo "</p>";
                         href="https://www.degrowth.info/en/2018/12/a-conference-for-digitalization-and-sustainability-reflections-on-bits-baume/">here</a>.
             </section>
 
+            <section id="unterzeichnen">
+                <h2>Sign demands</h2>
+                <?php
+require_once 'components/support_form.php';
+        ?>
+            </section>
+
         </article>
         <?php
 break;
