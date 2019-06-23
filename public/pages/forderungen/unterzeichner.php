@@ -6,9 +6,10 @@
 break;
     default:
         ?>
-        <h1>Unterzeichner</h1>
-
-        <div class="grid-2">
+        <h1>Unterstützer*innenliste</h1>
+        <p><strong>Die folgenden Personen unterstützen unserer <a href="/forderungen/<?php echo $lang; ?>">Forderungen</a> und haben diese unterzeichnet.</strong></p>
+        <hr>
+        <div class="support-records">
         <?php
 $supports = SupportController::getSupports(5);
 
@@ -19,7 +20,7 @@ $supports = SupportController::getSupports(5);
 </div>
         <section>
             <?php
-require_once 'components/support_form.php';
+// require_once 'components/support_form.php';
         ?>
         </section>
 

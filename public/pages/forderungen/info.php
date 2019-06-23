@@ -19,16 +19,16 @@
 <?php
 //TODO: style status response
 if (isset($_GET['status']) && in_array($_GET['status'], [0, 1, 2, 3, 4, 5])) {
-    echo "<div class='status'>";
+    echo "<p class='status'>";
     switch ($_GET['status']) {
         case 0:
-            echo "some error occured";
+            echo "Some error occured";
             break;
         case 1:
-            echo "support verified";
+            echo "Deine Unterzeichnung wurde erfolgreich verifiziert. Unsere Redaktion wird Sie freigeben und dich informieren.";
             break;
         case 2:
-            echo "support published";
+            echo "Unterzeichnung veröffentlicht :)";
             break;
         case 3:
             echo "code invalid, already verified";
@@ -41,7 +41,7 @@ if (isset($_GET['status']) && in_array($_GET['status'], [0, 1, 2, 3, 4, 5])) {
             break;
     }
 }
-echo "</div>";
+echo "</p>";
 ?>
 
 <?php switch ($lang) {
@@ -190,7 +190,7 @@ echo "</div>";
 
         </article>
         <?php
-        break;
+break;
     default:
         ?>
         <article>
@@ -348,9 +348,9 @@ echo "</div>";
             <section id="unterzeichnen">
                 <h2>Forderungen unterzeichnen</h2>
                 <?php
-                require_once 'components/support_form.php';
-                ?>
+require_once 'components/support_form.php';
+        ?>
             </section>
 
         </article>
-    <?php } ?>
+    <?php }?>

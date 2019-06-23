@@ -13,9 +13,9 @@
 $date = strtotime($support['created_at']);
 
 if (date("Ymd") == date("Ymd", $date)) {
-    echo ' | heute um ' . date("H:i", $date);
+    echo ' heute um ' . date("H:i", $date);
 } else {
-    echo ' | am ' . date("d.m.", $date);
+    echo ' am ' . date("d.m.", $date);
 }
 ?>
 </p>

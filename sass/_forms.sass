@@ -27,11 +27,22 @@ form
   .group
     display: flex
     margin: 1rem 0
+    
+    @media #{$mobile}
+      display: block
+
     h3
       width: 20%
       margin-right: 2em
+      
+      @media #{$mobile}
+        width: 100%
+
     .input
       width: 50%
+
+      @media #{$mobile}
+        width: 100%
 
     &--inputCheckbox
       display: flex
