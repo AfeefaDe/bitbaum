@@ -12,7 +12,7 @@
   <article>
     <h3 class="bold">Buchvorstellung <em>"Was Bits & Bäume verbindet"</em></h3>
 
-    <p>Am <u>03. Juli</u> stellen wir unser successfully crowdfunded Buch vor. Du bist herzlich eingeladen, um <u>15:00</u> in der Messehalle dabei zu sein.</p>
+    <p>Am <u>03. Juli</u> stellen wir unser successfully crowdfunded Buch vor. Du bist herzlich eingeladen, dabei zu sein.</p>
   </article>
 
 </section>
@@ -46,7 +46,7 @@ break;
   <article>
     <h3 class="bold">Buchvorstellung <em>"Was Bits & Bäume verbindet"</em></h3>
 
-    <p>Am <u>03. Juli</u> stellen wir unser successfully crowdfunded Buch vor. Du bist herzlich eingeladen, um <u>15:00</u> in der Messehalle dabei zu sein.</p>
+    <p>Am <u>03. Juli</u> stellen wir unser successfully crowdfunded Buch vor. Du bist herzlich eingeladen, dabei zu sein.</p>
   </article>
 
 </section>
