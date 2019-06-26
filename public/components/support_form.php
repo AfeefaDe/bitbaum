@@ -85,7 +85,7 @@ $wording = [
         <input type="text" id="form-name" placeholder="<?php echo $wording['namePlaceholder'][$lang] ?>" required/>
         <span class="readmore"><?php echo $wording['asOrga'][$lang] ?></span>
         <input class="moreContent" type="text" id="form-orga" placeholder="<?php echo $wording['orgaPlaceholder'][$lang] ?>"/>
-        <input class="moreContent" type="website" id="form-website" placeholder="<?php echo $wording['websitePlaceholder'][$lang] ?>"/>
+        <input class="moreContent" type="url" id="form-website" placeholder="<?php echo $wording['websitePlaceholder'][$lang] ?>"/>
       </div>
     </div>
 
@@ -144,8 +144,10 @@ $wording = [
         var data = {
             "to": $('#form-email').val(),
             "name": $('#form-name').val(),
+            "website": $('#form-website').val(),
             "orga": $('#form-orga').val(),
             "comment": $('#form-comment').val(),
+            "data_agreement": $('#form-data_agreement').prop('checked'),
             "contact_agreement": $('#form-contact_agreement').prop('checked'),
             "key": "<?php echo parse_ini_file('config/auth.ini')['key']; ?>"
         };
@@ -189,6 +191,7 @@ $wording = [
         $('form button').attr("disabled", false);
         $('form input[type=text]').val('');
         $('form input[type=email]').val('');
+        $('form input[type=url]').val('');
         $('form textarea').val('');
     });
 </script>

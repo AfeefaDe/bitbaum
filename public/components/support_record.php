@@ -5,9 +5,14 @@
   <p>
   <strong><?php echo $support['name'] ?></strong>
 
-  <?php if ($support['orga']) {?>
-    <?php echo ' von ' . $support['orga'] ?>
-  <?php }?>
+  <?php
+if ($support['orga']) {
+    if ($support['website']) {
+        echo ' von <a href="' . $support['website'] . '" target="_blank">' . $support['orga'] . '</a>';
+    } else {
+        echo ' von ' . $support['orga'];
+    }
+}?>
 
   <?php
 $date = strtotime($support['created_at']);

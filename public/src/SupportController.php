@@ -18,7 +18,9 @@ class SupportController
             "mail" => $data["to"],
             "name" => $data["name"],
             "orga" => $data["orga"],
+            "website" => $data["website"],
             "comment" => $data["comment"],
+            "data_agreement" => ($data["data_agreement"]),
             "contact_agreement" => ($data["contact_agreement"]),
             "code" => $data["code"]
         ]);
@@ -34,7 +36,7 @@ class SupportController
         $db = Flight::db();
         $data = $db->select(
             "support",
-            ["name", "orga", "comment", "created_at"],
+            ["name", "orga", "website", "comment", "created_at"],
             [
                 "state" => SupportState::PUBLISHED,
                 "ORDER" => ["support.created_at" => "DESC"],
