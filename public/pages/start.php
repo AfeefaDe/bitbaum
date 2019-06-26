@@ -6,29 +6,26 @@
     case "en":
         ?>
         <section class="square cluster">
-            <!--<article class="bolder">
-                <h4>Focus</h4>
+            <article class="bolder align-center">
+                <h4>The movement goes on</h4>
+
                 <div class="row">
-                    <div>
-                        <p>Alternative Economies</p>
-                        <p>Cival Society & Communities</p>
-                        <p>Data and ecology</p>
-                        <p>Digital infrastructures</p>
-                    </div>
-                    <div>
-                        <p>Fundamental issues</p>
-                        <p>The material basis of digitalization</p>
-                        <p>Smart City, Smart Land</p>
-                    </div>
+
+                  <p class="square-action">
+                    <a href="/waechst/<?php echo $lang; ?>" class="button">Start yor own B&B</a>
+                  </p>
+
+                  <!-- <h4>Veränderungen einfordern</h4> -->
+                  <p class="square-action">
+                    <a href="/forderungen/<?php echo $lang; ?>" class="button" style="text-align: center">Sign our demands</a>
+                  </p>
                 </div>
-                <p class="square-action align-center">
-                    <a href="/programm/<?php echo $lang; ?>" class="button">Programme overview</a>
-                </p>
-            </article>-->
+            </article>
         </section>
 
         <section class="square description">
             <article>
+              <h4>Intention</h4>
                 <p>
                     What role does sustainability play for stable tech communities?
                     Which ecological opportunities do digital applications offer for climate and resource
@@ -36,10 +33,8 @@
                     How can the digital society be democratic and just while peacefully preserving the basis of our
                     lives on this planet?
                 </p>
-                <p><a href="/info/<?php echo $lang; ?>">Aims of the conference</a></p>
                 <p><a href="/presse/<?php echo $lang; ?>">Press information</a></p>
-                <p><a href="/infrastruktur/<?php echo $lang; ?>">Organising sustainable conferences</a></p>
-                <p></p>
+
             </article>
         </section>
 
