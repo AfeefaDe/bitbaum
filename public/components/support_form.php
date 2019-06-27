@@ -45,7 +45,8 @@ $wording = [
         'en' => 'Privacy'
     ],
     'privacyPlaceholder' => [
-        'de' => 'Ich willige ein, dass meine Daten zur Verarbeitung übermittelt und auf dieser Website veröffentlicht werden. Sie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen. Die Rechtmäßigkeit der Verarbeitung Ihrer Daten vor dem Widerruf bleibt davon unberührt.',
+        // 'de' => 'Ich willige ein, dass meine Daten zur Verarbeitung übermittelt und auf dieser Website veröffentlicht werden. Sie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen. Die Rechtmäßigkeit der Verarbeitung Ihrer Daten vor dem Widerruf bleibt davon unberührt.',
+        'de' => 'Ich willige ein, dass meine Daten zur Verarbeitung übermittelt und auf dieser Website veröffentlicht werden.',
         'en' => 'I agree that my personal data get transfered and published on this website.'
     ],
     'privacyInfo' => [
