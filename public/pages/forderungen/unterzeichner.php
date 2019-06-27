@@ -16,7 +16,7 @@ break;
 
     <div class="support-records">
         <?php
-$supports = SupportController::getSupports(5);
+$supports = SupportController::getSupports();
 
 foreach ($supports as $key => $support) {
     require 'components/support_record.php';
