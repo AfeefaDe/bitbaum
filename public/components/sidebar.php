@@ -12,7 +12,7 @@
   <article>
     <h3 class="bold">Buchvorstellung <em>"Was Bits & Bäume verbindet"</em></h3>
 
-    <p>Am <u>03. Juli</u> stellen wir unser successfully crowdfunded Buch vor. Du bist herzlich eingeladen, dabei zu sein.</p>
+    <p>Am <u>03. Juli</u> stellen wir unser successfully crowdfunded Buch vor. Du bist herzlich eingeladen, dabei zu sein. Von 19:00 – 20:30h im Coworking Space EINS TU Berlin, Anmeldung <a href="https://www.ioew.de/was-bits-und-baeume-verbindet" target="_blank">hier</a></p>
   </article>
 
 </section>
@@ -46,7 +46,7 @@ break;
   <article>
     <h3 class="bold">Buchvorstellung <em>"Was Bits & Bäume verbindet"</em></h3>
 
-    <p>Am <u>03. Juli</u> stellen wir unser successfully crowdfunded Buch vor. Du bist herzlich eingeladen, dabei zu sein.</p>
+    <p>Am <u>03. Juli</u> stellen wir unser successfully crowdfunded Buch vor. Du bist herzlich eingeladen, dabei zu sein. Von 19:00 – 20:30h im Coworking Space EINS TU Berlin, Anmeldung <a href="https://www.ioew.de/was-bits-und-baeume-verbindet" target="_blank">hier</a></p>
   </article>
 
 </section>
