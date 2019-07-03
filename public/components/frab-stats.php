@@ -12,9 +12,9 @@
         ?>
 
 <div>
-  <p>130 Inputs</p>
+  <p>130 inputs</p>
   <!-- <p><?php #echo $numberOfSlots ?> Slots</p> -->
-  <p>2000+ Visitors</p>
+  <p>2000+ participants</p>
 </div>
 
 <?php
@@ -24,7 +24,7 @@ break;
 <div>
   <p>130 Beiträge</p>
   <!-- <p><?php #echo $numberOfSlots ?> Slots</p> -->
-  <p>2000+ Teilnehmer</p>
+  <p>2000+ Teilnehmende</p>
 </div>
 
 <?php }?>
