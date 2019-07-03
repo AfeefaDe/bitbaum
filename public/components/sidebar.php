@@ -15,7 +15,7 @@
 </p>  
      <br>
     <h3 class="bold">Buchvorstellung <em>Was Bits&Bäume verbindet</em>: July, 3rd, 7pm</h3>
-    <p>Wir stellen unser successfully crowdfunded Buch vor. Du bist herzlich eingeladen, dabei zu sein. Von 19:00 – 20:30h im Coworking Space EINS TU Berlin, Anmeldung <a href="https://www.ioew.de/was-bits-und-baeume-verbindet" target="_blank">hier</a></p>
+    <p>Our <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank">Bits&Bäume publication </a>will be launched: 7-8:30pm at the Coworking Space EINS TU Berlin, registration <a href="https://www.ioew.de/was-bits-und-baeume-verbindet" target="_blank">here</a></p>
     
     </article>
 
@@ -49,11 +49,11 @@ break;
 
   <article>
       <h3 class="bold">Stammtisch <em>Bits&Bäume Dresden</em>: 3. Juli, 18 Uhr</h3>
-    <p>Nach zwei erfolgreichen Bits&Bäume-Veranstaltungen in Dresden hat sich am 20. Juni ein Stammtisch der <a href="https://dresden.bits-und-baeume.org">Bist&Bäume Dresden</a> gegründet, der nun in die zweite Runde geht. Treffpunkt: <a href="http://m.osmtools.de/0qMuk32fa9H0qNI232fiU4" target="_blank">TU Dresden, Alte Mensa (Ostseite)</a>
+    <p>Nach zwei erfolgreichen Bits&Bäume-Veranstaltungen in Dresden hat sich am 20. Juni ein Stammtisch der <a href="https://dresden.bits-und-baeume.org">Bits&Bäume Dresden</a> gegründet, der nun in die zweite Runde geht. Treffpunkt: <a href="http://m.osmtools.de/0qMuk32fa9H0qNI232fiU4" target="_blank">TU Dresden, Alte Mensa (Ostseite)</a>
 </p>  
      <br>
     <h3 class="bold">Buchvorstellung <em>Was Bits&Bäume verbindet</em>: 3. Juli, 19 Uhr</h3>
-    <p>Wir stellen unser successfully crowdfunded Buch vor. Du bist herzlich eingeladen, dabei zu sein. Von 19:00 – 20:30h im Coworking Space EINS TU Berlin, Anmeldung <a href="https://www.ioew.de/was-bits-und-baeume-verbindet" target="_blank">hier</a></p>
+    <p>Wir stellen unser successfully crowdfunded <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank">Buch </a>vor. Du bist herzlich eingeladen, dabei zu sein. Von 19:00 – 20:30h im Coworking Space EINS TU Berlin, Anmeldung <a href="https://www.ioew.de/was-bits-und-baeume-verbindet" target="_blank">hier</a></p>
 
     </article>
 
