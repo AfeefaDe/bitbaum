@@ -7,7 +7,7 @@
         ?>
         <section class="square cluster">
             <article class="bolder align-center">
-                <h4>The movement goes on</h4>
+                <h4>Bits&Bäume becomes a movement</h4>
 
                 <div class="row">
 
@@ -49,7 +49,7 @@ break;
         ?>
         <section class="square cluster">
             <article class="bolder align-center">
-                <h4>Die Bewegung geht weiter</h4>
+                <h4>Bits&Bäume wächst zur Bewegung</h4>
 
                 <div class="row">
 
