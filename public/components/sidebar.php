@@ -10,10 +10,15 @@
 <section class="switch news active">
 
   <article>
-    <h3 class="bold">Buchvorstellung <em>"Was Bits & Bäume verbindet"</em></h3>
+    <h3 class="bold">Buchvorstellung <em>Was Bits & Bäume verbindet: 3. Juli, 19 Uhr</em></h3>
+    <p>Wir stellen unser successfully crowdfunded Buch vor. Du bist herzlich eingeladen, dabei zu sein. Von 19:00 – 20:30h im Coworking Space EINS TU Berlin, Anmeldung <a href="https://www.ioew.de/was-bits-und-baeume-verbindet" target="_blank">hier</a></p>
+ <br>
+    <h3 class="bold">nächster Stammtisch <em>Bits & Bäume Dresden</em>: 03. Juli, 18 Uhr</h3>
+    <p>In Dresden hat sich am 20. Juni ein Stammtisch der <a href="https://dresden.bits-und-baeume.org">Bist&Bäume Dresden</a> gegründet, der nun in die zweite Runde geht. Treffpunkt: <a href="http://m.osmtools.de/0qMuk32fa9H0qNI232fiU4" target="_blank">TU Dresden, Alte Mensa (Ostseite)</a>
+</p>
 
-    <p>Am <u>03. Juli</u> stellen wir unser successfully crowdfunded Buch vor. Du bist herzlich eingeladen, dabei zu sein. Von 19:00 – 20:30h im Coworking Space EINS TU Berlin, Anmeldung <a href="https://www.ioew.de/was-bits-und-baeume-verbindet" target="_blank">hier</a></p>
-  </article>
+    
+    </article>
 
 </section>
 
@@ -44,7 +49,7 @@ break;
 <section class="switch news active">
 
   <article>
-    <h3 class="bold">Buchvorstellung <em>"Was Bits & Bäume verbindet"</em></h3>
+    <h3 class="bold">Buchvorstellung <em>Was Bits & Bäume verbindet</em></h3>
 
     <p>Am <u>03. Juli</u> stellen wir unser successfully crowdfunded Buch vor. Du bist herzlich eingeladen, dabei zu sein. Von 19:00 – 20:30h im Coworking Space EINS TU Berlin, Anmeldung <a href="https://www.ioew.de/was-bits-und-baeume-verbindet" target="_blank">hier</a></p>
   </article>
