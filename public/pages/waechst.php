@@ -24,7 +24,7 @@ article .row--forderung > p {
               <p>For over a year our team of 10 organizations worked hard to bring the Bits & Bäume 2018 into being - that was very enriching for us, but also a lot of effort, just because so many different organizations were sitting at the same table. We get many joyful expressions of hope for a repeat in 2019, which makes us very happy, but unfortunately we cannot integrate this time intensive work into our daily routines in the long run. But the Bits & Bäume was also a <strong>conference of all of us for all of us!</strong> So just pick up the thread, set up a regular's table in your city, organize a smaller or larger event, a discussion evening, explain on panels why and how digitization and sustainability belong together, let's continue to exchange ideas and successes under <a href="https://twitter.com/hashtag/bitsundbaeume">#bitsundbäume</a> or make up new networking formats.</p>
             </section>
             <section>
-              <h2>Latest B&B-Events</h2>
+              <h2>B&B Community Events</h2>
 <ul>
    <li><a href="https://dresden.bits-und-baeume.org">Bits & Bäume Dresden at OUTPUT.DD: Nachaltiger Output statt gehyptem Nonsens</a>
     <br>with an introductory speech by Juliane Krüger, core team Bits & Bäume 2018
@@ -81,7 +81,7 @@ break;
               <p>Über ein Jahr lang haben wir als Team aus 10 Organisationen daran gearbeitet, die Bits&Bäume 2018 aus der Taufe zu heben – das war sehr bereichernd für uns, aber auch viel Arbeit, gerade weil so unterschiedliche Organisationen an einem Tisch saßen. Wir bekommen viele freudige Hoffnungsbekundungen auf eine Wiederholung 2019, was uns sehr freut, allerdings können wir leider diese gemeinsame Arbeit nicht langfristig in unseren Arbeitsalltag integrieren. Aber die Bits & Bäume war auch eine <strong>Konferenz von uns allen für uns alle!</strong> Nehmt den Faden also doch einfach auf, gründet einen Stammtisch in eurer Stadt, organisiert eine kleinere oder größere Veranstaltung, einen Diskussionsabend, erklärt auf Panels, warum und wie Digitalisierung und Nachhaltigkeit zusammengehören, lasst uns weiterhin unter <a href="https://twitter.com/hashtag/bitsundbaeume">#bitsundbäume</a> Ideen und Fortschritte austauschen, denkt euch neue Vernetzungsformate aus.</p>
             </section>
             <section>
-              <h2>Aktuelle B&B-Veranstaltungen</h2>
+              <h2>Veranstaltungen der B&B-Community</h2>
 <ul>
     <li><a href="https://dresden.bits-und-baeume.org">Bits & Bäume Dresden bei der OUTPUT.DD: Nachaltiger Output statt gehyptem Nonsens</a>
     <br>mit einem Input von Juliane Krüger, Kernteam Bits & Bäume 2018
