@@ -28,7 +28,7 @@ article .row--forderung > p {
 <ul>
    <h2>B&B materials</h2>
  <ul>
-  <li>🗋 B&B logo<a target="_blank" href="/downloads/bits-und-baeume-logo.pdf"> solo</a> | <a target="_blank" href="/downloads/bits-und-baeume-logo-schrift.pdf>with German conference subtitle </a>[pdf]</li>
+  <li>🗋 B&B logo<a target="_blank" href="/downloads/bits-und-baeume-logo.pdf"> solo</a> | <a target="_blank" href="/downloads/bits-und-baeume-logo-schrift.pdf">with German conference subtitle </a>[pdf]</li>
   <li>🗋 <a href="/downloads/BUB_Sticker_zeitlos.pdf" target="blank">B&B sticker</a></li>
   <li>🗋 B&B-Forderungen als Broschüre <a href="/downloads/BUB_Forderungen_A5_Einzelseiten.pdf" target="blank">single pages </a>| <a href="/downloads/BUB_Forderungen_A5_Doppelseiten_Bookletreihenfolge.pdf" target="blank">double pages for brochure printing</a>[pdf]</li>
   <li>🗋 <a target="_blank" href="/downloads/B&B_Plakat_DIN-A1_CC_181108.pdf">B&B poster</a> [pdf]</li>
@@ -95,7 +95,7 @@ break;
 </ul>
                 <h2>B&B-Material</h2>
  <ul>
-  <li>🗋 B&B-Logo<a target="_blank" href="/downloads/bits-und-baeume-logo.pdf"> solo</a> | <a target="_blank" href="/downloads/bits-und-baeume-logo-schrift.pdf>mit Konferenz-Untertitel </a>[pdf]</li>
+  <li>🗋 B&B-Logo<a target="_blank" href="/downloads/bits-und-baeume-logo.pdf"> solo</a> | <a target="_blank" href="/downloads/bits-und-baeume-logo-schrift.pdf">mit Konferenz-Untertitel </a>[pdf]</li>
   <li>🗋 <a href="/downloads/BUB_Sticker_zeitlos.pdf" target="blank">B&B-Sticker</a></li>
   <li>🗋 B&B-Forderungen als Broschüre <a href="/downloads/BUB_Forderungen_A5_Einzelseiten.pdf" target="blank">Einzelseiten für die Druckerei </a>| <a href="/downloads/BUB_Forderungen_A5_Doppelseiten_Bookletreihenfolge.pdf" target="blank">Doppelseiten zum Selberdrucken </a>[pdf]</li>
   <li>🗋 <a target="_blank" href="/downloads/B&B_Plakat_DIN-A1_CC_181108.pdf">B&B-Plakat</a> [pdf]</li>
