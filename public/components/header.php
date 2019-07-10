@@ -20,11 +20,7 @@ $days = round($datediff / (60 * 60 * 24));
                     <span>and Sustainability</span>
                 </h1>
 
-                <p>Since 2018, initiated in Berlin</p>
-                <?php if ($days > 1) {?>
-                    <p class="counter"><?php echo $days ?> days left</p>
-                <?php }?>
-
+                <p>Originated from<br /><a href="/rueckblick/<?php echo $lang; ?>" class="button">Das war die Konferenz 2018</a></p>
             </div>
 
             <?php
@@ -39,11 +35,7 @@ break;
                     <span>und Nachhaltigkeit</span>
                 </h1>
 
-                <p>Seit 2018 mit Ursprung in Berlin</p><br>
-                <?php if ($days > 1) {?>
-                    <p class="counter">noch <?php echo $days ?> Tage bis zum nächsten Event</p>
-                <?php }?>
-
+                <p>Entstanden auf der<br /><a href="/rueckblick/<?php echo $lang; ?>" class="button">Das war die Konferenz 2018</a></p>
             </div>
 
         <?php }?>
