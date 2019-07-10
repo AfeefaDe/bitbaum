@@ -26,9 +26,9 @@ article .row--forderung > p {
             <section>
               <h2>B&B Communities</h2>
 <ul>
-   <li><a href="https://dresden.bits-und-baeume.org">Bits & Bäume Dresden</a>
+   <li><a href="https://dresden.bits-und-baeume.org" target="blank">Bits & Bäume Dresden</a>
     <br>initiated by the Faculty of Computer Science, TU Dresden: Bits&Bäume events on May 23rd and June 20th, Bits&Bäume regular's round </li>
-   <li><a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin">Bits & Bäume Berlin</a>
+   <li><a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">Bits & Bäume Berlin</a>
      <br>initiated by the ASta, TU Berlin: Bits&Bäume regular's round
      </li>
 </ul>
@@ -78,15 +78,21 @@ break;
             <section>
               <h2>B&B-Sporen</h2>
 <ul>
-    <li><a href="https://dresden.bits-und-baeume.org">Bits & Bäume Dresden</a>
+    <li><a href="https://dresden.bits-und-baeume.org" target="blank">Bits & Bäume Dresden</a>
     <br>gegründet an der Fakultät Informatik der TU Dresden: Veranstaltungen am 23. Mai und 20. Juni, Bits&Bäume-Stammtisch</li>
 
-  <li><a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin">Bits & Bäume Berlin</a>
-     <br>gegründet vom ASta der TU Berlin: Bits&Bäume-Stammtisch
+  <li><a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">Bits & Bäume Berlin</a>
+     <br>gegründet vom AStA der TU Berlin: Bits&Bäume-Stammtisch
   </li>
-  
-  
 </ul>
+                <h2>B&B-Material</h2>
+ <ul>
+  <li><a href=" "target="blank">B&B-Logo</a></li>
+  <li><a href=" " target="blank">B&B-Sticker</a></li>
+  <li><a href=" " target="blank">B&B-Forderungen als Broschüre</a></li>
+  <li><a href=" " target="blank">B&B-Plakat</a></li>
+   <li><a href="https://bits-und-baeume.org/infrastruktur/de" target="blank">Tipps des B&B-Teams: nachhaltig organisieren</a></li> 
+</ul> 
             </section>
           </div>
           <section>
