@@ -9,6 +9,11 @@
 <section class="switch news active">
 
   <article>
+      
+      <h3 class="bold">Signees of the demands</h3>
+      <p><?php echo SupportController::getTotalNumberOfSupports(); ?> supporters so far.
+</p>     
+      
      <h3 class="bold">[Dresden] <em>Bits&Bäume</em> regular's round</h3>
       <p>After two successfull Bits&Bäume events in Dresden, a regular's round was founded on the 20th of June at TU Dresden. More information <a href="https://dresden.bits-und-baeume.org" target="blank">here</a>
 </p>  
