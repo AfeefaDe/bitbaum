@@ -24,13 +24,12 @@ article .row--forderung > p {
               <p>For over a year our team of 10 organizations worked hard to bring the Bits & Bäume 2018 into being - that was very enriching for us, but also a lot of effort, just because so many different organizations were sitting at the same table. We get many joyful expressions of hope for a repeat in 2019, which makes us very happy, but unfortunately we cannot integrate this time intensive work into our daily routines in the long run. But the Bits & Bäume was also a <strong>conference of all of us for all of us!</strong> So just pick up the thread, set up a regular's table in your city, organize a smaller or larger event, a discussion evening, explain on panels why and how digitization and sustainability belong together, let's continue to exchange ideas and successes under <a href="https://twitter.com/hashtag/bitsundbaeume">#bitsundbäume</a> or make up new networking formats.</p>
             </section>
             <section>
-              <h2>B&B Community</h2>
+              <h2>B&B Communities</h2>
 <ul>
    <li><a href="https://dresden.bits-und-baeume.org">Bits & Bäume Dresden</a>
     <br>initiated by the Faculty of Computer Science, TU Dresden: Bits&Bäume events on May 23rd and June 20th, Bits&Bäume regular's round </li>
-    <br>
    <li><a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin">Bits & Bäume Berlin</a>
-     <br>initiated by the ASta, TU berlin
+     <br>initiated by the ASta, TU Berlin: Bits&Bäume regular's round
      </li>
 </ul>
             </section>
@@ -77,18 +76,16 @@ break;
               <p>Über ein Jahr lang haben wir als Team aus 10 Organisationen daran gearbeitet, die Bits&Bäume 2018 aus der Taufe zu heben – das war sehr bereichernd für uns, aber auch viel Arbeit, gerade weil so unterschiedliche Organisationen an einem Tisch saßen. Wir bekommen viele freudige Hoffnungsbekundungen auf eine Wiederholung 2019, was uns sehr freut, allerdings können wir leider diese gemeinsame Arbeit nicht langfristig in unseren Arbeitsalltag integrieren. Aber die Bits & Bäume war auch eine <strong>Konferenz von uns allen für uns alle!</strong> Nehmt den Faden also doch einfach auf, gründet einen Stammtisch in eurer Stadt, organisiert eine kleinere oder größere Veranstaltung, einen Diskussionsabend, erklärt auf Panels, warum und wie Digitalisierung und Nachhaltigkeit zusammengehören, lasst uns weiterhin unter <a href="https://twitter.com/hashtag/bitsundbaeume">#bitsundbäume</a> Ideen und Fortschritte austauschen, denkt euch neue Vernetzungsformate aus.</p>
             </section>
             <section>
-              <h2>Veranstaltungen der B&B-Community</h2>
+              <h2>B&B-Sporen</h2>
 <ul>
-    <li><a href="https://dresden.bits-und-baeume.org">Bits & Bäume Dresden bei der OUTPUT.DD: Nachaltiger Output statt gehyptem Nonsens</a>
-    <br>mit einem Input von Juliane Krüger, Kernteam Bits & Bäume 2018
-    <br>Zeit: <strong>20. Juni 2019</strong>, 14.00 Uhr, anschließende Stammtischrunde 16.30 Uhr
-      <br>Ort: <strong>TU Dresden</strong>, Fakultät Informatik, <a href="https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2310">Andreas-Pfitzmann-Bau</a>, E023
-    </li>
-    <br>
-    <li><a href="https://dresden.bits-und-baeume.org">Bits & Bäume Dresden – Eine Abendveranstaltung zu Digitalisierung und Nachhaltigkeit</a>
-    <br>Zeit: <strong>23. Mai 2019</strong>, ab 18.30 Uhr
-    <br>Ort: <strong>TU Dresden</strong>, Fakultät Informatik, <a href="https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2310">Andreas-Pfitzmann-Bau</a>, E023
-    </li>
+    <li><a href="https://dresden.bits-und-baeume.org">Bits & Bäume Dresden</a>
+    <br>gegründet an der Fakultät Informatik der TU Dresden: Veranstaltungen am 23. Mai und 20. Juni, Bits&Bäume-Stammtisch</li>
+
+  <li><a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin">Bits & Bäume Berlin</a>
+     <br>gegründet vom ASta der TU Berlin: Bits&Bäume-Stammtisch
+  </li>
+  
+  
 </ul>
             </section>
           </div>
