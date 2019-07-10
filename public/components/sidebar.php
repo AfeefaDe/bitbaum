@@ -11,7 +11,7 @@
   <article>
       
       <h3 class="bold">Signees of our demands</h3>
-      <p><?php echo SupportController::getTotalNumberOfSupports(); ?> supporters so far, please sign as well.
+      <p><?php echo SupportController::getTotalNumberOfSupports(); ?> supporters so far, <a href="/forderungen/<?php echo $lang; ?>">sign</a> as well.
 </p>     
      <br />
      <h3 class="bold">[Dresden] <em>Bits&Bäume</em> regular's round</h3>
