@@ -4,7 +4,6 @@
         ?>
 <section class="stats">
   <?php require 'components/frab-stats.php';?>
-  <a href="/rueckblick/<?php echo $lang; ?>" class="button">That was the Conference 2018</a>
 </section>
 
 <section class="switch news active">
@@ -42,7 +41,6 @@ break;
         ?>
 <section class="stats">
   <?php require 'components/frab-stats.php';?>
-  <a href="/rueckblick/<?php echo $lang; ?>" class="button">Das war die Konferenz 2018</a>
 </section>
 
 <section class="switch news active">
