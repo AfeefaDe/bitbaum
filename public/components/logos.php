@@ -51,7 +51,7 @@
 break;
     default:
         ?>
-            <p id="orgsde">><strong>Trägerkreis</strong></p>
+            <p id="orgsde"><strong>Trägerkreis</strong></p>
             <div>
                 <a href="https://www.dnr.de" target="_blank"><img src="/img/logo-dnr.svg"
                                                                   title="Deutscher Naturschutzring"></a>
