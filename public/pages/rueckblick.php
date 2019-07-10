@@ -28,16 +28,16 @@ article .row--forderung > p {
               <a href="https://media.ccc.de/c/bub2018" class="button" target="_blank" style="text-align: center">audio and video recordings</a>
             </section>
 
-            <section>
-              <p><a target="_blank" href="/fotogalerie">photo gallery</a></p>
-              <p><a href="/info/<?php echo $lang; ?>">intent of the conference</a></p>
-              <p>
+            <section><ul>
+              <li><a target="_blank" href="/fotogalerie">photo gallery</a></li>
+              <li><a href="/info/<?php echo $lang; ?>">intent of the conference</a></li>
+              <li>
                 <a href="https://fahrplan.bits-und-baeume.org" target="_blank">online program</a> |
                 <a target="_blank" href="/downloads/bits-und-baeume-2018-programmheft.pdf">pdf program</a>
-              </p>
-              <p><a href="/presse/<?php echo $lang; ?>">press information 2018</a></p>
-              <p><a href="/infrastruktur/<?php echo $lang; ?>">how to organize sustainably</a></p>
-            </section>
+              </li>
+              <li><a href="/presse/<?php echo $lang; ?>">press information 2018</a></li>
+              <li><a href="/infrastruktur/<?php echo $lang; ?>">how to organize sustainably</a></li>
+            </ul></section>
           </div>
 
           <section>
