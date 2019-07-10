@@ -2,6 +2,10 @@
 <?php switch ($lang) {
     case "en":
         ?>
+    
+<section>
+</section>    
+    
 <section class="switch news active">
   <article>
       
@@ -43,6 +47,9 @@ break;
     default:
         ?>
 
+<section>
+</section>
+    
 <section class="switch news active">
     <article>
       <h3 class="bold">Unterstützer*innen unserer Forderungen</h3>
