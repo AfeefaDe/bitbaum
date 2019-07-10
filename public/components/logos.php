@@ -2,7 +2,7 @@
     <?php switch ($lang) {
     case "en":
         ?>
-            <p><strong>Organized by</strong></p>
+            <p id="orgsen"><strong>Organized by</strong></p>
             <div>
                 <a href="https://www.dnr.de" target="_blank"><img src="/img/logo-dnr.svg"
                                                                   title="Deutscher Naturschutzring"></a>
@@ -51,7 +51,7 @@
 break;
     default:
         ?>
-            <p><strong>Trägerkreis</strong></p>
+            <p id="orgsde">><strong>Trägerkreis</strong></p>
             <div>
                 <a href="https://www.dnr.de" target="_blank"><img src="/img/logo-dnr.svg"
                                                                   title="Deutscher Naturschutzring"></a>
