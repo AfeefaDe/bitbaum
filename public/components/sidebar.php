@@ -55,7 +55,7 @@ break;
 
   <article>
       <h3 class="bold">Unterstützer*innen unserer Forderungen</h3>
-      <p><?php echo SupportController::getTotalNumberOfSupports(); ?> Personen bzw. Organisationen bisher, <a href="/forderungen/<?php echo $lang; ?>">unterschreibe</a> auch du.
+      <p><?php echo SupportController::getTotalNumberOfSupports(); ?> Personen bzw. Organisationen bisher, <a href="/forderungen/<?php echo $lang; ?>">unterzeichne</a> auch du.
 </p>     
    <br />      
       <h3 class="bold">[Dresden] Stammtisch <em>Bits&Bäume</em></h3>
