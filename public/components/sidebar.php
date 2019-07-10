@@ -3,8 +3,8 @@
     case "en":
         ?>
     
-<section>
-</section>    
+<section class="stats">
+</section>  
     
 <section class="switch news active">
   <article>
