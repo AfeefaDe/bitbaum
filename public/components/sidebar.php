@@ -54,6 +54,9 @@ break;
 <section class="switch news active">
 
   <article>
+      <h3 class="bold">Unterstützer*innen unserer Forderungen</h3>
+      <p><?php echo SupportController::getTotalNumberOfSupports(); ?> Personen haben bislang unterschrieben, <a href="/forderungen/<?php echo $lang; ?>">unterschreibe</a> auch Du.
+</p>        
       <h3 class="bold">[Dresden] Stammtisch <em>Bits&Bäume</em></h3>
     <p>Nach zwei erfolgreichen Bits&Bäume-Veranstaltungen in Dresden hat sich am 20. Juni an der TU Dresden ein B&B-Stammtisch gegründet. Mehr Infos auf <a href="https://dresden.bits-und-baeume.org" target="blank">Bits&Bäume Dresden</a>. 
 </p>  
