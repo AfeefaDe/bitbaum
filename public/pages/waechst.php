@@ -24,18 +24,14 @@ article .row--forderung > p {
               <p>For over a year our team of 10 organizations worked hard to bring the Bits & Bäume 2018 into being - that was very enriching for us, but also a lot of effort, just because so many different organizations were sitting at the same table. We get many joyful expressions of hope for a repeat in 2019, which makes us very happy, but unfortunately we cannot integrate this time intensive work into our daily routines in the long run. But the Bits & Bäume was also a <strong>conference of all of us for all of us!</strong> So just pick up the thread, set up a regular's table in your city, organize a smaller or larger event, a discussion evening, explain on panels why and how digitization and sustainability belong together, let's continue to exchange ideas and successes under <a href="https://twitter.com/hashtag/bitsundbaeume">#bitsundbäume</a> or make up new networking formats.</p>
             </section>
             <section>
-              <h2>B&B Community Events</h2>
+              <h2>B&B Community</h2>
 <ul>
-   <li><a href="https://dresden.bits-und-baeume.org">Bits & Bäume Dresden at OUTPUT.DD: Nachaltiger Output statt gehyptem Nonsens</a>
-    <br>with an introductory speech by Juliane Krüger, core team Bits & Bäume 2018
-    <br>when: <strong>Juni 20, 2019</strong>, 2:00pm, following regular's round: 4:30pm
-      <br>where: <strong>TU Dresden</strong>, Faculty of Computer Science, <a href="https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2310">Andreas-Pfitzmann-Bau</a>, E023
-    </li>
+   <li><a href="https://dresden.bits-und-baeume.org">Bits & Bäume Dresden</a>
+    <br>initiated by the Faculty of Computer Science, TU Dresden: Bits&Bäume events on May 23rd and June 20th, Bits&Bäume regular's round </li>
     <br>
-   <li><a href="https://dresden.bits-und-baeume.org">Bits & Bäume Dresden – Eine Abendveranstaltung zu Digitalisierung und Nachhaltigkeit</a>
-    <br>when: <strong>Mai 23, 2019</strong>, 6:30pm
-    <br>where: <strong>TU Dresden</strong>, Faculty of Computer Science, <a href="https://navigator.tu-dresden.de/etplan/apb/00/raum/542100.2310">Andreas-Pfitzmann-Bau</a>, E023
-    </li>
+   <li><a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin">Bits & Bäume Berlin</a>
+     <br>initiated by the ASta, TU berlin
+     </li>
 </ul>
             </section>
           </div>
