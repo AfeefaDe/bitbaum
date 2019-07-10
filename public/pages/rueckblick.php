@@ -17,27 +17,26 @@ article .row--forderung > p {
         ?>
 
   <article>
-    <h1>Bits&Bäume Conference 2018</h1>
-    
-   <section class="stats">
-  <?php require 'components/frab-stats.php';?>
-</section>
+    <h1>Bits & Bäume 2018</h1>
     
     <div class="row">
             <section>
-              <p><strong>Bits & Bäume Konferenz</strong><br>17./18. November 2018 | Campus TU Berlin</p>
+              <p><strong>Bits&Bäume-Konferenz</strong><br>17./18. November 2018 | Campus TU Berlin
+                <br />
+              120+ inputs, 2000+ participants 
+              </p>
               <a href="https://media.ccc.de/c/bub2018" class="button" target="_blank" style="text-align: center">Audio- und Videoaufzeichnungen</a>
             </section>
 
             <section>
-              <p><a target="_blank" href="/fotogalerie">Fotogalerie</a></p>
-              <p><a href="/info/<?php echo $lang; ?>">Ziele der Konferenz</a></p>
+              <p><a target="_blank" href="/fotogalerie">photo gallery</a></p>
+              <p><a href="/info/<?php echo $lang; ?>">intent of the conference</a></p>
               <p>
-                <a href="https://fahrplan.bits-und-baeume.org" target="_blank">Online-Programm</a> |
-                <a target="_blank" href="/downloads/bits-und-baeume-2018-programmheft.pdf">PDF-Programm</a>
+                <a href="https://fahrplan.bits-und-baeume.org" target="_blank">online programme</a> |
+                <a target="_blank" href="/downloads/bits-und-baeume-2018-programmheft.pdf">pdf programme</a>
               </p>
-              <p><a href="/infrastruktur/<?php echo $lang; ?>">Nachhaltige Konferenzorganisation</a></p>
-              <p><a href="/presse/<?php echo $lang; ?>">Presseinformationen</a></p>
+              <p><a href="/presse/<?php echo $lang; ?>">press information 2018</a></p>
+              <p><a href="/infrastruktur/<?php echo $lang; ?>">how to organize sustainably</a></p>
             </section>
           </div>
 
@@ -58,8 +57,9 @@ break;
           <div class="row">
 
             <section>
-              <h2>In Kürze</h2>
-              <p><strong>Bits & Bäume Konferenz</strong><br>17./18. November 2018 | Campus TU Berlin</p>
+              <p><strong>Bits & Bäume Konferenz</strong><br>17./18. November 2018 | Campus TU Berlin
+               <br />
+              120+ Beiträge, 2000+ Teilnehmende</p>
               <a href="https://media.ccc.de/c/bub2018" class="button" target="_blank" style="text-align: center">Audio- und Videoaufzeichnungen</a>
             </section>
 
