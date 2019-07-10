@@ -20,7 +20,7 @@ $days = round($datediff / (60 * 60 * 24));
                     <span>and Sustainability</span>
                 </h1>
 
-                <p>originated in Berlin from<br /><a href="/rueckblick/<?php echo $lang; ?>" class="button">B&B-Conference 2018</a></p>
+                <p>originated in Berlin from <a href="/rueckblick/<?php echo $lang; ?>" class="button">B&B-Conference 2018</a></p>
             </div>
 
             <?php
@@ -35,7 +35,7 @@ break;
                     <span>und Nachhaltigkeit</span>
                 </h1>
 
-                <p>entstanden in Berlin auf der<br /><a href="/rueckblick/<?php echo $lang; ?>" class="button">B&B-Konferenz 2018</a></p>
+                <p>entstanden in Berlin auf der <a href="/rueckblick/<?php echo $lang; ?>" class="button">B&B-Konferenz 2018</a></p>
             </div>
 
         <?php }?>
