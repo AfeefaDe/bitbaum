@@ -18,12 +18,12 @@ article .row--forderung > p {
 
   <article>
     <h1>Bits&Bäume Conference 2018</h1>
-
-    <div class="row">
-      
-<section class="stats">
+    
+   <section class="stats">
   <?php require 'components/frab-stats.php';?>
 </section>
+    
+    <div class="row">
             <section>
               <p><strong>Bits & Bäume Konferenz</strong><br>17./18. November 2018 | Campus TU Berlin</p>
               <a href="https://media.ccc.de/c/bub2018" class="button" target="_blank" style="text-align: center">Audio- und Videoaufzeichnungen</a>
