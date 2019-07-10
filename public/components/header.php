@@ -12,7 +12,7 @@ $days = round($datediff / (60 * 60 * 24));
     <?php switch ($lang) {
     case "en":
         ?>
-            <a href='/en' class='button back-button'>Overview</a>
+            <a href='/en' class='button back-button'>main page</a>
             <div>
                 <h1>
                     <span>The Movement</span>
@@ -27,7 +27,7 @@ $days = round($datediff / (60 * 60 * 24));
 break;
     default:
         ?>
-            <a href='/de' class='button back-button'>zur Übersicht</a>
+            <a href='/de' class='button back-button'>zur Hauptseite</a>
             <div>
                 <h1>
                     <span>Die Bewegung</span>
