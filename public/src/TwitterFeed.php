@@ -1,7 +1,7 @@
 <?php
 //Twitter API Wrapper: http://github.com/j7mbo/twitter-api-php
 //maybe include with composer: composer require j7mbo/twitter-api-php
-require_once('TwitterAPIExchange.php');
+require_once 'TwitterAPIExchange.php';
 
 class TwitterFeed
 {
@@ -13,7 +13,7 @@ class TwitterFeed
 
     public function __construct()
     {
-        $settings = require_once('config/secrets.php');
+        $settings = include 'config/secrets.php';
         $this->apiClient = new TwitterAPIExchange($settings);
 
         $url = 'https://api.twitter.com/1.1/search/tweets.json';
@@ -24,7 +24,6 @@ class TwitterFeed
         $this->interval = 10;
         $this->cacheFile = './twitter_feed_cache.txt';
     }
-
 
     public function fetch()
     {

@@ -1,15 +1,3 @@
-<?php
-switch ($lang) {
-    case "en":
-        $page_title = 'Bits & Bäume Conference (was 17th - 18th Nov 2018) grows to become a movement!';
-        $page_description = 'The “Bits & Bäume – Conference on digitalisation and sustainability“ continues in a decentralized manner to grow and prosper.';
-        break;
-    default:
-        $page_title = 'Bits & Bäume Konferenz (war 17. - 18. Nov 2018) wächst zur Bewegung!';
-        $page_description = 'Die „Bits & Bäume – Konferenz für Digitalisierung und Nachhaltigkeit“ wird dezentralisiert fortgeführt, auf dass sie weiter wächst und gedeiht.';
-        break;
-}?>
-
 <!DOCTYPE html>
 <?php switch ($lang) {
     case "en": ?>
@@ -20,13 +8,7 @@ switch ($lang) {
 <?php break;
 }?>
 <head>
-    <title><?php echo $page_title ?></title>
     <meta charset="utf-8">
-    <meta name="viewport" content="initial-scale=1">
-    <meta name="viewport" content="initial-scale=1">
-    <meta name="referrer" content="same-origin">
-    <meta http-equiv="expires" content="Mon, 26 Jul 1997 05:00:00 GMT"/>
-    <meta http-equiv="Pragma" content="no-cache">
     <?php require 'components/meta_descriptions.php';?>
     <?php require 'components/embeds.php';?>
 </head>
