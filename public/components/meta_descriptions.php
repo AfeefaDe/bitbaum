@@ -24,11 +24,13 @@ if (strpos($page, 'forderungen') !== false) {
         'de' => 'Wir fordern eine nachhaltige Digitalisierung! Bits & Bäume Bewegung',
         'en' => 'We demand a sustainable digitalization! Bits & Bäume Movement'
     ];
+    $og_title = $page_title;
 
     $page_description = [
         'de' => 'Unterzeichne und bekräftige diese gemeinsamen Forderungen wichtiger Organisationen.',
         'en' => 'Sign and support these common demands released by important organizations'
     ];
+    $og_description = $page_description;
 
     $og_image = [
         'de' => '/img/BuB-Forderungen-medium.jpg',
