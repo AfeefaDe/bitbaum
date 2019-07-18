@@ -35,9 +35,6 @@ if (strpos($page, 'forderungen') !== false) {
         'en' => '/img/BuB-Forderungen-medium.jpg'
     ];
 
-    require 'components/sidebar_forderungen.php';
-} else {
-    require 'components/sidebar.php';
 }
 
 ?>
