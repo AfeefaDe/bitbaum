@@ -14,8 +14,8 @@ $og_title = $page_title;
 $og_description = $page_description;
 
 $og_image = [
-    'de' => '/bits-und-baeume.png',
-    'en' => '/bits-und-baeume.png'
+    'de' => '/bits-baeume.png',
+    'en' => '/bits-baeume.png'
 ];
 
 if (strpos($page, 'forderungen') !== false) {
