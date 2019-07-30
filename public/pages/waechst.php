@@ -28,9 +28,10 @@ article .row--forderung > p {
 <ul>
    <h2>B&B materials</h2>
  <ul>
-  <li>🗋 B&B logo<a target="_blank" href="/downloads/bits-und-baeume-logo.pdf"> solo</a> | <a target="_blank" href="/downloads/bits-und-baeume-logo-schrift.pdf">with German conference subtitle</a> [pdf]</li>
+  <li>🗋 B&B-Logo Solo: <a target="_blank" href="/downloads/B&B_Logo_RGB.pdf">[pdf/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_CMYK.pdf">[pdf/print]</a> | <a target="_blank" href="/downloads/B&B_Logo_RGB.svg">[svg/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_CMYK.eps">[eps/print]</a></li>
+  <li>🗋 B&B-Logo with German conference subtitle: <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_RGB.pdf">[pdf/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_CMYK.pdf">[pdf/print]</a> | <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_CMYK.eps">[eps/print]</a></li>      
   <li>🗋 <a href="/downloads/BUB_Sticker_zeitlos.pdf" target="blank">B&B sticker</a> [pdf]</li>
-  <li>🗋 B&B-Forderungen als Broschüre <a href="/downloads/BUB_Forderungen_A5_Einzelseiten.pdf" target="blank">single pages </a>| <a href="/downloads/BUB_Forderungen_A5_Doppelseiten_Bookletreihenfolge.pdf" target="blank">double pages for brochure printing</a> [pdf]</li>
+  <li>🗋 B&B-Forderungen als Broschüre <a href="/downloads/BUB_Forderungen_A5_Einzelseiten.pdf" target="blank">single pages </a>| <a href="/downloads/BUB_Forderungen_A5_Doppelseiten_Bookletreihenfolge.pdf" target="blank">double pages for brochure printing</a> [pdf]</li>   
   <li>🗋 <a target="_blank" href="/downloads/B&B_Plakat_DIN-A1_CC_181108.pdf">B&B poster</a> [pdf]</li>
   <li><a href="https://bits-und-baeume.org/infrastruktur/de" target="blank">how to organize sustainably</a></li> 
 </ul> 
@@ -93,14 +94,16 @@ break;
      <br>gegründet vom AStA der TU Berlin: Bits&Bäume-Stammtisch
   </li>
 </ul>
-                <h2>B&B-Material</h2>
+                <h2>B&B-Material</h2>           
  <ul>
-  <li>🗋 B&B-Logo<a target="_blank" href="/downloads/bits-und-baeume-logo.pdf"> solo</a> | <a target="_blank" href="/downloads/bits-und-baeume-logo-schrift.pdf">mit Konferenz-Untertitel</a> [pdf]</li>
-  <li>🗋 <a href="/downloads/BUB_Sticker_zeitlos.pdf" target="blank">B&B-Sticker</a> [pdf]</li>
+  <li>🗋 B&B-Logo Solo: <a target="_blank" href="/downloads/B&B_Logo_RGB.pdf">[pdf/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_CMYK.pdf">[pdf/print]</a> | <a target="_blank" href="/downloads/B&B_Logo_RGB.svg">[svg/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_CMYK.eps">[eps/print]</a></li>
+  <li>🗋 B&B-Logo mit Konferenz-Untertitel: <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_RGB.pdf">[pdf/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_CMYK.pdf">[pdf/print]</a> | <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_CMYK.eps">[eps/print]</a></li>
+  <li>🗋 <a href="/downloads/BUB_Sticker_zeitlos.pdf" target="blank">B&B-Sticker [pdf]</a></li>
   <li>🗋 B&B-Forderungen als Broschüre <a href="/downloads/BUB_Forderungen_A5_Einzelseiten.pdf" target="blank">Einzelseiten für die Druckerei </a>| <a href="/downloads/BUB_Forderungen_A5_Doppelseiten_Bookletreihenfolge.pdf" target="blank">Doppelseiten zum Selberdrucken</a> [pdf]</li>
   <li>🗋 <a target="_blank" href="/downloads/B&B_Plakat_DIN-A1_CC_181108.pdf">B&B-Plakat</a> [pdf]</li>
   <li><a href="https://bits-und-baeume.org/infrastruktur/de" target="blank">Tipps des B&B-Teams: nachhaltig organisieren</a></li> 
-</ul> 
+</ul>               
+              
             </section>
           </div>
           <section>
