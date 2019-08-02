@@ -1,8 +1,8 @@
 <article>
 
-
-
   <p>
+  <strong class="index smaller"><?php echo $index ?? '' ?></strong>
+  <!-- <strong class="index smaller">999</strong> -->
   <strong><?php echo $support['name'] ?></strong>
 
   <?php
@@ -26,7 +26,7 @@ if (date("Ymd") == date("Ymd", $date)) {
 </p>
 
 <?php if ($support['comment']) {?>
-    <blockquote><?php echo $support['comment'] ?></blockquote>
+    <blockquote class="smaller"><?php echo $support['comment'] ?></blockquote>
   <?php }?>
 
 </article>

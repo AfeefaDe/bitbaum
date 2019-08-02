@@ -31,7 +31,7 @@ class SupportController
         Flight::halt($status['code'], $status['message']);
     }
 
-    public static function getSupports($limit = null)
+    public static function getSupports($limit = null, $order = "DESC")
     {
         $db = Flight::db();
         $data = $db->select(
@@ -39,7 +39,7 @@ class SupportController
             ["name", "orga", "website", "comment", "created_at"],
             [
                 "state" => SupportState::PUBLISHED,
-                "ORDER" => ["support.created_at" => "DESC"],
+                "ORDER" => ["support.created_at" => $order],
                 "LIMIT" => $limit
             ]
         );

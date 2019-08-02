@@ -16,10 +16,12 @@ break;
 
     <div class="support-records">
         <?php
-$supports = SupportController::getSupports();
+$supports = SupportController::getSupports(null, "ASC");
 
+$index = 1;
 foreach ($supports as $key => $support) {
     require 'components/support_record.php';
+    $index++;
 }
 ?>
 </div>

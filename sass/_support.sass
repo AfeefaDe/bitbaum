@@ -33,23 +33,37 @@ aside section.support
       font-weight: normal !important
 
     p
-      margin: 0
+      margin: 0 0 0.3em
 
     blockquote
-      padding: 0.5em 0 0 1em
-      border-left: 0.5em solid rgba(255,255,255,0.3)
+      font-family: $aller
 
 .support-records
   margin-top: 2rem
   article
-    margin-bottom: 2em
+    margin: 0 0 2em 3em
+    position: relative
 
   p
-    margin: 0
+    margin: 0 0 0.3em
+
+  .index
+    position: absolute
+    left: -3em
+    top: -0.3em
+    text-align: center
+    padding-top: 0.25rem
+    width: 2rem
+    height: 2rem
+    background-color: rgba(255, 255, 255, 0.4)
+    border-radius: 50%
 
   blockquote
-    padding: 0.5em 0 0 1em
-    border-left: 0.5em solid rgba(255,255,255,0.3)
+    font-family: $aller
+    max-width: 70%
+    @media #{$mobile}
+      max-width: unset
+
 
 p.status
   padding: 3rem
