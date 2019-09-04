@@ -52,21 +52,31 @@ break;
     
 <section class="switch news active">
     <article>
+        <h3 class="bold">[Berlin] Forum Bits&Bäume</h3>
+        <p>Am 10. September startet die sechsteilige Gesprächsreihe „Forum Bits & Bäume“, in der die nachhaltige Gestaltung der Digitalisierung stärker ins Zentrum gerückt und wissenschaftliche sowie zivilgesellschaftliche Themen und Forderungen in den politischen Diskurs eingebracht werden sollen. Los geht’s mit dem Schwerpunktthema „Künstliche Intelligenz für nachhaltige Entwicklung?“. Die erste Veranstaltung wird organisiert von der wissenschaftlichen Forschungsgruppe „Digitalisierung und sozial-ökologische Transformation“ von IÖW und TU Berlin in Kooperation mit dem Einstein Center Digital Future. Mehr Infos hier.</p>
+    </article>
+
+    <article>
       <h3 class="bold">Unterstützer*innen unserer Forderungen</h3>
-      <p><?php echo SupportController::getTotalNumberOfSupports(); ?> Personen und Organisationen haben bisher unterschrieben, <a href="/forderungen/<?php echo $lang; ?>">unterzeichne</a> auch du.
-</p>     
-   <br />      
+        <p><?php #echo SupportController::getTotalNumberOfSupports(); ?> Personen und Organisationen haben bisher unterschrieben, <a href="/forderungen/<?php echo $lang; ?>">unterzeichne</a> auch du.</p>     
+    </article>
+
+    <article>
       <h3 class="bold">[Dresden] Stammtisch <em>Bits&Bäume</em></h3>
-    <p>Nach zwei erfolgreichen Bits&Bäume-Veranstaltungen in Dresden hat sich am 20. Juni an der TU Dresden ein B&B-Stammtisch gegründet. Mehr Infos auf <a href="https://dresden.bits-und-baeume.org" target="blank">Bits&Bäume Dresden</a>. 
-</p>  
-   <br />
+        <p>Nach zwei erfolgreichen Bits&Bäume-Veranstaltungen in Dresden hat sich am 20. Juni an der TU Dresden ein B&B-Stammtisch gegründet. Mehr Infos auf <a href="https://dresden.bits-und-baeume.org" target="blank">Bits&Bäume Dresden</a>.</p>
+    </article>
+
+    <article>
         <h3 class="bold">[Berlin] Stammtisch <em>Bits&Bäume</em></h3>
-    <p>Auch in Berlin trifft sich ein B&B-Stammtisch, organisiert vom AStA der TU Berlin. Mehr Infos auf <a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">hier</a>. 
-</p>  
-      <br />
+        <p>Auch in Berlin trifft sich ein B&B-Stammtisch, organisiert vom AStA der TU Berlin. Mehr Infos auf <a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">hier</a>.</p>
+    </article>
+
+    <article>
     <h3 class="bold"><em>Was Bits&Bäume verbindet</em> erschienen</h3>
     <p>Das <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank">Buch zur Konferenz</a> ist da. Dank an die successfully fundende Crowd!</p>
  </article>
+
+</article>
 
 </section>
 
