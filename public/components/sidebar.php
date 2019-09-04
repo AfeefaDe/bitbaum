@@ -53,7 +53,7 @@ break;
 <section class="switch news active">
     <article>
         <h3 class="bold">[Berlin] Forum Bits&Bäume</h3>
-        <p>Am 10. September startet die sechsteilige Gesprächsreihe „Forum Bits & Bäume“, in der die nachhaltige Gestaltung der Digitalisierung stärker ins Zentrum gerückt und wissenschaftliche sowie zivilgesellschaftliche Themen und Forderungen in den politischen Diskurs eingebracht werden sollen. Los geht’s mit dem Schwerpunktthema „Künstliche Intelligenz für nachhaltige Entwicklung?“. Die erste Veranstaltung wird organisiert von der wissenschaftlichen Forschungsgruppe „Digitalisierung und sozial-ökologische Transformation“ von IÖW und TU Berlin in Kooperation mit dem Einstein Center Digital Future. Mehr Infos hier.</p>
+        <p>Am 10. September startet die sechsteilige Gesprächsreihe „Forum Bits & Bäume“, in der die nachhaltige Gestaltung der Digitalisierung stärker ins Zentrum gerückt und wissenschaftliche sowie zivilgesellschaftliche Themen und Forderungen in den politischen Diskurs eingebracht werden sollen. Los geht’s mit dem Schwerpunktthema „Künstliche Intelligenz für nachhaltige Entwicklung?“. Die erste Veranstaltung wird organisiert von der wissenschaftlichen Forschungsgruppe „Digitalisierung und sozial-ökologische Transformation“ von IÖW und TU Berlin in Kooperation mit dem Einstein Center Digital Future. Mehr Infos <a href="https://www.nachhaltige-digitalisierung.de/bits-baeume/forum-bits-baeume.html" target="_blank">hier</a>.</p>
     </article>
 
     <article>
