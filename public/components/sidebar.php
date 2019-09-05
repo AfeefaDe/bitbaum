@@ -58,17 +58,12 @@ break;
     
     <article>
         <h3 class="bold">[Berlin, 10.9.] Forum Bits&Bäume</h3>
-        <p> Die sechsteilige Gesprächsreihe <em>Forum Bits & Bäume</em> startet mit dem Schwerpunktthema „Künstliche Intelligenz für nachhaltige Entwicklung?“. Organisiert von der wissenschaftlichen Forschungsgruppe „Digitalisierung und sozial-ökologische Transformation“ von IÖW und TU Berlin in Kooperation mit dem Einstein Center Digital Future. Mehr Infos <a href="https://www.nachhaltige-digitalisierung.de/bits-baeume/forum-bits-baeume.html" target="_blank">hier</a>.</p>
+        <p> Die Gesprächsreihe <em>Forum Bits & Bäume</em> startet mit dem Schwerpunktthema „Künstliche Intelligenz für nachhaltige Entwicklung?“. Organisiert von der wissenschaftlichen Forschungsgruppe „Digitalisierung und sozial-ökologische Transformation“ von IÖW und TU Berlin in Kooperation mit dem Einstein Center Digital Future. Mehr Infos <a href="https://www.nachhaltige-digitalisierung.de/bits-baeume/forum-bits-baeume.html" target="_blank">hier</a>.</p>
     </article>
 
     <article>
-        <h3 class="bold">[Berlin] Stammtisch <em>Bits&Bäume</em></h3>
-        <p>Mehr Infos auf <a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">hier</a>.</p>
-    </article>
-    
-    <article>
-      <h3 class="bold">[Dresden] Stammtisch <em>Bits&Bäume</em></h3>
-        <p>Mehr Infos auf <a href="https://dresden.bits-und-baeume.org" target="blank">Bits&Bäume Dresden</a>.</p>
+        <h3 class="bold">[Berlin, Dresden] Stammtische <em>Bits&Bäume</em></h3>
+        <p>In <a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">Berlin</a> und <a href="https://dresden.bits-und-baeume.org" target="blank">Dresden</a> gibt es jetzt regelmäßige Treffpunte.</p>
     </article>
 
     <article>
