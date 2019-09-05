@@ -53,17 +53,17 @@ break;
 <section class="switch news active">
    <article>
         <h3 class="bold">[Münster, 6.9.] Vortrag <em>Eine andere Digitalisierung ist möglich. Ergebnisse der Bits&Bäume</em></h3>
-        <p><a href="https://www.cloud-und-rueben.org/fachtage-und-seminare/" target="blank">Cloud und Rüben</a> hat uns eingeladen, bei der Tagung <em>Digitale Agenda 2030 </em>die Bits&Bäume vorzustellen</p>
+        <p><a href="https://www.cloud-und-rueben.org/fachtage-und-seminare/" target="blank">Cloud und Rüben</a> hat zur Tagung <em>Digitale Agenda 2030 </em>eigeladen.</p>
     </article>
     
     <article>
         <h3 class="bold">[Berlin, 10.9.] Forum Bits&Bäume</h3>
-        <p> Die Gesprächsreihe <em>Forum Bits & Bäume</em> startet mit dem Schwerpunktthema „Künstliche Intelligenz für nachhaltige Entwicklung?“. Organisiert von der wissenschaftlichen Forschungsgruppe „Digitalisierung und sozial-ökologische Transformation“ von IÖW und TU Berlin in Kooperation mit dem Einstein Center Digital Future. Mehr Infos <a href="https://www.nachhaltige-digitalisierung.de/bits-baeume/forum-bits-baeume.html" target="_blank">hier</a>.</p>
+        <p> Die <a href="https://www.nachhaltige-digitalisierung.de/bits-baeume/forum-bits-baeume.html" target="_blank">Gesprächsreihe</a> <em>Forum Bits & Bäume</em> startet mit dem Schwerpunktthema „Künstliche Intelligenz für nachhaltige Entwicklung?“. Organisiert von der wissenschaftlichen Forschungsgruppe „Digitalisierung und sozial-ökologische Transformation“ von IÖW und TU Berlin in Kooperation mit dem Einstein Center Digital Future.</p>
     </article>
 
     <article>
         <h3 class="bold">[Berlin, Dresden] Stammtische <em>Bits&Bäume</em></h3>
-        <p>In <a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">Berlin</a> und <a href="https://dresden.bits-und-baeume.org" target="blank">Dresden</a> gibt es jetzt regelmäßige Treffpunte.</p>
+        <p>In <a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">Berlin</a> und <a href="https://dresden.bits-und-baeume.org" target="blank">Dresden</a> gibt es jetzt regelmäßige Treffen.</p>
     </article>
 
     <article>
