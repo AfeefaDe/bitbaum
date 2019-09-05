@@ -64,7 +64,7 @@ break;
     
     <article>
         <h3 class="bold">[Berlin, 10.9.] Forum Bits&Bäume</h3>
-        <p> Die <a href="https://www.nachhaltige-digitalisierung.de/bits-baeume/forum-bits-baeume.html" target="_blank">Gesprächsreihe</a> <em>Forum Bits & Bäume</em> startet mit dem Schwerpunktthema „Künstliche Intelligenz für nachhaltige Entwicklung?“. Organisiert von der wissenschaftlichen Forschungsgruppe „Digitalisierung und sozial-ökologische Transformation“ von IÖW und TU Berlin in Kooperation mit dem Einstein Center Digital Future.</p>
+        <p> Die <a href="https://www.nachhaltige-digitalisierung.de/bits-baeume/forum-bits-baeume.html" target="_blank">Gesprächsreihe</a> <em>Forum Bits & Bäume</em> startet mit dem Schwerpunktthema „Künstliche Intelligenz für nachhaltige Entwicklung?“ (IÖW, TU Berlin & Einstein Center Digital Future).</p>
     </article>
 
     <article>
