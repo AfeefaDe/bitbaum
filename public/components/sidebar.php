@@ -54,7 +54,7 @@ break;
    
     <article>
       <h3 class="bold">Unterstützer*innen unserer Forderungen</h3>
-        <p><?php #echo SupportController::getTotalNumberOfSupports(); ?> Personen und Organisationen haben bisher unterschrieben, <a href="/forderungen/<?php echo $lang; ?>">unterzeichne</a> auch du.</p>     
+        <p><?php echo SupportController::getTotalNumberOfSupports(); ?> Personen und Organisationen haben bisher unterschrieben, <a href="/forderungen/<?php echo $lang; ?>">unterzeichne</a> auch du.</p>     
     </article>
     
     <article>
