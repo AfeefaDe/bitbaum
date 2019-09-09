@@ -56,15 +56,10 @@ break;
       <h3 class="bold">Unterstützer*innen unserer Forderungen</h3>
         <p><?php echo SupportController::getTotalNumberOfSupports(); ?> Personen und Organisationen haben bisher unterschrieben, <a href="/forderungen/<?php echo $lang; ?>">unterzeichne</a> auch du.</p>     
     </article>
-    
-    <article>
-        <h3 class="bold">[Münster, 6.9.] Vortrag <em>Eine andere Digitalisierung ist möglich. Ergebnisse der Bits&Bäume</em></h3>
-        <p><a href="https://www.cloud-und-rueben.org/fachtage-und-seminare/" target="blank">Cloud und Rüben</a> hat uns zur Tagung <em>Digitale Agenda 2030 </em>eigeladen.</p>
-    </article>
-    
+      
     <article>
         <h3 class="bold">[Berlin, 10.9.] Forum Bits&Bäume</h3>
-        <p> Die <a href="https://www.nachhaltige-digitalisierung.de/bits-baeume/forum-bits-baeume.html" target="_blank">Gesprächsreihe</a> <em>Forum Bits & Bäume</em> startet mit dem Schwerpunktthema „Künstliche Intelligenz für nachhaltige Entwicklung?“ (IÖW, TU Berlin & Einstein Center Digital Future).</p>
+        <p> Die <a href="https://www.nachhaltige-digitalisierung.de/bits-baeume/forum-bits-baeume.html" target="_blank">Gesprächsreihe</a> <em>Forum Bits & Bäume</em> startet mit dem Thema „Künstliche Intelligenz für nachhaltige Entwicklung?“ (IÖW, TU Berlin & Einstein Center Digital Future).</p>
     </article>
 
     <article>
