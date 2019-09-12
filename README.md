@@ -12,12 +12,13 @@ prozedere
 
 
 ## dev setup
+**quick:**
 ```
-# quick: start php server, browsersync and app building via..
+# start php server, browsersync and app building via..
 $ ./work.sh
 ```
 
-### detailed
+**detailed:**
 ```
 # install node dependencies
 $ npm install
