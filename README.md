@@ -13,10 +13,23 @@ prozedere
 
 ## dev setup
 ```
+# quick: start php server, browsersync and app building via..
+$ ./work.sh
+```
+
+### detailed
+```
 # install node dependencies
 $ npm install
-# starts sass compiling and browsersync tasks
+
+# make sure to have mysql server running loaded with a proper bitbaum db
+
+# serve via php server
+$ php -S localhost:8010 -t public/
+
+# starts sass compiling and opens browser window with browsersync
 $ npm run dev
+
 # install composer dependencies
 $ cd public/master
 $ composer install

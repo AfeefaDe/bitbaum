@@ -31,19 +31,6 @@ gulp.task('sass', function () {
         .pipe(reload({stream: true}))
 })
 
-gulp.task('php', function () {
-    php.server({
-        configCallback: function _configCallback(type, collection) {
-            if (type === php.OPTIONS_SPAWN_OBJ) {
-                // Windows Batch files are NOT executable on their own. This will start a shell
-                // session then execute.
-                collection.shell = true
-                return collection
-            }
-        }, port: 8010, keepalive: true, base: './public'
-    })
-})
-
 /* Reload task */
 gulp.task('bs-reload', function () {
     browserSync.reload()
@@ -51,7 +38,7 @@ gulp.task('bs-reload', function () {
 
 /* Prepare Browser-sync for localhost */
 gulp.task('browser-sync', function () {
-    browserSync.init(['public/styles/*.css', '*.php'], {
+    browserSync.init(['public/styles/*.css', 'public/pages/*.php', 'public/components/*.php'], {
         proxy: 'localhost:8010',
         port: 3020,
         open: true,
@@ -64,4 +51,4 @@ gulp.task('watch', function () {
         .watch(input, gulp.parallel('sass'))
 })
 
-gulp.task('default', gulp.parallel('php', 'sass', 'watch', 'browser-sync'))
+gulp.task('default', gulp.parallel('sass', 'watch', 'browser-sync'))
