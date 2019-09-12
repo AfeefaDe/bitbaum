@@ -5,7 +5,7 @@ require_once 'SupportState.php';
 class Router
 {
     private $langs_permitted = ['de', 'en'];
-    private $pages_permitted = ["datenschutz", "programm", "programm-frab", "impressum", "info", "ziele", "presse", "infrastruktur", "waechst", "rueckblick"];
+    private $pages_permitted = ["datenschutz", "programm", "programm-frab", "impressum", "info", "ziele", "presse", "infrastruktur", "waechst", "rueckblick", "forum"];
 
     public function __construct()
     {

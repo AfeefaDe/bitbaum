@@ -1,5 +1,5 @@
 <section class="square title">
-    <?php require 'components/header.php';?>
+    <?php require 'components/header.php'; ?>
 </section>
 
 <?php switch ($lang) {
@@ -9,16 +9,23 @@
             <article class="bolder align-center">
                 <h4><strong>Bits&Bäume becomes a movement</strong></h4>
 
+                <div>
+                    <p class="square-action">
+                        <a href="/forum/<?php echo $lang; ?>" class="button important" style="text-align: center">Forum Bits&Bäume 2019</a>
+                    </p>
+                </div>
+
                 <div class="row">
 
-                  <p class="square-action">
-                    <a href="/waechst/<?php echo $lang; ?>" class="button">Start yor own B&B</a>
-                  </p>
+                    <p class="square-action">
+                        <a href="/waechst/<?php echo $lang; ?>" class="button">Start yor own B&B</a>
+                    </p>
 
-                  <p class="square-action">
-                    <a href="/forderungen/<?php echo $lang; ?>" class="button" style="text-align: center">Sign our demands</a>
-                  </p>
+                    <p class="square-action">
+                        <a href="/forderungen/<?php echo $lang; ?>" class="button" style="text-align: center">Sign our demands</a>
+                    </p>
                 </div>
+
             </article>
         </section>
 
@@ -36,27 +43,35 @@
 
         <section class="square quotes">
             <article>
-                <?php require 'components/quotes.php';?>
+                <?php require 'components/quotes.php'; ?>
                 <article>
         </section>
-        <?php
-break;
+    <?php
+        break;
     default:
         ?>
         <section class="square cluster">
             <article class="bolder align-center">
                 <h4><strong>Bits&Bäume wächst zur Bewegung</strong></h4>
 
+                <div>
+                    <p class="square-action">
+                        <a href="/forum/<?php echo $lang; ?>" class="button important" style="text-align: center">Forum Bits&Bäume 2019</a>
+                    </p>
+                </div>
+                
                 <div class="row">
 
-                  <p class="square-action">
-                    <a href="/waechst/<?php echo $lang; ?>" class="button">Selbst eine B&B organisieren</a>
-                  </p>
+                    <p class="square-action">
+                        <a href="/waechst/<?php echo $lang; ?>" class="button">Selbst eine B&B organisieren</a>
+                    </p>
 
-                  <p class="square-action">
-                    <a href="/forderungen/<?php echo $lang; ?>" class="button" style="text-align: center">Forderungen unterzeichnen</a>
-                  </p>
+                    <p class="square-action">
+                        <a href="/forderungen/<?php echo $lang; ?>" class="button" style="text-align: center">Forderungen unterzeichnen</a>
+                    </p>
+
                 </div>
+
             </article>
         </section>
 
@@ -72,7 +87,7 @@ break;
 
         <section class="square quotes">
             <article>
-                <?php require 'components/quotes.php';?>
+                <?php require 'components/quotes.php'; ?>
                 <article>
         </section>
-    <?php }?>
+    <?php } ?>
