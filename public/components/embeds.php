@@ -7,6 +7,7 @@
   var DIGITAL_CLIMATE_STRIKE_OPTIONS = {
     disableGoogleAnalytics: true,
     language: de,
+    iframeHost: 'https://bits-und-baeume.org',
   };
 </script>
 <script src="/js/widget.js"></script>
