@@ -32,7 +32,7 @@
                 <section>
                     <p class="bold">Nächste Termine</p>
                     <ul>
-                        <li>26.11.2019 in Berlin</li>
+                        <li>27.01.2019 in Berlin</li>
                     </ul>
                 </section>
             </div>
@@ -47,7 +47,7 @@
                         <p>Digitalisierung und Klimaschutz – zwei heiße Eisen, über deren politische Ausgestaltung derzeit viel diskutiert wird. Im Gespräch ist dabei vor allem ein alter Bekannter: Steuern. Eine Digitalsteuer, damit Digitalkonzerne zur Finanzierung öffentlicher Aufgaben beitragen. Eine CO2-Steuer oder ein erweiterter Emissionshandel, um klimaschädliche Emissionen zu senken. Im zweiten Forum Bits & Bäume werden die beiden Herausforderungen Digitalisierung und Klima zusammengedacht. Wie können Steuern und andere Instrumente in der Digitalen Ökonomie ökologische Lenkungswirkung entfalten? Reichen Konzepte wie die CO2-Steuer oder bedarf es gesonderter Instrumente? Braucht es neben nationalen Instrumenten einen CO2-Zoll für die digitale Welt oder eine Steuer auf Datenverkehr?</p>
                     </div>
                     <div>
-                        <p><span class="bold">26. November 2019</span> / 16-19 Uhr</p>
+                        <p><span class="bold">27. Januar 2020</span> / 16-19 Uhr</p>
                         <p>im Einstein Center Digital Future<br>Wilhelmstraße 67, 10117 Berlin</p>
                         <p><a class="button" href="https://www.nachhaltige-digitalisierung.de/bits-baeume/forum-bits-baeume.html" target="_blank">Zur Anmeldung</a></p>
                     </div>
@@ -96,7 +96,7 @@
                 <section>
                     <p class="bold">Nächste Termine</p>
                     <ul>
-                        <li>26.11.2019 in Berlin</li>
+                        <li>27.01.2020 in Berlin</li>
                     </ul>
                 </section>
             </div>
@@ -111,7 +111,7 @@
                         <p>Digitalisierung und Klimaschutz – zwei heiße Eisen, über deren politische Ausgestaltung derzeit viel diskutiert wird. Im Gespräch ist dabei vor allem ein alter Bekannter: Steuern. Eine Digitalsteuer, damit Digitalkonzerne zur Finanzierung öffentlicher Aufgaben beitragen. Eine CO2-Steuer oder ein erweiterter Emissionshandel, um klimaschädliche Emissionen zu senken. Im zweiten Forum Bits & Bäume werden die beiden Herausforderungen Digitalisierung und Klima zusammengedacht. Wie können Steuern und andere Instrumente in der Digitalen Ökonomie ökologische Lenkungswirkung entfalten? Reichen Konzepte wie die CO2-Steuer oder bedarf es gesonderter Instrumente? Braucht es neben nationalen Instrumenten einen CO2-Zoll für die digitale Welt oder eine Steuer auf Datenverkehr?</p>
                     </div>
                     <div>
-                        <p><span class="bold">26. November 2019</span> / 16-19 Uhr</p>
+                        <p><span class="bold">27. Januar 2020</span> / 16-19 Uhr</p>
                         <p>im Einstein Center Digital Future<br>Wilhelmstraße 67, 10117 Berlin</p>
                         <p><a class="button" href="https://www.nachhaltige-digitalisierung.de/bits-baeume/forum-bits-baeume.html" target="_blank">Zur Anmeldung</a></p>
                     </div>

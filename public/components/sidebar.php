@@ -60,8 +60,8 @@
                 </article>
 
                 <article>
-                    <h3 class="bold">[Berlin, 10.9.] Forum Bits&Bäume</h3>
-                    <p> Die <a href="/forum/<?php echo $lang; ?>">Gesprächsreihe</a> <em>Forum Bits & Bäume</em> startet mit dem Thema „Künstliche Intelligenz für nachhaltige Entwicklung?“ (IÖW, TU Berlin & Einstein Center Digital Future).</p>
+                    <h3 class="bold">[Berlin, 27. Januar '20] Forum Bits & Bäume</h3>
+                    <p> Die <a href="/forum/<?php echo $lang; ?>">Gesprächsreihe</a> geht weiter! Thema: „Ökologische Digitalsteuer“.</p>
                 </article>
 
                 <article>
