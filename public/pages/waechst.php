@@ -28,6 +28,7 @@ article .row--forderung > p {
 <ul>
    <h2>B&B materials</h2>
  <ul>
+  <li>B&B publication <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank"><em>Was Bits&Bäume verbindet</em></a> [German]            
   <li>🗋 B&B-Logo Solo: <a target="_blank" href="/downloads/B&B_Logo_RGB.pdf">[pdf/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_CMYK.pdf">[pdf/print]</a> | <a target="_blank" href="/downloads/B&B_Logo_RGB.svg">[svg/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_CMYK.eps">[eps/print]</a></li>
   <li>🗋 B&B-Logo with German conference subtitle: <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_RGB.pdf">[pdf/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_CMYK.pdf">[pdf/print]</a> | <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_CMYK.eps">[eps/print]</a></li>      
   <li>🗋 <a href="/downloads/BUB_Sticker_zeitlos.pdf" target="blank">B&B sticker</a> [pdf]</li>
@@ -96,6 +97,7 @@ break;
 </ul>
                 <h2>B&B-Material</h2>           
  <ul>
+  <li>B&B-Publikation <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank"><em>Was Bits&Bäume verbindet</em></a>: die Themen der Konferenz zum Nachlesen und Vertiefen</li>            
   <li>🗋 B&B-Logo Solo: <a target="_blank" href="/downloads/B&B_Logo_RGB.pdf">[pdf/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_CMYK.pdf">[pdf/print]</a> | <a target="_blank" href="/downloads/B&B_Logo_RGB.svg">[svg/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_CMYK.eps">[eps/print]</a></li>
   <li>🗋 B&B-Logo mit Konferenz-Untertitel: <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_RGB.pdf">[pdf/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_CMYK.pdf">[pdf/print]</a> | <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_CMYK.eps">[eps/print]</a></li>
   <li>🗋 <a href="/downloads/BUB_Sticker_zeitlos.pdf" target="blank">B&B-Sticker [pdf]</a></li>
