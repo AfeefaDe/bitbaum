@@ -18,7 +18,7 @@
                 <div class="row">
 
                     <p class="square-action">
-                        <a href="/waechst/<?php echo $lang; ?>" class="button">Start yor own B&B</a>
+                        <a href="/waechst/<?php echo $lang; ?>" class="button">B&B material</a>
                     </p>
 
                     <p class="square-action">
@@ -63,7 +63,7 @@
                 <div class="row">
 
                     <p class="square-action">
-                        <a href="/waechst/<?php echo $lang; ?>" class="button">Selbst eine B&B organisieren</a>
+                        <a href="/waechst/<?php echo $lang; ?>" class="button">B&B-Material</a>
                     </p>
 
                     <p class="square-action">
