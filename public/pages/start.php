@@ -67,7 +67,7 @@
                 
                 <div>
                     <p class="square-action">
-                        <a href="/forum/<?php echo $lang; ?>" class="button important" style="text-align: center">Gesprächsreihe <em>Forum Bits&Bäume</em></a>
+                        <a href="/forum/<?php echo $lang; ?>" class="button" style="text-align: center">Gesprächsreihe <em>Forum Bits&Bäume</em></a>
                     </p>
                 </div>
 
