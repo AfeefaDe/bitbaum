@@ -10,20 +10,20 @@
                 <h4><strong>Bits&Bäume becomes a movement</strong></h4>
 
                 <div>
-                     <p class="square-action">
-                        <a href="/waechst/<?php echo $lang; ?>" class="button">B&B material</a>
+                    <p class="square-action">
+                        <a href="/forderungen/<?php echo $lang; ?>" class="button" style="text-align: center">Sign our demands</a>
                     </p>
                 </div>
 
                 <div class="row">
-
                     <p class="square-action">
-                        <a href="/forum/<?php echo $lang; ?>" class="button important" style="text-align: center">Forum Bits&Bäume 2019</a>
+                        <a href="/waechst/<?php echo $lang; ?>" class="button">B&B material</a>
+                    </p>
+                    <p class="square-action">
+                        <a href="/forum/<?php echo $lang; ?>" class="button" style="text-align: center">Gesprächsreihe <em>Forum Bits&Bäume</em></a>
                     </p>
                    
-                    <p class="square-action">
-                        <a href="/forderungen/<?php echo $lang; ?>" class="button" style="text-align: center">Sign our demands</a>
-                    </p>
+                    
                 </div>
 
             </article>
