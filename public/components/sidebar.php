@@ -8,23 +8,28 @@
 
             <section class="switch news active">
                 <article>
-
                     <h3 class="bold">Signees of our demands</h3>
                     <p><?php echo SupportController::getTotalNumberOfSupports(); 
                             ?> supporters so far, you should <a href="/forderungen/<?php echo $lang; ?>">sign</a> as well.
                     </p>
-                    <br />
-                    <h3 class="bold">[Dresden] <em>Bits&Bäume</em> regular's round</h3>
-                    <p>After two successfull Bits&Bäume events in Dresden, a regular's round was founded on the 20th of June at TU Dresden. More information <a href="https://dresden.bits-und-baeume.org" target="blank">here</a>
+                </article>
+                
+                <article>
+                    <h3 class="bold">[Oldenburg, 07.11., 18 Uhr] Gastvorlesung <em>Nachhaltige Digitalisierung – digitale Nachhaltigkeit</em></h3>
+                    <p> Im Rahmen der diesjährigen <a href="https://nachhaltigkeit-ol.de/">Nachhaltigkeitswoche der Carl von Ossietzky Universität Oldenburg </a>steht am Donnerstag das Thema Digitalisierung im Mittelpunkt. Wir diskutieren die Bits&Bäume-Forderungen und erklären, warum Digitalisierung und Nachhaltigkeit zusammenhängen.
                     </p>
-                    <br />
-                    <h3 class="bold">[Berlin] <em>Bits&Bäume</em> regular's round</h3>
-                    <p>In Berlin the AStA of TU Berlin also founded a regular's round. More information <a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">here</a>
+                </article>
+                
+                <article>
+                    <h3 class="bold">[Berlin, Dresden] <em>Bits&Bäume</em> regular's rounds</h3>
+                    <p>In <a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">Berlin</a> and <a href="https://dresden.bits-und-baeume.org" target="blank">Dresden</a>, the Bits&Bäume community now meets regularly to discuss, to keep up to date and to plan common events.
                     </p>
-                    <br />
+                </article>
+                
+                 <article>
                     <h3 class="bold">Publication <em>Was Bits&Bäume verbindet</em></h3>
-                    <p>Our <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank">conference book</a> has been published pushing further the topics of the conference. Thanks to all crowdfunders</p>.
-
+                    <p>Our <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank">conference book</a> has been published pushing further the topics of the conference. Thanks to all crowdfunders!
+                     </p>.
                 </article>
             </section>
 
@@ -60,13 +65,13 @@
                 </article>
 
                 <article>
-                    <h3 class="bold">[Berlin, 27. Januar '20] Forum Bits & Bäume</h3>
-                    <p> Die <a href="/forum/<?php echo $lang; ?>">Gesprächsreihe</a> geht weiter! Thema: „Ökologische Digitalsteuer“.</p>
+                    <h3 class="bold">[Oldenburg, 07.11., 18 Uhr] Gastvorlesung <em>Nachhaltige Digitalisierung – digitale Nachhaltigkeit</em></h3>
+                    <p> Im Rahmen der diesjährigen <a href="https://nachhaltigkeit-ol.de/">Nachhaltigkeitswoche der Carl von Ossietzky Universität Oldenburg </a>steht am Donnerstag das Thema Digitalisierung im Mittelpunkt. Wir diskutieren die Bits&Bäume-Forderungen und erklären, warum Digitalisierung und Nachhaltigkeit zusammenhängen.</p>
                 </article>
 
                 <article>
                     <h3 class="bold">[Berlin, Dresden] Stammtische <em>Bits&Bäume</em></h3>
-                    <p>In <a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">Berlin</a> und <a href="https://dresden.bits-und-baeume.org" target="blank">Dresden</a> gibt es jetzt regelmäßige Treffen.</p>
+                    <p>In <a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">Berlin</a> und <a href="https://dresden.bits-und-baeume.org" target="blank">Dresden</a> trifft sich regelmäßig die wachsende Bits&Bäume-Community, um zu diskutieren und gemeinsame Veranstaltungen zu planen.</p>
                 </article>
 
                 <article>
