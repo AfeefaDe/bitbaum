@@ -9,22 +9,23 @@
             <article class="bolder align-center">
                 <h4><strong>Bits&Bäume becomes a movement</strong></h4>
 
-                <div>
-                    <p class="square-action">
+                <div class="row">
+                     <p class="square-action">
                         <a href="/forderungen/<?php echo $lang; ?>" class="button" style="text-align: center">Sign our demands</a>
                     </p>
-                </div>
-
-                <div class="row">
+                    
                     <p class="square-action">
                         <a href="/waechst/<?php echo $lang; ?>" class="button">B&B material</a>
                     </p>
-                    <p class="square-action">
-                        <a href="/forum/<?php echo $lang; ?>" class="button" style="text-align: center">Gesprächsreihe <em>Forum Bits&Bäume</em></a>
-                    </p>
-                   
-                    
+                         
                 </div>
+                   
+               <div>
+                      <p class="square-action">
+                        <a href="/forum/<?php echo $lang; ?>" class="button" style="text-align: center">series of talks <em>Forum Bits&Bäume</em></a>
+                    </p>
+                </div> 
+               
 
             </article>
         </section>
@@ -53,23 +54,21 @@
         <section class="square cluster">
             <article class="bolder align-center">
                 <h4><strong>Bits&Bäume wächst zur Bewegung</strong></h4>
-
-                <div>
-                    <p class="square-action">
-                        <a href="/forum/<?php echo $lang; ?>" class="button important" style="text-align: center">Forum Bits&Bäume 2019</a>
-                    </p>
-                </div>
-                
+   
                 <div class="row">
-
-                    <p class="square-action">
-                        <a href="/waechst/<?php echo $lang; ?>" class="button">B&B-Material</a>
-                    </p>
-
                     <p class="square-action">
                         <a href="/forderungen/<?php echo $lang; ?>" class="button" style="text-align: center">Forderungen unterzeichnen</a>
                     </p>
-
+                    
+                    <p class="square-action">
+                        <a href="/waechst/<?php echo $lang; ?>" class="button">B&B-Material</a>
+                    </p>
+                </div>
+                
+                <div>
+                    <p class="square-action">
+                        <a href="/forum/<?php echo $lang; ?>" class="button important" style="text-align: center">Gesprächsreihe <em>Forum Bits&Bäume</em></a>
+                    </p>
                 </div>
 
             </article>
