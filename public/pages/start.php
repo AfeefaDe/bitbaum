@@ -15,7 +15,7 @@
                     </p>
                     
                     <p class="square-action">
-                        <a href="/waechst/<?php echo $lang; ?>" class="button">B&B material</a>
+                        <a href="/waechst/<?php echo $lang; ?>" class="button">Organize B&B event</a>
                     </p>
                          
                 </div>
@@ -61,7 +61,7 @@
                     </p>
                     
                     <p class="square-action">
-                        <a href="/waechst/<?php echo $lang; ?>" class="button">B&B-Material</a>
+                        <a href="/waechst/<?php echo $lang; ?>" class="button">Selbst B&B organisieren</a>
                     </p>
                 </div>
                 
