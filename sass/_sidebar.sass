@@ -24,20 +24,24 @@ aside
       margin: 0 0 .5em
   
   section.switch
-    margin: 0 2.5vmax
+    margin: 7.5vmax calc(2.5vmax - 1rem) 0 2.5vmax
     height: calc(100vh - 10rem - 10vmax)
     overflow: hidden
     display: none
+    position: absolute
+    
     &.active
       display: flex
       flex-direction: column
-      flex-wrap: wrap
-      justify-content: center
+      // flex-wrap: wrap
+      // justify-content: center
 
   section.twitter, section.program, section.news, section.support
     article
       width: 100%
       margin-bottom: 2em
+      padding-right: 1rem
+
       p
         margin: 0.5em 0
     h3
@@ -56,6 +60,8 @@ aside
 
   
   section.twitter
+    flex-wrap: wrap
+
     header
       display: flex
       justify-content: space-between
@@ -74,10 +80,19 @@ aside
   .control
     height: calc(5rem + 5vmax)
     padding: 0 2.5vmax
+    position: absolute
+    width: 100%
+    bottom: 0
+
+    @media #{$mobile}
+      position: relative
+    
     background-color: $alpha-blue-light
+    
     display: flex
     justify-content: space-around
     align-items: center
+    
     & > div
       cursor: pointer
       opacity: .5

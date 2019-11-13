@@ -12,7 +12,8 @@
     "gulp-notify": "^3.2.0",
     "gulp-rename": "^1.4.0",
     "gulp-sass": "^4.0.2",
-    "jquery": "^3.4.1"
+    "jquery": "^3.4.1",
+    "perfect-scrollbar": "^1.4.0"
   },
   "scripts": {
     "dev": "gulp",

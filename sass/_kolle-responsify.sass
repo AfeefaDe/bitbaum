@@ -1,0 +1,16 @@
+// Afeefa Kollektiv Responsifier
+// Detect devices by Media Queries and use it on CSS and JS layer
+
+// INDICATOR FOR JS LAYER (requires additional JS for detection)
+
+.device-indicator
+  position: absolute
+  top: -999em
+  left: -999em
+
+.device-indicator:before
+  content: 'desktop'
+
+@media #{$mobile}
+  .device-indicator:before
+    content: 'mobile'

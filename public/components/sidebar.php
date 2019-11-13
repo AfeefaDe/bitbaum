@@ -3,33 +3,33 @@
         case "en":
             ?>
 
-            <section class="stats">
-            </section>
+            <!-- <section class="stats">
+            </section> -->
 
             <section class="switch news active">
                 <article>
                     <h3 class="bold">Signees of our demands</h3>
-                    <p><?php echo SupportController::getTotalNumberOfSupports(); 
+                    <p><?php echo SupportController::getTotalNumberOfSupports();
                             ?> supporters so far, you should <a href="/forderungen/<?php echo $lang; ?>">sign</a> as well.
                     </p>
                 </article>
-                
+
                 <article>
                     <h3 class="bold">[Oldenburg, Nov 7th, 6pm] guest lecture <em>Nachhaltige Digitalisierung – digitale Nachhaltigkeit</em></h3>
                     <p> This year's <a href="https://nachhaltigkeit-ol.de/">Sustainability Week at the University of Oldenburg</a> also focusses on digitalization as one of the topics. Main focus of our guest lecture: how it links to sustainability and the Bits&Bäume demands.
                     </p>
                 </article>
-                
+
                 <article>
                     <h3 class="bold">[Berlin, Dresden] <em>Bits&Bäume</em> regular's rounds</h3>
                     <p>In <a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">Berlin</a> and <a href="https://dresden.bits-und-baeume.org" target="blank">Dresden</a>, the Bits&Bäume community now meets regularly to discuss, to keep up to date and to plan common events.
                     </p>
                 </article>
-                
-                 <article>
+
+                <article>
                     <h3 class="bold">Publication <em>Was Bits&Bäume verbindet</em></h3>
                     <p>Our <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank">conference book</a> has been published pushing further the topics of the conference. Thanks to all crowdfunders!
-                     </p>.
+                    </p>.
                 </article>
             </section>
 
@@ -53,14 +53,14 @@
         default:
             ?>
 
-            <section class="stats">
-            </section>
+            <!-- <section class="stats">
+            </section> -->
 
             <section class="switch news active">
 
                 <article>
                     <h3 class="bold">Unterstützer*innen unserer Forderungen</h3>
-                    <p><?php echo SupportController::getTotalNumberOfSupports(); 
+                    <p><?php #echo SupportController::getTotalNumberOfSupports(); 
                             ?> Personen und Organisationen haben bisher unterschrieben, <a href="/forderungen/<?php echo $lang; ?>">unterzeichne</a> auch du.</p>
                 </article>
 
@@ -102,6 +102,15 @@
 </aside>
 
 <script>
+    if (!KolleDeviceDetector.isMobile()) {
+        const ps = new PerfectScrollbar('aside .switch', {
+            wheelSpeed: 0.2,
+            wheelPropagation: false,
+            minScrollbarLength: 10,
+            suppressScrollX: true
+        });
+    };
+
     $news = $('section.news');
     $twitter = $('section.twitter');
     $newsBtn = $('.control .news');
@@ -132,10 +141,14 @@
     $portraits = $('.portrait');
 
     function switchSidebar() {
-        if ($news.hasClass('active'))
+        if ($news.hasClass('active')) {
             showTwitter();
-        else
+        }
+        else {
             showNews();
+        }
+
+        ps.update();
     }
 
     var index = 0;
