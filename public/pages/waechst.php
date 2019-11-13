@@ -24,7 +24,19 @@ article .row--forderung > p {
               <p>For over a year our team of 10 organizations worked hard to bring the Bits & Bäume 2018 into being - that was very enriching for us, but also a lot of effort, just because so many different organizations were sitting at the same table. We get many joyful expressions of hope for a repeat in 2019, which makes us very happy, but unfortunately we cannot integrate this time intensive work into our daily routines in the long run. But the Bits & Bäume was also a <strong>conference of all of us for all of us!</strong> So just pick up the thread, set up a regular's table in your city, organize a smaller or larger event, a discussion evening, explain on panels why and how digitization and sustainability belong together, let's continue to exchange ideas and successes under <a href="https://twitter.com/hashtag/bitsundbaeume">#bitsundbäume</a> or make up new networking formats.</p>
             </section>
             <section>
+              
+        <h2>Organise sustainably</h2>
+              <ul>
+                <li><a href="https://bits-und-baeume.org/infrastruktur/de" target="blank">Tipps des B&B-Teams, um nachhaltig zu organisieren</a></li> 
+              </ul>
+              
               <h2>B&B Communities</h2>
+                 <li><a href="https://dresden.bits-und-baeume.org" target="blank">Bits & Bäume Dresden</a>
+    <br>initiated by the Faculty of Computer Science, TU Dresden: Bits&Bäume events on May 23rd and June 20th, Bits&Bäume regular's round </li>
+   <li><a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">Bits & Bäume Berlin</a>
+     <br>initiated by the ASta, TU Berlin: Bits&Bäume regular's round
+     </li>
+</ul>
 <ul>
    <h2>B&B materials</h2>
  <ul>
@@ -35,12 +47,6 @@ article .row--forderung > p {
   <li>🗋 B&B-Forderungen als Broschüre <a href="/downloads/BUB_Forderungen_A5_Einzelseiten.pdf" target="blank">single pages </a>| <a href="/downloads/BUB_Forderungen_A5_Doppelseiten_Bookletreihenfolge.pdf" target="blank">double pages for brochure printing</a> [pdf]</li>   
   <li>🗋 <a target="_blank" href="/downloads/B&B_Plakat_DIN-A1_CC_181108.pdf">B&B poster</a> [pdf]</li>
   <li><a href="https://bits-und-baeume.org/infrastruktur/de" target="blank">how to organize sustainably</a></li> 
-</ul> 
-   <li><a href="https://dresden.bits-und-baeume.org" target="blank">Bits & Bäume Dresden</a>
-    <br>initiated by the Faculty of Computer Science, TU Dresden: Bits&Bäume events on May 23rd and June 20th, Bits&Bäume regular's round </li>
-   <li><a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">Bits & Bäume Berlin</a>
-     <br>initiated by the ASta, TU Berlin: Bits&Bäume regular's round
-     </li>
 </ul>
             </section>
           </div>
@@ -86,6 +92,11 @@ break;
               <p>Über ein Jahr lang haben wir als Team aus 10 Organisationen daran gearbeitet, die Bits&Bäume 2018 aus der Taufe zu heben – das war sehr bereichernd für uns, aber auch viel Arbeit, gerade weil so unterschiedliche Organisationen an einem Tisch saßen. Wir bekommen viele freudige Hoffnungsbekundungen auf eine Wiederholung 2019, was uns sehr freut, allerdings können wir leider diese gemeinsame Arbeit nicht langfristig in unseren Arbeitsalltag integrieren. Aber die Bits & Bäume war auch eine <strong>Konferenz von uns allen für uns alle!</strong> Nehmt den Faden also doch einfach auf, gründet einen Stammtisch in eurer Stadt, organisiert eine kleinere oder größere Veranstaltung, einen Diskussionsabend, erklärt auf Panels, warum und wie Digitalisierung und Nachhaltigkeit zusammengehören, lasst uns weiterhin unter <a href="https://twitter.com/hashtag/bitsundbaeume">#bitsundbäume</a> Ideen und Fortschritte austauschen, denkt euch neue Vernetzungsformate aus.</p>
             </section>
             <section>
+              <h2>Nachhaltig organisieren</h2>
+              <ul>
+                <li><a href="https://bits-und-baeume.org/infrastruktur/de" target="blank">Tipps des B&B-Teams, um nachhaltig zu organisieren</a></li> 
+              </ul>
+              
               <h2>B&B-Sporen</h2>
 <ul>
     <li><a href="https://dresden.bits-und-baeume.org" target="blank">Bits & Bäume Dresden</a>
@@ -103,7 +114,6 @@ break;
   <li>🗋 <a href="/downloads/BUB_Sticker_zeitlos.pdf" target="blank">B&B-Sticker [pdf]</a></li>
   <li>🗋 B&B-Forderungen als Broschüre <a href="/downloads/BUB_Forderungen_A5_Einzelseiten.pdf" target="blank">Einzelseiten für die Druckerei </a>| <a href="/downloads/BUB_Forderungen_A5_Doppelseiten_Bookletreihenfolge.pdf" target="blank">Doppelseiten zum Selberdrucken</a> [pdf]</li>
   <li>🗋 <a target="_blank" href="/downloads/B&B_Plakat_DIN-A1_CC_181108.pdf">B&B-Plakat</a> [pdf]</li>
-  <li><a href="https://bits-und-baeume.org/infrastruktur/de" target="blank">Tipps des B&B-Teams: nachhaltig organisieren</a></li> 
 </ul>               
               
             </section>
