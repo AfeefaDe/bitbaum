@@ -27,7 +27,7 @@ article .row--forderung > p {
               
         <h2>Organise sustainably</h2>
               <ul>
-                <li><a href="https://bits-und-baeume.org/infrastruktur/de" target="blank">Tipps des B&B-Teams, um nachhaltig zu organisieren</a></li> 
+                <li><a href="https://bits-und-baeume.org/infrastruktur/de" target="blank">Tips of the B&B-Teams to organise sustainably</a></li> 
               </ul>
               
               <h2>B&B Communities</h2>
