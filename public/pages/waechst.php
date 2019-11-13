@@ -31,6 +31,7 @@ article .row--forderung > p {
               </ul>
               
          <h2>B&B Communities</h2>
+         <ul>
               <li><a href="https://dresden.bits-und-baeume.org" target="blank">Bits & Bäume Dresden</a>
     <br>initiated by the Faculty of Computer Science, TU Dresden: Bits&Bäume events on May 23rd and June 20th, Bits&Bäume regular's round </li>
    <li><a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">Bits & Bäume Berlin</a>
