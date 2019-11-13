@@ -1,0 +1,12 @@
+version: '3.7'
+services:
+
+  microsite:
+    container_name: bitbaum
+    build: .
+    image: kollektiv/simple-microsite
+    working_dir: /app
+    volumes:
+      - ../public:/app
+    ports:
+      - "8080:80"
