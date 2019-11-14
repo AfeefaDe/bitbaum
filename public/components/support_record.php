@@ -2,17 +2,24 @@
 
   <p>
   <strong class="index smaller"><?php echo $index ?? '' ?></strong>
-  <!-- <strong class="index smaller">999</strong> -->
   <strong><?php echo $support['name'] ?></strong>
 
   <?php
-if ($support['orga']) {
+  if (!$support['name'] && $support['orga']) {
     if ($support['website']) {
-        echo ' von <a href="' . $support['website'] . '" target="_blank">' . $support['orga'] . '</a>';
+      echo '<a href="' . $support['website'] . '" target="_blank"><strong>' . $support['orga'] . '</strong></a>';
     } else {
-        echo ' von ' . $support['orga'];
+      echo '<strong>' . $support['orga'] . '</strong>';
     }
-}?>
+  }
+  elseif ($support['orga']) {
+      if ($support['website']) {
+          echo ' von <a href="' . $support['website'] . '" target="_blank">' . $support['orga'] . '</a>';
+      } else {
+          echo ' von ' . $support['orga'];
+      }
+  }
+?>
 
   <?php
 $date = strtotime($support['created_at']);
