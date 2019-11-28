@@ -78,7 +78,7 @@ echo "</p>";
                 <h2>Social-ecological objectives in the design of digitization</h2>
                 <div class="row row--forderung">
                     <span>1.</span>
-                    <p>Digitization must serve the common good. It shall not pursue only the promotion of an economic
+                    <p>Digitization must serve the common good. It shall not primarily pursue an economic
                         growth agenda, but must aim to promote social, environmental and development policies as well as
                         peace objectives. Digitization must contribute to a sustainable transformation of energy,
                         transport, agriculture and resource policy. Moreover, digitization shall foster human rights,
