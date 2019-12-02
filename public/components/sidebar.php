@@ -21,7 +21,7 @@
                 
                  <article>
                     <h3 class="bold">[Leipzig, Dec 27-30] <em>Bits&Bäume</em>@Chaos Communication Congress</h3>
-                    <p> <a href="https://www.ccc.de/en/updates/2019/36c3-in-leipzig" target="blank"> This year's motto of the 36C3 is <em>Resource exhaustion</em>. </a> The program will be out soon, including talks by <em>Bits&Bäume</em> speakers and our legendary <em><a href="https://media.ccc.de/v/bub2018-249-sporangium#t=100" target="blank">Sporangium</a></em>!
+                    <p>This year's motto of the 36C3 is <a href="https://www.ccc.de/en/updates/2019/36c3-in-leipzig" target="blank"><em>Resource exhaustion</em>. </a> The program will be out soon, including talks by <em>Bits&Bäume</em> speakers and our legendary <em><a href="https://media.ccc.de/v/bub2018-249-sporangium#t=100" target="blank">Sporangium</a></em>!
                     </p>
                 </article>
 
@@ -69,7 +69,7 @@
                 
                 <article>
                     <h3 class="bold">[Leipzig, 27.-30.12.] <em>Bits&Bäume</em>@Chaos Communication Congress</h3>
-                    <p> <a href="https://www.ccc.de/en/updates/2019/36c3-in-leipzig" target="blank"> Der 36C3 steht unter dem Mott <em>Resource exhaustion</em>. </a> Bald steht das Programm und wird euch mit einigen bekannten <em>Bits&Bäume</em>-Gesichtern überraschen – und einer Neuauflage des <em><a href="https://media.ccc.de/v/bub2018-249-sporangium#t=100" target="blank">Sporangiums</a></em>!
+                    <p>Der 36C3 steht unter dem Motto <a href="https://www.ccc.de/en/updates/2019/36c3-in-leipzig" target="blank"><em>Resource exhaustion</em>. </a> Bald steht das Programm und wird euch mit einigen bekannten <em>Bits&Bäume</em>-Gesichtern überraschen – und einer Neuauflage des <em><a href="https://media.ccc.de/v/bub2018-249-sporangium#t=100" target="blank">Sporangiums</a></em>!
                     </p>
                 </article>
 
