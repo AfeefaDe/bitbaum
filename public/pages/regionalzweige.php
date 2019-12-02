@@ -29,8 +29,12 @@ article .row--forderung > p {
 
             <section><ul>
               <li><a target="_blank" href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin">Berlin</a></li>
-              <li><a href="https://dresden.bits-und-baeume.org/">Dresden</a></li>
-              <li><a href="/infrastruktur/<?php echo $lang; ?>">Hier könnte Dein Regionalzweig stehen...</a></li>
+            <li><a href="https://dresden.bits-und-baeume.org" target="blank">Bits & Bäume Dresden</a>
+            <br>initiated by the Faculty of Computer Science, TU Dresden: Bits&Bäume events on May 23rd and June 20th, Bits&Bäume regular's round </li>
+            <li><a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">Bits & Bäume Berlin</a>
+     <br>initiated by the ASta, TU Berlin: Bits&Bäume regular's round
+              </li>
+              <li><a href="/waechst/<?php echo $lang; ?>">Hier könnte Dein Regionalzweig stehen...</a></li>
             </ul></section>
           </div>
 
@@ -58,9 +62,11 @@ break;
             </section>
 
             <section><ul>
-              <li><a target="_blank" href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-Berlin">Berlin</a></li>
-              <li><a href="https://dresden.bits-und-baeume.org/">Dresden</a></li>
-              <li><a href="/infrastruktur/<?php echo $lang; ?>">Hier könnte Dein Regionalzweig stehen...</a></li>
+    <li><a href="https://dresden.bits-und-baeume.org" target="blank">Bits & Bäume Dresden</a>
+            <br>gegründet an der Fakultät Informatik der TU Dresden: Veranstaltungen am 23. Mai und 20. Juni, Bits&Bäume-Stammtisch</li>
+    <li><a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">Bits & Bäume Berlin</a>
+     <br>gegründet vom AStA der TU Berlin: Bits&Bäume-Stammtisch  
+  </li>
             </ul></section>
           </div>
 
