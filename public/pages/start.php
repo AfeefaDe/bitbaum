@@ -11,13 +11,16 @@
 
                 <div class="row">
                     <p class="square-action">
-                        <a href="/waechst/<?php echo $lang; ?>" class="button">Material / Organize B&B event</a>
-                    </p>       
+                        <a href="/regionalzweige/<?php echo $lang; ?>" class="button" style="text-align: center">local branches</a>
+                    </p>
+                    <p class="square-action">
+                        <a href="/waechst/<?php echo $lang; ?>" class="button">organize B&B event</a>
+                    </p>
                 </div>
                    
                <div>
                       <p class="square-action">
-                        <a href="/regionalzweige/<?php echo $lang; ?>" class="button" style="text-align: center">local branches</a>
+                        <a href="/material/<?php echo $lang; ?>" class="button" style="text-align: center">B&B material</a>
                     </p>
                 </div> 
                
@@ -58,9 +61,16 @@
                 <h4><strong>Bits&Bäume wächst zur Bewegung</strong></h4>
    
                 <div class="row">
-                                       
                     <p class="square-action">
-                        <a href="/waechst/<?php echo $lang; ?>" class="button">Material / Selbst B&B organisieren</a>
+
+                        <a href="/regionalzweige/<?php echo $lang; ?>" class="button" style="text-align: center">local branches</a>
+
+                    </p>
+
+                    <p class="square-action">
+
+                        <a href="/waechst/<?php echo $lang; ?>" class="button">organize B&B event</a>
+
                     </p>
                 </div>
                 
