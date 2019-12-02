@@ -8,6 +8,12 @@
 
             <section class="switch news active">
                 <article>
+                    <h3 class="bold">[Internet]<em>B&B networking</em></h3>
+                    <p>There is a <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="blank">mailing list</a> and a <a href="https://discourse.bits-und-baeume.org" target="blank">discussion board</a>.
+                    </p>
+                </article>
+                
+                <article>
                     <h3 class="bold">[Berlin] series of talks <em>Forum Bits&Bäume</em></h3>
                     <p>For more than two years, together with experts we will set <a href="https://bits-und-baeume.org/forum/de" target="blank">focus more on the sustainable design of digitization</a>.
                     </p>
@@ -50,7 +56,13 @@
             </section> -->
 
             <section class="switch news active">
-
+                <article>
+                    <h3 class="bold">[Internet]<em>Das B&B-Netzwerk</em></h3>
+                    <p>Um uns zu vernetzen haben wir eine <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="blank">Mailingliste</a> und ein <a href="https://discourse.bits-und-baeume.org" target="blank">Diskussionsbrett</a>.
+                    </p>
+                </article>
+                
+                
                 <article>
                     <h3 class="bold">[Berlin] Gesprächsreihe <em>Forum Bits&Bäume</em></h3>
                     <p>Über 2 Jahre hinweg diskutieren wir <a href="https://bits-und-baeume.org/forum/de" target="blank">in Expert*innenrunden die Gestaltung der Digitalisierung</a>. </p>
