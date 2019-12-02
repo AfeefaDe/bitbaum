@@ -18,6 +18,12 @@
                     <p>In <a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">Berlin</a> and <a href="https://dresden.bits-und-baeume.org" target="blank">Dresden</a>, the Bits&Bäume community now meets regularly to discuss, to keep up to date and to plan common events.
                     </p>
                 </article>
+                
+                 <article>
+                    <h3 class="bold">[Leipzig] <em>Bits&Bäume</em>@Chaos Communication Congress</h3>
+                    <p> <a href="https://www.ccc.de/en/updates/2019/36c3-in-leipzig" target="blank"> This year's motto of the 36C3 is Resource exhaustion. </a> The program will be out soon, including talks by <em>Bits&Bäume</em> speakers and our legendary <em><a href="https://media.ccc.de/v/bub2018-249-sporangium#t=100" target="blank">Sporangium"</a></em>!
+                    </p>
+                </article>
 
                 <article>
                     <h3 class="bold">Publication <em>Was Bits&Bäume verbindet</em></h3>
