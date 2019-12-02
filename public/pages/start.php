@@ -39,11 +39,12 @@
                     How can the digital society be democratic and just while peacefully preserving the basis of our
                     lives on this planet?
                 </p>
-                <p><h3 class="bold"><?php echo SupportController::getTotalNumberOfSupports();
-                            ?> supporters of our demands so far.</h3>
-               <br>
-               <a href="/forderungen/<?php echo $lang; ?>">sign</a> as well.
-                    </p>
+                <p>
+                    <h3 class="bold"><?php echo SupportController::getTotalNumberOfSupports();
+                            ?> signees of our demands so far.</h3>
+                     <br>
+                    <a href="/forderungen/<?php echo $lang; ?>">sign</a> as well.
+                </p>
             </article>
         </section>
 
@@ -86,6 +87,12 @@
                     stehen diesen Zielen entgegen oder sind gar kontraproduktiv? Wie kann die digitale Gesellschaft
                     demokratisch und gerecht gestaltet und zugleich darauf ausgerichtet sein, auf friedvolle Weise die
                     Grundlagen unseres Lebens auf diesem Planeten zu bewahren?</p>
+                  <p>
+                    <h3 class="bold"><?php echo SupportController::getTotalNumberOfSupports();
+                            ?> ersonen und Organisationen haben bisher unsere Forderungen unterschrieben.</h3>
+                     <br>
+                    <a href="/forderungen/<?php echo $lang; ?>">Unterschreibe</a> auch du!
+                </p>
             </article>
         </section>
 
