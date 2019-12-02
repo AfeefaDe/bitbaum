@@ -22,7 +22,7 @@
                    
                <div>
                       <p class="square-action">
-                        <a href="/forum/<?php echo $lang; ?>" class="button" style="text-align: center">series of talks <em>Forum Bits&Bäume</em></a>
+                        <a href="/regionalzweige/<?php echo $lang; ?>" class="button" style="text-align: center">local branches</a>
                     </p>
                 </div> 
                
@@ -42,9 +42,10 @@
                 <p>
                     <h3 class="bold"><?php echo SupportController::getTotalNumberOfSupports();
                             ?> signees of our demands so far.</h3>
-                     <br>
-                    <a href="/forderungen/<?php echo $lang; ?>">sign</a> as well.
                 </p>
+                <p class="square-action">
+                        <a href="/forderungen/<?php echo $lang; ?>" class="button" style="text-align: center">Sign our demands</a>
+                    </p>
             </article>
         </section>
 
@@ -73,7 +74,7 @@
                 
                 <div>
                     <p class="square-action">
-                        <a href="/forum/<?php echo $lang; ?>" class="button" style="text-align: center">Gesprächsreihe <em>Forum Bits&Bäume</em></a>
+                        <a href="/regionalzweige/<?php echo $lang; ?>" class="button" style="text-align: center">regionale Zweige</a>
                     </p>
                 </div>
 
@@ -89,7 +90,7 @@
                     Grundlagen unseres Lebens auf diesem Planeten zu bewahren?</p>
                   <p>
                     <h3 class="bold"><?php echo SupportController::getTotalNumberOfSupports();
-                            ?> ersonen und Organisationen haben bisher unsere Forderungen unterschrieben.</h3>
+                            ?> Personen und Organisationen haben bisher unsere Forderungen unterschrieben.</h3>
                      <br>
                     <a href="/forderungen/<?php echo $lang; ?>">Unterschreibe</a> auch du!
                 </p>
