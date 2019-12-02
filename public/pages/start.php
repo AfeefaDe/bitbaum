@@ -41,7 +41,6 @@
                 </p>
             </article>
             <article>
-                    <h3 class="bold">Signees of our demands</h3>
                     <p><?php echo SupportController::getTotalNumberOfSupports();
                             ?> supporters so far.<br>
                         <a href="/forderungen/<?php echo $lang; ?>">sign</a> as well.
