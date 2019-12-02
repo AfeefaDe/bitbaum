@@ -8,13 +8,6 @@
 
             <section class="switch news active">
                 <article>
-                    <h3 class="bold">Signees of our demands</h3>
-                    <p><?php echo SupportController::getTotalNumberOfSupports();
-                            ?> supporters so far, you should <a href="/forderungen/<?php echo $lang; ?>">sign</a> as well.
-                    </p>
-                </article>
-
-                <article>
                     <h3 class="bold">[Berlin] series of talks <em>Forum Bits&Bäume</em></h3>
                     <p>For more than two years, together with experts we will set <a href="https://bits-und-baeume.org/forum/de" target="blank">focus more on the sustainable design of digitization</a>.
                     </p>
