@@ -15,8 +15,8 @@
                 </article>
 
                 <article>
-                    <h3 class="bold">[Oldenburg, Nov 7th, 6pm] guest lecture <em>Nachhaltige Digitalisierung – digitale Nachhaltigkeit</em></h3>
-                    <p> This year's <a href="https://nachhaltigkeit-ol.de/">Sustainability Week at the University of Oldenburg</a> also focusses on digitalization as one of the topics. Main focus of our guest lecture: how it links to sustainability and the Bits&Bäume demands.
+                    <h3 class="bold">[Berlin] series of talks <em>Forum Bits&Bäume</em></h3>
+                    <p>For more than two years, together with experts we will set <a href="https://bits-und-baeume.org/forum/de" target="blank">focus more on the sustainable design of digitization</a>.
                     </p>
                 </article>
 
@@ -65,8 +65,8 @@
                 </article>
 
                 <article>
-                    <h3 class="bold">[Oldenburg, 07.11., 18 Uhr] Gastvorlesung <em>Nachhaltige Digitalisierung – digitale Nachhaltigkeit</em></h3>
-                    <p> Während der <a href="https://nachhaltigkeit-ol.de/">Nachhaltigkeitswoche der Universität Oldenburg </a>steht am Donnerstag das Thema Digitalisierung im Zentrum. Fokus unserer Gastvorlesung: die Bits&Bäume-Forderungen und der Zusammenhang von Digitalisierung und Nachhaltigkeit.</p>
+                    <h3 class="bold">[Berlin] Gesprächsreihe <em>Forum Bits&Bäume</em></h3>
+                    <p>Über 2 Jahre hinweg diskutieren wir <a href="https://bits-und-baeume.org/forum/de" target="blank">in Expert*innenrunden die Gestaltung der Digitalisierung</a>. </p>
                 </article>
 
                 <article>
