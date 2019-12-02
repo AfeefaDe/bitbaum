@@ -22,7 +22,7 @@ article .row--forderung > p {
     <div class="row">
             <section>
               <p> An diesen Orten treffen sich regelmäßig die Regionalzweige der stetig wachsenden Bits&Bäume-Community,
-                um zu diskutieren, sich zusammeln und gemeinsame Veranstaltungen zu planen.
+                um zu diskutieren und gemeinsame Veranstaltungen zu planen.
               </p>
               <a href="https://media.ccc.de/c/bub2018" class="button" target="_blank" style="text-align: center">Los, klick mich!</a>
             </section>
@@ -52,7 +52,7 @@ break;
 
             <section>
               <p> An diesen Orten treffen sich regelmäßig die Regionalzweige der stetig wachsenden Bits&Bäume-Community,
-                um zu diskutieren, sich zusammeln und gemeinsame Veranstaltungen zu planen.
+                um zu diskutieren und gemeinsame Veranstaltungen zu planen.
               </p>
               <a href="https://media.ccc.de/c/bub2018" class="button" target="_blank" style="text-align: center">Los, klick ich!</a>
             </section>
