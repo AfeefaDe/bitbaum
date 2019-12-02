@@ -83,9 +83,9 @@
                   <p class="square-action">
                         <a href="/forderungen/<?php echo $lang; ?>" class="button" style="text-align: center">Forderungen unterzeichnen</a>
                   </p>
-                  <p class="bold">
-                    <?php echo SupportController::getTotalNumberOfSupports();
-                            ?> Personen und Organisationen haben bisher unsere Forderungen unterschrieben.
+                  <p>
+                    <span class="bold"><?php echo SupportController::getTotalNumberOfSupports();
+                        ?> Personen und Organisationen </span>haben bisher unsere Forderungen unterschrieben.
                   </p>
             </article>
         </section>
