@@ -10,14 +10,9 @@
                 <h4><strong>Bits&Bäume becomes a movement</strong></h4>
 
                 <div class="row">
-                     <p class="square-action">
-                        <a href="/forderungen/<?php echo $lang; ?>" class="button" style="text-align: center">Sign our demands</a>
-                    </p>
-                    
                     <p class="square-action">
                         <a href="/waechst/<?php echo $lang; ?>" class="button">Material / Organize B&B event</a>
-                    </p>
-                         
+                    </p>       
                 </div>
                    
                <div>
@@ -42,9 +37,9 @@
                 <p class="square-action">
                         <a href="/forderungen/<?php echo $lang; ?>" class="button" style="text-align: center">Sign our demands</a>
                 </p>
-                <p>
-                    <h3 class="bold"><?php echo SupportController::getTotalNumberOfSupports();
-                            ?> signees of our demands so far.</h3>
+                <p class="bold">
+                    <?php echo SupportController::getTotalNumberOfSupports();
+                            ?> signees supported our demands so far.
                 </p>
             </article>
         </section>
@@ -85,12 +80,12 @@
                     stehen diesen Zielen entgegen oder sind gar kontraproduktiv? Wie kann die digitale Gesellschaft
                     demokratisch und gerecht gestaltet und zugleich darauf ausgerichtet sein, auf friedvolle Weise die
                     Grundlagen unseres Lebens auf diesem Planeten zu bewahren?</p>
-                  <p>
-                    <h3 class="bold"><?php echo SupportController::getTotalNumberOfSupports();
-                            ?> Personen und Organisationen haben bisher unsere Forderungen unterschrieben.</h3>
-                  </p>
                   <p class="square-action">
                         <a href="/forderungen/<?php echo $lang; ?>" class="button" style="text-align: center">Forderungen unterzeichnen</a>
+                  </p>
+                  <p class="bold">
+                    <?php echo SupportController::getTotalNumberOfSupports();
+                            ?> Personen und Organisationen haben bisher unsere Forderungen unterschrieben.
                   </p>
             </article>
         </section>
