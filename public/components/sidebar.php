@@ -8,9 +8,15 @@
 
             <section class="switch news active">
                 <article>
-                    <h3 class="bold">[Internet]<em> B&B network</em></h3>
+                    <h3 class="bold">[Bitland]<em> B&B network</em></h3>
                     <p>For networking there is a <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="blank">mailing list</a> and a <a href="https://discourse.bits-und-baeume.org" target="blank">discussion board</a>.
                     </p>
+                </article>
+                
+                <article>
+                    <h3 class="bold">[Baumland] Publication <em>Was Bits&Bäume verbindet</em></h3>
+                    <p>Our <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank">conference book</a> has been published pushing further the topics of the conference. Thanks to all crowdfunders!
+                    </p>.
                 </article>
                 
                 <article>
@@ -25,11 +31,6 @@
                     </p>
                 </article>
 
-                <article>
-                    <h3 class="bold">Publication <em>Was Bits&Bäume verbindet</em></h3>
-                    <p>Our <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank">conference book</a> has been published pushing further the topics of the conference. Thanks to all crowdfunders!
-                    </p>.
-                </article>
             </section>
 
             <section class="switch twitter">
@@ -57,11 +58,16 @@
 
             <section class="switch news active">
                 <article>
-                    <h3 class="bold">[Internet]<em> Das B&B-Netzwerk</em></h3>
+                    <h3 class="bold">[Bitland]<em> Das B&B-Netzwerk</em></h3>
                     <p>Um uns zu vernetzen, haben wir eine <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="blank">Mailingliste</a> und ein <a href="https://discourse.bits-und-baeume.org" target="blank">Diskussionsbrett</a>.
                     </p>
                 </article>
                 
+                <article>
+                    <h3 class="bold">[Baumland]<em> Was Bits&Bäume verbindet</em> erschienen</h3>
+                    <p>Das <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank">Buch zur Konferenz</a> ist da. Dank an die successfully fundende Crowd!</p>
+                </article>
+               
                 
                 <article>
                     <h3 class="bold">[Berlin] Gesprächsreihe <em>Forum Bits&Bäume</em></h3>
@@ -73,13 +79,6 @@
                     <p>Der 36C3 steht unter dem Motto <a href="https://www.ccc.de/en/updates/2019/36c3-in-leipzig" target="blank"><em>Resource exhaustion</em>. </a> Bald steht das Programm und wird euch mit einigen bekannten <em>Bits&Bäume</em>-Gesichtern überraschen – und einer Neuauflage des <em><a href="https://media.ccc.de/v/bub2018-249-sporangium#t=100" target="blank">Sporangiums</a></em>!
                     </p>
                 </article>
-
-                <article>
-                    <h3 class="bold"><em>Was Bits&Bäume verbindet</em> erschienen</h3>
-                    <p>Das <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank">Buch zur Konferenz</a> ist da. Dank an die successfully fundende Crowd!</p>
-                </article>
-
-
             </section>
 
             <section class="switch twitter">
