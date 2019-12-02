@@ -62,21 +62,16 @@
    
                 <div class="row">
                     <p class="square-action">
-
-                        <a href="/regionalzweige/<?php echo $lang; ?>" class="button" style="text-align: center">local branches</a>
-
+                        <a href="/regionalzweige/<?php echo $lang; ?>" class="button" style="text-align: center">regionale Zweige</a>
                     </p>
-
                     <p class="square-action">
-
-                        <a href="/waechst/<?php echo $lang; ?>" class="button">organize B&B event</a>
-
+                        <a href="/waechst/<?php echo $lang; ?>" class="button">eigene B&B organisieren</a>
                     </p>
                 </div>
                 
                 <div>
                     <p class="square-action">
-                        <a href="/regionalzweige/<?php echo $lang; ?>" class="button" style="text-align: center">regionale Zweige</a>
+                        <a href="/material/<?php echo $lang; ?>" class="button" style="text-align: center">B&B-Material</a>
                     </p>
                 </div>
 
