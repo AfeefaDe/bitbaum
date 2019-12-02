@@ -37,9 +37,9 @@
                 <p class="square-action">
                         <a href="/forderungen/<?php echo $lang; ?>" class="button" style="text-align: center">Sign our demands</a>
                 </p>
-                <p class="bold">
-                    <?php echo SupportController::getTotalNumberOfSupports();
-                            ?> signees supported our demands so far.
+                <p>
+                    <span class="bold"><?php echo SupportController::getTotalNumberOfSupports();
+                        ?> signees </span>supported our political demands so far.
                 </p>
             </article>
         </section>
