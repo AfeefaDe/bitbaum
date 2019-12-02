@@ -17,7 +17,7 @@ article .row--forderung > p {
         ?>
 
   <article>
-    <h1>Retrospect Bits & Bäume 2018</h1>
+    <h1>Regional branches / round tables</h1>
     
     <div class="row">
             <section>
@@ -41,10 +41,10 @@ article .row--forderung > p {
           </div>
 
           <section>
-            <h2>program</h2>
-            <p>Our two-day program contained more than 120 international panels, talks, workshops, forum, philosophical salon, sporangium, concert and a nightly "apero". Numerous organizations, individuals and international speakers shaped the program with their submissions and presented their approaches to sustainable digitization. Together we developed and discussed solutions for a sustainable future, and together we continue to change the world! <br><br>For those who could not join us in Berlin: All talks, panels and discussions on our five stages were recorded by the Video Operation Center of the CCC, a translation of all panels on the Bits&Bäume stage ist available.
+            <h2>Text</h2>
+            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
             </p>
-            <p><a href="/programm/<?php echo $lang; ?>">program description</a></p>
+            <p><a href="/programm/<?php echo $lang; ?>">Link</a></p>
           </section>
   </article>
       <?php
@@ -53,7 +53,7 @@ break;
         ?>
         <article>
 
-          <h1>Rückblick Bits & Bäume 2018</h1>
+          <h1>Regionalzweige / Stammtische</h1>
 
           <div class="row">
 
@@ -77,9 +77,9 @@ break;
           </div>
 
           <section>
-            <h2>Programm</h2>
-            <p>Unser zweitägiges Programm umfasste mehr als 120 international besetzte Panels, Talks, Workshops, Forum, philosophischen Salon, Sporangium, Konzert und Apéro. Zahlreiche Organisationen, Personen und internationale Referierende haben das Programm durch ihre Einreichungen mitgestaltet und ihre Ansätze für eine nachhaltige Digitalisierung mit den Teilnehmenden geteilt. Gemeinsam haben wir an Lösungsideen für eine nachhaltige Zukunft getüftelt und unterstützen einander auch weiterhin dabei, die Welt zu verändern! <br><br>Das Programm unserer fünf Bühnen wurde vom Video Operation Center des CCC aufgezeichnet.</p>
-            <p><a href="/programm/<?php echo $lang; ?>">Programmbeschreibung</a></p>
+            <h2>Text</h2>
+            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+            <p><a href="/programm/<?php echo $lang; ?>">Link</a></p>
           </section>
 
         </article>
