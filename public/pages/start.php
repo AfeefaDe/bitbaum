@@ -39,13 +39,11 @@
                     How can the digital society be democratic and just while peacefully preserving the basis of our
                     lives on this planet?
                 </p>
-            </article>
-            <article>
-                    <p><?php echo SupportController::getTotalNumberOfSupports();
+                <p><?php echo SupportController::getTotalNumberOfSupports();
                             ?> supporters so far.<br>
                         <a href="/forderungen/<?php echo $lang; ?>">sign</a> as well.
                     </p>
-                </article>
+            </article>
         </section>
 
         <section class="square quotes">
