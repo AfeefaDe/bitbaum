@@ -8,7 +8,7 @@
 
             <section class="switch news active">
                 <article>
-                    <h3 class="bold">[Internet]<em>B&B networking</em></h3>
+                    <h3 class="bold">[Internet]<em> B&B network</em></h3>
                     <p>There is a <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="blank">mailing list</a> and a <a href="https://discourse.bits-und-baeume.org" target="blank">discussion board</a>.
                     </p>
                 </article>
@@ -57,7 +57,7 @@
 
             <section class="switch news active">
                 <article>
-                    <h3 class="bold">[Internet]<em>Das B&B-Netzwerk</em></h3>
+                    <h3 class="bold">[Internet]<em> Das B&B-Netzwerk</em></h3>
                     <p>Um uns zu vernetzen haben wir eine <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="blank">Mailingliste</a> und ein <a href="https://discourse.bits-und-baeume.org" target="blank">Diskussionsbrett</a>.
                     </p>
                 </article>
