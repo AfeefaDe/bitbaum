@@ -98,7 +98,7 @@ break;
               <ul>
                 <li>unsere <a href="/forderungen/<?php echo $lang; ?>" target="blank">Forderungen!</a>
                 </li>
-                <li>die <a href="https://media.ccc.de/c/bub2018" target="blank">Video-Aufzeichnungen</a> der Konferenz 2018 auf media.ccc.de – 1001 Dank ans <a href="https://c3voc.de/" target="blank">VOC</a>!
+                <li>die <a href="https://media.ccc.de/c/bub2018" target="blank">Aufzeichnungen</a> der Konferenz 2018 auf media.ccc.de – 1001 Dank ans <a href="https://c3voc.de/" target="blank">VOC</a>!
                 </li>
                 <li>unsere Konferenz-Publikation <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank"><em>Was Bits&Bäume verbindet</em></a>
                 </li> 
