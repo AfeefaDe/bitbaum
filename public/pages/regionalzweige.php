@@ -52,7 +52,8 @@ break;
           <h1>Regionale Zweige und Stammtische</h1>
     <div class="row">
             <section>
-                <p> Die Bits&Bäume-Community wächst! Du willst mitmachen? In einigen Städten gibt es erste regionale Zweige mit eigenen Stammtischen zum Diskutieren und um zusammen Vorträge oder eigenen kleinen Konferenzen zu planen. Schließ dich an!
+                <p> Die Bits&Bäume-Community wächst! 
+                  <br>Du willst mitmachen? In einigen Städten gibt es erste regionale Zweige mit eigenen Stammtischen zum Diskutieren und um zusammen Vorträge oder eigene Konferenzen zu planen. Schließ dich an!
                 </p>
             </section>
 
@@ -69,9 +70,9 @@ break;
           </div>
           <section>
             <h2>Noch kein Bits&Bäume-Sprössling in deiner Nähe?</h2>
-                <p>Dann gründe einen! Unter <a href="/waechst/<?php echo $lang; ?>" target="blank"><em> Bits&Bäume wächst</em></a> findest du die Bedingungen für eigenen Bits&Bäume-Aktionen. Melde dich mit den guten Nachrichten, dass es Zuwachs gibt und wie mensch euch findet, unter <a href="mailto:bewegung@bits-und-baeume.org">bewegung@bits-und-baeume.org</a>, dann nehmen wir euch gerne in die Liste auf. 
+                <p>Dann gründe einen! Unter <a href="/waechst/<?php echo $lang; ?>" target="blank"><em> Bits&Bäume wächst</em></a> findest du die Bedingungen für eigene Bits&Bäume-Aktionen. Melde dich mit den guten Nachrichten, dass es Zuwachs gibt und wie mensch euch findet, unter <a href="mailto:bewegung@bits-und-baeume.org">bewegung@bits-und-baeume.org</a>, dann nehmen wir euch in die Liste auf. 
                 </p>
-                <p> Außerdem kannst du bei unserer <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="blank">Mailingliste</a> anmelden oder in unserem<a href="https://discourse.bits-und-baeume.org/" target=blank">Bits&Bäume-Online-Forum </a>aktiv werden und dich vernetzen. 
+                <p> Außerdem kannst du dich bei unserer <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="blank">Mailingliste</a> anmelden oder in unserem<a href="https://discourse.bits-und-baeume.org/" target=blank">Bits&Bäume-Online-Forum </a>aktiv werden und dich vernetzen. 
               </p>   
           </section>
 
