@@ -31,7 +31,7 @@ article .row--forderung > p {
                 <br>Our first regular's round, initiated by the Faculty of Computer Science, TU Dresden, after two Bits&Bäume events on May 23rd and June 20th. Meeting at the University of Dresden.
               </li>
               <li><a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">Bits & Bäume Berlin</a>
-                  <br>Regular's round, initiated by the ASta, TU Berlin. There are also workshops, and the Berlin branch set up our <a href="https://discourse.bits-und-baeume.org/" target=blank">online discussion board</a> – yay! They are meeting at the TU Berlin.
+                  <br>Regular's round, initiated by the ASta, TU Berlin. There are also workshops, and the Berlin branch set up our <a href="https://discourse.bits-und-baeume.org/" target="blank">online discussion board</a> – yay! They are meeting at the TU Berlin.
               </li>
               <li><a href="/waechst/<?php echo $lang; ?>" target="blank">Who will be next? :)</a>
               </li>
