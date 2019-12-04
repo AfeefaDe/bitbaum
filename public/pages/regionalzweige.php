@@ -33,7 +33,7 @@ article .row--forderung > p {
               <li><a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">Bits & Bäume Berlin</a>
                   <br>Regular's round, initiated by the ASta, TU Berlin. There are also workshops, and the Berlin branch set up our <a href="https://discourse.bits-und-baeume.org/" target=blank">online discussion board</a> – yay! They are meeting at the TU Berlin.
               </li>
-              <li><a href="/waechst/en<?php echo $lang; ?>">Who will be next? :)</a>
+              <li><a href="/waechst/<?php echo $lang; ?>" target="blank">Who will be next? :)</a>
               </li>
               </ul></section>
           </div>
@@ -65,7 +65,7 @@ break;
                <li><a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">Bits & Bäume Berlin</a>
                 <br>Stammtisch gegründet vom AStA der TU Berlin, trifft sich – Achtung, Ortswechsel! – an der TU Berlin. Außerdem gibt es unregelmäßig verschiedene Workshops und die Berliner*innen haben das <a href="https://discourse.bits-und-baeume.org/" target=blank">Bits&Bäume-Online-Forum </a>aufgesetzt. Danke! :)  
               </li>
-              <li><a href="/waechst/<?php echo $lang; ?>">Hier könnte dein Wohnort stehen! :)</a>
+              <li><a href="/waechst/<?php echo $lang; ?>" target="blank">Hier könnte dein Wohnort stehen! :)</a>
               </li>
             </ul></section>
           </div>
