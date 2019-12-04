@@ -34,7 +34,7 @@ article .row--forderung > p {
 
               <h2>Bits&Bäume roots </h2>
               <ul>
-                <li>our <a href="/forderungen/<?php echo $lang; ?" target="blank">political demands!</a>
+                <li>our <a href="/forderungen/<?php echo $lang; ?>" target="blank">political demands!</a>
                 </li>
                 <li><a href="https://media.ccc.de/c/bub2018" target="blank">recordings</a> of the 2018 conference on media.ccc.de – 1001 thanks to the <a href="https://c3voc.de/" target="blank">VOC</a>!
                 </li>
@@ -44,9 +44,9 @@ article .row--forderung > p {
 
               <h2>growing limbs and future branches</h2>
               <ul>
-                <li><a href="/regionalzweige/<?php echo $lang; ?" target="blank">regular's rounds</a>
+                <li><a href="/regionalzweige/<?php echo $lang; ?>" target="blank">regular's rounds</a>
                 </li>
-                <li><a href="/material/<?php echo $lang; ?" target="blank">B&B material for your own events, from logo to sticker</a>
+                <li><a href="/material/<?php echo $lang; ?>" target="blank">B&B material for your own events, from logo to sticker</a>
                 </li> 
               </ul>     
               
@@ -104,7 +104,7 @@ break;
               
               <h2>Was bleibt</h2>
               <ul>
-                <li>unsere <a href="/forderungen/<?php echo $lang; ?" target="blank">Forderungen!</a>
+                <li>unsere <a href="/forderungen/<?php echo $lang; ?>" target="blank">Forderungen!</a>
                 </li>
                 <li>die <a href="https://media.ccc.de/c/bub2018" target="blank">Video-Aufzeichnungen</a> der Konferenz 2018 auf media.ccc.de – 1001 Dank ans <a href="https://c3voc.de/" target="blank">VOC</a>!
                 </li>
@@ -114,9 +114,9 @@ break;
               
                 <h2>Was ist und was folgt</h2>
               <ul>
-                <li><a href="/regionalzweige/<?php echo $lang; ?" target="blank">Stammtische</a>
+                <li><a href="/regionalzweige/<?php echo $lang; ?>" target="blank">Stammtische</a>
                 </li>
-                <li><a href="/material/<?php echo $lang; ?" target="blank">B&B-Material für deine eignen Aktionen vom Logo bis zum Sticker</a>
+                <li><a href="/material/<?php echo $lang; ?>" target="blank">B&B-Material für deine eignen Aktionen vom Logo bis zum Sticker</a>
                 </li> 
               </ul>
   
