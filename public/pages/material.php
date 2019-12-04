@@ -22,7 +22,7 @@ article .row--forderung > p {
             <section>
               <p>You plan to organise a Bits&Bäume event, a round table, a conference, a discussion evening or a panel? Great! 
               </p>
-              <p>You already know <a href=/waechst/<?php echo $lang; ?>" target="blank">what is important to us</a>, if you want to name your new branch <em>Bits&Bäume</em>? Even better!
+              <p>You already know <a href=/waechst/en<?php echo $lang; ?>" target="blank">what is important to us</a>, if you want to name your new branch <em>Bits&Bäume</em>? Even better!
               </p>
               <p>Here you find whatever you might need to plant your own Bits&Bäume seed.</p>
             </section>
@@ -61,7 +61,7 @@ article .row--forderung > p {
             <h2>May your seed grow well!</h2>
             Your B&B-Team
             <p>If you suspect helpful information from us or want to inform us about a new Bits&Bäume event, please feel free to contact us: At <a href="mailto:bewegung@bits-und-baeume.org">bewegung@bits-und-baeume.org</a> you can currently reach Juliane (OKF) and Rainer (FIfF). 
-                <br>If you use <a href="https://twitter.com/hashtag/bitsundbaeume">#bitsundbäume</a>on twitter, all Bits&Bäume followers will be able to find you, as we will.
+                <br>If you use <a href="https://twitter.com/hashtag/bitsundbaeume">#bitsundbäume</a> on twitter, all Bits&Bäume followers will be able to find you, as we will.
             </p>
           </section>
 
