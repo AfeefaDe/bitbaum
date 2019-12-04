@@ -17,7 +17,7 @@ article .row--forderung > p {
         ?>
 
 <article>
-          <h1>The Bits & Bäume grows to become a movement!</h1>
+          <h1>Whatever you might need for a new Bits&Bäume branch</h1>
           <div class="row">
             <section>
               <p>We, the initiators of the first Bits & Bäume Conference, decided to <strong>release the idea of Bits & Bäume into freedom so that it can continue to grow and prosper.</strong></p>
@@ -30,14 +30,7 @@ article .row--forderung > p {
                 <li><a href="https://bits-und-baeume.org/infrastruktur/de" target="blank">Tips of the B&B-Teams to organise sustainably</a></li> 
               </ul>
               
-         <h2>B&B Communities</h2>
-         <ul>
-              <li><a href="https://dresden.bits-und-baeume.org" target="blank">Bits & Bäume Dresden</a>
-    <br>initiated by the Faculty of Computer Science, TU Dresden: Bits&Bäume events on May 23rd and June 20th, Bits&Bäume regular's round </li>
-   <li><a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">Bits & Bäume Berlin</a>
-     <br>initiated by the ASta, TU Berlin: Bits&Bäume regular's round
-     </li>
-</ul>
+        
 <ul>
    <h2>B&B materials</h2>
  <ul>
@@ -86,30 +79,31 @@ break;
     default:
         ?>
         <article>
-          <h1>Die Bits & Bäume wächst zur Bewegung!</h1>
+          <h1>Alles, was du brauchst für deinen Bits&Bäume-Zweig</h1>
           <div class="row">
             <section>
-              <p>Wir Initiator*innen der ersten Bits&Bäume-Konferenz haben uns entschieden, <strong>die Idee der Bits & Bäume in die Freiheit zu entlassen, auf dass sie weiter wachsen und gedeihen kann.</strong></p>
-              <p>Über ein Jahr lang haben wir als Team aus 10 Organisationen daran gearbeitet, die Bits&Bäume 2018 aus der Taufe zu heben – das war sehr bereichernd für uns, aber auch viel Arbeit, gerade weil so unterschiedliche Organisationen an einem Tisch saßen. Wir bekommen viele freudige Hoffnungsbekundungen auf eine Wiederholung 2019, was uns sehr freut, allerdings können wir leider diese gemeinsame Arbeit nicht langfristig in unseren Arbeitsalltag integrieren. Aber die Bits & Bäume war auch eine <strong>Konferenz von uns allen für uns alle!</strong> Nehmt den Faden also doch einfach auf, gründet einen Stammtisch in eurer Stadt, organisiert eine kleinere oder größere Veranstaltung, einen Diskussionsabend, erklärt auf Panels, warum und wie Digitalisierung und Nachhaltigkeit zusammengehören, lasst uns weiterhin unter <a href="https://twitter.com/hashtag/bitsundbaeume">#bitsundbäume</a> Ideen und Fortschritte austauschen, denkt euch neue Vernetzungsformate aus.</p>
+              <p>Du willst eine eigene Veranstaltung, einen Stammtisch, eine Konferenz, einen Diskussionsabend, ein Panel zum Thema organisieren? Großartig! Du hast schon <a href=/waechst/<?php echo $lang; ?>" target="blank">gelesen, was für uns wichtig ist, damit du deinen Zweig wirklich <em>Bits&Bäume</em> nennen kannst? Noch viel besser!
+                <br>Hier findest du Material von A wie Anreisekarte (siehe <a href="https://bits-und-baeume.org/infrastruktur/de" target="blank">nachhaltig organissieren</a>) bis Z wie zwitschern <a href="https://twitter.com/hashtag/bitsundbaeume">(#bitsundbäume)</a> 
+              </p>
             </section>
             <section>
               <h2>Nachhaltig organisieren</h2>
               <ul>
-                <li><a href="https://bits-und-baeume.org/infrastruktur/de" target="blank">Tipps des B&B-Teams, um nachhaltig zu organisieren</a></li> 
+                <li><a href="https://bits-und-baeume.org/infrastruktur/de" target="blank">Tipps des B&B-Teams, was nachhaltig organisieren alles heißen kann, von Kollektiven bis zur Open Street Map</a></li> 
               </ul>
               
-              <h2>B&B-Sporen</h2>
-<ul>
-    <li><a href="https://dresden.bits-und-baeume.org" target="blank">Bits & Bäume Dresden</a>
-    <br>gegründet an der Fakultät Informatik der TU Dresden: Veranstaltungen am 23. Mai und 20. Juni, Bits&Bäume-Stammtisch</li>
+              <h2>Input finden</h2>
+                <li>B&B-Publikation <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank"><em>Was Bits&Bäume verbindet</em></a>: die Themen der Konferenz zum Nachlesen und Vertiefen
+                </li>
+                <li>die Referent*innen der Bits&Bäume 2018 im <a href="https://fahrplan.bits-und-baeume.org/speakers.html" target="blank">Fahrplan</a> scouten
+                </li>
+                <li><a href="https://media.ccc.de/c/bub2018" target="blank">Aufzeichnungen</a> der Konferenz 2018 und anderer Vorträge rund um Bits&Bäume und verwandte Stichworte auf <a href="https://media.ccc.de/search/?q=b%C3%A4ume" target="blank">media.ccc.de</a> durchklicken
+                </li>
+                <li>das Bits&Bäume-Vortrags-Team anfragen, um die Ziele von Bits&Bäume und den Zusammenhang von Bit&Baum zu erklären (Mailadresse folgt!)
+                </li>
 
-  <li><a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">Bits & Bäume Berlin</a>
-     <br>gegründet vom AStA der TU Berlin: Bits&Bäume-Stammtisch
-  </li>
-</ul>
-                <h2>B&B-Material</h2>           
+                <h2>B&B-Material zum Leuchten oder Drucken</h2>           
  <ul>
-  <li>B&B-Publikation <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank"><em>Was Bits&Bäume verbindet</em></a>: die Themen der Konferenz zum Nachlesen und Vertiefen</li>            
   <li>🗋 B&B-Logo Solo: <a target="_blank" href="/downloads/B&B_Logo_RGB.pdf">[pdf/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_CMYK.pdf">[pdf/print]</a> | <a target="_blank" href="/downloads/B&B_Logo_RGB.svg">[svg/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_CMYK.eps">[eps/print]</a></li>
   <li>🗋 B&B-Logo mit Konferenz-Untertitel: <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_RGB.pdf">[pdf/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_CMYK.pdf">[pdf/print]</a> | <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_CMYK.eps">[eps/print]</a></li>
   <li>🗋 <a href="/downloads/BUB_Sticker_zeitlos.pdf" target="blank">B&B-Sticker [pdf]</a></li>
@@ -120,32 +114,11 @@ break;
             </section>
           </div>
           <section>
-              <h2>Was heißt das nun konkret?</h2>
-              <ul>
-                  <li><strong>Inhaltliche Ausrichtung</strong>: Ihr könnt den Namen für alle Aktionen weiterverwenden, sofern sie an der Schnittstelle zwischen kritischer Digitalisierung und Nachhaltigkeit liegen. </li>
-                  <li><strong>Basisarbeit</strong>: Als Beitragende und Teilnehmende wendet ihr euch primär an Aktivist*innen, die wachsende Bits&Bäume-Community, die Wissenschaft und an uns alle als Zivilgesellschaft.</li>
-                  <li><strong>Forderungen weitertragen</strong>: Bedingung ist, dass ihr euch hinter unsere <a href="https://bits-und-baeume.org/forderungen/">Forderungen</a> stellt und diese bzw. deren Inhalte thematisch wesentlich für eure Aktion sind.</li>
-                  <li><strong>Dem eigenen Anspruch folgen</strong>: Wir haben versucht, die Konferenz so nachhaltig wie möglich zu gestalten: von veganer und ökologischer Verpflegung über die Zusammenarbeit mit Kollektiven bis hin zur Nutzung freier Lizenzen und Software – das wünschen wir uns auch von allen nachfolgenden Aktionen. Dokumentation, Tipps und Anregungen haben wir <a href="https://bits-und-baeume.org/infrastruktur/">hier zusammengetragen</a>; Ergänzungen und Hinweise erwünscht!</li>
-              </ul>
-          </section>
-          <section>
-<h2>Folgendes legen wir Euch zusätzlich ans Herz</h2>
-<ul>
-    <li><strong>Beteiligung fördern</strong>: Falls ihr eine Konferenz inkl. Vorträgen und Workshops veranstaltet, startet bitte einen Aufruf zur Beteiligung am Programm und verbreitet ihn so weit ihr könnt – denn nur so könnt ihr auch Ideen und Menschen einbeziehen, die ihr noch nicht kennt und es können neue Netzwerke entstehen. </li>
-    <li>V<strong>ernetzung ermöglichen</strong>: Sorgt auch vor Ort explizit für Zeit und Raum zum Austausch und für Vernetzung. Verwendet gern und viel den Hashtag <a href="https://twitter.com/hashtag/bitsundbaeume">#bitsundbäume</a>, z.B. auf Mastodon, Twitter oder Diaspora; wir greifen das via @bitsundbaeume gerne auf. </li>
-    <li>Wenn ihr ein größeres Event plant, richten wir euch bei Bedarf eine <strong>Subdomain unter bits-und-baeume.org</strong> ein, die dann auf eure Seite zeigt. Diese verlinken wir außerdem prominent auf der B&B-Hauptseite in einer Übersicht der nächsten Aktionen. Bitte denkt an ein eigenes Impressum und eine Datenschutzerklärung.</li>
-</ul>
-          </section>
+              <h2>Frohes Wachsen und Gedeihen!</h2>
+           wünscht euch euer B&B-Team</p>
+           <p>Wenn ihr sonstige hilfreiche Informationen bei uns vermutet oder eine Bits&Bäume-Veranstaltung ankündigen wollt, dann meldet euch gerne: Unter <a href="mailto:bewegung@bits-und-baeume.org">bewegung@bits-und-baeume.org</a> erreicht ihr aktuell Juliane (OKF) und Rainer (FIfF). 
+           </p>
 
-          <section>
-<p>Wir wollen explizit nicht, dass der Name für Formate verwendet wird, auf denen sich Tech-Giganten einkaufen können und auf denen Politiker*innen Raum bekommen, für sich und ihre Partei zu werben statt ernsthaft zu diskutieren. Diese Gruppen haben genug andere Möglichkeiten, sich Gehör zu verschaffen, sind aber als mitdenkende Besucher*innen freilich stets willkommen. <br />
-Wir wollen mit allen an diesem Ziel arbeiten, die sich mit ganzem Herzen einer für alle lebenswerten materiellen und immateriellen Welt verschrieben haben. </p>
-
-<p>Wenn ihr Anregungen braucht oder hilfreiche Informationen bei uns vermutet, dann meldet euch gerne: Unter <a href="mailto:bewegung@bits-und-baeume.org">bewegung@bits-und-baeume.org</a> erreicht ihr aktuell Juliane (OKF) und Rainer (FIfF). </p>
-
-<p>Wir träumen davon, dass der Bits & Bäume 2018 weit mehr Aktionen folgen werden als wir selbst je organisieren könnten! Dezentral und doch verbunden.</p>
-<p>Lasst uns weiter zusammen(-)wachsen!<br />
-Euer B&B-Team</p>
           </section>
 
         </article>
