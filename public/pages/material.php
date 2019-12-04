@@ -22,7 +22,7 @@ article .row--forderung > p {
             <section>
               <p>You plan to organise a Bits&Bäume event, a round table, a conference, a discussion evening or a panel? Great! 
               </p>
-              <p>You already know <a href="/waechst/en<?php echo $lang; ?>" target="blank">what is important to us</a>, if you want to name your new branch <em>Bits&Bäume</em>? Even better!
+              <p>You already know <a href="/waechst/<?php echo $lang; ?>" target="blank">what is important to us</a>, if you want to name your new branch <em>Bits&Bäume</em>? Even better!
               </p>
               <p>Here you find whatever you might need to plant your own Bits&Bäume seed.</p>
             </section>
