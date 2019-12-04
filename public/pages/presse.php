@@ -2,7 +2,7 @@
     case "en":
         ?>
         <article>
-            <h1>Press & Public Relations</h1>
+            <h1>Press & Public Relations of the Bits&Bäume conference 2018</h1>
             <div class="row">
               <section>
                   <h2>Press Contact</h2>
@@ -55,7 +55,7 @@ break;
     default:
         ?>
         <article>
-          <h1>Presse & Öffentlichkeitsarbeit</h1>
+          <h1>Presse & Öffentlichkeitsarbeit der Bits&Bäume-Konferenz 2018</h1>
           <div class="row">
             <section>
               <h2>Pressekontakt</h2>
