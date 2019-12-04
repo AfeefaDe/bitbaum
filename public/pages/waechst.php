@@ -43,7 +43,7 @@ article .row--forderung > p {
                 </li> 
                 <li><a href="/material/<?php echo $lang; ?>" target="blank">B&B material for your own events (from logo to sticker)</a>
                 </li> 
-                <li>growing branches:<a href="/regionalzweige/<?php echo $lang; ?>" target="blank"> regular's rounds</a>
+                <li>growing branches: <a href="/regionalzweige/<?php echo $lang; ?>" target="blank">regular's rounds</a>
                 </li>
               </ul>   
               
@@ -100,7 +100,7 @@ break;
                 </li>
                 <li>die <a href="https://media.ccc.de/c/bub2018" target="blank">Video-Aufzeichnungen</a> der Konferenz 2018 auf media.ccc.de – 1001 Dank ans <a href="https://c3voc.de/" target="blank">VOC</a>!
                 </li>
-                <li>unsere Konferenz-Publikation<a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank"><em>Was Bits&Bäume verbindet</em></a>
+                <li>unsere Konferenz-Publikation <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank"><em>Was Bits&Bäume verbindet</em></a>
                 </li> 
               </ul>
               
@@ -108,9 +108,9 @@ break;
                 <ul>
                 <li><a href="https://bits-und-baeume.org/infrastruktur/de" target="blank">nachhaltig organisieren</a>: Tipps des B&B-Teams, um einzelne Veranstaltungen oder ganze Konferenzen nachhaltig zu machen</a>
                 </li>  
-                <li><a href="/material/<?php echo $lang; ?>" target="blank">B&B-Material für deine eignen Aktionen vom Logo bis zum Sticker</a>
+                <li><a href="/material/<?php echo $lang; ?>" target="blank">B&B-Material</a> für deine eignen Aktionen (Logo bis Sticker)
                 </li> 
-                <li>neue Triebe:<a href="/regionalzweige/<?php echo $lang; ?>" target="blank"> Stammtische</a>
+                <li>neue Triebe: <a href="/regionalzweige/<?php echo $lang; ?>" target="blank">Stammtische</a>
                 </li>
               </ul>
   
