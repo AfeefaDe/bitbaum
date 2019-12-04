@@ -21,7 +21,8 @@ article .row--forderung > p {
     
     <div class="row">
             <section>
-              <p> Die Bits&Bäume-Community grows! You want to join? There are some first regional branches, meeting regularly for discussions or to plan talks, workshops or their own local conferences. Be part of our movement!
+              <p> Die Bits&Bäume-Community grows! 
+                <br>You want to join? There are some first regional branches, meeting regularly for discussions or to plan talks, workshops or their own local conferences. Be part of our movement!
               </p>
             </section>
 
@@ -38,8 +39,8 @@ article .row--forderung > p {
           </div>
 
           <section>
-            <h2>No Bits&Bäume branch nearby?</h2>
-                <p>Found your own regular's round! In our section <a href="/waechst/en<?php echo $lang; ?>" target="blank"><em> Bits&Bäume movement</em></a>, you can read more about what to do to organize your own Bits&Bäume formats. There is also a <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="blank">mailing list</a> as well as a <a href="https://discourse.bits-und-baeume.org/" target=blank">online discussion board</a>. 
+            <h2>No Bits&Bäume nearby?</h2>
+                <p>Found your own regular's round! In our section <a href="/waechst/en<?php echo $lang; ?>" target="blank"><em> Bits&Bäume movement</em></a>, you can read more about what to do to organize your own Bits&Bäume formats. There is also a <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="blank">mailing list</a> as well as an <a href="https://discourse.bits-und-baeume.org/" target=blank">online discussion board</a>. 
                 </p>   
           </section>
   </article>
