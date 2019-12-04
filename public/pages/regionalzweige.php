@@ -73,7 +73,7 @@ break;
             <h2>Noch kein Bits&Bäume-Sprössling in deiner Nähe?</h2>
                 <p>Dann gründe einen! Unter <a href="/waechst/<?php echo $lang; ?>" target="blank"><em> Bits&Bäume wächst</em></a> findest du die Bedingungen für eigene Bits&Bäume-Aktionen. Melde dich mit den guten Nachrichten, dass es Zuwachs gibt und wie mensch euch findet, unter <a href="mailto:bewegung@bits-und-baeume.org">bewegung@bits-und-baeume.org</a>, dann nehmen wir euch in die Liste auf. 
                 </p>
-                <p> Außerdem kannst du dich bei unserer <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="blank">Mailingliste</a> anmelden oder in unserem<a href="https://discourse.bits-und-baeume.org/" target=blank">Bits&Bäume-Online-Forum </a>aktiv werden und dich vernetzen. 
+                <p> Außerdem kannst du dich bei unserer <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="blank">Mailingliste</a> anmelden oder in unserem <a href="https://discourse.bits-und-baeume.org/" target=blank">Bits&Bäume-Online-Forum </a>aktiv werden und dich vernetzen. 
               </p>   
           </section>
 
