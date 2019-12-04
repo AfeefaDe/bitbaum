@@ -79,20 +79,25 @@ break;
     default:
         ?>
         <article>
-          <h1>Alles, was du brauchst für deinen Bits&Bäume-Zweig</h1>
+          <h1>Material für deinen Bits&Bäume-Zweig</h1>
           <div class="row">
             <section>
-              <p>Du willst eine eigene Veranstaltung, einen Stammtisch, eine Konferenz, einen Diskussionsabend, ein Panel zum Thema organisieren? Großartig! Du hast schon <a href=/waechst/<?php echo $lang; ?>" target="blank">gelesen, was für uns wichtig ist, damit du deinen Zweig wirklich <em>Bits&Bäume</em> nennen kannst? Noch viel besser!
-                <br>Hier findest du Material von A wie Anreisekarte (siehe <a href="https://bits-und-baeume.org/infrastruktur/de" target="blank">nachhaltig organissieren</a>) bis Z wie zwitschern <a href="https://twitter.com/hashtag/bitsundbaeume">(#bitsundbäume)</a> 
+              <p>Du willst eine eigene Veranstaltung, einen Stammtisch, eine Konferenz, einen Diskussionsabend, ein Panel im Sinne von Bits&Bäume organisieren? Großartig! 
+              </p>
+              <p>Du hast schon <a href=/waechst/<?php echo $lang; ?>" target="blank">gelesen, was für uns wichtig ist</a>, damit du deinen Zweig wirklich <em>Bits&Bäume</em> nennen kannst? Noch viel besser!
+              </p>
+              <p>Hier findest du Material von A wie Anreisekarte (siehe <a href="https://bits-und-baeume.org/infrastruktur/de" target="blank">nachhaltig organissieren</a>) bis Z wie zwitschern <a href="https://twitter.com/hashtag/bitsundbaeume">(#bitsundbäume)</a> 
               </p>
             </section>
             <section>
               <h2>Nachhaltig organisieren</h2>
               <ul>
-                <li><a href="https://bits-und-baeume.org/infrastruktur/de" target="blank">Tipps des B&B-Teams, was nachhaltig organisieren alles heißen kann, von Kollektiven bis zur Open Street Map</a></li> 
+                <li><a href="https://bits-und-baeume.org/infrastruktur/de" target="blank">Tipps des B&B-Teams</a>, was nachhaltig organisieren alles heißen kann, von Kollektiven bis zur Open Street Map
+                </li> 
               </ul>
               
               <h2>Input finden</h2>
+              <ul>
                 <li>B&B-Publikation <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank"><em>Was Bits&Bäume verbindet</em></a>: die Themen der Konferenz zum Nachlesen und Vertiefen
                 </li>
                 <li>die Referent*innen der Bits&Bäume 2018 im <a href="https://fahrplan.bits-und-baeume.org/speakers.html" target="blank">Fahrplan</a> scouten
@@ -101,15 +106,16 @@ break;
                 </li>
                 <li>das Bits&Bäume-Vortrags-Team anfragen, um die Ziele von Bits&Bäume und den Zusammenhang von Bit&Baum zu erklären (Mailadresse folgt!)
                 </li>
+              </ul>
 
-                <h2>B&B-Material zum Leuchten oder Drucken</h2>           
- <ul>
-  <li>🗋 B&B-Logo Solo: <a target="_blank" href="/downloads/B&B_Logo_RGB.pdf">[pdf/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_CMYK.pdf">[pdf/print]</a> | <a target="_blank" href="/downloads/B&B_Logo_RGB.svg">[svg/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_CMYK.eps">[eps/print]</a></li>
-  <li>🗋 B&B-Logo mit Konferenz-Untertitel: <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_RGB.pdf">[pdf/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_CMYK.pdf">[pdf/print]</a> | <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_CMYK.eps">[eps/print]</a></li>
-  <li>🗋 <a href="/downloads/BUB_Sticker_zeitlos.pdf" target="blank">B&B-Sticker [pdf]</a></li>
-  <li>🗋 B&B-Forderungen als Broschüre <a href="/downloads/BUB_Forderungen_A5_Einzelseiten.pdf" target="blank">Einzelseiten für die Druckerei </a>| <a href="/downloads/BUB_Forderungen_A5_Doppelseiten_Bookletreihenfolge.pdf" target="blank">Doppelseiten zum Selberdrucken</a> [pdf]</li>
-  <li>🗋 <a target="_blank" href="/downloads/B&B_Plakat_DIN-A1_CC_181108.pdf">B&B-Plakat</a> [pdf]</li>
-</ul>               
+              <h2>B&B-Material zum Leuchten oder Drucken</h2>           
+              <ul>
+                <li>🗋 B&B-Logo Solo: <a target="_blank" href="/downloads/B&B_Logo_RGB.pdf">[pdf/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_CMYK.pdf">[pdf/print]</a> | <a target="_blank" href="/downloads/B&B_Logo_RGB.svg">[svg/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_CMYK.eps">[eps/print]</a></li>
+                <li>🗋 B&B-Logo mit Konferenz-Untertitel: <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_RGB.pdf">[pdf/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_CMYK.pdf">[pdf/print]</a> | <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_CMYK.eps">[eps/print]</a></li>
+                <li>🗋 <a href="/downloads/BUB_Sticker_zeitlos.pdf" target="blank">B&B-Sticker [pdf]</a></li>
+                <li>🗋 B&B-Forderungen als Broschüre <a href="/downloads/BUB_Forderungen_A5_Einzelseiten.pdf" target="blank">Einzelseiten für die Druckerei </a>| <a href="/downloads/BUB_Forderungen_A5_Doppelseiten_Bookletreihenfolge.pdf" target="blank">Doppelseiten zum Selberdrucken</a> [pdf]</li>
+                <li>🗋 <a target="_blank" href="/downloads/B&B_Plakat_DIN-A1_CC_181108.pdf">B&B-Plakat</a> [pdf]</li>
+              </ul>               
               
             </section>
           </div>
