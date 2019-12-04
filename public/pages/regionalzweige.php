@@ -33,7 +33,7 @@ article .row--forderung > p {
               <li><a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">Bits & Bäume Berlin</a>
                   <br>Regular's round, initiated by the ASta, TU Berlin. There are also workshops, and the Berlin branch set up our <a href="https://discourse.bits-und-baeume.org/" target=blank">online discussion board</a> – yay! They are meeting at the TU Berlin.
               </li>
-              <li><a href="/waechst/<?php echo $lang; ?>">Who will be next? :)</a>
+              <li><a href="/waechst/en<?php echo $lang; ?>">Who will be next? :)</a>
               </li>
               </ul></section>
           </div>
