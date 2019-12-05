@@ -24,7 +24,10 @@ article .row--forderung > p {
               </p>
               <p>You already know <a href="/waechst/<?php echo $lang; ?>" target="blank">what is important to us</a>, if you want to name your new branch <em>Bits&Bäume</em>? Even better!
               </p>
-              <p>Here you find whatever you might need to plant your own Bits&Bäume seed.</p>
+              <p>Here you find whatever you might need to plant your own Bits&Bäume seed.
+              </p>
+              <p>Or you are just looking for speakers, topics or tips for your own event? Fine for us, too :)
+              </p>
             </section>
                 
             <section>
@@ -78,6 +81,8 @@ break;
               </p>
               <p>Du hast schon <a href=/waechst/<?php echo $lang; ?>" target="blank">gelesen, was für uns wichtig ist</a>, damit du deinen Zweig wirklich <em>Bits&Bäume</em> nennen kannst? Noch viel besser!
               </p>
+              <p>Du suchst einfach nur nach Ideen für deine eigene Veranstaltung? Auch gut :)
+              </p>
               <p>Hier findest du Material von A wie Anreisekarte (siehe <a href="https://bits-und-baeume.org/infrastruktur/de" target="blank">nachhaltig organisieren</a>) bis Z wie zwitschern <a href="https://twitter.com/hashtag/bitsundbaeume">(#bitsundbäume)</a> 
               </p>
             </section>
@@ -88,7 +93,7 @@ break;
                 </li> 
               </ul>
               
-              <h2>Input finden</h2>
+              <h2>Referent*innen und Themen finden</h2>
               <ul>
                 <li>B&B-Publikation <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank"><em>Was Bits&Bäume verbindet</em></a>: die Themen der Konferenz zum Nachlesen und Vertiefen
                 </li>
