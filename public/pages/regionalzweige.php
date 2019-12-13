@@ -69,7 +69,7 @@ break;
                 <br>Stammtisch gegründet vom AStA der TU Berlin, trifft sich – Achtung, Ortswechsel! – an der TU Berlin. Außerdem gibt es unregelmäßig verschiedene Workshops und die Berliner*innen haben das <a href="https://discourse.bits-und-baeume.org/" target=blank">Bits&Bäume-Online-Forum </a>aufgesetzt. Danke! :)  
               </li>
               <li><a href="http://bits-und-baeume-hannover.org/" target="blank">Bits & Bäume Hannover</a>
-                  <br>entstnden aus einer regionalen gruppe von <a href="https://ccc.de/schule" target="blank">Chaos macht Schule</a>. Trifft sich in den Räumen des CCC Hannover.
+                  <br>entstanden aus einer regionalen Gruppe von <a href="https://ccc.de/schule" target="blank">Chaos macht Schule</a>. Trifft sich in den Räumen des CCC Hannover.
               </li>
               <li><a href="/waechst/<?php echo $lang; ?>" target="blank">Hier könnte dein Wohnort stehen! :)</a>
               </li>
