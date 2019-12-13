@@ -33,6 +33,9 @@ article .row--forderung > p {
               <li><a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">Bits & Bäume Berlin</a>
                   <br>Regular's round, initiated by the ASta, TU Berlin. There are also workshops, and the Berlin branch set up our <a href="https://discourse.bits-und-baeume.org/" target="blank">online discussion board</a> – yay! They are meeting at the TU Berlin.
               </li>
+              <li><a href="http://bits-und-baeume-hannover.org/" target="blank">Bits & Bäume Hannover</a>
+                  <br>Regular's round, initiated by Chaos macht Schule. 
+              </li>
               <li><a href="/waechst/<?php echo $lang; ?>" target="blank">Who will be next? :)</a>
               </li>
               </ul></section>
@@ -64,6 +67,9 @@ break;
                 </li>
                <li><a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">Bits & Bäume Berlin</a>
                 <br>Stammtisch gegründet vom AStA der TU Berlin, trifft sich – Achtung, Ortswechsel! – an der TU Berlin. Außerdem gibt es unregelmäßig verschiedene Workshops und die Berliner*innen haben das <a href="https://discourse.bits-und-baeume.org/" target=blank">Bits&Bäume-Online-Forum </a>aufgesetzt. Danke! :)  
+              </li>
+              <li><a href="http://bits-und-baeume-hannover.org/" target="blank">Bits & Bäume Hannover</a>
+                  <br>entstnden aus einer regionalen gruppe von <a href="https://ccc.de/schule" target="blank">Chaos macht Schule</a>. Trifft sich in den Räumen des CCC Hannover.
               </li>
               <li><a href="/waechst/<?php echo $lang; ?>" target="blank">Hier könnte dein Wohnort stehen! :)</a>
               </li>
