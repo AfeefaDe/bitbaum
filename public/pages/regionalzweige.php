@@ -66,7 +66,7 @@ break;
                   <br>war der erste Stammtisch! :) Gegründet von der Fakultät Informatik der TU Dresden nach zwei eigenen Bits&Bäume-Veranstaltungen am 23. Mai und 20. Juni 2019. Trifft sich an der Uni Dresden.
                 </li>
                <li><a href="https://asta.tu-berlin.de/aktuelles/bitsundb-ume-erster-stammtisch-berlin" target="blank">Bits & Bäume Berlin</a>
-                <br>Stammtisch gegründet vom AStA der TU Berlin, trifft sich – Achtung, Ortswechsel! – an der TU Berlin. Außerdem gibt es unregelmäßig verschiedene Workshops und die Berliner*innen haben das <a href="https://discourse.bits-und-baeume.org/" target=blank">Bits&Bäume-Online-Forum </a>aufgesetzt. Danke! :)  
+                <br>B&B-Plattform gegründet vom AStA der TU Berlin, trifft sich – Achtung, Ortswechsel! – an der TU Berlin. Außerdem gibt es unregelmäßig verschiedene Workshops und die Berliner*innen haben das <a href="https://discourse.bits-und-baeume.org/" target=blank">Bits&Bäume-Online-Forum </a>aufgesetzt. Danke! :)  
               </li>
               <li><a href="http://bits-und-baeume-hannover.org/" target="blank">Bits & Bäume Hannover</a>
                   <br>entstanden aus einer regionalen Gruppe von <a href="https://ccc.de/schule" target="blank">Chaos macht Schule</a>. Trifft sich in den Räumen des CCC Hannover.
