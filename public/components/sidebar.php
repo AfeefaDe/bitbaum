@@ -12,29 +12,34 @@
                     <p>For networking there is a <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="blank">mailing list</a> and a <a href="https://discourse.bits-und-baeume.org" target="blank">discussion board</a>.
                     </p>
                 </article>
-                
+
                 <article>
                     <h3 class="bold">[Baumland] Publication <em>Was Bits&Bäume verbindet</em></h3>
                     <p>Our <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank">conference book</a> has been published pushing further the topics of the conference. Thanks to all crowdfunders!
                     </p>.
                 </article>
-                
+
                  <article>
                     <h3 class="bold">[Leipzig, Dec 27-30] <em>Bits&Bäume</em>@Chaos Communication Congress</h3>
                     <p>This year's motto of the 36C3 is <a href="https://www.ccc.de/en/updates/2019/36c3-in-leipzig" target="blank"><em>Resource exhaustion</em>. </a> The program will be out soon, including talks by <em>Bits&Bäume</em> speakers and our legendary <em><a href="https://media.ccc.de/v/bub2018-249-sporangium#t=100" target="blank">Sporangium</a></em>!
                     </p>
                 </article>
-                
+
                 <article>
-                    <h3 class="bold">[Berlin, Jan 1st, 2020] Workshop Day</h3>
-                    <p>The Berlin Bits&Bäume plattform is going to arganise a <a href="https://discourse.bits-und-baeume.org/t/2020-01-24-2020-01-26-workshoptag/53/4" target="blank">Bits&Bäume day </a> with Marius Renner (WBGU). Meeting Point: < a href="https://gies.se/" target="blank">Alte Gießerei</a>, support and participation welcome!</p>
+                    <h3 class="bold">[Berlin, Jan 20, 2020] Talk „Our common digital future“ by WBGU</h3>
+                    <p>The Berlin Bits&Bäume platform invites to the talk „Our common digital future“ by Marcel Dorsch (Wissenschaftlicher Beirat der Bundesregierung Globale Umweltveränderungen, WBGU) <a href="https://discourse.bits-und-baeume.org/t/2020-01-20-bits-baeume-berlin-talk-our-common-digital-future-wbgu/" target="blank">-> Details</a></p>
+                </article>
+
+                <article>
+                    <h3 class="bold">[Berlin, Jan 25, 2020] Workshop Day</h3>
+                    <p>The Berlin Bits&Bäume plattform invites to a workshop day about sustainability and digitalisation <a href="https://discourse.bits-und-baeume.org/t/25-01-2020-workshoptag/53" target="blank">-> Details</p>
                 </article>
 
                 <article>
                     <h3 class="bold">[Berlin] series of talks <em>Forum Bits&Bäume</em></h3>
                     <p>For more than two years, together with experts we will set <a href="https://bits-und-baeume.org/forum/de" target="blank">focus more on the sustainable design of digitization</a>.
                     </p>
-                </article>                
+                </article>
 
             </section>
 
@@ -67,23 +72,28 @@
                     <p>Um uns zu vernetzen, haben wir eine <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="blank">Mailingliste</a> und ein <a href="https://discourse.bits-und-baeume.org" target="blank">Diskussionsbrett</a>.
                     </p>
                 </article>
-                
+
                 <article>
                     <h3 class="bold">[Baumland]<em> Was Bits&Bäume verbindet</em> erschienen</h3>
                     <p>Das <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank">Buch zur Konferenz</a> ist da. Dank an die successfully fundende Crowd!</p>
                 </article>
-                
+
                 <article>
                     <h3 class="bold">[Leipzig, 27.-30.12.] <em>Bits&Bäume</em>@Chaos Communication Congress</h3>
                     <p>Der 36C3 steht unter dem Motto <a href="https://www.ccc.de/en/updates/2019/36c3-in-leipzig" target="blank"><em>Resource exhaustion</em>. </a> Bald steht das Programm und wird euch mit einigen bekannten <em>Bits&Bäume</em>-Gesichtern überraschen – und einer Neuauflage des <em><a href="https://media.ccc.de/v/bub2018-249-sporangium#t=100" target="blank">Sporangiums</a></em>!
                     </p>
                 </article>
-              
+
                 <article>
-                    <h3 class="bold">[Berlin, 25.01.2020] Workshoptag</h3>
-                    <p>Die Berliner Bits&Bäume-Plattform organisiert einen <a href="https://discourse.bits-und-baeume.org/t/2020-01-24-2020-01-26-workshoptag/53/4" target="blank">Bits&Bäume-Tag</a> mit Marius Renner (WBGU) in der <a href="https://gies.se/" target="blank">Alten Gießerei</a>. Unterstützung und Teilnahme willkommen.</p>
+                    <h3 class="bold">[Berlin, 20.01.2020] Vortrag „Our common digital future“ by WBGU</h3>
+                    <p>Die Berliner Bits&Bäume-Plattform lädt ein zum Vortrag „Our common digital future“ von Marcel Dorsch (Wissenschaftlicher Beirat der Bundesregierung Globale Umweltveränderungen, WBGU)! <a href="https://discourse.bits-und-baeume.org/t/2020-01-20-bits-baeume-berlin-talk-our-common-digital-future-wbgu/" target="blank">Details.</a></p>
                 </article>
-                
+
+                <article>
+                    <h3 class="bold">[Berlin, 25.01.2020, 2020] Workshop-Tag "Digitalisierung & Nachhaltigkeit"</h3>
+                    <p>Die Berliner Bits&Bäume-Plattform lädt ein zum Workshop-Tag über Digitalisierung & Nachhaltigkeit! <a href="https://discourse.bits-und-baeume.org/t/25-01-2020-workshoptag/53" target="blank">Details.</p>
+                </article>
+
                 <article>
                     <h3 class="bold">[Berlin] Gesprächsreihe <em>Forum Bits&Bäume</em></h3>
                     <p>Über 2 Jahre hinweg diskutieren wir <a href="https://bits-und-baeume.org/forum/de" target="blank">in Expert*innenrunden die Gestaltung der Digitalisierung</a>. </p>
