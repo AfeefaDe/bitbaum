@@ -16,7 +16,7 @@
                 <article>
                     <h3 class="bold">[Baumland] Publication <em>Was Bits&Bäume verbindet</em></h3>
                     <p>Our <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank">conference book</a> has been published pushing further the topics of the conference. Thanks to all crowdfunders!
-                    </p>.
+                    </p>
                 </article>
 
                  <article>
