@@ -49,7 +49,7 @@ article .row--forderung > p {
                 </li>
               </ul>
                
-              <h2>B&B materials for screens and paper</h2>
+              <h2>B&B materials for screens and paper (CC BY Schauschau.cc)</h2>
               <ul>
                 <li>🗋 B&B-Logo solo: <a target="_blank" href="/downloads/B&B_Logo_RGB.pdf">[pdf/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_CMYK.pdf">[pdf/print]</a> | <a target="_blank" href="/downloads/B&B_Logo_RGB.svg">[svg/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_CMYK.eps">[eps/print]</a></li>
                 <li>🗋 B&B-Logo with German conference subtitle: <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_RGB.pdf">[pdf/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_CMYK.pdf">[pdf/print]</a> | <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_CMYK.eps">[eps/print]</a></li>      
@@ -105,7 +105,7 @@ break;
                 </li>
               </ul>
 
-              <h2>B&B-Material zum Leuchten oder Drucken</h2>           
+              <h2>B&B-Material zum Leuchten oder Drucken (CC BY Schauschau.cc)</h2>           
               <ul>
                 <li>🗋 B&B-Logo Solo: <a target="_blank" href="/downloads/B&B_Logo_RGB.pdf">[pdf/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_CMYK.pdf">[pdf/print]</a> | <a target="_blank" href="/downloads/B&B_Logo_RGB.svg">[svg/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_CMYK.eps">[eps/print]</a></li>
                 <li>🗋 B&B-Logo mit Konferenz-Untertitel: <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_RGB.pdf">[pdf/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_CMYK.pdf">[pdf/print]</a> | <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_CMYK.eps">[eps/print]</a></li>
