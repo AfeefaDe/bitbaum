@@ -21,12 +21,12 @@
 
                 <article>
                     <h3 class="bold">[Berlin, Feb 23, 2020] Bitland meets Baumland</h3>
-                    <p>The Berlin Bits&Bäume platform invites people from the land of IT ("Bitland") and people with environmental interests (from "Baumland") to identify how they can support each other. The topic to focus on will be decided at the beginning of the meeting. So bring your topic and join!<a href="https://discourse.bits-und-baeume.org/t/2020-02-23-bitland-trifft-baumland-11-00-uhr-alte-giesserei-berlin/296" target="blank">-> Details</a></p>
+                    <p>The Berlin Bits & Bäume platform invites people from the land of IT ("Bitland") and people with environmental interests (from "Baumland") to identify how they can support each other. The topic to focus on will be decided at the beginning of the meeting. So bring your topic and join! <a href="https://discourse.bits-und-baeume.org/t/2020-02-23-bitland-trifft-baumland-11-00-uhr-alte-giesserei-berlin/296" target="blank">-> Details</a></p>
                 </article>
 
                 <article>
                     <h3 class="bold">[Berlin, Mar 02, 2020] Monthly meeting B&B Berlin</h3>
-                    <p>The Berlin Bits & Bäume platform invites interested people to get to know whats happening in the local B&B branch in Berlin. Everyone welcome!<a href="https://discourse.bits-und-baeume.org/t/stammtisch-berlin-tbd/270" target="blank">-> Details</a></p>
+                    <p>The Berlin Bits & Bäume platform invites interested people to get to know whats happening in the local B&B branch in Berlin. Everyone welcome! <a href="https://discourse.bits-und-baeume.org/t/stammtisch-berlin-tbd/270" target="blank">-> Details</a></p>
                 </article>
 
                 <article>
@@ -74,12 +74,12 @@
 
                 <article>
                     <h3 class="bold">[Berlin, Feb 23, 2020] Bitland trifft Baumland</h3>
-                    <p>Die Berliner Bits&Bäume Plattform lädt Menschen aus dem Informatik-Land ("Bitland") und Menschen mit Umwelt-Interessen (aus "Baumland") ein, um gegenseitige Unterstützungs-Möglichkeiten auszuloten. Welche Themen dafür angegangen werden, wird am Beginn des Treffens gemeinschaftlich entschieden. Bring also dein Thema mit und komm dazu!<a href="https://discourse.bits-und-baeume.org/t/2020-02-23-bitland-trifft-baumland-11-00-uhr-alte-giesserei-berlin/296" target="blank">-> Details</a></p>
+                    <p>Die Berliner Bits & Bäume Plattform lädt Menschen aus dem Informatik-Land ("Bitland") und Menschen mit Umwelt-Interessen (aus "Baumland") ein, um gegenseitige Unterstützungs-Möglichkeiten auszuloten. Über die Themen wird vor Ort gemeinschaftlich entschieden. Bring also dein Thema mit und komm dazu! <a href="https://discourse.bits-und-baeume.org/t/2020-02-23-bitland-trifft-baumland-11-00-uhr-alte-giesserei-berlin/296" target="blank">-> Details</a></p>
                 </article>
 
                 <article>
-                    <h3 class="bold">[Berlin, Mar 02, 2020] Monatliches Treffe meeting B&B Berlin</h3>
-                    <p>Die Berliner Bits&Bäume Plattform lädt alle Interessierten ein, die mehr über die aktuellen Projekte der Berliner Bits & Bäume wissen möchten. Kommt vorbei, jeder ist willkommen! <a href="https://discourse.bits-und-baeume.org/t/stammtisch-berlin-tbd/270" target="blank">-> Details</a></p>
+                    <h3 class="bold">[Berlin, Mar 02, 2020] Monatliches Treffen B&B Berlin</h3>
+                    <p>Die Berliner Bits & Bäume Plattform lädt alle Interessierten ein, die mehr über die aktuellen Projekte der Berliner Bits & Bäume wissen möchten. Kommt vorbei, jeder ist willkommen! <a href="https://discourse.bits-und-baeume.org/t/stammtisch-berlin-tbd/270" target="blank">-> Details</a></p>
                 </article>
 
                 <article>
