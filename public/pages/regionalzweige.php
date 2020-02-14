@@ -31,7 +31,7 @@ article .row--forderung > p {
                 <br>Our first regular's round, initiated by the Faculty of Computer Science, TU Dresden, after two Bits&Bäume events on May 23rd and June 20th. Meeting at the University of Dresden.
               </li>
               <li><a href="https://berlin.bits-und-baeume.org/" target="blank">Bits & Bäume Berlin</a>
-                  <br>B&B local platform, initiated by the ASta of TU Berlin. They organize events & workshops. The Berlin branch set up our <a href="https://discourse.bits-und-baeume.org/" target="blank">online discussion board</a> and an instance for <a href="mastodon.bits-und-baeume.org/">Mastodon</a> as an alternative to Twitter – yay!
+                  <br>B&B local platform, initiated by the ASta of TU Berlin. They organize events & workshops. The Berlin branch set up our <a href="https://discourse.bits-und-baeume.org/" target="blank">online discussion board</a> and an instance for <a href="https://mastodon.bits-und-baeume.org/">Mastodon</a> as an alternative to Twitter – yay!
               </li>
               <li><a href="http://bits-und-baeume-hannover.org/" target="blank">Bits & Bäume Hannover</a>
                   <br>Regular's round, initiated by Chaos macht Schule.
@@ -66,7 +66,7 @@ break;
                   <br>war der erste Stammtisch! :) Gegründet von der Fakultät Informatik der TU Dresden nach zwei eigenen Bits&Bäume-Veranstaltungen am 23. Mai und 20. Juni 2019. Trifft sich an der Uni Dresden.
                 </li>
                <li><a href="https://berlin.bits-und-baeume.org/" target="blank">Bits & Bäume Berlin</a>
-                <br>Lokale Bits&Bäume Plattform gegründet vom AStA der TU Berlin. Es werden Veranstaltungen & Workshops organisiert. Die Berliner*innen haben das <a href="https://discourse.bits-und-baeume.org/" target=blank">Bits&Bäume-Online-Forum</a> und eine <a href="mastodon.bits-und-baeume.org/">Mastodon-Instanz als Twitter-Alternative</a> aufgesetzt. Danke! :)
+                <br>Lokale Bits&Bäume Plattform gegründet vom AStA der TU Berlin. Es werden Veranstaltungen & Workshops organisiert. Die Berliner*innen haben das <a href="https://discourse.bits-und-baeume.org/" target=blank">Bits&Bäume-Online-Forum</a> und eine <a href="https://mastodon.bits-und-baeume.org/">Mastodon-Instanz als Twitter-Alternative</a> aufgesetzt. Danke! :)
               </li>
               <li><a href="http://bits-und-baeume-hannover.org/" target="blank">Bits & Bäume Hannover</a>
                   <br>entstanden aus einer regionalen Gruppe von <a href="https://ccc.de/schule" target="blank">Chaos macht Schule</a>. Trifft sich in den Räumen des CCC Hannover.
