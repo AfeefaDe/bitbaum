@@ -9,7 +9,7 @@
             <section class="switch news active">
                 <article>
                     <h3 class="bold">[Bitland]<em> B&B network</em></h3>
-                    <p>For networking there is a <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="blank">mailing list</a> and a <a href="https://discourse.bits-und-baeume.org" target="blank">discussion board</a>.
+                    <p>For networking there is a <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="blank">mailing list</a>, a <a href="https://matrix.to/#/#bitsundbaeume:matrix.org" target="blank">Matrix chat</a> and a <a href="https://discourse.bits-und-baeume.org" target="blank">discussion board</a>.
                     </p>
                 </article>
 
@@ -63,7 +63,7 @@
             <section class="switch news active">
                 <article>
                     <h3 class="bold">[Bitland]<em> Das B&B-Netzwerk</em></h3>
-                    <p>Um uns zu vernetzen, haben wir eine <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="blank">Mailingliste</a> und ein <a href="https://discourse.bits-und-baeume.org" target="blank">Diskussionsbrett</a>.
+                    <p>Um uns zu vernetzen, haben wir eine <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="blank">Mailingliste</a>, einen <a href="https://matrix.to/#/#bitsundbaeume:matrix.org" target="blank">Matrix-Chat</a> und ein <a href="https://discourse.bits-und-baeume.org" target="blank">Diskussionsbrett</a>.
                     </p>
                 </article>
 
