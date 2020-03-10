@@ -24,7 +24,7 @@
 
         <article>
 
-            <h1>Forum Bits & Bäume 2019</h1>
+            <h1>Forum Bits & Bäume 2019 / 2020</h1>
 
             <div class="row">
 
@@ -101,7 +101,7 @@
     ?>
         <article>
 
-            <h1>Forum Bits & Bäume 2019</h1>
+            <h1>Forum Bits & Bäume 2019 / 2020</h1>
 
             <div class="row">
 
