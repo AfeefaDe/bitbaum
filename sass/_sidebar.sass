@@ -2,7 +2,7 @@ aside
   box-shadow: rgba(0,0,0,0.2) 0 0 10px
   overflow-y: hidden
   position: absolute
-  
+
   &.fixed
     position: fixed
     @media #{$mobile}
@@ -22,14 +22,14 @@ aside
     p
       font-size: $larger
       margin: 0 0 .5em
-  
+
   section.switch
     margin: 7.5vmax calc(2.5vmax - 1rem) 0 2.5vmax
     height: calc(100vh - 10rem - 10vmax)
     overflow: hidden
     display: none
     position: absolute
-    
+
     &.active
       display: flex
       flex-direction: column
@@ -50,7 +50,7 @@ aside
       margin: 0 0 .3em
     header
       font-size: $smaller
-  
+
   section.program
     address
       display: inline-block
@@ -58,7 +58,6 @@ aside
     .square-action
       margin: 0
 
-  
   section.twitter
     flex-wrap: wrap
 
@@ -66,7 +65,7 @@ aside
       display: flex
       justify-content: space-between
       margin: .3em 0 0
-      
+
       address
         background-image: url(/img/tweet-blue.svg)
         background-repeat: no-repeat
@@ -84,15 +83,15 @@ aside
     width: 100%
     bottom: 0
 
-    @media #{$mobile}
-      position: relative
-    
     background-color: $alpha-blue-light
-    
+
     display: flex
     justify-content: space-around
     align-items: center
-    
+
+    @media #{$mobile}
+      position: relative
+
     & > div
       cursor: pointer
       opacity: .5
@@ -106,11 +105,11 @@ aside
       background-position: center
       height: 2rem
     .news .icon
-        background-image: url(/img/news.svg)
+      background-image: url(/img/news.svg)
     .program .icon
-        background-image: url(/img/program.svg)
+      background-image: url(/img/program.svg)
     .twitter .icon
-        background-image: url(/img/tweet.svg)
+      background-image: url(/img/tweet.svg)
     p
       text-align: center
       font-weight: $regular

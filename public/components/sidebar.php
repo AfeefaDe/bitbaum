@@ -1,7 +1,7 @@
 <aside>
     <?php switch ($lang) {
         case "en":
-            ?>
+    ?>
 
             <!-- <section class="stats">
             </section> -->
@@ -26,7 +26,7 @@
 
                 <article>
                     <h3 class="bold">Series of talks <em>Forum Bits&Bäume</em> in Berlin</h3>
-                    <p>For more than two years, together with experts we will set <a href="https://bits-und-baeume.org/forum/de" target="blank">focus more on the sustainable design of digitization</a>.
+                    <p>For more than two years, together with experts we will set <a href="/forum/<?php echo $lang; ?>">focus more on the sustainable design of digitization</a>.
                     </p>
                 </article>
 
@@ -50,7 +50,7 @@
         <?php
             break;
         default:
-            ?>
+        ?>
 
             <!-- <section class="stats">
             </section> -->
@@ -74,7 +74,7 @@
 
                 <article>
                     <h3 class="bold">Berliner Gesprächsreihe <em>Forum Bits&Bäume</em></h3>
-                    <p>Über 2 Jahre hinweg diskutieren wir <a href="https://bits-und-baeume.org/forum/de" target="blank">in Expert*innenrunden die Gestaltung der Digitalisierung</a>.</p>
+                    <p>Über 2 Jahre hinweg diskutieren wir <a href="/forum/<?php echo $lang; ?>">in Expert*innenrunden die Gestaltung der Digitalisierung</a>.</p>
                 </article>
             </section>
 
@@ -93,7 +93,7 @@
                     <p>#bitsundbäume</p>
                 </div>
             </div>
-        <?php } ?>
+    <?php } ?>
 
 </aside>
 
@@ -139,8 +139,7 @@
     function switchSidebar() {
         if ($news.hasClass('active')) {
             showTwitter();
-        }
-        else {
+        } else {
             showNews();
         }
 

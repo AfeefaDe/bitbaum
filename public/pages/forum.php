@@ -3,6 +3,10 @@
         list-style-type: "➤ ";
     }
 
+    .event {
+        margin-bottom: 5rem;
+    }
+
     .event h2 {
         margin-top: 0.5em;
     }
@@ -16,7 +20,7 @@
 </style>
 <?php switch ($lang) {
     case "en":
-        ?>
+?>
 
         <article>
 
@@ -32,13 +36,31 @@
                 <section>
                     <p class="bold">Next events</p>
                     <ul>
-                        <li>January 27th, 2019 in Berlin</li>
+                        <li>April 23rd, 2020 in Berlin</li>
                     </ul>
                 </section>
             </div>
 
             <section>
                 <p class="heading">Current event</p>
+
+                <div class="row event">
+                    <div>
+                        <h2>Durable, open, repairable and data-saving. Design options for sustainable hardware and software</h2>
+                        <p>Digital technologies lead to ever increasing consumption of energy and resources. In addition to the use of technical devices and digital services, the way in which software is programmed and hardware is materially equipped and how it is licensed plays a major role. Compulsory software updates, which make ever new demands on hardware while at the same time ending support for the previous software solution, are an example of how users are forced to replace hardware that is still intact with new devices. If more and more everyday objects are connected to each other, the problem of increasing energy and resource consumption for more and more devices becomes more acute. How can hardware and software be made sustainable? In the production and use of hardware, aspects such as durability, reparability and the sparing use of resources play a decisive role. With software, it is not only a question of energy saving, but also of long-term updateability, data compression or even transparency and autonomy. An important step is to think the material and immaterial basis of digitisation more closely together. In the 3rd Forum Bits & Bäume we discuss design options for sustainable hardware and software and existing approaches for open hardware and software, which are often practiced in Fab-Labs and Maker-Spaces for example, as well as challenges for political regulation. We want to discuss existing frameworks such as the "Right to Repair", the Eco-Design Directive or the dertificate “Blue Angel” for software and explore new possibilities.</p>
+                    </div>
+                    <div>
+                        <p><span class="bold">April 23rd, 2020</span> / 4-7 pm</p>
+                        <p>at the Einstein Center Digital Future<br>Wilhelmstraße 67, 10117 Berlin</p>
+                        <p><a class="button" href="https://www.nachhaltige-digitalisierung.de/bits-baeume/forum-bits-baeume.html" target="_blank">Register here</a></p>
+                        <p class="smaller">The registration will be opened shortly.</p>
+                    </div>
+                </div>
+
+            </section>
+
+            <section>
+                <p class="heading">Past Events</p>
 
                 <div class="row event">
                     <div>
@@ -49,14 +71,9 @@
                     <div>
                         <p><span class="bold">January 27th, 2020</span> / 4-7 pm</p>
                         <p>at the Einstein Center Digital Future<br>Wilhelmstraße 67, 10117 Berlin</p>
-                        <p><a class="button" href="https://www.nachhaltige-digitalisierung.de/bits-baeume/forum-bits-baeume.html" target="_blank">Register here</a></p>
+                        <p><a class="button" href="https://www.nachhaltige-digitalisierung.de/bits-baeume/forum-bits-baeume.html" target="_blank">Further information</a></p>
                     </div>
                 </div>
-
-            </section>
-
-            <section>
-                <p class="heading">Past Events</p>
 
                 <div class="row event">
                     <div>
@@ -81,7 +98,7 @@
     <?php
         break;
     default:
-        ?>
+    ?>
         <article>
 
             <h1>Forum Bits & Bäume 2019</h1>
@@ -96,13 +113,31 @@
                 <section>
                     <p class="bold">Nächste Termine</p>
                     <ul>
-                        <li>27.01.2020 in Berlin</li>
+                        <li>23.04.2020 in Berlin</li>
                     </ul>
                 </section>
             </div>
 
             <section>
                 <p class="heading">Aktuelle Veranstaltung</p>
+
+                <div class="row event">
+                    <div>
+                        <h2>Langlebig, offen, reparabel und datensparsam. Gestaltungsoptionen für nachhaltige Hard- und Software</h2>
+                        <p>Digitale Technologien führen zu immer mehr Energie- und Ressourcenverbräuchen. Neben der Nutzung technischer Geräte und digitaler Dienste spielt vor allem eine Rolle, wie Software programmiert und Hardware materiell ausgestattet ist und wie diese lizensiert sind. Verpflichtende Softwareupdates, die immer neue Anforderungen an die Hardware stellen, bei gleichzeitigem Support-Ende für die bisherige Softwarelösung, sind ein Beispiel dafür wie Nutzer*innen gezwungen werden eigentlich noch intakte Hardware durch Neugeräte zu ersetzen. Werden immer mehr Alltaggegenstände miteinander vernetzt, so verschärft sich die Problematik des steigenden Energie- und Ressourcenverbrauches für immer mehr Geräte. Wie können Hard- und Software nachhaltig gestaltet werden? Bei der Herstellung und Nutzung von Hardware spielen Aspekte wie Langlebigkeit, Reparierbarkeit und der schonende Einsatz von Ressourcen eine entscheidende Rolle. Bei Software geht es neben der Energiesparsamkeit auch um langfristige Updatefähigkeit, Datenkomprimierung oder auch Transparenz und Autonomie. Ein wichtiger Schritt ist die materielle und die immaterielle Basis der Digitalisierung stärker zusammenzudenken. Im 3. Forum Bits & Bäume diskutieren wir Gestaltungsoptionen für nachhaltige Hard- und Software und bestehende Ansätze für offene Hard- und Software, die beispielsweise in Fab-Labs und Maker-Spaces vielfach praktiziert werden sowie Herausforderungen für die politische Regulierung. Wir wollen bereits vorhandene Rahmensetzungen wie etwa das „Right to Repair“, die Eco-Design-Richtlinie oder den Blauen Engel für Software diskutieren und neue Möglichkeiten ausloten.</p>
+                    </div>
+                    <div>
+                        <p><span class="bold">23. April 2020</span> / 16-19 Uhr</p>
+                        <p>im Einstein Center Digital Future<br>Wilhelmstraße 67, 10117 Berlin</p>
+                        <p><a class="button" href="https://www.nachhaltige-digitalisierung.de/bits-baeume/forum-bits-baeume.html" target="_blank">Zur Anmeldung</a></p>
+                        <p class="smaller">Die Anmeldung wird in Kürze eröffnet.</p>
+                    </div>
+                </div>
+
+            </section>
+
+            <section>
+                <p class="heading">Vergangene Veranstaltungen</p>
 
                 <div class="row event">
                     <div>
@@ -113,14 +148,9 @@
                     <div>
                         <p><span class="bold">27. Januar 2020</span> / 16-19 Uhr</p>
                         <p>im Einstein Center Digital Future<br>Wilhelmstraße 67, 10117 Berlin</p>
-                        <p><a class="button" href="https://www.nachhaltige-digitalisierung.de/bits-baeume/forum-bits-baeume.html" target="_blank">Zur Anmeldung</a></p>
+                        <p><a class="button" href="https://www.nachhaltige-digitalisierung.de/bits-baeume/forum-bits-baeume.html" target="_blank">Weitere Infos</a></p>
                     </div>
                 </div>
-
-            </section>
-
-            <section>
-                <p class="heading">Vergangene Veranstaltungen</p>
 
                 <div class="row event">
                     <div>
@@ -142,4 +172,4 @@
             </section>
 
         </article>
-    <?php } ?>
+<?php } ?>
