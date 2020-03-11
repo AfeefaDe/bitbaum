@@ -4,26 +4,23 @@
 
 <?php switch ($lang) {
     case "en":
-        ?>
+?>
         <section class="square cluster">
             <article class="bolder align-center">
                 <h4><strong>Bits&Bäume becomes a movement</strong></h4>
 
                 <div class="row">
                     <p class="square-action">
-                        <a href="/regionalzweige/<?php echo $lang; ?>" class="button" style="text-align: center">local branches</a>
+                        <a href="/forum/<?php echo $lang; ?>" class="button" style="text-align: center">Forum Bits&Bäume</a>
                     </p>
                     <p class="square-action">
                         <a href="/waechst/<?php echo $lang; ?>" class="button">organize B&B event</a>
                     </p>
                 </div>
-                   
-               <div>
-                      <p class="square-action">
-                        <a href="/material/<?php echo $lang; ?>" class="button" style="text-align: center">B&B material</a>
-                    </p>
-                </div> 
-               
+
+                <p class="square-action">
+                    <a href="/regionalzweige/<?php echo $lang; ?>" class="button" style="text-align: center">local branches</a>
+                </p>
 
             </article>
         </section>
@@ -38,11 +35,11 @@
                     lives on this planet?
                 </p>
                 <p class="square-action">
-                        <a href="/forderungen/<?php echo $lang; ?>" class="button" style="text-align: center">Sign our demands</a>
+                    <a href="/forderungen/<?php echo $lang; ?>" class="button" style="text-align: center">Sign our demands</a>
                 </p>
                 <p>
                     <span class="bold"><?php echo SupportController::getTotalNumberOfSupports();
-                        ?> signees </span>supported our political demands so far.
+                                        ?> signees </span>supported our political demands so far.
                 </p>
             </article>
         </section>
@@ -55,25 +52,23 @@
     <?php
         break;
     default:
-        ?>
+    ?>
         <section class="square cluster">
             <article class="bolder align-center">
                 <h4><strong>Bits&Bäume wächst zur Bewegung</strong></h4>
-   
+
                 <div class="row">
                     <p class="square-action">
-                        <a href="/regionalzweige/<?php echo $lang; ?>" class="button" style="text-align: center">regionale Zweige</a>
+                        <a href="/forum/<?php echo $lang; ?>" class="button" style="text-align: center">Forum Bits&Bäume</a>
                     </p>
                     <p class="square-action">
                         <a href="/waechst/<?php echo $lang; ?>" class="button">eigene B&B organisieren</a>
                     </p>
                 </div>
-                
-                <div>
-                    <p class="square-action">
-                        <a href="/material/<?php echo $lang; ?>" class="button" style="text-align: center">B&B-Material</a>
-                    </p>
-                </div>
+
+                <p class="square-action">
+                    <a href="/regionalzweige/<?php echo $lang; ?>" class="button" style="text-align: center">regionale Zweige</a>
+                </p>
 
             </article>
         </section>
@@ -85,13 +80,13 @@
                     stehen diesen Zielen entgegen oder sind gar kontraproduktiv? Wie kann die digitale Gesellschaft
                     demokratisch und gerecht gestaltet und zugleich darauf ausgerichtet sein, auf friedvolle Weise die
                     Grundlagen unseres Lebens auf diesem Planeten zu bewahren?</p>
-                  <p class="square-action">
-                        <a href="/forderungen/<?php echo $lang; ?>" class="button" style="text-align: center">Forderungen unterzeichnen</a>
-                  </p>
-                  <p>
+                <p class="square-action">
+                    <a href="/forderungen/<?php echo $lang; ?>" class="button" style="text-align: center">Forderungen unterzeichnen</a>
+                </p>
+                <p>
                     <span class="bold"><?php echo SupportController::getTotalNumberOfSupports();
-                        ?> Personen und Organisationen </span>haben bisher unsere Forderungen unterschrieben.
-                  </p>
+                                        ?> Personen und Organisationen </span>haben bisher unsere Forderungen unterschrieben.
+                </p>
             </article>
         </section>
 
@@ -100,4 +95,4 @@
                 <?php require 'components/quotes.php'; ?>
                 <article>
         </section>
-    <?php } ?>
+<?php } ?>
