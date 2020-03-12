@@ -17,7 +17,19 @@
         padding-bottom: 0.5em;
         margin-top: 2em;
     }
+
+    .forum-logos {
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+
+    .forum-logos img {
+        height: 5rem;
+        max-width: unset !important;
+    }
 </style>
+
 <?php switch ($lang) {
     case "en":
 ?>
@@ -54,6 +66,17 @@
                         <p>at the Einstein Center Digital Future<br>Wilhelmstraße 67, 10117 Berlin</p>
                         <p><a class="button" href="https://www.nachhaltige-digitalisierung.de/bits-baeume/forum-bits-baeume.html" target="_blank">Register here</a></p>
                         <p class="smaller">The registration will be opened shortly.</p>
+
+                        <p class="bold" style="margin-top: 3rem">Cooperation partners</p>
+                        <div class="forum-logos">
+                            <a href="https://www.konzeptwerk-neue-oekonomie.org" target="_blank">
+                                <img src="/img/logo-konzeptwerk.svg" title="konzeptwerk neue ökonomie">
+                            </a>
+
+                            <a href="https://fsfe.org" target="_blank">
+                                <img src="/img/logo_FreeSoftwareFoundationEurope.png" title="Free Software Foundation Europe">
+                            </a>
+                        </div>
                     </div>
                 </div>
 
@@ -131,6 +154,18 @@
                         <p>im Einstein Center Digital Future<br>Wilhelmstraße 67, 10117 Berlin</p>
                         <p><a class="button" href="https://www.nachhaltige-digitalisierung.de/bits-baeume/forum-bits-baeume.html" target="_blank">Zur Anmeldung</a></p>
                         <p class="smaller">Die Anmeldung wird in Kürze eröffnet.</p>
+
+                        <p class="bold" style="margin-top: 3rem">Kooperationspartner</p>
+                        <div class="forum-logos">
+                            <a href="https://www.konzeptwerk-neue-oekonomie.org" target="_blank">
+                                <img src="/img/logo-konzeptwerk.svg" title="konzeptwerk neue ökonomie">
+                            </a>
+
+                            <a href="https://fsfe.org" target="_blank">
+                                <img src="/img/logo_FreeSoftwareFoundationEurope.png" title="Free Software Foundation Europe">
+                            </a>
+                        </div>
+
                     </div>
                 </div>
 
