@@ -36,23 +36,15 @@
 
         <article>
 
-            <h1>TBD</h1>
+            <h1>Livestream about collaborative video and text editing tools</h1>
 
             <div class="row">
 
                 <section>
-                    <p class="bold">TBD</p>
-                    <p>TBD</p>
+                    <p class="bold">Sorry, this event will be in German only</p>
+                    <p><a href="/regionalzweige/de">Link event description in German</a></p>
                 </section>
 
-                <section>
-                    <p class="bold">Time & Date</p>
-                    <ul>
-                        <li>22.04.2020</li>
-                        <li>16:30</li>
-                        <li>(Link to live stream will appear here soon!)</li>
-                    </ul>
-                </section>
             </div>
 
 
@@ -77,7 +69,7 @@
                 <section>
                     <p class="bold">Wann geht's los?</p>
                     <ul>
-                        <li>22.04.2020</li>
+                        <li>22. März 2020</li>
                         <li>16:30</li>
                         <li>(Link zum Livestream erscheint bald hier!)</li>
                     </ul>

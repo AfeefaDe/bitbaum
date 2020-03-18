@@ -18,8 +18,13 @@
                     </p>
                 </div>
 
+
                 <p class="square-action">
-                    <a href="/regionalzweige/<?php echo $lang; ?>" class="button" style="text-align: center">local branches</a>
+                    <a href="/livestream/<?php echo $lang; ?>" class="button" style="text-align: center">Livestream on </br> March 22nd</a>
+                </p>
+
+                <p class="square-action">
+                    <a href="/regionalzweige/<?php echo $lang; ?>" class="button">local branches</a>
                 </p>
 
             </article>
@@ -67,11 +72,11 @@
                 </div>
 
                 <p class="square-action">
-                    <a href="/livestream/<?php echo $lang; ?>" class="button" style="text-align: center">regionale Zweige</a>
+                    <a href="/livestream/<?php echo $lang; ?>" class="button" style="text-align: center">Livestream am 22. März</a>
                 </p>
 
                 <p class="square-action">
-                    <a href="/regionalzweige/<?php echo $lang; ?>" class="button" style="text-align: center">regionale Zweige</a>
+                    <a href="/regionalzweige/<?php echo $lang; ?>" class="button">regionale Zweige</a>
                 </p>
 
             </article>
