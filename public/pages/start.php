@@ -67,6 +67,10 @@
                 </div>
 
                 <p class="square-action">
+                    <a href="/livestream/<?php echo $lang; ?>" class="button" style="text-align: center">regionale Zweige</a>
+                </p>
+
+                <p class="square-action">
                     <a href="/regionalzweige/<?php echo $lang; ?>" class="button" style="text-align: center">regionale Zweige</a>
                 </p>
 
