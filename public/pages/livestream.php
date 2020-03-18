@@ -42,7 +42,7 @@
 
                 <section>
                     <p class="bold">Sorry, this event will be in German only</p>
-                    <p><a href="/regionalzweige/de">Link event description in German</a></p>
+                    <p><a href="/livestream/de">Link event description in German</a></p>
                 </section>
 
             </div>
@@ -70,7 +70,7 @@
                     <p class="bold">Wann geht's los?</p>
                     <ul>
                         <li>22. März 2020</li>
-                        <li>16:30</li>
+                        <li>16:30 - 18:00</li>
                         <li>(Link zum Livestream erscheint bald hier!)</li>
                     </ul>
                 </section>
