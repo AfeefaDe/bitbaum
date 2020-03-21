@@ -20,14 +20,14 @@
 
               <div class="row">
                 <p class="square-action">
-                    <a href="/livestream/<?php echo $lang; ?>" class="button" style="text-align: center">Livestream on </br> March 22nd</a>
+                    <a href="/kommunikations-tools/<?php echo $lang; ?>" class="button" style="text-align: center">Open Source</br>Communication tools</a>
                 </p>
 
                 <p class="square-action">
                     <a href="/regionalzweige/<?php echo $lang; ?>" class="button">local branches</a>
                 </p>
               </div>
-              
+
             </article>
         </section>
 
@@ -74,7 +74,7 @@
 
               <div class="row">
                 <p class="square-action">
-                    <a href="/livestream/<?php echo $lang; ?>" class="button" style="text-align: center">Livestream</br>am 22. März</a>
+                    <a href="/kommunikations-tools/<?php echo $lang; ?>" class="button" style="text-align: center">Vortragsgespräch</br>Kommunikations-Tools</a>
                 </p>
 
                 <p class="square-action">
