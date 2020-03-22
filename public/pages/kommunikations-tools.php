@@ -71,7 +71,9 @@
                     <ul>
                         <li>22. März 2020</li>
                         <li>16:30 - 18:00</li>
-                        <li>(Link zum Online-Material erscheint bald hier!)</li>
+                        <li><a href="https://www.bits-und-baeume.org/downloads/2020-03-22-Vortragsgespraech-Video-Text-Tools.pdf">Folien</a></li>
+			<li><a href="https://conference.astatu.berlin/BitsUndBaeume">Jitsi Videochat-Root für Fragen</a>
+			<li><a href="https://www.bits-und-baeume.org/downloads/2020-03-22-Vortragsgespraech-Video-Text-Tools.pdf">Tabelle</a></li>
                     </ul>
                 </section>
             </div>
