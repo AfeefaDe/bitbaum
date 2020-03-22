@@ -70,10 +70,12 @@
                     <p class="bold">Wann geht's los?</p>
                     <ul>
                         <li>22. März 2020</li>
-                        <li>16:30 - 18:00</li>
+			<li>16:30 - 18:00</li>
+			<li>Link zum Video kommt später...</li>
+			<li>Audiolink</li>
                         <li><a href="https://www.bits-und-baeume.org/downloads/2020-03-22-Vortragsgespraech-Video-Text-Tools.pdf">Folien</a></li>
 			<li><a href="https://conference.astatu.berlin/BitsUndBaeume">Jitsi Videochat-Root für Fragen</a>
-			<li><a href="https://www.bits-und-baeume.org/downloads/2020-03-22-Vortragsgespraech-Video-Text-Tools.pdf">Tabelle</a></li>
+			<li><a href="https://cryptpad.fr/sheet/#/2/sheet/view/yc3J+xAsidHP+QeyiAf3DdD9HUG+ytM3Ek65X5WKfnk/embed/">Tabelle</a></li>
                     </ul>
                 </section>
             </div>
