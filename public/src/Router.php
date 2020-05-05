@@ -41,7 +41,7 @@ class Router
         });
 
         // Link to video "Kollaborative Videocall- und Schreib-Tools – ein Vortragsgespräch"
-        Flight::route('/kommunikations-tools/@code', function ($code) {
+        Flight::route('/kommunikations-tools(/@code)', function ($code) {
             Flight::redirect('https://tube.tchncs.de/videos/watch/6addc421-31f0-4126-be68-fe53e540d6a8', 303);
         });
 
