@@ -58,13 +58,44 @@
 
                 <div class="row event">
                     <div>
+                        <h2>From commerce to commons - Shaping an Internet for the common good</h2>
+                        <p>We associate the Internet with freedom, openness, communication, networking and free information. In recent decades, however, commercial interests have grown so much that the digital space is increasingly resembling a marketplace. For example, Wikipedia is the only non-commercial offering among the 50 most visited websites worldwide. Applications that have emerged in the spirit of the Commons idea are being monetized - such as video platforms. Also in the sharing economy, private accommodation such as couchsurfing has become a business under the label of hospitality, from which the platform Airbnb in particular now benefits.</p>
+                        <p>This "commercialisation of the Internet" is accompanied by an expansion of online marketing. Through personalization in combination with on- and offline tracking and AI/Big-Data applications, commercial advertising on the web is becoming more and more effective. These developments not only endanger data protection. Through the company's information gathering, this also promotes power asymmetries in favour of digital companies vis-à-vis the users. In addition, consumer incentives are created and more energy is used - with an impact on the environment.</p>
+                        <p>However, limiting commercialization is challenging, as many digital business models are based on data trading and advertising. In addition, large tech companies such as Google, Amazon, Facebook and Apple dominate the market, squeeze out non-commercial companies and influence social opinion.</p>
+                        <p>In the 4th Forum Bits & Bäume we discuss how politics can promote an internet oriented towards the common good:</p>
+                        <ul>
+                            <li>// What solutions are there to limit commercialisation, power asymmetries and monopoly formation?</li>
+                            <li>// How can commons-based and public-interest oriented infrastructures and services be supported?</li>
+                        </ul>
+                        <p>The promotion of cooperative models, commons structures, fair payment for digital services and the regulation of online marketing and tracking are only a few selected approaches. These and other political options for shaping an Internet oriented towards the common good will be the focus of the interactive forum.</p>
+                    </div>
+                    <div>
+                        <p class="flag">Performed virtually!</p>
+                        <p><span class="bold">June 15th, 2020</span> / 4-7 pm</p>
+                        <p><a class="button" href="https://www.ioew.de/veranstaltung/forum-bits-baeume-von-comerce-zurueck-zu-commons-wie-viel-kommerzialisierung-vertraegt-ein-nachhaltiges-internet" target="_blank">Register here</a></p>
+
+                        <p class="bold" style="margin-top: 3rem">Cooperation partners</p>
+                        <div class="forum-logos">
+                            <a href="https://digitalcourage.de/" target="_blank">
+                                <img src="/img/logo-digitalcourage.png" title="Digitalcourage">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+            </section>
+
+            <section>
+                <p class="heading">Past Events</p>
+
+                <div class="row event">
+                    <div>
                         <h2>Durable, open, repairable and data-saving. Design options for sustainable hardware and software</h2>
                         <p>Digital technologies lead to ever increasing consumption of energy and resources. In addition to the use of technical devices and digital services, the way in which software is programmed and hardware is materially equipped and how it is licensed plays a major role. Compulsory software updates, which make ever new demands on hardware while at the same time ending support for the previous software solution, are an example of how users are forced to replace hardware that is still intact with new devices. If more and more everyday objects are connected to each other, the problem of increasing energy and resource consumption for more and more devices becomes more acute. How can hardware and software be made sustainable? In the production and use of hardware, aspects such as durability, reparability and the sparing use of resources play a decisive role. With software, it is not only a question of energy saving, but also of long-term updateability, data compression or even transparency and autonomy. An important step is to think the material and immaterial basis of digitisation more closely together. In the 3rd Forum Bits & Bäume we discuss design options for sustainable hardware and software and existing approaches for open hardware and software, which are often practiced in Fab-Labs and Maker-Spaces for example, as well as challenges for political regulation. We want to discuss existing frameworks such as the "Right to Repair", the Eco-Design Directive or the dertificate “Blue Angel” for software and explore new possibilities.</p>
                     </div>
                     <div>
-                        <p class="flag">Performed virtually!</p>
                         <p><span class="bold">April 23rd, 2020</span> / 4-7 pm</p>
-                        <p><a class="button" href="https://www.ioew.de/veranstaltung/forum-bits-baeume-offen-langlebig-und-reparabel-gestaltungsbedingungen-fuer-nachhaltige-hard-und-software" target="_blank">Register here</a></p>
+                        <p><a class="button" href="https://www.ioew.de/veranstaltung/forum-bits-baeume-offen-langlebig-und-reparabel-gestaltungsbedingungen-fuer-nachhaltige-hard-und-software" target="_blank">Further information</a></p>
 
                         <p class="bold" style="margin-top: 3rem">Cooperation partners</p>
                         <div class="forum-logos">
@@ -78,11 +109,6 @@
                         </div>
                     </div>
                 </div>
-
-            </section>
-
-            <section>
-                <p class="heading">Past Events</p>
 
                 <div class="row event">
                     <div>
@@ -145,13 +171,44 @@
 
                 <div class="row event">
                     <div>
+                        <h2>Von Commerce zu Commons – Ein gemeinwohlorientiertes Internet gestalten</h2>
+                        <p>Das Internet assoziieren wir mit Freiheit, Offenheit, Kommunikation, Vernetzung und freien Informationen. In den letzten Jahrzehnten nahmen jedoch kommerzielle Interessen so stark zu, dass der digitale Raum immer mehr einem Marktplatz gleicht. So ist unter den 50 weltweit meistbesuchten Webseiten Wikipedia das einzige nicht-kommerzielle Angebot. Anwendungen, die im Sinne der Commons-Idee entstanden sind, werden monetarisiert – so z.B. Videoplattformen. Auch in der Sharing Economy sind private Übernachtungsmöglichkeiten wie bei Couchsurfing unter dem Label der Gastfreundschaft zu einem Business geworden, an dem nun vor allem die Plattform Airbnb verdient.</p>
+                        <p>Diese „Kommerzialisierung des Internets“ geht mit einer Ausweitung des <b>Online-Marketings</b> einher. Durch Personalisierung in Kombination mit On- und Offlinetracking und KI/Big-Data-Anwendungen wird kommerzielle Werbung im Netz immer effektiver. Diese Entwicklungen gefährden nicht nur den Datenschutz. Durch die unternehmensseitige Informationsgewinnung fördert dies auch Machtasymmetrien zugunsten von digitalen Unternehmen gegenüber den Nutzenden. Zusätzlich werden Konsumanreize gesetzt und mehr Energie verbraucht – mit Auswirkungen auf die Umwelt.</p>
+                        <p>Eine Kommerzialisierung einzugrenzen ist jedoch herausfordernd, da viele <b>digitale Geschäftsmodelle</b> auf Datenhandel und Werbung basieren. Darüber hinaus bestimmen große Tech-Unternehmen wie Google, Amazon, Facebook oder Apple den Markt, verdrängen nicht-kommerzielle Unternehmen und beeinflussen gesellschaftliche Meinungsbildung.</p>
+                        <p>Im 4. Forum Bits & Bäume diskutieren wir, wie Politik ein gemeinwohlorientiertes Internet fördern kann:</p>
+                        <ul>
+                            <li>Welche Lösungsansätze gibt es, um Kommerzialisierung, Machtasymmetrien und Monopolbildung einzugrenzen?</li>
+                            <li>Wie können Commons-basierte und gemeinwohlorientierte Infrastrukturen und Angebote unterstützt werden?</li>
+                        </ul>
+                        <p>Die Förderung von Genossenschaftsmodellen, Commons-Strukturen, einer fairen Bezahlung digitaler Dienstleistungen sowie der Regulierung von Online-Marketing und Tracking sind nur einige ausgewählte Lösungsansätze. Diese und weitere politische Gestaltungsoptionen für ein gemeinwohlorientiertes Internet sollen im Fokus des interaktiven Forums stehen.</p>
+                    </div>
+                    <div>
+                        <p class="flag">Virtuell!</p>
+                        <p><span class="bold">15. Juni 2020</span> / 16-19 Uhr</p>
+                        <p><a class="button" href="https://www.ioew.de/veranstaltung/forum-bits-baeume-von-comerce-zurueck-zu-commons-wie-viel-kommerzialisierung-vertraegt-ein-nachhaltiges-internet" target="_blank">Zur Anmeldung</a></p>
+
+                        <p class="bold" style="margin-top: 3rem">Kooperationspartner</p>
+                        <div class="forum-logos">
+                            <a href="https://digitalcourage.de/" target="_blank">
+                                <img src="/img/logo-digitalcourage.png" title="Digitalcourage">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+            </section>
+
+            <section>
+                <p class="heading">Vergangene Veranstaltungen</p>
+
+                <div class="row event">
+                    <div>
                         <h2>Langlebig, offen, reparabel und datensparsam. Gestaltungsoptionen für nachhaltige Hard- und Software</h2>
                         <p>Digitale Technologien führen zu immer mehr Energie- und Ressourcenverbräuchen. Neben der Nutzung technischer Geräte und digitaler Dienste spielt vor allem eine Rolle, wie Software programmiert und Hardware materiell ausgestattet ist und wie diese lizensiert sind. Verpflichtende Softwareupdates, die immer neue Anforderungen an die Hardware stellen, bei gleichzeitigem Support-Ende für die bisherige Softwarelösung, sind ein Beispiel dafür wie Nutzer*innen gezwungen werden eigentlich noch intakte Hardware durch Neugeräte zu ersetzen. Werden immer mehr Alltaggegenstände miteinander vernetzt, so verschärft sich die Problematik des steigenden Energie- und Ressourcenverbrauches für immer mehr Geräte. Wie können Hard- und Software nachhaltig gestaltet werden? Bei der Herstellung und Nutzung von Hardware spielen Aspekte wie Langlebigkeit, Reparierbarkeit und der schonende Einsatz von Ressourcen eine entscheidende Rolle. Bei Software geht es neben der Energiesparsamkeit auch um langfristige Updatefähigkeit, Datenkomprimierung oder auch Transparenz und Autonomie. Ein wichtiger Schritt ist die materielle und die immaterielle Basis der Digitalisierung stärker zusammenzudenken. Im 3. Forum Bits & Bäume diskutieren wir Gestaltungsoptionen für nachhaltige Hard- und Software und bestehende Ansätze für offene Hard- und Software, die beispielsweise in Fab-Labs und Maker-Spaces vielfach praktiziert werden sowie Herausforderungen für die politische Regulierung. Wir wollen bereits vorhandene Rahmensetzungen wie etwa das „Right to Repair“, die Eco-Design-Richtlinie oder den Blauen Engel für Software diskutieren und neue Möglichkeiten ausloten.</p>
                     </div>
                     <div>
-                        <p class="flag">Virtuell!</p>
                         <p><span class="bold">23. April 2020</span> / 16-19 Uhr</p>
-                        <p><a class="button" href="https://www.ioew.de/veranstaltung/forum-bits-baeume-offen-langlebig-und-reparabel-gestaltungsbedingungen-fuer-nachhaltige-hard-und-software" target="_blank">Zur Anmeldung</a></p>
+                        <p><a class="button" href="https://www.ioew.de/veranstaltung/forum-bits-baeume-offen-langlebig-und-reparabel-gestaltungsbedingungen-fuer-nachhaltige-hard-und-software" target="_blank">Weitere Infos</a></p>
 
                         <p class="bold" style="margin-top: 3rem">Kooperationspartner</p>
                         <div class="forum-logos">
@@ -166,11 +223,6 @@
 
                     </div>
                 </div>
-
-            </section>
-
-            <section>
-                <p class="heading">Vergangene Veranstaltungen</p>
 
                 <div class="row event">
                     <div>
