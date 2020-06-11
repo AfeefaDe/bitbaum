@@ -10,17 +10,15 @@
         default:
             ?>
             <h1>Datenschutzerkl&auml;rung</h1>
-            <p><em>Wir freuen uns, dass Sie unsere Website &ndash; <em>Bits & Bäume</em> / Die Konferenz f&uuml;r
-                    Digitalisierung und Nachhaltigkeit 17. bis 18. November 2018 in Berlin (Technische Universit&auml;t)
-                    -
-                    besuchen.</em></p>
-            <p><strong>Mittels dieser Datenschutzerkl&auml;rung m&ouml;chten wir Sie im Einklang mit der europ&auml;ischen
-                    Datenschutzgrundverordnung (DS-GVO) &uuml;ber </strong><strong>Art, Umfang und Zweck der von uns
-                    verarbeiteten personenbezogenen Daten informieren.</strong></p>
-            <p><strong>Ferner werden Sie mittels dieser Datenschutzerkl&auml;rung &uuml;ber die </strong><strong>Rechtsgrundlagen</strong><strong>,
-                    die uns die Verarbeitung personenbezogener Daten erlauben sowie die Ihnen
-                    zustehenden </strong><strong>Rechte</strong><strong>
-                    aufgekl&auml;rt, sollten Sie von einer Datenverarbeitung betroffen sein.</strong></p>
+            <p><em>Diese Datenschutzerkl&auml;rung gilt für https://bits-und-baeume.org und alle Unterseiten, wie z. B.
+              das Forum (https://discourse.bits-und-baeume.org) oder Mastodon (https://mastodon.bits-und-baeume.org),
+              sofern auf der jeweiligen Unterseite keine eigene Datenschutzerklärung existiert.</em></p>
+            <p>Mittels dieser Datenschutzerkl&auml;rung m&ouml;chten wir Sie im Einklang mit der europ&auml;ischen
+                Datenschutzgrundverordnung (DS-GVO) &uuml;ber Art, Umfang und Zweck der von uns
+                verarbeiteten personenbezogenen Daten informieren.</p>
+            <p>Ferner werden Sie mittels dieser Datenschutzerkl&auml;rung &uuml;ber die Rechtsgrundlagen,
+                die uns die Verarbeitung personenbezogener Daten erlauben sowie die Ihnen
+                zustehenden Rechte aufgekl&auml;rt, sollten Sie von einer Datenverarbeitung betroffen sein.</p>
             <p>Eine Nutzung unserer Website ist grunds&auml;tzlich ohne jede Angabe personenbezogener Daten m&ouml;glich.
                 Sofern
                 Sie &uuml;ber Neuigkeiten zur Konferenz (z.B. Start der Anmeldung, Start des Call for Participation)
@@ -50,7 +48,7 @@
                 der Transparenz m&ouml;chten wir vorab die verwendeten Begrifflichkeiten erl&auml;utern. Wir verwenden
                 in dieser
                 Datenschutzerkl&auml;rung unter anderem die folgenden Begriffe:</p>
-            <h3>personenbezogene Daten</h3>
+            <h3>Personenbezogene Daten</h3>
             <p>Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder identifizierbare
                 nat&uuml;rliche
                 Person (im Folgenden &bdquo;betroffene Person&ldquo;) beziehen. Als identifizierbar wird eine nat&uuml;rliche
@@ -98,7 +96,7 @@
                 Union
                 geltenden Datenschutzgesetze und anderer Bestimmungen mit datenschutzrechtlichem Charakter sind
                 Mitarbeiter der
-                Organisationen im Tr&auml;gerkreis, die im Zusammenhang mit ,</p>
+                Organisationen im Tr&auml;gerkreis, die im Zusammenhang mit,</p>
             <ul>
                 <li>Anmeldung,</li>
                 <li>Referent*innen-, Teilnehmer*innen-, Personal- und Helfer*innenmanagement,</li>
@@ -292,11 +290,10 @@
                 Arbeitsplatzes oder des Orts des mutma&szlig;lichen Versto&szlig;es, wenn Sie der Ansicht sind, dass die
                 Verarbeitung der Sie betreffenden personenbezogenen Daten gegen das geltende Recht
                 verst&ouml;&szlig;t.</p>
-            <p>Sie d&uuml;rfen Ihre Beschwerde auch an die zust&auml;ndige Datenschutz-Aufsichtsbeh&ouml;rde,</p>
+            <p>Sie d&uuml;rfen Ihre Beschwerde auch an die zust&auml;ndige Datenschutz-Aufsichtsbeh&ouml;rde richten:</p>
             <p>Berliner Beauftragte f&uuml;r Datenschutz und Informationsfreiheit<br/>Maja Smoltczyk<br/>Friedrichstr.
                 219<br/>10969
                 Berlin<br/>Tel.: +49 (0)30 13889-0<br/>Fax: +49 (0)30 2155050<br/>E-Mail: &#109;&#x61;&#105;&#108;&#x62;&#111;&#x78;&#x40;&#100;&#97;&#116;&#x65;&#x6e;&#115;&#99;&#x68;&#117;&#x74;&#x7a;&#x2d;&#x62;&#x65;&#x72;&#108;&#105;&#110;&#46;&#100;&#101;
             </p>
-            <p>richten.</p>
         <?php } ?>
 </article>
