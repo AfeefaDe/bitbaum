@@ -10,6 +10,7 @@ break;
     default:
         ?>
             <h1>Datenschutzerkl&auml;rung</h1>
+            <p>Datenschutzprozesse lokaler B&B-Initiativen, die via Subdomain (nach dem Muster "ort.bits-und-baeume.org" erreichbar sind, sind nicht Teil dieser Datenschutzerklärung. Die lokalen B&B-Initiativen agieren in eigener Verantwortung und stellen somit eigene Datenschutzerklärungen bereit.
             <h2>Allgemeine Hinweise</h2>
             <p>Mittels dieser Datenschutzerkl&auml;rung m&ouml;chten wir Sie im Einklang mit der europ&auml;ischen
                 Datenschutzgrundverordnung (DS-GVO) &uuml;ber Art, Umfang und Zweck der von uns
