@@ -1,33 +1,23 @@
 <article>
     <?php switch ($lang) {
-        case "en":
-            ?>
+    case "en":
+        ?>
             <h1>Data protection declaration</h1>
             <p>According to the European General Data Protection Regulation (GDPR), you can find our privacy policy here
                 in <a href="/datenschutz/de">German</a>. </p>
             <?php
-            break;
-        default:
-            ?>
+break;
+    default:
+        ?>
             <h1>Datenschutzerkl&auml;rung</h1>
-            <p><em>Diese Datenschutzerkl&auml;rung gilt für https://bits-und-baeume.org und alle Unterseiten, wie z. B.
-              das Forum (https://discourse.bits-und-baeume.org) oder Mastodon (https://mastodon.bits-und-baeume.org),
-              sofern auf der jeweiligen Unterseite keine eigene Datenschutzerklärung existiert.</em></p>
+            <p>Datenschutzprozesse lokaler B&B-Initiativen, die via Subdomain (nach dem Muster "ort.bits-und-baeume.org" erreichbar sind, sind nicht Teil dieser Datenschutzerklärung. Die lokalen B&B-Initiativen agieren in eigener Verantwortung und stellen somit eigene Datenschutzerklärungen bereit.
+            <h2>Allgemeine Hinweise</h2>
             <p>Mittels dieser Datenschutzerkl&auml;rung m&ouml;chten wir Sie im Einklang mit der europ&auml;ischen
                 Datenschutzgrundverordnung (DS-GVO) &uuml;ber Art, Umfang und Zweck der von uns
                 verarbeiteten personenbezogenen Daten informieren.</p>
             <p>Ferner werden Sie mittels dieser Datenschutzerkl&auml;rung &uuml;ber die Rechtsgrundlagen,
                 die uns die Verarbeitung personenbezogener Daten erlauben sowie die Ihnen
                 zustehenden Rechte aufgekl&auml;rt, sollten Sie von einer Datenverarbeitung betroffen sein.</p>
-            <p>Eine Nutzung unserer Website ist grunds&auml;tzlich ohne jede Angabe personenbezogener Daten m&ouml;glich.
-                Sofern
-                Sie &uuml;ber Neuigkeiten zur Konferenz (z.B. Start der Anmeldung, Start des Call for Participation)
-                informiert
-                bleiben sich f&uuml;r die Konferenz anmelden m&ouml;chten, ist eine Verarbeitung personenbezogener Daten
-                erforderlich. Die Verarbeitung Ihrer personenbezogenen Daten, beispielsweise des Namens, der Anschrift
-                oder
-                E-Mail-Adresse, erfolgt stets im Einklang mit der Datenschutz-Grundverordnung (DS-GVO) und in &Uuml;bereinstimmung
-                mit den geltenden landesspezifischen Datenschutzbestimmungen.</p>
             <p>Die Kommunikation auf unserer Website ist SSL-verschl&uuml;sselt. Dennoch k&ouml;nnen internetbasierte
                 Daten&uuml;bertragungen
                 grunds&auml;tzlich Sicherheitsl&uuml;cken aufweisen, sodass ein absoluter Schutz nicht gew&auml;hrleistet
@@ -35,14 +25,7 @@
                 kann. Aus diesem Grund steht es Ihnen frei, personenbezogene Daten auch auf alternativen Wegen,
                 beispielsweise
                 telefonisch, an uns zu &uuml;bermitteln.</p>
-            <p>Teilweise bedienen wir uns zur Verarbeitung Ihrer Daten externer Dienstleister. Diese wurden von uns
-                sorgf&auml;ltig
-                ausgew&auml;hlt und beauftragt, sind an unsere Weisungen gebunden und werden regelm&auml;&szlig;ig
-                kontrolliert.
-                Falls wir f&uuml;r einzelne Funktionen unseres Angebots auf beauftragte Dienstleister zur&uuml;ckgreifen,
-                werden
-                wir Sie untenstehend im Detail &uuml;ber die jeweiligen Vorg&auml;nge informieren.</p>
-            <h2>1. Begriffsbestimmungen</h2>
+            <h2>Begriffsbestimmungen</h2>
             <p>Diese Datenschutzerkl&auml;rung beruht auf den Begrifflichkeiten, die durch die DS-GVO verwendet werden.
                 Aus Gr&uuml;nden
                 der Transparenz m&ouml;chten wir vorab die verwendeten Begrifflichkeiten erl&auml;utern. Wir verwenden
@@ -77,8 +60,8 @@
             <p>Einschr&auml;nkung der Verarbeitung ist die Markierung gespeicherter personenbezogener Daten mit dem
                 Ziel, ihre k&uuml;nftige
                 Verarbeitung einzuschr&auml;nken.</p>
-            <h3>Verantwortlicher oder f&uuml;r die Verarbeitung Verantwortlicher</h3>
-            <p>Verantwortlicher oder f&uuml;r die Verarbeitung Verantwortlicher ist die nat&uuml;rliche oder juristische
+            <h3>Verantwortlicher</h3>
+                <p>Verantwortlicher oder f&uuml;r die Verarbeitung Verantwortlicher ist die nat&uuml;rliche oder juristische
                 Person,
                 Beh&ouml;rde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen &uuml;ber die Zwecke
                 und
@@ -91,21 +74,11 @@
                 eindeutigen best&auml;tigenden Handlung, mit der die betroffene Person zu verstehen gibt, dass sie mit
                 der
                 Verarbeitung der sie betreffenden personenbezogenen Daten einverstanden ist.</p>
-            <h2>2. Wer ist f&uuml;r die Verarbeitung personenbezogener Daten verantwortlich?</h2>
+            <h2>Verantwortliche Stelle</h2>
             <p>Verantwortlicher im Sinne des Art. 4 Abs. 7 DS-GVO, sonstiger in den Mitgliedstaaten der Europ&auml;ischen
                 Union
                 geltenden Datenschutzgesetze und anderer Bestimmungen mit datenschutzrechtlichem Charakter sind
-                Mitarbeiter der
-                Organisationen im Tr&auml;gerkreis, die im Zusammenhang mit,</p>
-            <ul>
-                <li>Anmeldung,</li>
-                <li>Referent*innen-, Teilnehmer*innen-, Personal- und Helfer*innenmanagement,</li>
-                <li>finanzielle Abrechnung,</li>
-                <li>Programmplanung und</li>
-                <li>Presse- und &Ouml;ffentlichkeitsarbeit</li>
-            </ul>
-            <p>mit personenbezogenen Daten arbeiten.</p>
-            <p>Dies betrifft Mitarbeiter aus folgenden Organisationen:</p>
+                folgende Organisationen aus dem <a href="/de/#orgsde">Tr&auml;gerkreis</a>:
             <ul>
                 <li>Technische Universit&auml;t Berlin, Marchstr. 23, D-10587 Berlin</li>
                 <li>Dachverband der deutschen Natur-, Tier- und Umweltschutzorganisationen (DNR) e.V., Marienstra&szlig;e,
@@ -116,130 +89,17 @@
                     Bremen
                 </li>
             </ul>
-            <p>Die Verantwortlichen gestalten die innerbetriebliche Organisation so, dass sie den Anforderungen des
-                Datenschutzes gerecht wird. Sie treffen technische und organisatorische Ma&szlig;nahmen zur angemessenen
-                Sicherung der Daten vor Missbrauch und Verlust, die den Forderungen der DS-GVO entsprechen. Dies
-                beinhaltet die
-                Zugangskontrolle, Datentr&auml;gerkontrolle, Speicherkontrolle, Benutzerkontrolle sowie die
-                Zugriffskontrolle.</p>
-            <p><strong>Ansprechpartner f&uuml;r die Verarbeitung der mittels dieser Website erhobenen personenbezogenen
-                    Daten
-                    ist:</strong></p>
+            <h3>Ansprechpartner</h3>
             <p>Tilman Santarius <br/>TU Berlin <br/>Sekr. MAR 1-1<br/>Marchstr. 23<br/>D-10587 Berlin<br/>Telefon:
                 +49-30-314
                 78869<br/>E-Mail: &#x74;&#x65;&#x61;&#109;&#x40;&#98;&#x69;&#x74;&#x73;&#x2d;&#117;&#110;&#100;&#x2d;&#98;&#x61;&#101;&#117;&#109;&#101;&#46;&#x6f;&#x72;&#103;
             </p>
-            <p>Die <strong>beh&ouml;rdliche Datenschutzbeauftragte</strong> der TU Berlin ist:</p>
-            <p>Frau Annette Hiller<br/>Datenschutzbeauftragte der TU Berlin<br/>K3-DS<br/>Stra&szlig;e des 17. Juni
-                135<br/>10623
-                Berlin<br/>Tel: +49 (0)30 314 21784<br/>&#100;&#x61;&#x74;&#101;&#x6e;&#x73;&#x63;&#x68;&#117;&#x74;&#x7a;&#x62;&#101;&#97;&#117;&#x66;&#116;&#x72;&#97;&#103;&#116;&#101;&#x40;&#x74;&#117;&#45;&#x62;&#x65;&#x72;&#108;&#105;&#x6e;&#46;&#x64;&#101;
-            </p>
-            <h2>3. Auftragsverarbeiter</h2>
-            <p>Wir verwenden ausschlie&szlig;lich vertrauensw&uuml;rdige Auftragsverarbeiter, die deine
-                personenbezogenen Daten
-                f&uuml;r uns verarbeiten.</p>
-            <h3>Host</h3>
-            <p>F&uuml;r das Hosten unserer Website verwenden wir momentan die Dienste von www.uberspace.de (Jonas
+            <h2>Auftragsverarbeiter</h2>
+            <h3>Hosting und E-Mail</h3>
+            <p>F&uuml;r das Hosten unserer Website verwenden wir die Dienste von www.uberspace.de (Jonas
                 Pasche,
-                Kaiserstr. 15, 55116 Mainz). Dessen Server befinden sich in Frankfurt am Main/ Deutschland und
-                unterliegen
-                vollst&auml;ndig dem Datenschutzrecht der DS-GVO. https://uberspace.de/tech#hardware.</p>
-            <h3>E-Mail</h3>
-            <p>Um deine E-Mails zu empfangen und zu beantworten, verwenden wir den selben Server wie f&uuml;r das
-                Hosting der
-                Website, d.h. ebenfalls die Dienste von www.uberspace.de (Details siehe Host).</p>
-            <h3>Pflege der Website</h3>
-            <p>Die Erstellung und Pflege der Website &uuml;bernimmt f&uuml;r uns das Afeefa Kollektiv (Felix Sch&ouml;nfeld,
-                Bayrische Stra&szlig;e 8, 01069 Dresden). Die Mitarbeiter des IT-Kollektivs haben keinen Zugriff auf
-                Ihre
-                personenbezogenen Daten.</p>
-            <h2>4. Welche Daten, zu welchem Zweck und auf welcher Grundlage werden wie verarbeitet? Wie lange werden
-                Daten
-                gespeichert? An wen werden sie weitergegeben?</h2>
-            <h3>a. Erhebung bei informatorischer Nutzung der Internetseite</h3>
-            <p>Wenn Sie unsere Internetseite lediglich informatorisch nutzen (wenn Sie uns also anderweitig keine
-                Informationen
-                &uuml;bermitteln), erheben wir nur die personenbezogenen Daten, die Ihr Browser an unseren Server &uuml;bermittelt
-                &ndash; das sind die sogenannten Server-Log-Dateien.</p>
-            <p><strong>Erhobene Daten (Server-Log-Dateien):</strong></p>
-            <ul>
-                <li>Browsertyp/ Browserversion</li>
-                <li>verwendetes Betriebssystem</li>
-                <li>IP-Adresse (GEK&Uuml;RZT)</li>
-                <li>Website, von der die Anforderung kommt (also die angefragte URL)</li>
-                <li>Datum/ Uhrzeit der Serveranfrage</li>
-                <li>Zugriffsstatus/HTTP-Statuscode</li>
-                <li>Zeitzonendifferenz zu GMT</li>
-            </ul>
-            <p><strong>Zwecke der Verarbeitung:</strong></p>
-            <p>Die oben genannten Daten sind f&uuml;r uns technisch erforderlich, um Ihnen unsere Website anzuzeigen
-                (Verbindungsaufbau der Website) und die Stabilit&auml;t und Sicherheit zu gew&auml;hrleisten. Eine
-                Zusammenf&uuml;hrung
-                dieser Daten mit anderen Datenquellen wird nicht vorgenommen.</p>
-            <p><strong>Art der Verarbeitung, L&ouml;schung:</strong></p>
-            <p>Datenschutzkonform nullen wir die letzte Stelle der IP-Adresse, so dass zwar noch eine Providerzugeh&ouml;rigkeit,
-                aber keine Personenzugeh&ouml;rigkeit mehr ermittelbar ist. Die Server-Log-Dateien werden 4 Wochen
-                aufbewahrt
-                und danach automatisch gel&ouml;scht.</p>
-            <p><strong>Rechtsgrundlage</strong></p>
-            <p>Die Server-Log-Daten werden auf der Grundlage des Art. 6 Abs. 1 S. 1 lit. f DS-GVO erhoben, da die Zwecke
-                der
-                Verarbeitung unsere berechtigten Interessen abbilden.</p>
-            <h3>b. Nutzung der Anmeldefunktion</h3>
-            <p>Neben der rein informatorischen Nutzung unserer Website k&ouml;nnen Sie unser Anmeldeformular nutzen, um
-                sich f&uuml;r
-                die Konferenz unverbindlich anzumelden. Dazu m&uuml;ssen Sie personenbezogene Daten angeben.</p>
-            <p><strong>Welche Daten brauchen wir f&uuml;r die Anmeldung?</strong></p>
-            <ul>
-                <li>Ihr Name / Pseudonym</li>
-                <li>Name / Bezeichnung Ihrer Organisation</li>
-                <li>E-Mail-Adresse</li>
-                <li>Inhalt der pers&ouml;nlichen Nachricht (Anmerkungen oder Fragen)</li>
-                <li>Datum und Uhrzeit der Anmeldung</li>
-            </ul>
-            <p><strong>Wie und zu welchem Zweck nutzen wir diesen Daten?</strong></p>
-            <p>Die von Ihnen bei der Anmeldung angegebenen Daten brauchen wir, um erfahren zu k&ouml;nnen, ob und wenn
-                ja, wie
-                Sie die Konferenz mitgestalten m&ouml;chten und damit wir Sie informieren k&ouml;nnen, sobald der Call f&uuml;r
-                Referenten bzw. die offizielle Anmeldung f&uuml;r Besucher online gehen. Wir ben&ouml;tigen diese Daten
-                ferner,
-                um mit Ihnen sp&auml;ter z.B. als Referent zusammen zu arbeiten oder Sie als Besucher identifizieren zu
-                k&ouml;nnen.</p>
-            <p><strong>Rechtsgrundlage</strong></p>
-            <p>Die Daten, die Sie bei der Anmeldung angeben, d&uuml;rfen wir nach Ma&szlig;gabe des Art. 6 Abs. 1 S. 1
-                lit.
-                bDS-GVO verarbeiten.</p>
-            <p><strong>Aufbewahrungsfrist, L&ouml;schung, Rechtsgrundlage</strong></p>
-            <p>Gestalten Sie die Konferenz nach dem erfolgten Call z.B. als Referent mit oder melden Sie sich als
-                Besucher
-                verbindlich an, werden wir Ihre Daten f&uuml;r die Durchf&uuml;hrung des mit Ihnen geschlossenen
-                Vertrags
-                aufgrund gesetzlicher Aufbewahrungspflichten f&uuml;r 10 Jahre speichern. Zwei Jahre nach Abschluss der
-                Konferenz wird die Verwendung der Daten eingeschr&auml;nkt. Die Rechtsgrundlage f&uuml;r diese Art der
-                Verarbeitung ist Art. 6 Abs. 1 S. 1 lit. b. und c. DS-GVO.</p>
-            <p>Alle anderen Daten, die Sie bei der Anmeldung an uns &uuml;bermitteln, l&ouml;schen wir am 19.11.2018.
-                Dies ist
-                der Fall, wenn Sie sich f&uuml;r unsere Konferenz weder als Besucher noch als Referent verbindlich
-                angemeldet
-                haben.</p>
-            <h3>d. Links und Social-Media (Twitter)</h3>
-            <p>Auf unserer Website k&ouml;nnen Sie Twitter-Beitr&auml;ge &uuml;ber unsere Konferenz lesen und auch
-                verschiedenen
-                Links (dargestellt durch Logos oder reiner Links) durch Anklicken folgen. Durch das Anklicken des
-                Twitter-Buttons oder anderer Links auf unserer Website werden Sie lediglich auf die Website oder die
-                mobile App
-                der jeweiligen Betreiber des Online-Angebots weitergeleitet. Eine Weitergabe Ihrer Daten durch uns an
-                diese
-                Betreiber erfolgt dabei nicht. Nutzen Sie Twitter oder andere Online-Angebote weiter, nachdem Sie durch
-                das
-                Anklicken des jeweiligen Links auf diese weitergeleitet wurden, gelten ausschlie&szlig;lich die
-                jeweiligen
-                Datenschutzhinweise der Betreiber dieser Online-Angebote. Wir k&ouml;nnen nicht garantieren, dass die
-                jeweiligen
-                Betreiber DS-GVO ad&auml;quat handeln.</p>
-            <h2>5. Welche Rechte habe ich an meinen Daten?</h2>
-            <p>Sie haben gegen&uuml;ber uns folgende Rechte hinsichtlich der Sie betreffenden personenbezogenen
-                Daten:</p>
+                Kaiserstr. 15, 55116 Mainz). Dessen Server befinden sich in Frankfurt am Main/ Deutschland. <a href="https://uberspace.de/tech#hardware">Weiterführende Informationen</a></p>
+            <h2>Ihre Rechte</h2>
             <h3>Recht auf Auskunft</h3>
             <p>Gem&auml;&szlig; Art. 15 DS-GVO haben Sie das Recht, &uuml;ber Ihre von uns verarbeiteten
                 personenbezogenen Daten
@@ -275,14 +135,11 @@
             <h3>Recht auf Widerruf der Einwilligung</h3>
             <p>Gem&auml;&szlig; Art. 7 Abs. 3 DSGVO haben Sie das Recht, Ihre einmal erteilte Einwilligung jederzeit
                 gegen&uuml;ber
-                uns zu widerrufen. Dies hat zur Folge, dass wir die Datenverarbeitung, die auf dieser Einwilligung
-                beruhte, f&uuml;r
-                die Zukunft nicht mehr fortf&uuml;hren d&uuml;rfen und Sie nicht an der Veranstaltung teilnehmen
-                k&ouml;nnen.</p>
-            <p><strong>&Uuml;ber die Wahrnehmung Ihrer Rechte k&ouml;nnen Sie uns unter folgenden E-Mail informieren:
+                uns zu widerrufen.</p>
+            <p>&Uuml;ber die Wahrnehmung Ihrer Rechte k&ouml;nnen Sie uns unter folgenden E-Mail informieren:
                     &#x74;&#x65;&#x61;&#109;&#x40;&#98;&#x69;&#x74;&#x73;&#x2d;&#117;&#110;&#100;&#x2d;&#98;&#x61;&#101;&#117;&#109;&#101;&#46;&#x6f;&#x72;&#103;
-                    . Alternativ k&ouml;nnen Sie unsere Kontaktdaten nutzen, die Sie im Impressum finden.</strong></p>
-            <h2>6. Beschwerderecht</h2>
+                    . Alternativ k&ouml;nnen Sie unsere Kontaktdaten nutzen, die Sie im Impressum finden.</p>
+            <h3>Beschwerderecht</h3>
             <p>Sie haben, unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs das
                 Recht, auf
                 Beschwerde bei der beh&ouml;rdlichen Datenschutzbeauftragten der TU Berlin (Kontaktdaten s.o.) einer
@@ -295,5 +152,68 @@
                 219<br/>10969
                 Berlin<br/>Tel.: +49 (0)30 13889-0<br/>Fax: +49 (0)30 2155050<br/>E-Mail: &#109;&#x61;&#105;&#108;&#x62;&#111;&#x78;&#x40;&#100;&#97;&#116;&#x65;&#x6e;&#115;&#99;&#x68;&#117;&#x74;&#x7a;&#x2d;&#x62;&#x65;&#x72;&#108;&#105;&#110;&#46;&#100;&#101;
             </p>
-        <?php } ?>
+                <h2>Datenverarbeitungsprozesse</h2>
+            <h3>Server-Log-Dateien</h3>
+            <p>Beim Besuch unserer Webseite erheben wir folgende personenbezogenen Daten, die Ihr Browser an unseren Server &uuml;bermittelt:</p>
+            <ul>
+                <li>Browsertyp/ Browserversion</li>
+                <li>verwendetes Betriebssystem</li>
+                <li>IP-Adresse (gek&uuml;rzt)</li>
+                <li>Website, von der die Anforderung kommt (also die angefragte URL)</li>
+                <li>Datum/ Uhrzeit der Serveranfrage</li>
+                <li>Zugriffsstatus/HTTP-Statuscode</li>
+                <li>Zeitzonendifferenz zu GMT</li>
+            </ul>
+            <h4>Zweck</h4>
+            <p>Anzeige der Website (Verbindungsaufbau der Website) und die Stabilit&auml;t und Sicherheit zu gew&auml;hrleisten. Eine
+                Zusammenf&uuml;hrung
+                dieser Daten mit anderen Datenquellen wird nicht vorgenommen.</p>
+            <h4>Rechtsgrundlage</h4>
+            <p>Grundlage der Verarbeitung ist Art. 6 Abs. 1 lit. f DS-GVO erhoben, der die
+                Verarbeitung von Daten auf Basis unseres berechtigten Interesses gestattet.</p>
+            <h4>Aufbewahrungsfrist und L&ouml;schung</h4>
+            <p>Die Server-Log-Dateien werden nach 4 Wochen gel&ouml;scht.</p>
+            <h3>Konferenzanmeldung</h3>
+            <p>Wir erheben personenbezogene Daten, wenn Sie unser Anmeldeformular nutzen, um
+                sich f&uuml;r
+                unsere Konferenzen unverbindlich anzumelden.</p>
+            <h4>Zweck</h4>
+            <p>Die von Ihnen bei der Anmeldung angegebenen Daten brauchen wir, um erfahren zu k&ouml;nnen, ob und wenn
+                ja, wie
+                Sie die Konferenz mitgestalten m&ouml;chten und damit wir Sie informieren k&ouml;nnen, sobald der Call f&uuml;r
+                Referenten bzw. die offizielle Anmeldung f&uuml;r Besucher online gehen. Wir ben&ouml;tigen diese Daten
+                ferner,
+                um mit Ihnen sp&auml;ter z.B. als Referent zusammen zu arbeiten oder Sie als Besucher identifizieren zu
+                k&ouml;nnen.</p>
+            <h4>Rechtsgrundlage</h4>
+            <p>Grundlage der Verarbeitung ist Art. 6 Abs. 1 lit. b DS-GVO erhoben, der die Verarbeitung von Daten zur Erfüllung eines Vertrags oder vorvertraglicher Maßnahmen gestattet sowie Art. 6 Abs. 1 lit. c, der die Verarbeitung zur Erfüllung einer rechtlichen Verpflichtung erfordert.</p>
+            <h4>Aufbewahrungsfrist und L&ouml;schung</h4>
+            <p>Gestalten Sie die Konferenz nach dem erfolgten Call z.B. als Referent mit oder melden Sie sich als
+                Besucher
+                verbindlich an, werden wir Ihre Daten f&uuml;r die Durchf&uuml;hrung des mit Ihnen geschlossenen
+                Vertrags
+                aufgrund gesetzlicher Aufbewahrungspflichten f&uuml;r 10 Jahre speichern. Zwei Jahre nach Abschluss der
+                Konferenz wird die Verwendung der Daten eingeschr&auml;nkt.
+            <p>Alle anderen Daten, die Sie bei der Anmeldung an uns &uuml;bermitteln, l&ouml;schen wir TODO: X Monate nach Beendigung der Konferenz
+                Dies ist
+                der Fall, wenn Sie sich f&uuml;r unsere Konferenz weder als Besucher noch als Referent verbindlich
+                angemeldet
+                haben.</p>
+            <h3>Forum</h3>
+            <p>Wir erheben personenbezogene Daten, wenn Sie unser Forum nutzen, um sich mit anderen auszutauschen.</p>
+            <h4>Zweck</h4>
+            <p>Die von Ihnen bei der Registrierung angegebenen Daten werden benötigt, damit Sie Schreibrechte auf das Forum erhalten. Optional von Ihnen eingegeben Profildaten werden für den vereinfachten Austausch zwischen den Nutzer*innen verwendet. </p>
+            <h4>Rechtsgrundlage</h4>
+            <p>Grundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. a DSGVO, der die Verarbeitung von Daten auf Basis Ihrer Einwilligung gestattet.</p>
+            <h4>Aufbewahrungsfrist und L&ouml;schung</h4>
+            <p>Registrierungs- und Profildaten werden durch Ihre selbständige Löschung Ihres Nutzerkontos sofort gelöscht. Inhaltliche Daten wie Texte und Bilder, die von Ihnen veröffentlicht wurden, werden behalten, damit bestehende Konversationen Ihren Sinn behalten.</p>
+            <h3>Mailingliste</h3>
+            <p>Wir erheben personenbezogene Daten, wenn Sie unsere Mailingliste nutzen, um sich mit anderen auszutauschen.</p>
+            <h4>Zweck</h4>
+            <p>Die von Ihnen bei der Registrierung angegebenen Daten werden benötigt, damit Sie E-Mails der Liste empfangen und an die Liste schreiben können.</p>
+            <h4>Rechtsgrundlage</h4>
+            <p>Grundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. a DSGVO, der die Verarbeitung von Daten auf Basis Ihrer Einwilligung gestattet.</p>
+            <h4>Aufbewahrungsfrist und L&ouml;schung</h4>
+            <p>Registrierungs- und Profildaten werden durch Ihre selbständige Löschung Ihres Nutzerkontos sofort gelöscht. Inhaltliche Daten wie Texte und Bilder, die von Ihnen veröffentlicht wurden, werden behalten, damit bestehende Konversationen Ihren Sinn behalten.</p>
+        <?php }?>
 </article>
