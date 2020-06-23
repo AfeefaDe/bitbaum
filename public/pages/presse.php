@@ -134,11 +134,11 @@ break;
             <h2>FAQ</h2>
 
             <h3>Wie komme ich als Pressevertreter*in auf die Bits & Bäume?</h3>
-            <p>Es gibt für Pressevertreter*innen die Möglichkeit, sich für die Konferenz akkreditieren zu lassen. Dafür schreibt uns bitte eine Mail an Nina Prehm: <span class="mail_replace_presse"></span>. Wir prüfen alle Anfragen und melden uns schnellstmöglich zurück.</p>
+            <p>Es gibt für Pressevertreter*innen die Möglichkeit, sich für die Konferenz akkreditieren zu lassen. Dafür schreibt uns bitte eine Mail: <span class="mail_replace_presse"></span>. Wir prüfen alle Anfragen und melden uns schnellstmöglich zurück.</p>
             <p>Wir freuen uns über Belegexemplare oder Link zum Artikel oder Interview.</p>
 
             <h3>Gibt es eine Möglichkeit, Interviews zu führen?</h3>
-            <p>Falls du ein Interview mit einem*r der Speaker*innen oder den Veranstalter*innen führen möchtest, vermitteln wir dir gerne eine*n Ansprechpartner*in. Dafür schreibe uns bitte eine E-Mail an Nina Prehm: <span class="mail_replace_presse"></span> und wir melden uns baldmöglichst bei dir.</p>
+            <p>Falls du ein Interview mit einem*r der Speaker*innen oder den Veranstalter*innen führen möchtest, vermitteln wir dir gerne eine*n Ansprechpartner*in. Dafür schreibe uns bitte eine E-Mail: <span class="mail_replace_presse"></span> und wir melden uns baldmöglichst bei dir.</p>
             <p>Auch bei anderen Anliegen bezüglich deiner Berichterstattung melde dich gerne bei uns.</p>
 
             <h3>Kann ich die Pressegrafiken und Bilder nutzen?</h3>
