@@ -86,7 +86,7 @@
                             <br>entstanden aus einer regionalen Gruppe von <a href="https://ccc.de/schule" target="blank">Chaos macht Schule</a>. Trifft sich in den Räumen des CCC Hannover.
                         </li>
                         <li><a href="https://plattform-n.org/project/bits-baeume-osnabrueck/" target="blank">Bits & Bäume Osnabrück</a>
-                            <br>Lokale Bits&Bäume-Gruppe, in Gründung.
+                            <br>Lokale Bits&Bäume-Gruppe.
                         </li>                     
                         <li><a href="https://dortmund.bits-und-baeume.org/" target="blank">Bits & Bäume Dortmund</a>
                             <br>Lokale Bits&Bäume-Gruppe, in Gründung.
