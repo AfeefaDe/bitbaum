@@ -39,13 +39,13 @@
                         <li><a href="http://bits-und-baeume-hannover.org/" target="blank">Bits & Bäume Hannover</a>
                             <br>Regular's round, initiated by Chaos macht Schule.
                         </li>
+                        <li><a href="https://plattform-n.org/project/bits-baeume-osnabrueck/" target="blank">Bits & Bäume Osnabrück</a>
+                            <br>Local B&B group.
+                        </li>                        
                         <li><a href="https://dortmund.bits-und-baeume.org/" target="blank">Bits & Bäume Dortmund</a>
                             <br>Local group, currently being established.
                         </li>                       
                         <li><a href="https://koeln.bits-und-baeume.org/" target="blank">Bits & Bäume Köln</a>
-                            <br>Local group, currently being established.
-                        </li>
-                        <li><a href="https://meet.osna.social/bitsundbaeume" target="blank">Bits & Bäume Osnabrück</a>
                             <br>Local group, currently being established.
                         </li>
                         <li><a href="/waechst/<?php echo $lang; ?>">Who will be next? :)</a>
@@ -85,15 +85,15 @@
                         <li><a href="http://bits-und-baeume-hannover.org/" target="blank">Bits & Bäume Hannover</a>
                             <br>entstanden aus einer regionalen Gruppe von <a href="https://ccc.de/schule" target="blank">Chaos macht Schule</a>. Trifft sich in den Räumen des CCC Hannover.
                         </li>
+                        <li><a href="https://plattform-n.org/project/bits-baeume-osnabrueck/" target="blank">Bits & Bäume Osnabrück</a>
+                            <br>Lokale Bits&Bäume-Gruppe, in Gründung.
+                        </li>                     
                         <li><a href="https://dortmund.bits-und-baeume.org/" target="blank">Bits & Bäume Dortmund</a>
-                            <br>Lokale Bits&Bäume Gruppe, in Gründung.
+                            <br>Lokale Bits&Bäume-Gruppe, in Gründung.
                         </li>            
                         <li><a href="https://koeln.bits-und-baeume.org/" target="blank">Bits & Bäume Köln</a>
-                            <br>Lokale Bits&Bäume Gruppe, in Gründung.
-                        </li>
-                        <li><a href="https://meet.osna.social/bitsundbaeume" target="blank">Bits & Bäume Osnabrück</a>
-                            <br>Lokale Bits&Bäume Gruppe, in Gründung.
-                        </li>         
+                            <br>Lokale Bits&Bäume-Gruppe, in Gründung.
+                        </li>     
                         <li><a href="/waechst/<?php echo $lang; ?>">Hier könnte dein Wohnort stehen! :)</a>
                         </li>
                     </ul>
