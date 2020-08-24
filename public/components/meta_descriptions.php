@@ -47,8 +47,6 @@ if (strpos($page, 'forderungen') !== false) {
 <meta name="viewport" content="initial-scale=1">
 <meta name="viewport" content="initial-scale=1">
 <meta name="referrer" content="same-origin">
-<meta http-equiv="expires" content="Mon, 26 Jul 1997 05:00:00 GMT"/>
-<meta http-equiv="Pragma" content="no-cache">
 
 <meta property="og:url" content="https://bits-und-baeume.org">
 <meta property="og:type" content="website">
