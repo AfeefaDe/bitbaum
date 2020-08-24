@@ -97,6 +97,6 @@
         <section class="square quotes">
             <article>
                 <?php require 'components/quotes.php'; ?>
-                <article>
+            </article>
         </section>
 <?php } ?>
