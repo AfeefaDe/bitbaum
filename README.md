@@ -33,8 +33,10 @@ $ cd public/message
 $ composer install
 ```
 - adapt `.example` configuration files in `public/config`
+	- `db.ini` is used to connect to the supporters-database
+	- `secrets.ini` is used to integrate the twitter feed
+	- `auth.ini` is for authenticating the form
 - serve `public/`
-
 
 
 prozedere
