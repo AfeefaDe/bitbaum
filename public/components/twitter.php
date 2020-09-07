@@ -4,7 +4,9 @@ require_once 'src/TwitterFeed.php';
 $feed = new TwitterFeed();
 $tweets = json_decode($feed->fetch());
 
-foreach ($tweets->statuses as $key => $tweet) {
+$statuses = $tweets->statuses ?? [];
+
+foreach ($statuses as $key => $tweet) {
     if (substr($tweet->text, 0, 2) != "RT") {
         $tweet_url = 'https://twitter.com/statuses/' . $tweet->id_str;
         // $date = date_create($tweet->created_at);
