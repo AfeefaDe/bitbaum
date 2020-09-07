@@ -1,11 +1,12 @@
-var gulp = require('gulp')
-var sass = require('gulp-sass')
-var prefix = require('gulp-autoprefixer')
-var cssmin = require('gulp-cssmin')
-var rename = require('gulp-rename')
-var notify = require('gulp-notify')
-var browserSync = require('browser-sync')
-var php = require('gulp-connect-php')
+const gulp = require('gulp')
+const sass = require('gulp-sass')
+const rename = require('gulp-rename')
+const browserSync = require('browser-sync')
+const php = require('gulp-connect-php')
+const postcss = require("gulp-postcss");
+const autoprefixer = require('autoprefixer');
+
+const cssnano = require("cssnano");
 
 var reload = browserSync.reload
 
@@ -16,17 +17,10 @@ gulp.task('sass', function () {
     return gulp
         .src(input)
         .pipe(sass({indentedSyntax: true}))
-        .on('error', function (err) {
-            notify.onError({
-                title: 'Error',
-                message: '<%= error.message %>',
-            })(err)
-            this.emit('end')
-        })
-        .pipe(prefix('last 8 versions', '> 1%', 'ie 8', 'ie 7'))
+        .pipe(postcss([autoprefixer({overrideBrowserslist: ['last 8 versions', '> 1%', 'ie 8', 'ie 7']})]))
         .pipe(gulp.dest(output))
         .pipe(rename({suffix: '.min'}))
-        .pipe(cssmin())
+        .pipe(postcss([cssnano(), autoprefixer({overrideBrowserslist: ['last 8 versions', '> 1%', 'ie 8', 'ie 7']})]))
         .pipe(gulp.dest(output))
         .pipe(reload({stream: true}))
 })
