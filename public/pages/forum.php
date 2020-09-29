@@ -58,6 +58,30 @@
 
                 <div class="row event">
                     <div>
+                        <h2>Which environmental and economic policy instruments will make digitalization sustainable?</h2>
+                        <p>The energy transition should pave the way towards an energy system that will be characterized by fluctuating renewable energies. This requires the use of information and communication technology to balance supply and demand. However, there is a multitude of discourses about the various aspects of digitalizing the energy system: Where are digital solutions useful and necessary? Do we need smart grids, intelligent consumption control systems and smart generators? Will digitalization increase the efficiency and decentralization of our energy system? Does it make it more resilient or vulnerable? And: How can we ensure that our digital energy system is fair? At the 5th Forum Bits & Bäume we want to discuss the ways in which policies can address these questions under the imperative of climate protection.</p>
+                    </div>
+                    <div>
+                        <p class="flag">Performed virtually!</p>
+                        <p><span class="bold">November 2nd, 2020</span> / 4-7 pm</p>
+                        <p><a class="button" href="https://www.ioew.de/veranstaltung/forum-bits-baeume-wieviel-bits-braucht-die-energiewende" target="_blank">Register here</a></p>
+
+                        <p class="bold" style="margin-top: 3rem">Cooperation partners</p>
+                        <div class="forum-logos">
+                            <a href="http://germanwatch.org" target="_blank">
+                                <img src="/img/logo-germanwatch.svg" title="Germanwatch e.V.">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+            </section>
+
+            <section>
+                <p class="heading">Past Events</p>
+
+                <div class="row event">
+                    <div>
                         <h2>From commerce to commons - Shaping an Internet for the common good</h2>
                         <p>We associate the Internet with freedom, openness, communication, networking and free information. In recent decades, however, commercial interests have grown so much that the digital space is increasingly resembling a marketplace. For example, Wikipedia is the only non-commercial offering among the 50 most visited websites worldwide. Applications that have emerged in the spirit of the Commons idea are being monetized - such as video platforms. Also in the sharing economy, private accommodation such as couchsurfing has become a business under the label of hospitality, from which the platform Airbnb in particular now benefits.</p>
                         <p>This "commercialisation of the Internet" is accompanied by an expansion of online marketing. Through personalization in combination with on- and offline tracking and AI/Big-Data applications, commercial advertising on the web is becoming more and more effective. These developments not only endanger data protection. Through the company's information gathering, this also promotes power asymmetries in favour of digital companies vis-à-vis the users. In addition, consumer incentives are created and more energy is used - with an impact on the environment.</p>
@@ -70,9 +94,8 @@
                         <p>The promotion of cooperative models, commons structures, fair payment for digital services and the regulation of online marketing and tracking are only a few selected approaches. These and other political options for shaping an Internet oriented towards the common good will be the focus of the interactive forum.</p>
                     </div>
                     <div>
-                        <p class="flag">Performed virtually!</p>
                         <p><span class="bold">June 15th, 2020</span> / 4-7 pm</p>
-                        <p><a class="button" href="https://www.ioew.de/veranstaltung/forum-bits-baeume-von-comerce-zurueck-zu-commons-wie-viel-kommerzialisierung-vertraegt-ein-nachhaltiges-internet" target="_blank">Register here</a></p>
+                        <p><a class="button" href="https://www.ioew.de/veranstaltung/forum-bits-baeume-von-comerce-zurueck-zu-commons-wie-viel-kommerzialisierung-vertraegt-ein-nachhaltiges-internet" target="_blank">Further information</a></p>
 
                         <p class="bold" style="margin-top: 3rem">Cooperation partners</p>
                         <div class="forum-logos">
@@ -82,11 +105,6 @@
                         </div>
                     </div>
                 </div>
-
-            </section>
-
-            <section>
-                <p class="heading">Past Events</p>
 
                 <div class="row event">
                     <div>
@@ -171,6 +189,30 @@
 
                 <div class="row event">
                     <div>
+                        <h2>Welche Instrumente der Umwelt- und Wirtschaftspolitik wird die Digitalisierung nachhaltig machen?</h2>
+                        <p>Die Energiewende soll den Übergang zu einem Energiesystem gestalten, das von fluktuierenden erneuerbaren Energien geprägt sein wird. Dies erfordert den Einsatz von <strong>Informations- und Kommunikationstechnologie</strong>, um einen Ausgleich von Angebot und Nachfrage zu gewährleisten. Doch zu den verschiedenen Aspekten der Digitalisierung des Energiesystems gibt es eine Vielzahl an Diskursen: An welchen Stellen sind digitale Lösungen sinnvoll und notwendig? Brauchen wir <strong>intelligente Netze</strong>, intelligente Verbrauchssteuerungen und intelligente Erzeuger? Kann die Digitalisierung unser Energiesystem <strong>effizienter und dezentraler</strong> machen? Wird es dadurch resilienter oder verwundbarer? Und: Wie kann das digitale Energiesystem <strong>gerecht</strong> gestaltet werden? Auf dem 5. Forum Bits & Bäume wollen wir diskutieren, wie die politischen Rahmenbedingungen diesen Fragen unter der Prämisse des Klimaschutzes begegnen können.</p>
+                    </div>
+                    <div>
+                        <p class="flag">Virtuell!</p>
+                        <p><span class="bold">02. November 2020</span> / 16-19 Uhr</p>
+                        <p><a class="button" href="https://www.ioew.de/veranstaltung/forum-bits-baeume-wieviel-bits-braucht-die-energiewende" target="_blank">Zur Anmeldung</a></p>
+
+                        <p class="bold" style="margin-top: 3rem">Kooperationspartner</p>
+                        <div class="forum-logos">
+                            <a href="http://germanwatch.org" target="_blank">
+                                <img src="/img/logo-germanwatch.svg" title="Germanwatch e.V.">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+            </section>
+
+            <section>
+                <p class="heading">Vergangene Veranstaltungen</p>
+
+                <div class="row event">
+                    <div>
                         <h2>Von Commerce zu Commons – Ein gemeinwohlorientiertes Internet gestalten</h2>
                         <p>Das Internet assoziieren wir mit Freiheit, Offenheit, Kommunikation, Vernetzung und freien Informationen. In den letzten Jahrzehnten nahmen jedoch kommerzielle Interessen so stark zu, dass der digitale Raum immer mehr einem Marktplatz gleicht. So ist unter den 50 weltweit meistbesuchten Webseiten Wikipedia das einzige nicht-kommerzielle Angebot. Anwendungen, die im Sinne der Commons-Idee entstanden sind, werden monetarisiert – so z.B. Videoplattformen. Auch in der Sharing Economy sind private Übernachtungsmöglichkeiten wie bei Couchsurfing unter dem Label der Gastfreundschaft zu einem Business geworden, an dem nun vor allem die Plattform Airbnb verdient.</p>
                         <p>Diese „Kommerzialisierung des Internets“ geht mit einer Ausweitung des <b>Online-Marketings</b> einher. Durch Personalisierung in Kombination mit On- und Offlinetracking und KI/Big-Data-Anwendungen wird kommerzielle Werbung im Netz immer effektiver. Diese Entwicklungen gefährden nicht nur den Datenschutz. Durch die unternehmensseitige Informationsgewinnung fördert dies auch Machtasymmetrien zugunsten von digitalen Unternehmen gegenüber den Nutzenden. Zusätzlich werden Konsumanreize gesetzt und mehr Energie verbraucht – mit Auswirkungen auf die Umwelt.</p>
@@ -183,9 +225,8 @@
                         <p>Die Förderung von Genossenschaftsmodellen, Commons-Strukturen, einer fairen Bezahlung digitaler Dienstleistungen sowie der Regulierung von Online-Marketing und Tracking sind nur einige ausgewählte Lösungsansätze. Diese und weitere politische Gestaltungsoptionen für ein gemeinwohlorientiertes Internet sollen im Fokus des interaktiven Forums stehen.</p>
                     </div>
                     <div>
-                        <p class="flag">Virtuell!</p>
                         <p><span class="bold">15. Juni 2020</span> / 16-19 Uhr</p>
-                        <p><a class="button" href="https://www.ioew.de/veranstaltung/forum-bits-baeume-von-comerce-zurueck-zu-commons-wie-viel-kommerzialisierung-vertraegt-ein-nachhaltiges-internet" target="_blank">Zur Anmeldung</a></p>
+                        <p><a class="button" href="https://www.ioew.de/veranstaltung/forum-bits-baeume-von-comerce-zurueck-zu-commons-wie-viel-kommerzialisierung-vertraegt-ein-nachhaltiges-internet" target="_blank">Weitere Infos</a></p>
 
                         <p class="bold" style="margin-top: 3rem">Kooperationspartner</p>
                         <div class="forum-logos">
@@ -195,11 +236,6 @@
                         </div>
                     </div>
                 </div>
-
-            </section>
-
-            <section>
-                <p class="heading">Vergangene Veranstaltungen</p>
 
                 <div class="row event">
                     <div>
