@@ -22,7 +22,7 @@ article .row--forderung > p {
             <section>
               <p>You plan to organise a Bits&Bäume event, a round table, a conference, a discussion evening or a panel? Great!
               </p>
-              <p>You already know <a href="/waechst/<?php echo $lang; ?>" target="blank">what is important to us</a>, if you want to name your new branch <em>Bits&Bäume</em>? Even better!
+              <p>You already know <a href="/waechst/<?php echo $lang; ?>" target="_blank">what is important to us</a>, if you want to name your new branch <em>Bits&Bäume</em>? Even better!
               </p>
               <p>Here you find whatever you might need to plant your own Bits&Bäume seed.
               </p>
@@ -33,17 +33,17 @@ article .row--forderung > p {
             <section>
               <h2>organise sustainably</h2>
               <ul>
-                <li><a href="https://bits-und-baeume.org/infrastruktur/de" target="blank">tips of the B&B-Team</a> how to organise sustainably from using an open street map to hiring collectives for whatever you need</a>
+                <li><a href="https://bits-und-baeume.org/infrastruktur/de" target="_blank">tips of the B&B-Team</a> how to organise sustainably from using an open street map to hiring collectives for whatever you need</a>
                 </li>
               </ul>
 
               <h2>find input</h2>
               <ul>
-                <li>our B&B publication <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank"><em>Was Bits&Bäume verbindet</em></a> (in German)
+                <li>our B&B publication <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="_blank"><em>Was Bits&Bäume verbindet</em></a> (in German)
                 </li>
-                <li>the speakers of the Bits&Bäume 2018, listet in our <a href="https://fahrplan.bits-und-baeume.org/speakers.html" target="blank">fahrplan</a>
+                <li>the speakers of the Bits&Bäume 2018, listet in our <a href="https://fahrplan.bits-und-baeume.org/speakers.html" target="_blank">fahrplan</a>
                 </li>
-                <li><a href="https://media.ccc.de/c/bub2018" target="blank">recordings</a> of the 2018 conference and further talks on Bits&Bäume topics on <a href="https://media.ccc.de/search/?q=b%C3%A4ume" target="blank">media.ccc.de</a>
+                <li><a href="https://media.ccc.de/c/bub2018" target="_blank">recordings</a> of the 2018 conference and further talks on Bits&Bäume topics on <a href="https://media.ccc.de/search/?q=b%C3%A4ume" target="_blank">media.ccc.de</a>
                 </li>
                 <li>ask the Bits&Bäume team to explain the Bits&Bäume demands and why bit and tree belong together (mail address following!)
                 </li>
@@ -53,8 +53,8 @@ article .row--forderung > p {
               <ul>
                 <li>🗋 B&B-Logo solo: <a target="_blank" href="/downloads/B&B_Logo_RGB.pdf">[pdf/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_CMYK.pdf">[pdf/print]</a> | <a target="_blank" href="/downloads/B&B_Logo_RGB.svg">[svg/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_CMYK.eps">[eps/print]</a></li>
                 <li>🗋 B&B-Logo with German conference subtitle: <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_RGB.pdf">[pdf/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_CMYK.pdf">[pdf/print]</a> | <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_CMYK.eps">[eps/print]</a></li>
-                <li>🗋 <a href="/downloads/BUB_Sticker_zeitlos.pdf" target="blank">B&B sticker</a> [pdf]</li>
-                <li>🗋 B&B demands as a brochure <a href="/downloads/BUB_Forderungen_A5_Einzelseiten.pdf" target="blank">single pages </a>| <a href="/downloads/BUB_Forderungen_A5_Doppelseiten_Bookletreihenfolge.pdf" target="blank">double pages for brochure printing</a> [pdf]</li>
+                <li>🗋 <a href="/downloads/BUB_Sticker_zeitlos.pdf" target="_blank">B&B sticker</a> [pdf]</li>
+                <li>🗋 B&B demands as a brochure <a href="/downloads/BUB_Forderungen_A5_Einzelseiten.pdf" target="_blank">single pages </a>| <a href="/downloads/BUB_Forderungen_A5_Doppelseiten_Bookletreihenfolge.pdf" target="_blank">double pages for brochure printing</a> [pdf]</li>
                 <li>🗋 <a target="_blank" href="/downloads/B&B_Plakat_DIN-A1_CC_181108.pdf">B&B poster</a> [pdf]</li>
                 <li>... more material <a target="_blank" href="https://gitlab.com/bub-berlin/media">for download here</a>.</li>
           </section>
@@ -80,27 +80,27 @@ break;
             <section>
               <p>Du willst eine eigene Veranstaltung, einen Stammtisch, eine Konferenz, einen Diskussionsabend, ein Panel im Sinne von Bits&Bäume organisieren? Großartig!
               </p>
-              <p>Du hast schon <a href=/waechst/<?php echo $lang; ?>" target="blank">gelesen, was für uns wichtig ist</a>, damit du deinen Zweig wirklich <em>Bits&Bäume</em> nennen kannst? Noch viel besser!
+              <p>Du hast schon <a href=/waechst/<?php echo $lang; ?>" target="_blank">gelesen, was für uns wichtig ist</a>, damit du deinen Zweig wirklich <em>Bits&Bäume</em> nennen kannst? Noch viel besser!
               </p>
               <p>Du suchst einfach nur nach Ideen für deine eigene Veranstaltung? Auch gut :)
               </p>
-              <p>Hier findest du Material von A wie Anreisekarte (siehe <a href="https://bits-und-baeume.org/infrastruktur/de" target="blank">nachhaltig organisieren</a>) bis Z wie zwitschern <a href="https://twitter.com/hashtag/bitsundbaeume">(#bitsundbäume)</a>
+              <p>Hier findest du Material von A wie Anreisekarte (siehe <a href="https://bits-und-baeume.org/infrastruktur/de" target="_blank">nachhaltig organisieren</a>) bis Z wie zwitschern <a href="https://twitter.com/hashtag/bitsundbaeume">(#bitsundbäume)</a>
               </p>
             </section>
             <section>
               <h2>Nachhaltig organisieren</h2>
               <ul>
-                <li><a href="https://bits-und-baeume.org/infrastruktur/de" target="blank">Tipps des B&B-Teams</a>, was nachhaltig organisieren alles heißen kann, von Kollektiven bis zur Open Street Map
+                <li><a href="https://bits-und-baeume.org/infrastruktur/de" target="_blank">Tipps des B&B-Teams</a>, was nachhaltig organisieren alles heißen kann, von Kollektiven bis zur Open Street Map
                 </li>
               </ul>
 
               <h2>Referent*innen und Themen finden</h2>
               <ul>
-                <li>B&B-Publikation <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank"><em>Was Bits&Bäume verbindet</em></a>: die Themen der Konferenz zum Nachlesen und Vertiefen
+                <li>B&B-Publikation <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="_blank"><em>Was Bits&Bäume verbindet</em></a>: die Themen der Konferenz zum Nachlesen und Vertiefen
                 </li>
-                <li>die Referent*innen der Bits&Bäume 2018 im <a href="https://fahrplan.bits-und-baeume.org/speakers.html" target="blank">Fahrplan</a> scouten
+                <li>die Referent*innen der Bits&Bäume 2018 im <a href="https://fahrplan.bits-und-baeume.org/speakers.html" target="_blank">Fahrplan</a> scouten
                 </li>
-                <li><a href="https://media.ccc.de/c/bub2018" target="blank">Aufzeichnungen</a> der Konferenz 2018 und anderer Vorträge rund um Bits&Bäume und verwandte Stichworte auf <a href="https://media.ccc.de/search/?q=b%C3%A4ume" target="blank">media.ccc.de</a> durchklicken
+                <li><a href="https://media.ccc.de/c/bub2018" target="_blank">Aufzeichnungen</a> der Konferenz 2018 und anderer Vorträge rund um Bits&Bäume und verwandte Stichworte auf <a href="https://media.ccc.de/search/?q=b%C3%A4ume" target="_blank">media.ccc.de</a> durchklicken
                 </li>
                 <li>das Bits&Bäume-Vortrags-Team anfragen, um die Ziele von Bits&Bäume und den Zusammenhang von Bit&Baum zu erklären (Mailadresse folgt!)
                 </li>
@@ -110,8 +110,8 @@ break;
               <ul>
                 <li>🗋 B&B-Logo Solo: <a target="_blank" href="/downloads/B&B_Logo_RGB.pdf">[pdf/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_CMYK.pdf">[pdf/print]</a> | <a target="_blank" href="/downloads/B&B_Logo_RGB.svg">[svg/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_CMYK.eps">[eps/print]</a></li>
                 <li>🗋 B&B-Logo mit Konferenz-Untertitel: <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_RGB.pdf">[pdf/screen]</a> | <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_CMYK.pdf">[pdf/print]</a> | <a target="_blank" href="/downloads/B&B_Logo_Unterzeile_CMYK.eps">[eps/print]</a></li>
-                <li>🗋 <a href="/downloads/BUB_Sticker_zeitlos.pdf" target="blank">B&B-Sticker [pdf]</a></li>
-                <li>🗋 B&B-Forderungen als Broschüre <a href="/downloads/BUB_Forderungen_A5_Einzelseiten.pdf" target="blank">Einzelseiten für die Druckerei </a>| <a href="/downloads/BUB_Forderungen_A5_Doppelseiten_Bookletreihenfolge.pdf" target="blank">Doppelseiten zum Selberdrucken</a> [pdf]</li>
+                <li>🗋 <a href="/downloads/BUB_Sticker_zeitlos.pdf" target="_blank">B&B-Sticker [pdf]</a></li>
+                <li>🗋 B&B-Forderungen als Broschüre <a href="/downloads/BUB_Forderungen_A5_Einzelseiten.pdf" target="_blank">Einzelseiten für die Druckerei </a>| <a href="/downloads/BUB_Forderungen_A5_Doppelseiten_Bookletreihenfolge.pdf" target="_blank">Doppelseiten zum Selberdrucken</a> [pdf]</li>
                 <li>🗋 <a target="_blank" href="/downloads/B&B_Plakat_DIN-A1_CC_181108.pdf">B&B-Plakat</a> [pdf]</li>
                 <li>... mehr Material <a target="_blank" href="https://gitlab.com/bub-berlin/media">zum Download hier</a>.</li>
               </ul>

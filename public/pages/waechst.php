@@ -29,21 +29,21 @@ article .row--forderung > p {
   
               <h2>Bits&Bäume roots</h2>
               <ul>
-                <li>our <a href="/forderungen/<?php echo $lang; ?>" target="blank">political demands!</a>
+                <li>our <a href="/forderungen/<?php echo $lang; ?>" target="_blank">political demands!</a>
                 </li>
-                <li><a href="https://media.ccc.de/c/bub2018" target="blank">recordings</a> of the 2018 conference on media.ccc.de – 1001 thanks to the <a href="https://c3voc.de/" target="blank">VOC</a>!
+                <li><a href="https://media.ccc.de/c/bub2018" target="_blank">recordings</a> of the 2018 conference on media.ccc.de – 1001 thanks to the <a href="https://c3voc.de/" target="_blank">VOC</a>!
                 </li>
-                <li>our conference publication <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank"><em>Was Bits&Bäume verbindet</em> (in German)</a>
+                <li>our conference publication <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="_blank"><em>Was Bits&Bäume verbindet</em> (in German)</a>
                 </li> 
               </ul>
               
                <h2>planting new trees</h2>
               <ul>
-                <li><a href="https://bits-und-baeume.org/infrastruktur/de" target="blank">organise sustainably</a>: tips of the B&B-Teams to organise conferences and smaller events sustainably
+                <li><a href="https://bits-und-baeume.org/infrastruktur/de" target="_blank">organise sustainably</a>: tips of the B&B-Teams to organise conferences and smaller events sustainably
                 </li> 
-                <li><a href="/material/<?php echo $lang; ?>" target="blank">B&B material for your own events (from logo to sticker)</a>
+                <li><a href="/material/<?php echo $lang; ?>" target="_blank">B&B material for your own events (from logo to sticker)</a>
                 </li> 
-                <li>growing branches: <a href="/regionalzweige/<?php echo $lang; ?>" target="blank">regular's rounds</a>
+                <li>growing branches: <a href="/regionalzweige/<?php echo $lang; ?>" target="_blank">regular's rounds</a>
                 </li>
               </ul>   
               
@@ -91,26 +91,26 @@ break;
           <div class="row">
             <section>
               <p>Wir Initiator*innen der ersten Bits&Bäume-Konferenz haben uns entschieden, <strong>die Idee der Bits & Bäume in die Freiheit zu entlassen, auf dass sie weiter wachsen und gedeihen kann.</strong></p>
-              <p>Über ein Jahr lang haben wir als Team aus 10 Organisationen daran gearbeitet, die Bits&Bäume 2018 aus der Taufe zu heben – das war sehr bereichernd für uns, aber auch viel Arbeit, gerade weil so unterschiedliche Organisationen an einem Tisch saßen. Wir bekommen viele freudige Hoffnungsbekundungen auf eine Wiederholung 2019, was uns sehr freut, allerdings können wir leider diese gemeinsame Arbeit nicht langfristig in unseren Arbeitsalltag integrieren. Aber die Bits & Bäume war auch eine <strong>Konferenz von uns allen für uns alle!</strong> Nehmt den Faden also doch einfach auf, gründet einen Stammtisch in eurer Stadt <a href="/regionalzweige/<?php echo $lang; ?>" target="blank">(hier siehst du, welche Stammtische es schon gibt)</a>, organisiert eine kleinere oder größere Veranstaltung, einen Diskussionsabend, erklärt auf Panels, warum und wie Digitalisierung und Nachhaltigkeit zusammengehören, lasst uns weiterhin unter <a href="https://twitter.com/hashtag/bitsundbaeume">#bitsundbäume</a> Ideen und Fortschritte austauschen, denkt euch neue Vernetzungsformate aus.</p>
+              <p>Über ein Jahr lang haben wir als Team aus 10 Organisationen daran gearbeitet, die Bits&Bäume 2018 aus der Taufe zu heben – das war sehr bereichernd für uns, aber auch viel Arbeit, gerade weil so unterschiedliche Organisationen an einem Tisch saßen. Wir bekommen viele freudige Hoffnungsbekundungen auf eine Wiederholung 2019, was uns sehr freut, allerdings können wir leider diese gemeinsame Arbeit nicht langfristig in unseren Arbeitsalltag integrieren. Aber die Bits & Bäume war auch eine <strong>Konferenz von uns allen für uns alle!</strong> Nehmt den Faden also doch einfach auf, gründet einen Stammtisch in eurer Stadt <a href="/regionalzweige/<?php echo $lang; ?>" target="_blank">(hier siehst du, welche Stammtische es schon gibt)</a>, organisiert eine kleinere oder größere Veranstaltung, einen Diskussionsabend, erklärt auf Panels, warum und wie Digitalisierung und Nachhaltigkeit zusammengehören, lasst uns weiterhin unter <a href="https://twitter.com/hashtag/bitsundbaeume">#bitsundbäume</a> Ideen und Fortschritte austauschen, denkt euch neue Vernetzungsformate aus.</p>
             </section>
             <section>   
               <h2>Was bleibt</h2>
               <ul>
-                <li>unsere <a href="/forderungen/<?php echo $lang; ?>" target="blank">Forderungen!</a>
+                <li>unsere <a href="/forderungen/<?php echo $lang; ?>" target="_blank">Forderungen!</a>
                 </li>
-                <li>die <a href="https://media.ccc.de/c/bub2018" target="blank">Aufzeichnungen</a> der Konferenz 2018 auf media.ccc.de – 1001 Dank ans <a href="https://c3voc.de/" target="blank">VOC</a>!
+                <li>die <a href="https://media.ccc.de/c/bub2018" target="_blank">Aufzeichnungen</a> der Konferenz 2018 auf media.ccc.de – 1001 Dank ans <a href="https://c3voc.de/" target="_blank">VOC</a>!
                 </li>
-                <li>unsere Konferenz-Publikation <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank"><em>Was Bits&Bäume verbindet</em></a>
+                <li>unsere Konferenz-Publikation <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="_blank"><em>Was Bits&Bäume verbindet</em></a>
                 </li> 
               </ul>
               
                 <h2>Was wächst</h2>
                 <ul>
-                <li><a href="https://bits-und-baeume.org/infrastruktur/de" target="blank">nachhaltig organisieren</a>: Tipps des B&B-Teams, um einzelne Veranstaltungen oder ganze Konferenzen nachhaltig zu machen</a>
+                <li><a href="https://bits-und-baeume.org/infrastruktur/de" target="_blank">nachhaltig organisieren</a>: Tipps des B&B-Teams, um einzelne Veranstaltungen oder ganze Konferenzen nachhaltig zu machen</a>
                 </li>  
-                <li><a href="/material/<?php echo $lang; ?>" target="blank">B&B-Material</a> für deine eignen Aktionen (Logo bis Sticker)
+                <li><a href="/material/<?php echo $lang; ?>" target="_blank">B&B-Material</a> für deine eignen Aktionen (Logo bis Sticker)
                 </li> 
-                <li>neue Triebe: <a href="/regionalzweige/<?php echo $lang; ?>" target="blank">Stammtische</a>
+                <li>neue Triebe: <a href="/regionalzweige/<?php echo $lang; ?>" target="_blank">Stammtische</a>
                 </li>
               </ul>
   
