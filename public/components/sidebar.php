@@ -9,18 +9,18 @@
             <section class="switch news active">
                 <article>
                     <h3 class="bold">Follow & join us!</h3>
-                    <p>For networking there is a <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="blank">mailing list</a>, a <a href="https://matrix.to/#/#bitsundbaeume:matrix.org" target="blank">Matrix chat</a> and a <a href="https://discourse.bits-und-baeume.org" target="blank">discussion board</a>.
+                    <p>For networking there is a <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="_blank">mailing list</a>, a <a href="https://matrix.to/#/#bitsundbaeume:matrix.org" target="_blank">Matrix chat</a> and a <a href="https://discourse.bits-und-baeume.org" target="_blank">discussion board</a>.
                     </p>
                 </article>
 
                 <article>
                     <h3 class="bold">Diary</h3>
-                    <p>See our upcoming events <a href="https://discourse.bits-und-baeume.org/calendar" target="blank">here</a>.</p>
+                    <p>See our upcoming events <a href="https://discourse.bits-und-baeume.org/calendar" target="_blank">here</a>.</p>
                 </article>
 
                 <article>
                     <h3 class="bold">Publication: <em>Was Bits&Bäume verbindet</em></h3>
-                    <p>Our <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank">conference book</a> has been published pushing further the topics of the conference. Thanks to all crowdfunders!
+                    <p>Our <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="_blank">conference book</a> has been published pushing further the topics of the conference. Thanks to all crowdfunders!
                     </p>
                 </article>
 
@@ -58,18 +58,18 @@
             <section class="switch news active">
                 <article>
                     <h3 class="bold">Komm dazu!</h3>
-                    <p>Um uns zu vernetzen, haben wir eine <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="blank">Mailingliste</a>, einen <a href="https://matrix.to/#/#bitsundbaeume:matrix.org" target="blank">Matrix-Chat</a> und ein <a href="https://discourse.bits-und-baeume.org" target="blank">Diskussionsbrett</a>.
+                    <p>Um uns zu vernetzen, haben wir eine <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="_blank">Mailingliste</a>, einen <a href="https://matrix.to/#/#bitsundbaeume:matrix.org" target="_blank">Matrix-Chat</a> und ein <a href="https://discourse.bits-und-baeume.org" target="_blank">Diskussionsbrett</a>.
                     </p>
                 </article>
 
                 <article>
                     <h3 class="bold">Aktuelle Termine</h3>
-                    <p>Unser aktueller Terminkalender ist <a href="https://discourse.bits-und-baeume.org/calendar" target="blank">hier</a>.</p>
+                    <p>Unser aktueller Terminkalender ist <a href="https://discourse.bits-und-baeume.org/calendar" target="_blank">hier</a>.</p>
                 </article>
 
                 <article>
                     <h3 class="bold">Buch: <em>Was Bits&Bäume verbindet</em></h3>
-                    <p>Das <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="blank">Buch zur Konferenz</a> ist da. Dank an die successfully fundende Crowd!</p>
+                    <p>Das <a href="https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-baeume-verbindet.html" target="_blank">Buch zur Konferenz</a> ist da. Dank an die successfully fundende Crowd!</p>
                 </article>
 
                 <article>
