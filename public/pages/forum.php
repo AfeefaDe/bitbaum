@@ -58,7 +58,7 @@
 
                 <div class="row event">
                     <div>
-                        <h2>Which environmental and economic policy instruments will make digitalization sustainable?</h2>
+                        <h2>How many bits do we need for the energy transition? Design options for an intelligent, future-proof and sustainable energy system</h2>
                         <p>The energy transition should pave the way towards an energy system that will be characterized by fluctuating renewable energies. This requires the use of information and communication technology to balance supply and demand. However, there is a multitude of discourses about the various aspects of digitalizing the energy system: Where are digital solutions useful and necessary? Do we need smart grids, intelligent consumption control systems and smart generators? Will digitalization increase the efficiency and decentralization of our energy system? Does it make it more resilient or vulnerable? And: How can we ensure that our digital energy system is fair? At the 5th Forum Bits & Bäume we want to discuss the ways in which policies can address these questions under the imperative of climate protection.</p>
                     </div>
                     <div>
@@ -189,7 +189,7 @@
 
                 <div class="row event">
                     <div>
-                        <h2>Welche Instrumente der Umwelt- und Wirtschaftspolitik wird die Digitalisierung nachhaltig machen?</h2>
+                        <h2>Wie viele Bits braucht die Energiewende?</h2>
                         <p>Die Energiewende soll den Übergang zu einem Energiesystem gestalten, das von fluktuierenden erneuerbaren Energien geprägt sein wird. Dies erfordert den Einsatz von <strong>Informations- und Kommunikationstechnologie</strong>, um einen Ausgleich von Angebot und Nachfrage zu gewährleisten. Doch zu den verschiedenen Aspekten der Digitalisierung des Energiesystems gibt es eine Vielzahl an Diskursen: An welchen Stellen sind digitale Lösungen sinnvoll und notwendig? Brauchen wir <strong>intelligente Netze</strong>, intelligente Verbrauchssteuerungen und intelligente Erzeuger? Kann die Digitalisierung unser Energiesystem <strong>effizienter und dezentraler</strong> machen? Wird es dadurch resilienter oder verwundbarer? Und: Wie kann das digitale Energiesystem <strong>gerecht</strong> gestaltet werden? Auf dem 5. Forum Bits & Bäume wollen wir diskutieren, wie die politischen Rahmenbedingungen diesen Fragen unter der Prämisse des Klimaschutzes begegnen können.</p>
                     </div>
                     <div>
