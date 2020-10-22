@@ -4,7 +4,7 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^.*$ /index.php [L,QSA]
 
 # Fotogalerie in der Cloud
-Redirect 301 /fotogalerie https://cloud.bits-und-baeume.org/index.php/apps/gallery/s/eTH4H8zwdeWmjkE
+Redirect 301 /fotogalerie https://cloud.bits-und-baeume.org/index.php/s/eTH4H8zwdeWmjkE
 
 Options +MultiViews
 DirectoryIndex index index.php index.html
