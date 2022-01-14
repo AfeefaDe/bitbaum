@@ -39,7 +39,7 @@
                         <li><a href="http://bits-und-baeume-hannover.org/" target="_blank">Bits & Bäume Hannover</a>
                             <br>Regular's round, initiated by Chaos macht Schule.
                         </li>
-                        <li><a href="https://koeln.bits-und-baeume.org/" target="_blank">Bits & Bäume Köln</a>
+                        <li><a href="https://koeln.bits-und-baeume.org/" target="_blank">Bits & Bäume Cologne</a>
                             <br>Local B&B group for bottom-up exchange and collaboration aiming at a sustainable digitalisation in Cologne.
                         </li>     
                         <li><a href="https://plattform-n.org/project/bits-baeume-osnabrueck/" target="_blank">Bits & Bäume Osnabrück</a>
