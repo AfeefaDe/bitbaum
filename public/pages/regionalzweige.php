@@ -34,7 +34,7 @@
                             <br>Our first regular's round, initiated by the Faculty of Computer Science, TU Dresden, after two Bits&Bäume events on May 23rd and June 20th. Meeting at the University of Dresden.
                         </li>
                         <li><a href="https://berlin.bits-und-baeume.org/" target="_blank">Bits & Bäume Berlin</a>
-                            <br>B&B local platform, initiated by the ASta of TU Berlin. They organize events & workshops. The Berlin branch set up our <a href="https://discourse.bits-und-baeume.org/" target="_blank">online discussion board</a> and an instance for <a href="https://mastodon.bits-und-baeume.org/">Mastodon</a> as an alternative to Twitter – yay!
+                            <br>B&B local platform, initiated by the AStA of TU Berlin. They organize events & workshops. The Berlin branch set up our <a href="https://discourse.bits-und-baeume.org/" target="_blank">online discussion board</a> and an instance for <a href="https://mastodon.bits-und-baeume.org/">Mastodon</a> as an alternative to Twitter – yay!
                         </li>
                         <li><a href="http://bits-und-baeume-hannover.org/" target="_blank">Bits & Bäume Hannover</a>
                             <br>Regular's round, initiated by Chaos macht Schule.
