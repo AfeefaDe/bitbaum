@@ -9,7 +9,7 @@
             <section class="switch news active">
                 <article>
                     <h3 class="bold">Follow & join us!</h3>
-                    <p>For networking there is a <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="_blank">mailing list</a>, a <a href="https://matrix.to/#/#bitsundbaeume:matrix.org" target="_blank">Matrix chat</a>, a <a href="https://discourse.bits-und-baeume.org" target="_blank">discussion board</a>, a <ahttps://wiki.bits-und-baeume.org/struktur-der-bewegung/" target="_blank">Wiki</a> and a <a href="https://mastodon.bits-und-baeume.org/@bits_und_baeume" target="_blank">mastodon instance</a>.
+                    <p>For networking there is a <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="_blank">core mailing list</a>, einen <a href="https://twitter.com/bitsundbaeume/">core Twitter account</a>, a <a href="https://matrix.to/#/#bitsundbaeume:matrix.org" target="_blank">community Matrix chat</a>, a <a href="https://discourse.bits-und-baeume.org" target="_blank">community discussion board</a>, a <a href="https://wiki.bits-und-baeume.org/struktur-der-bewegung/" target="_blank">community Wiki</a> and a <a href="https://mastodon.bits-und-baeume.org/@bits_und_baeume" target="_blank">community mastodon instance</a>.
                     </p>
                 </article>
 
@@ -58,7 +58,7 @@
             <section class="switch news active">
                 <article>
                     <h3 class="bold">Komm dazu!</h3>
-                    <p>Um uns zu vernetzen, haben wir eine <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="_blank">Mailingliste</a>, einen <a href="https://matrix.to/#/#bitsundbaeume:matrix.org" target="_blank">Matrix-Chat</a>, ein <a href="https://discourse.bits-und-baeume.org" target="_blank">Diskussionsbrett</a>, ein <ahttps://wiki.bits-und-baeume.org/struktur-der-bewegung/" target="_blank">Wiki</a> und eine <a href="https://mastodon.bits-und-baeume.org/@bits_und_baeume" target="_blank">Mastodon-Instanz</a>.
+                    <p>Um uns zu vernetzen, haben wir eine <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="_blank">Kern-Mailingliste</a>, einen <a href="https://twitter.com/bitsundbaeume/">Kern-Twitteraccount</a>, einen <a href="https://matrix.to/#/#bitsundbaeume:matrix.org" target="_blank">Community-Matrix-Chat</a>, ein <a href="https://discourse.bits-und-baeume.org" target="_blank">Community-Diskussionsbrett</a>, ein <a href="https://wiki.bits-und-baeume.org/struktur-der-bewegung/" target="_blank">Community-Wiki</a> und eine <a href="https://mastodon.bits-und-baeume.org/@bits_und_baeume" target="_blank">Community-Mastodon-Instanz</a>.
                     </p>
                 </article>
 
