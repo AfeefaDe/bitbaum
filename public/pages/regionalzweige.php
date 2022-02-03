@@ -41,12 +41,18 @@
                         </li>
                         <li><a href="https://koeln.bits-und-baeume.org/" target="_blank">Bits & Bäume Cologne</a>
                             <br>Local B&B group for bottom-up exchange and collaboration aiming at a sustainable digitalisation in Cologne.
-                        </li>     
+                        </li>
+                        <li><a href="https://it.bluepingu.de/" target="_blank">Bits & Bäume Nürnberg</a>
+                            <br>Local B&B group for making the social-ecological transition happen for everyone in the metropolitan area Nürnberg. Initiated and organized by the Bluepingu e. V.
+                        </li>
+                        <li><a href="https://wechange.de/group/bits-und-baeume-hamburgregion/microsite/" target="_blank">Bits & Bäume Hamburg</a>
+                            <br>Local B&B group, currently being established.
+                        </li>                        
                         <li><a href="https://plattform-n.org/project/bits-baeume-osnabrueck/" target="_blank">Bits & Bäume Osnabrück</a>
                             <br>Local B&B group, currently being established.
                         </li>                        
                         <li><a href="https://dortmund.bits-und-baeume.org/" target="_blank">Bits & Bäume Dortmund</a>
-                            <br>Local group, currently being established.
+                            <br>Local B&B group, currently being established.
                         </li>                       
                         <li><a href="/waechst/<?php echo $lang; ?>">Who will be next? :)</a>
                         </li>
@@ -56,7 +62,7 @@
 
             <section>
                 <h2>No Bits&Bäume nearby?</h2>
-                <p>Found your own regular's round! In our section <a href="/waechst/en<?php echo $lang; ?>" target="_blank"><em> Bits&Bäume movement</em></a>, you can read more about what to do to organize your own Bits&Bäume formats. There is also a <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="_blank">mailing list</a> as well as an <a href="https://discourse.bits-und-baeume.org/" target=blank">online discussion board</a>.
+                <p>Found your own regular's round! In our section <a href="/waechst/en<?php echo $lang; ?>" target="_blank"><em> Bits&Bäume movement</em></a>, you can read more about what to do to organize your own Bits&Bäume formats. There is also a <a href="https://lists.posteo.de/listinfo/bitsundbaeume" target="_blank">mailing list</a> as well as an <a href="https://discourse.bits-und-baeume.org/" target="_blank">online discussion board</a>.
                 </p>
             </section>
         </article>
@@ -80,14 +86,20 @@
                             <br>war der erste Stammtisch! :) Gegründet von der Fakultät Informatik der TU Dresden nach zwei eigenen Bits&Bäume-Veranstaltungen am 23. Mai und 20. Juni 2019. Trifft sich an der Uni Dresden.
                         </li>
                         <li><a href="https://berlin.bits-und-baeume.org/" target="_blank">Bits & Bäume Berlin</a>
-                            <br>Lokale Bits&Bäume Plattform gegründet vom AStA der TU Berlin. Es werden Veranstaltungen & Workshops organisiert. Die Berliner*innen haben das <a href="https://discourse.bits-und-baeume.org/" target=blank">Bits&Bäume-Online-Forum</a> und eine <a href="https://mastodon.bits-und-baeume.org/">Mastodon-Instanz als Twitter-Alternative</a> aufgesetzt. Danke! :)
+                            <br>Lokale Bits&Bäume Plattform gegründet vom AStA der TU Berlin. Es werden Veranstaltungen & Workshops organisiert. Die Berliner*innen haben das <a href="https://discourse.bits-und-baeume.org/" target="_blank">Bits&Bäume-Online-Forum</a> und eine <a href="https://mastodon.bits-und-baeume.org/">Mastodon-Instanz als Twitter-Alternative</a> aufgesetzt. Danke! :)
                         </li>
                         <li><a href="http://bits-und-baeume-hannover.org/" target="_blank">Bits & Bäume Hannover</a>
                             <br>entstanden aus einer regionalen Gruppe von <a href="https://ccc.de/schule" target="_blank">Chaos macht Schule</a>. Trifft sich in den Räumen des CCC Hannover.
                         </li>
                         <li><a href="https://koeln.bits-und-baeume.org/" target="_blank">Bits & Bäume Köln</a>
                             <br>Lokale Bits&Bäume-Gruppe für Austausch und Zusammenarbeit von unten für eine nachhaltige Digitalisierung in Köln.
-                        </li>     
+                        </li>
+                        <li><a href="https://it.bluepingu.de/" target="_blank">Bits & Bäume Nürnberg</a>
+                            <br>Lokale Bits&Bäume-Gruppe für eine zukunftsfähige Metropolregion Nürnberg, insbesondere für eine sozial-ökologische Transformation für alle; angestoßen und organisiert vom Bluepingu e. V.
+                        </li>
+                        <li><a href="https://wechange.de/group/bits-und-baeume-hamburgregion/microsite/" target="_blank">Bits & Bäume Hamburg</a>
+                            <br>Lokale Bits&Bäume-Gruppe, in Gründung.
+                        </li>             
                         <li><a href="https://plattform-n.org/project/bits-baeume-osnabrueck/" target="_blank">Bits & Bäume Osnabrück</a>
                             <br>Lokale Bits&Bäume-Gruppe, in Gründung.
                         </li>                     
