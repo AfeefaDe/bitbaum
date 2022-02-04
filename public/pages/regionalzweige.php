@@ -45,7 +45,7 @@
                         <li><a href="https://it.bluepingu.de/" target="_blank">Bits & Bäume Nürnberg</a>
                             <br>Local B&B group for making the social-ecological transition happen for everyone in the metropolitan area Nürnberg. Initiated and organized by the Bluepingu e. V.
                         </li>
-                        <li><a href="https://wechange.de/group/bits-und-baeume-hamburgregion/microsite/" target="_blank">Bits & Bäume Hamburg</a>
+                        <li><a href="https://wechange.de/group/bits-baeume-nord/" target="_blank">Bits & Bäume Nord</a>
                             <br>Local B&B group, currently being established.
                         </li>                        
                         <li><a href="https://plattform-n.org/project/bits-baeume-osnabrueck/" target="_blank">Bits & Bäume Osnabrück</a>
@@ -97,7 +97,7 @@
                         <li><a href="https://it.bluepingu.de/" target="_blank">Bits & Bäume Nürnberg</a>
                             <br>Lokale Bits&Bäume-Gruppe für eine zukunftsfähige Metropolregion Nürnberg, insbesondere für eine sozial-ökologische Transformation für alle; angestoßen und organisiert vom Bluepingu e. V.
                         </li>
-                        <li><a href="https://wechange.de/group/bits-und-baeume-hamburgregion/microsite/" target="_blank">Bits & Bäume Hamburg</a>
+                        <li><a href="https://wechange.de/group/bits-baeume-nord/" target="_blank">Bits & Bäume Nord</a>
                             <br>Lokale Bits&Bäume-Gruppe, in Gründung.
                         </li>             
                         <li><a href="https://plattform-n.org/project/bits-baeume-osnabrueck/" target="_blank">Bits & Bäume Osnabrück</a>
