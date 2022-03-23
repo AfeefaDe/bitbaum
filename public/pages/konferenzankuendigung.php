@@ -51,7 +51,7 @@
                        
                     </ul>
                     <ul>
-                        <li>Was können Tech-Community (Bits) und Gerechtigkeits- und Umweltbewegung (Bäume) voneinander lernen? Und wie können wir, auch gemeinsam mit progressiven und alternativ-ökonomischen Akteuren, politisch aktiv werden?
+                        <li>What can the tech community (bits) and the justice and environmental movement (trees) learn from each other? And how can we become politically active, also together with progressive and alternative-economic actors?
                         </li>
                        
                     </ul>
@@ -61,15 +61,15 @@
                
             </section>
             <section>
-                <h2>Wir brauchen eure Mithilfe!</h2>
-                <p>In einem Call for Action werden wir dazu  motivieren, sich in die Organisation der Konferenz einzubringen. Denn helfende Hände und Köpfe werden gebraucht. Es wird bunt, spannend und transformativ!
+                <h2>We need your help!</h2>
+                <p>In a Call for Action we will motivate people to get involved in the organization of the conference. Helping hands and heads are needed. It will be colorful, exciting and transformative!
 </p>
           
             </section>
             <section>
-                <h2>Eure Beiträge sind gefragt!
+                <h2>Your contributions are wanted!
 </h2>
-                <p> Mit dem Call for Participation rufen wir Menschen aus zivilgesellschaftlichen Organisationen, progressive Akteur*innen aus der Wissenschaft, Arbeitswelt, Wirtschaft und Politik auf, die Konferenz durch eigene Beiträge mitzugestalten. Wir freuen uns auf vielfältige und kreative Themen und Formate!
+                <p> With the Call for Participation, we call on people from civil society organizations, progressive actors from science, the world of work, business and politics to help shape the conference with their own contributions. We are looking forward to diverse and creative topics and formats!
 </p>
              
             </section>
