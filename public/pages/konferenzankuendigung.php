@@ -24,7 +24,7 @@
             <section>
 
                 <p>
-	After the successful first Bits & Trees Conference in 2018, the topics of digitalization and sustainability are more present in our society today than ever before. We are facing major societal and global challenges for a just and sustainable shaping of our (surrounding) world. Therefore, we would like to broaden and consolidate the networking of environmental and justice activists, technology experts and human rights activists with the Bits & Trees 2022 conference from September 30 to October 2, 2022. This also includes networking our communities with representatives of social-ecological small digital businesses and founders as well as politicians in order to find concrete solutions for the pressing issues of our time. We want to discuss major political strategies and governance proposals, but also learn from each other through best practice examples how we can realize climate and environmental protection, social justice, democracy and fundamental rights in the digital age. 
+	After the successful first Bits & Bäume Conference in 2018, the topics of digitalization and sustainability are more present in our society today than ever before. We are facing major societal and global challenges for a just and sustainable shaping of our (surrounding) world. Therefore, we would like to broaden and consolidate the networking of environmental and justice activists, technology experts and human rights activists with the Bits & Trees 2022 conference from September 30 to October 2, 2022. This also includes networking our communities with representatives of social-ecological small digital businesses and founders as well as politicians in order to find concrete solutions for the pressing issues of our time. We want to discuss major political strategies and governance proposals, but also learn from each other through best practice examples how we can realise climate and environmental protection, social justice, democracy and fundamental rights in the digital age. 
 
     
                 </p>
@@ -43,10 +43,10 @@
                     <ul>
 						
 						
-						<li>How can digitalization be designed to contribute to a sustainable transformation of society?</li>
+						<li>How can digitalisation be designed to contribute to a sustainable transformation of society?</li>
                        </ul>
                        <ul>
-					    <li>What does a globally, economically, socially and ecologically just future look like in the digitized world?
+					    <li>What does a globally, economically, socially and ecologically just future look like in the digitised world?
                         </li>
                        
                     </ul>
@@ -62,14 +62,14 @@
             </section>
             <section>
                 <h2>We need your help!</h2>
-                <p>In a Call for Action we will motivate people to get involved in the organization of the conference. Helping hands and heads are needed. It will be colorful, exciting and transformative!
+                <p>In a Call for Action we will motivate people to get involved in the organisation of the conference. Helping hands and heads are needed. It will be colorful, exciting and transformative!
 </p>
           
             </section>
             <section>
                 <h2>Your contributions are wanted!
 </h2>
-                <p> With the Call for Participation, we call on people from civil society organizations, progressive actors from science, the world of work, business and politics to help shape the conference with their own contributions. We are looking forward to diverse and creative topics and formats!
+                <p> With the Call for Participation, we call on people from civil society organisations, progressive actors from science, the world of work, business and politics to help shape the conference with their own contributions. We are looking forward to diverse and creative topics and formats!
 </p>
              
             </section>
