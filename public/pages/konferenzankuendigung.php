@@ -19,7 +19,7 @@
 ?>
 
         <article>
-            <h1><Bits & Bäume Conference 2022></h1>
+            <h1>Bits & Bäume Conference 2022</h1>
 
             <section>
 
