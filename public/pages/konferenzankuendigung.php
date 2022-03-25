@@ -155,8 +155,16 @@
             </section>
             <section>
                 <h2>Wir brauchen eure Mithilfe!</h2>
-                <p>In einem Call for Action werden wir dazu  motivieren, sich in die Organisation der Konferenz einzubringen. Denn helfende Hände und Köpfe werden gebraucht. Es wird bunt, spannend und transformativ!
-</p>
+                <p>
+		In einem Call for Action motivieren wir dazu, sich in die Organisation der Konferenz einzubringen. 
+		Denn helfende Hände und Köpfe werden gebraucht. Es wird bunt, spannend und transformativ!
+		 <ul>
+		 <li>	
+		<a target="_blank" href="/downloads/Call_for_Action.pdf">Call for Action</a>
+			 </li>
+		    </ul>
+    
+		</p>
           
             </section>
             <section>
