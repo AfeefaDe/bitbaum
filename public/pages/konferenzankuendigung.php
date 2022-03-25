@@ -28,7 +28,7 @@
 			in our society today than ever before. We are facing major societal and global challenges for a just and sustainable 
 			shaping of our (surrounding) world.
 			Therefore, we would like to broaden and consolidate the networking of environmental and justice activists, 
-			technology experts and human rights activists with the Bits & Trees 2022 conference from <b>October 1st to 2nd, 2022</b>. 
+			technology experts and human rights activists with the <b>Bits & Bäume 2022</b> conference from <b>October 1st to 2nd, 2022</b>. 
 			A <b>kick-off event</b> will be held on the evening of <b>September 30</b>.
 			This also includes networking our communities with representatives of social-ecological small digital businesses and 
 			founders as well as politicians in order to find concrete solutions for the pressing issues of our time. 
