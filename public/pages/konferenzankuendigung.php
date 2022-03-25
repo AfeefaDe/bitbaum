@@ -19,12 +19,21 @@
 ?>
 
         <article>
-            <h1>Bits & Bäume Conference 2022</h1>
+            <h1>Bits & Bäume Conference 2022 goes into the second round - your help is needed</h1>
 
             <section>
 
                 <p>
-	After the successful first Bits & Bäume Conference in 2018, the topics of digitalization and sustainability are more present in our society today than ever before. We are facing major societal and global challenges for a just and sustainable shaping of our (surrounding) world. Therefore, we would like to broaden and consolidate the networking of environmental and justice activists, technology experts and human rights activists with the Bits & Trees 2022 conference from September 30 to October 2, 2022. This also includes networking our communities with representatives of social-ecological small digital businesses and founders as well as politicians in order to find concrete solutions for the pressing issues of our time. We want to discuss major political strategies and governance proposals, but also learn from each other through best practice examples how we can realise climate and environmental protection, social justice, democracy and fundamental rights in the digital age. 
+	After the successful first Bits & Bäume Conference in 2018, the topics of digitalization and sustainability are more present 
+			in our society today than ever before. We are facing major societal and global challenges for a just and sustainable 
+			shaping of our (surrounding) world.
+			Therefore, we would like to broaden and consolidate the networking of environmental and justice activists, 
+			technology experts and human rights activists with the Bits & Trees 2022 conference from <b>October 1st to 2nd, 2022</b>. 
+			A <b>kick-off event</b> will be held on the evening of <b>September 30</b>.
+			This also includes networking our communities with representatives of social-ecological small digital businesses and 
+			founders as well as politicians in order to find concrete solutions for the pressing issues of our time. 
+			We want to discuss major political strategies and governance proposals, but also learn from each other through best practice 
+			examples how we can realise climate and environmental protection, social justice, democracy and fundamental rights in the digital age. 
 
     
                 </p>
@@ -69,10 +78,29 @@
             <section>
                 <h2>Your contributions are wanted!
 </h2>
-                <p> With the Call for Participation, we call on people from civil society organisations, progressive actors from science, the world of work, business and politics to help shape the conference with their own contributions. We are looking forward to diverse and creative topics and formats!
+                <p> With the Call for Participation, we call on people from civil society organisations, 
+			progressive actors from science, the world of work, business and politics to help shape the conference with their own contributions. We are looking forward to diverse and creative topics and formats!
 </p>
              
             </section>
+		<section>
+		    <h2>Bits & Bäume 2022 is organised by:</h2>
+		    <p>Bund für Umwelt und Naturschutz Deutschland (BUND), Brot für die Welt, Chaos Computer Club (CCC), 
+			    Deutscher Naturschutz Ring (DNR), Einstein Center Digital Future / Technische Universität Berlin, 
+			    Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung e. V. (FIfF), 
+			    Free Software Foundation Europe (FSFE), Germanwatch e.V., Institut für ökologische Wirtschaftsforschung (IÖW), 
+			    Konzeptwerk Neue Ökonomie, Open Knowledge Foundation Deutschland e. V. (OKF), Weizenbaum Institut e.V., 
+			    Vereinte Dienstleistungsgewerkschaft (ver.di)</p>
+		    <p><i>The event is sponsored by the Deutsche Bundesstiftung Umwelt (DBU) and co-financed by the Bundesministerium für Umwelt, 
+			    Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV). The work of Germanwatch and the 
+			    Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung (FIfF) within the framework of the 
+			    Bits & Trees Conference 2022 is mainly funded by Stiftung Mercator.</i></p>
+
+
+
+
+
+		</section>
 
             
         </article>
@@ -82,12 +110,20 @@
     ?>
         <article>
 
-           <h1>Bits & Bäume Konferenz 2022</h1>
+           <h1>Die Bits & Bäume 2022 geht in die zweite Runde – eure Mithilfe ist gefragt</h1>
        
             <section>
 
                 <p>
-                Nach der erfolgreichen ersten Bits & Bäume-Konferenz 2018 sind die Themen Digitalisierung und Nachhaltigkeit heute in unserer Gesellschaft so präsent wie nie zuvor. Wir stehen vor großen gesellschaftlichen und globalen Herausforderungen für eine gerechte und nachhaltige Gestaltung unserer (Um-)Welt. Deshalb möchten wir mit der Konferenz Bits & Bäume 2022 vom 30. September bis 2. Oktober 2022 die Vernetzung von Umwelt- und Gerechtigkeitsaktivist*innen, Technikexpert*innen und Menschenrechtler*innen verbreitern und verstetigen. Dazu gehört auch die Vernetzung unserer Communities mit Vertreter*innen sozial-ökologisch wirtschaftender kleiner Digital-Unternehmen und -Gründer*innen sowie der Politik, um gemeinsam konkrete Lösungen für die drängenden Fragen unserer Zeit zu finden. Wir wollen große politische Strategien und Governance-Vorschläge diskutieren, aber auch anhand von Best-Practice-Beispielen voneinander lernen, wie wir im digitalen Zeitalter Klima- und Umweltschutz, soziale Gerechtigkeit, Demokratie und Grundrechte verwirklichen können. 
+                Nach der erfolgreichen ersten Bits & Bäume-Konferenz 2018 sind die Themen Digitalisierung und Nachhaltigkeit
+			heute in unserer Gesellschaft so präsent wie nie zuvor. Wir stehen vor großen gesellschaftlichen und 
+			globalen Herausforderungen für eine gerechte und nachhaltige Gestaltung unserer (Um-)Welt. 
+			Deshalb möchten wir mit der <b>Konferenz Bits & Bäume 2022</b> vom <b>01. bis 2. Oktober 2022</b> die Vernetzung von Umwelt-
+			und Gerechtigkeitsaktivist*innen, Technikexpert*innen und Menschenrechtler*innen verbreitern und verstetigen. 
+			Eine <b>Auftaktveranstaltung</b> wird am Abend des <b>30. September</b> stattfinden.
+			Dazu gehört auch die Vernetzung unserer Communities mit Vertreter*innen sozial-ökologisch wirtschaftender kleiner Digital-Unternehmen und 
+			-Gründer*innen sowie der Politik, um gemeinsam konkrete Lösungen für die drängenden Fragen unserer Zeit zu finden. 
+			Wir wollen große politische Strategien und Governance-Vorschläge diskutieren, aber auch anhand von Best-Practice-Beispielen voneinander lernen, wie wir im digitalen Zeitalter Klima- und Umweltschutz, soziale Gerechtigkeit, Demokratie und Grundrechte verwirklichen können. 
                 </p>
 
                 <p>
@@ -130,6 +166,25 @@
 </p>
              
             </section>
+		
+	    <section>
+		    <h2>Bits & Bäume 2022 wird organisiert von:</h2>
+		    <p>Bund für Umwelt und Naturschutz Deutschland (BUND), Brot für die Welt, Chaos Computer Club (CCC), 
+			    Deutscher Naturschutz Ring (DNR), Einstein Center Digital Future / Technische Universität Berlin, 
+			    Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung e. V. (FIfF), 
+			    Free Software Foundation Europe (FSFE), Germanwatch e.V., Institut für ökologische Wirtschaftsforschung (IÖW), 
+			    Konzeptwerk Neue Ökonomie, Open Knowledge Foundation Deutschland e. V. (OKF), Weizenbaum Institut e.V., 
+			    Vereinte Dienstleistungsgewerkschaft (ver.di)</p>
+		    <p><i>Die Veranstaltung wird gefördert durch die Deutsche Bundesstiftung Umwelt (DBU) und vom Bundesministerium für Umwelt, 
+			    Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) kofinanziert. Die Arbeit von Germanwatch und des 
+			    Forums InformatikerInnen für Frieden und gesellschaftliche Verantwortung (FIfF) im Rahmen der 
+			    Bits & Bäume-Konferenz 2022 wird hauptsächlich gefördert durch die Stiftung Mercator.</i></p>
+
+
+
+
+
+		</section>
 
                     
         </article>
