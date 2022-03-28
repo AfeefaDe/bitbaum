@@ -19,7 +19,7 @@ break;
             </p>
             <div class="row">
               <p>Kernteam der Bits&Bäume:<br>Anja Höfner, Constanze Kurz, Hendrik Zimmermann, Juliane Krüger, Leon Kaiser, Maria Bossmann, Nicolas Guenot, Sven Hilbig, Teresa Hoffmann, Tilman Santarius, Rainer Rehak, Rolf Buschmann, Vivian Frick</p>
-              <p>Bits&Bäume-Büro:<br>Ekaterina Sergienko, Eva Laderick, Katja George</p>
+              <p>Bits&Bäume-Büro:<br>Jasmin Meiling, Lena Steltzner, Leah Vauth</p>
             </div>
         <?php }?>
 
