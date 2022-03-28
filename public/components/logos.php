@@ -25,8 +25,7 @@
                 <a href="https://okfn.de" target="_blank"><img class="larger" src="/img/logo-okfn.svg"
                                                                title="Open Knowledge Foundation"></a>
                
-                <a href="https://fsfe.org/" target="_blank"><img class="larger" src="/img/logo_fsfe.svg"
-                                                               title="">Free Software Foundation Europe</a>
+             
                
             </div>
             <p><strong>Media Partner</strong></p>
