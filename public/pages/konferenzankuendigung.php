@@ -72,7 +72,11 @@
             <section>
                 <h2>We need your help!</h2>
                 <p>In a Call for Action we will motivate people to get involved in the organisation of the conference. Helping hands and heads are needed. It will be colorful, exciting and transformative!
-</p>
+</p>    <ul>
+		 <li>	
+		<a target="_blank" href="/downloads/Call_for_Action_neu.pdf">Call for Action</a>
+			 </li>
+		    </ul>
           
             </section>
             <section>
@@ -161,6 +165,12 @@
 		
     
 		</p>
+		    
+		     <ul>
+		 <li>	
+		<a target="_blank" href="/downloads/Call_for_Action_neu.pdf">Call for Action</a>
+			 </li>
+		    </ul>
           
             </section>
             <section>
@@ -168,6 +178,8 @@
 </h2>
                 <p> Mit dem Call for Participation rufen wir Menschen aus zivilgesellschaftlichen Organisationen, progressive Akteur*innen aus der Wissenschaft, Arbeitswelt, Wirtschaft und Politik auf, die Konferenz durch eigene Beiträge mitzugestalten. Wir freuen uns auf vielfältige und kreative Themen und Formate!
 </p>
+		    
+		    
              
             </section>
 		
