@@ -24,6 +24,14 @@
                                                                                           title="konzeptwerk neue ökonomie"></a>
                 <a href="https://okfn.de" target="_blank"><img class="larger" src="/img/logo-okfn.svg"
                                                                title="Open Knowledge Foundation"></a>
+                <a href="https://www.verdi.de" target="_blank"><img class="larger" src="/img/logo_verdi.png"
+                                                               title="Ver.di"></a>
+                <a href="https://www.weizenbaum-institut.de/" target="_blank"><img class="larger" src="/img/logo_weizenbaum.png"
+                                                               title="">Weizenbauminstitut</a>
+                <a href="https://fsfe.org/" target="_blank"><img class="larger" src="/img/logo_fsfe.svg"
+                                                               title="">Free Software Foundation Europe</a>
+                 <a href="https://www.einsteinfoundation.de/" target="_blank"><img class="larger" src="/img/logo_Einstein_Center.jpg"
+                                                               title="">Einstein Foundation</a>
             </div>
             <p><strong>Media Partner</strong></p>
             <a href="https://netzpolitik.org" target="_blank"><img class="smaller" src="/img/logo-netzpolitik-org.svg"
