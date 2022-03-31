@@ -1,0 +1,12 @@
+{
+	"admins": [
+        {
+		"matrix_id": "@admin:bits-und-baeume.org",
+		"email_address": "matrix-support@bits-und-baeume.org",
+		"role": "admin"
+	},
+	{
+		"email_address": "matrix-support@bits-und-baeume.org",
+		"role": "security"
+	}]
+}
