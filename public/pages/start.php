@@ -67,7 +67,7 @@
 
                 <div class="row">
                                <p class="square-action">
-                        <a href="/konferenzankuendigung/<?php echo $lang; ?>" class="button" style="text-align: center">Konferenz Bits&Bäume22</a>
+                        <a href="/konferenz/<?php echo $lang; ?>" class="button" style="text-align: center">Konferenz Bits&Bäume22</a>
                  </p>
                      
                    
