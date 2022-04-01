@@ -58,7 +58,7 @@ class SupportController
             ]
         );
 
-        return count($data);
+        return count((is_countable($data)?$data:[]));
     }
 
     public static function verifySupport($id, $code)
