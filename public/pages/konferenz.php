@@ -12,9 +12,10 @@
 
 <meta property="og:url" content="https://bits-und-baeume.org">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Bits &amp; Bäume - die Bewegung für Digitalisierung und Nachhaltigkeit">
-<meta property="og:description" content="Die „Bits &amp; Bäume“ wird dezentralisiert fortgeführt, auf dass sie weiter wächst und gedeiht.">
-<meta property="og:image" content="/bits-baeume.png">    <!-- Stylesheets -->
+<meta property="og:title" content="Bits&amp;Bäume: Digitalisierung und Nachhaltigkeit">
+<meta property="og:description" content="2. Bits&amp;Bäume Konferenz: 30.09.-02.10.2022">
+<meta property="og:image" content="/img/bits-und-baeume-logo-square.png">
+<!-- Stylesheets -->
 <link rel="stylesheet" href="/styles/styles.min.css">
 <script src="/js/jquery.min.js"></script>
 
