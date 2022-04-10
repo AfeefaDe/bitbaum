@@ -34,6 +34,9 @@
     body > section {
         width: 100%;
     }
+    .back-button {
+        visibility: hidden;
+    }
 
 </style>
 
@@ -55,15 +58,9 @@
             </div>
 
         </header>
-    <section>
-        <a href='/de' class='button back-button'>zur Übersicht</a>
 
+    <?php require 'konferenz_content.php'; ?>
 
-
-        <?php require 'konferenz_content.php'; ?>
-
-
-    </section>
 
 
 <script>

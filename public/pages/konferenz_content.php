@@ -1,112 +1,3 @@
-<style>
-    article .row--forderung {
-        justify-content: flex-start;
-    }
-
-    article .row--forderung>span {
-        flex: 0 0 3em;
-        font-weight: bold;
-        text-indent: 0.8em;
-    }
-
-    article .row--forderung>p {
-        flex: 1 1 100%;
-        margin-top: 0;
-    }
-
-
-
-/*source: https://www.w3schools.com/howto/howto_css_dropdown.asp*/
-
-
-.navbar {
-/*   overflow: hidden; */
-/*   background-color: #333; */
-  display: block;
-    max-width: var(--main-width-a);
-    margin: 0 auto;
-  font-size: 1rem;
-    height: 3rem;
-}
-
-.tmp {
-    box-sizing: border-box;
-    position: relative; /* for correct placement of #sticky-sitelogo */
-
-}
-
-.navbar a {
-    display: inline-block;
-    color: inherit !important;
-    text-decoration: none !important;
-    line-height: 1rem;
-    padding: 0.5rem;
-    border-radius: 3px;
-    font-weight: bold;
-    float: left;
-}
-
-
-.dropdown {
-  float: left;
-  overflow: hidden;
-}
-
-.dropdown .dropbtn {
- /*same content as navbar a*/
-
-    color: inherit !important;
-    text-decoration: none !important;
-    line-height: 1rem;
-    padding: 0.5rem;
-    border-radius: 3px;
-    font-weight: bold;
-
-  font-size: 1rem;
-  background-color: inherit;
-  outline: none;
-  font-family: inherit;
-  border: none;
-
-  /*padding: 14px 16px;*/
-  margin: 0;
-  display: inline-block;
-}
-
-.navbar a:hover, .dropdown:hover .dropbtn {
-  background: rgba(0,0,0,0.1);
-}
-
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #f9f9f9;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
-}
-
-.dropdown-content a {
-  float: none;
-  color: black;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-  text-align: left;
-}
-
-.dropdown-content a:hover {
-  background-color: #ddd;
-}
-
-.dropdown:hover .dropdown-content {
-  display: block;
-}
-
-
-
-
-</style>
 <?php switch ($lang) {
     case "en":
 ?>
@@ -209,350 +100,322 @@
 // case "de"
     default:
     ?>
-        <article>
+        <!-- ############### Menü Anfang ###################################         -->
 
+        <!-- Basiert auf dem Pad: "Konferenzwebsite – Struktur"      -->
 
-
-           <h1>Die Bits &amp; Bäume Konferenz: 30.09.-02.10.2022 </h1>
-
-
-
-    <!-- ############### Menü Anfang ###################################         -->
-
-<!-- Basiert auf dem Pad: "Konferenzwebsite – Struktur"      -->
-
-
-<!--
-
-
-
-
-
-
-
-
-
-
-    etc.
-
-    Blog? (extrem viel Aufwand)
-
-    Datenschutz / Impressum
-
-
-
--->
-
-           <div class="navbar">
-            <a href="/">Startseite</a>
+        <nav class="navbar">
+            <a class="button" href="/">Startseite</a>
             <!--  Start Hauptmenüeintrag           -->
             <div class="dropdown">
-                <div class="dropbtn">Programm ▾</div>
+                <div class="button dropbtn">Programm ▾</div>
                 <div class="dropdown-content">
 
-                  <a href="#cfp">Call for Participation</a>
-                  <a href="#buehnenprogramm">Bühnenprogramm</a>
-                  <a href="#bbforum">B&amp;B-Forum</a>
-                  <a href="#pitch">Pitch &amp; Thrive for Sustainability</a>
-                  <a href="#kultur">Kulturprogramm</a>
-                  <a href="#party">Abschlussparty</a>
+                    <a class="button" href="#cfp">Call for Participation</a>
+                    <a class="button" href="#buehnenprogramm">Bühnenprogramm</a>
+                    <a class="button" href="#bbforum">B&amp;B-Forum</a>
+                    <a class="button" href="#pitch">Pitch &amp; Thrive for Sustainability</a>
+                    <a class="button" href="#kultur">Kulturprogramm</a>
+                    <a class="button" href="#party">Abschlussparty</a>
                 </div>
             </div>  <!-- Ende  Hauptmenüeintrag           -->
 
             <!--  Start Hauptmenüeintrag           -->
             <div class="dropdown">
-                <div class="dropbtn">Tickets ▾</div>
+                <div class="button dropbtn">Tickets ▾</div>
                 <div class="dropdown-content">
-                  <a href="#pretix">Pretix</a>
-                  <a href="#preiskategorien">Preiskategorien</a>
+                    <a class="button" href="#pretix">Pretix</a>
+                    <a class="button" href="#preiskategorien">Preiskategorien</a>
                 </div>
 
             </div>  <!-- Ende  Hauptmenüeintrag           -->
 
             <!--  Start Hauptmenüeintrag           -->
             <div class="dropdown">
-                <div class="dropbtn">Presse ▾</div>
+                <div class="button dropbtn">Presse ▾</div>
                 <div class="dropdown-content">
-                  <a href="#presseverteiler">Presseverteiler</a>
-                  <a href="#pressemitteilungen">Pressemitteilungen</a>
-                  <a href="#pressekit">Pressekit</a>
-                  <a href="#pressespiegel">Pressespiegel</a>
-                  <a href="#pressekontakt">Pressekontakt</a>
+                    <a class="button" href="#presseverteiler">Presseverteiler</a>
+                    <a class="button" href="#pressemitteilungen">Pressemitteilungen</a>
+                    <a class="button" href="#pressekit">Pressekit</a>
+                    <a class="button" href="#pressespiegel">Pressespiegel</a>
+                    <a class="button" href="#pressekontakt">Pressekontakt</a>
                 </div>
 
             </div>  <!-- Ende  Hauptmenüeintrag           -->
 
-           <a href="#forderungen">Forderungen</a>
+            <a class="button" href="#forderungen">Forderungen</a>
 
             <!--  Start Hauptmenüeintrag           -->
             <div class="dropdown">
-                <div class="dropbtn">Über uns ▾</div>
+                <div class="button dropbtn">Über uns ▾</div>
                 <div class="dropdown-content">
-                  <a href="#ueberuns">Über uns</a>
-                  <a href="#mitmachen">Mitmachen</a>
-                  <a href="#tk">Trägerkreis</a>
-                  <a href="#kb">Konferenzbüro</a>
-                  <a href="#newsletter">Newsletter</a>
-                  <a href="#kontakt">kontakt</a>
+                    <a class="button" href="#ueberuns">Über uns</a>
+                    <a class="button" href="#mitmachen">Mitmachen</a>
+                    <a class="button" href="#tk">Trägerkreis</a>
+                    <a class="button" href="#kb">Konferenzbüro</a>
+                    <a class="button" href="#newsletter">Newsletter</a>
+                    <a class="button" href="#kontakt">Kontakt</a>
                 </div>
 
             </div>  <!-- Ende  Hauptmenüeintrag           -->
 
             <!--  Start Hauptmenüeintrag           -->
             <div class="dropdown">
-                <div class="dropbtn">FAQs ▾</div>
+                <div class="button dropbtn">FAQs ▾</div>
                 <div class="dropdown-content">
-                  <a href="#verpflegung">Verpflegung</a>
-                  <a href="#barrierearmut">Barrierearmut/-freiheit</a>
-                  <a href="#transparenz">Transparenz</a>
+                    <a class="button" href="#verpflegung">Verpflegung</a>
+                    <a class="button" href="#barrierearmut">Barrierearmut/-freiheit</a>
+                    <a class="button" href="#transparenz">Transparenz</a>
                 </div>
 
             </div>  <!-- Ende  Hauptmenüeintrag           -->
 
 
-            <a href="#forderungen">Blog</a>
-            <a href="#impressum">Impressum/Datenschutz</a>
+            <!-- <a class="button" href="#forderungen">Blog</a>  kein Blog fürs erste -->
+            <!-- <a href="#impressum">Impressum/Datenschutz</a>  ist bereits im Footer -->
+
+            <div style="clear: left; height: 0;">&nbsp;</div>
+        </nav> <!-- Ende Menü -->
+
+        <!-- ############### Menü Ende ###################################         -->
+
+        <section>
+            <article>
+
+                <h1>Die Bits &amp; Bäume Konferenz: 30.09.-02.10.2022 </h1>
+
+                <section id="cfp">
+
+                    <h2>cfp</h2>
+
+                    <p>...
+                    </p>
+
+                    <hr>
+                </section>
+
+                <section id="buehnenprogramm">
+
+                    <h2>Bühnenprogramm</h2>
+
+                    <p>...
+                    </p>
+
+                    <hr>
+                </section>
+
+                <section id="bbforum">
+
+                    <h2>bbforum</h2>
+
+                    <p>...
+                    </p>
+
+                    <hr>
+                </section>
+                <section id="pitch">
+
+                    <h2>pitch</h2>
+
+                    <p>...
+                    </p>
+
+                    <hr>
+                </section>
+                <section id="kultur">
+
+                    <h2>kultur</h2>
+
+                    <p>...
+                    </p>
+
+                    <hr>
+                </section>
+
+                <section id="party">
+
+                    <h2>party</h2>
+
+                    <p>...
+                    </p>
+
+                    <hr>
+                </section>
+
+                <section id="pretix">
+
+                    <h2>pretix</h2>
+
+                    <p>...
+                    </p>
+
+                    <hr>
+                </section>
+
+                <section id="preiskategorien">
+
+                    <h2>preiskategorien</h2>
+
+                    <p>...
+                    </p>
+
+                    <hr>
+                </section>
+
+                <section id="presseverteiler">
+
+                    <h2>presseverteiler</h2>
+
+                    <p>...
+                    </p>
+
+                    <hr>
+                </section>
+
+                <section id="pressemitteilungen">
+
+                    <h2>pressemitteilungen</h2>
+
+                    <p>...
+                    </p>
+
+                    <hr>
+                </section>
+
+                <section id="pressekit">
+
+                    <h2>pressekit</h2>
+
+                    <p>...
+                    </p>
+
+                    <hr>
+                </section>
+
+                <section id="pressespiegel">
+
+                    <h2>pressespiegel</h2>
+
+                    <p>...
+                    </p>
+
+                    <hr>
+                </section>
+
+                <section id="pressekontakt">
+
+                    <h2>pressekontakt</h2>
+
+                    <p>...
+                    </p>
+
+                    <hr>
+                </section>
+
+                <section id="ueberuns">
+
+                    <h2>ueberuns</h2>
+
+                    <p>...
+                    </p>
+
+                    <hr>
+                </section>
+
+                <section id="mitmachen">
+
+                    <h2>mitmachen</h2>
+
+                    <p>...
+                    </p>
+
+                    <hr>
+                </section>
+
+                <section id="tk">
+
+                    <h2>Trägerkreis</h2>
+
+                    <p>...
+                    </p>
+
+                    <hr>
+                </section>
+
+                <section id="kb">
+
+                    <h2>Konferenzbüro</h2>
+
+                    <p>...
+                    </p>
+
+                    <hr>
+                </section>
+
+                <section id="newsletter">
+
+                    <h2>newsletter</h2>
+
+                    <p>...
+                    </p>
+
+                    <hr>
+                </section>
+
+                <section id="kontakt">
+
+                    <h2>kontakt</h2>
+
+                    <p>...
+                    </p>
+
+                    <hr>
+                </section>
+
+                <section id="verpflegung">
+
+                    <h2>verpflegung</h2>
+
+                    <p>...
+                    </p>
+
+                    <hr>
+                </section>
 
 
+                <section id="barrierearmut">
 
-        </div> <!-- Ende Menü -->
-<!-- ############### Menü Ende ###################################         -->
+                    <h2>barrierearmut</h2>
+
+                    <p>...
+                    </p>
+
+                    <hr>
+                </section>
 
 
+                <section id="transparenz">
+
+                    <h2>transparenz</h2>
+
+                    <p>...
+                    </p>
+
+                    <hr>
+                </section>
 
 
-        <section id="cfp">
+                <section id="forderungen">
 
-            <h2>cfp</h2>
+                    <h2>forderungen</h2>
 
-            <p>...
-            </p>
+                    <p>...
+                    </p>
 
-            <hr>
+                    <hr>
+                </section>
+
+
+            </article>
         </section>
-
-        <section id="buehnenprogramm">
-
-            <h2>Bühnenprogramm</h2>
-
-            <p>...
-            </p>
-
-            <hr>
-        </section>
-
-        <section id="bbforum">
-
-            <h2>bbforum</h2>
-
-            <p>...
-            </p>
-
-            <hr>
-        </section>
-        <section id="pitch">
-
-            <h2>pitch</h2>
-
-            <p>...
-            </p>
-
-            <hr>
-        </section>
-        <section id="kultur">
-
-            <h2>kultur</h2>
-
-            <p>...
-            </p>
-
-            <hr>
-        </section>
-
-        <section id="party">
-
-            <h2>party</h2>
-
-            <p>...
-            </p>
-
-            <hr>
-        </section>
-
-        <section id="pretix">
-
-            <h2>pretix</h2>
-
-            <p>...
-            </p>
-
-            <hr>
-        </section>
-
-        <section id="preiskategorien">
-
-            <h2>preiskategorien</h2>
-
-            <p>...
-            </p>
-
-            <hr>
-        </section>
-
-        <section id="presseverteiler">
-
-            <h2>presseverteiler</h2>
-
-            <p>...
-            </p>
-
-            <hr>
-        </section>
-
-        <section id="pressemitteilungen">
-
-            <h2>pressemitteilungen</h2>
-
-            <p>...
-            </p>
-
-            <hr>
-        </section>
-
-        <section id="pressekit">
-
-            <h2>pressekit</h2>
-
-            <p>...
-            </p>
-
-            <hr>
-        </section>
-
-        <section id="pressespiegel">
-
-            <h2>pressespiegel</h2>
-
-            <p>...
-            </p>
-
-            <hr>
-        </section>
-
-        <section id="pressekontakt">
-
-            <h2>pressekontakt</h2>
-
-            <p>...
-            </p>
-
-            <hr>
-        </section>
-
-        <section id="ueberuns">
-
-            <h2>ueberuns</h2>
-
-            <p>...
-            </p>
-
-            <hr>
-        </section>
-
-        <section id="mitmachen">
-
-            <h2>mitmachen</h2>
-
-            <p>...
-            </p>
-
-            <hr>
-        </section>
-
-        <section id="tk">
-
-            <h2>Trägerkreis</h2>
-
-            <p>...
-            </p>
-
-            <hr>
-        </section>
-
-        <section id="kb">
-
-            <h2>Konferenzbüro</h2>
-
-            <p>...
-            </p>
-
-            <hr>
-        </section>
-
-        <section id="newsletter">
-
-            <h2>newsletter</h2>
-
-            <p>...
-            </p>
-
-            <hr>
-        </section>
-
-        <section id="kontakt">
-
-            <h2>kontakt</h2>
-
-            <p>...
-            </p>
-
-            <hr>
-        </section>
-
-        <section id="verpflegung">
-
-            <h2>verpflegung</h2>
-
-            <p>...
-            </p>
-
-            <hr>
-        </section>
-
-
-        <section id="barrierearmut">
-
-            <h2>barrierearmut</h2>
-
-            <p>...
-            </p>
-
-            <hr>
-        </section>
-
-
-        <section id="transparenz">
-
-            <h2>transparenz</h2>
-
-            <p>...
-            </p>
-
-            <hr>
-        </section>
-
-
-
-        <section id="forderungen">
-
-            <h2>forderungen</h2>
-
-            <p>...
-            </p>
-
-            <hr>
-        </section>
-
-                    
-        </article>
 <?php } ?>
