@@ -251,7 +251,7 @@
                 <div class="dropdown-content">
 
                   <a href="#cfp">Call for Participation</a>
-                  <a href="#buenenprogramm">Bühnenprogramm</a>
+                  <a href="#buehnenprogramm">Bühnenprogramm</a>
                   <a href="#bbforum">B&amp;B-Forum</a>
                   <a href="#pitch">Pitch &amp; Thrive for Sustainability</a>
                   <a href="#kultur">Kulturprogramm</a>
@@ -324,6 +324,16 @@
         <section id="cfp">
 
             <h2>cfp</h2>
+
+            <p>...
+            </p>
+
+            <hr>
+        </section>
+
+        <section id="buehnenprogramm">
+
+            <h2>Bühnenprogramm</h2>
 
             <p>...
             </p>
