@@ -1,10 +1,37 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="<?php echo $lang?>">
 <head>
     <meta charset="utf-8">
 
+
+<?php switch ($lang) {
+    case "en":
+?>
+
+<title>Bits&amp;Bäume &mdash; Digitalization and Sustainability</title>
+<meta name="description" content="Bits&amp;Bäume &mdash; Conference and Community for Digitalization and Sustainability">
+
+<meta property="og:title" content="Bits&amp;Bäume &mdash; Digitalization and Sustainability">
+<meta property="og:description" content="2nd Bits&amp;Bäume Conference: 2022-09-30 to 2022-10-02">
+
+
+
+<?php
+    break;
+    // case "de"
+    default:    ?>
+
 <title>Bits &amp; Bäume - die Bewegung für Digitalisierung und Nachhaltigkeit</title>
-<meta name="description" content="Die „Bits &amp; Bäume“ wird dezentralisiert fortgeführt, auf dass sie weiter wächst und gedeiht.">
+<meta name="description" content="Bits&amp;Bäume &mdash; Konferenz und Community für Digitalisierung und Nachhaltigkeit">
+
+<meta property="og:title" content="Bits&amp;Bäume: Digitalisierung und Nachhaltigkeit">
+<meta property="og:description" content="2. Bits&amp;Bäume Konferenz: 30.09.-02.10.2022">
+
+<?php }
+// End of switch ($lang) ...
+?>
+
+
 
 <meta name="viewport" content="initial-scale=1">
 <meta name="viewport" content="initial-scale=1">
@@ -12,8 +39,8 @@
 
 <meta property="og:url" content="https://bits-und-baeume.org">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Bits&amp;Bäume: Digitalisierung und Nachhaltigkeit">
-<meta property="og:description" content="2. Bits&amp;Bäume Konferenz: 30.09.-02.10.2022">
+
+
 <meta property="og:image" content="/img/bits-und-baeume-logo-square.png">
 <!-- Stylesheets -->
 <link rel="stylesheet" href="/styles/styles.min.css">
