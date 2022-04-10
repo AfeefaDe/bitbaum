@@ -1,8 +1,8 @@
 <?php
- if ($page == 'konferenz1') {
+ if ($page == 'konferenz') {
 
 // echo "test";
-// echo $page_content;
+echo $page_content;
 }
 
 else {?>
