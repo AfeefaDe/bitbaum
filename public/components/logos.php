@@ -24,9 +24,18 @@
                                                                                           title="konzeptwerk neue ökonomie"></a>
                 <a href="https://okfn.de" target="_blank"><img class="larger" src="/img/logo-okfn.svg"
                                                                title="Open Knowledge Foundation"></a>
-               
-             
-               
+                <a href="https://www.bundjugend.de" target="_blank"><img src="/img/logo_bundjugend.png"
+                                                                         title="BUNDjugend"></a>
+                <a href="https://www.digital-future.berlin" target="_blank"><img class="gray"
+                                                                                 src="/img/logo_Einstein_Center.svg"
+                                                                                 title="Einstein Center Digital Future"></a>
+                <a href="https://fsfe.org" target="_blank"><img src="/img/logo_fsfe.svg"
+                                                                title="Free Software Foundation Europe"></a>
+                <a href="https://www.verdi.de" target="_blank"><img class="gray" src="/img/logo_verdi.png"
+                                                                    title="Vereinte Dienstleistungsgewerkschaft"></a>
+                <a href="https://weizenbaum-institut.de" target="_blank"><img src="/img/logo_weizenbaum.png"
+                                                                              title="Weizenbaum-Institut"></a>
+
             </div>
             <p><strong>Media Partner</strong></p>
             <a href="https://netzpolitik.org" target="_blank"><img class="smaller" src="/img/logo-netzpolitik-org.svg"
@@ -76,6 +85,17 @@ break;
                                                                                           title="konzeptwerk neue ökonomie"></a>
                 <a href="https://okfn.de" target="_blank"><img class="larger" src="/img/logo-okfn.svg"
                                                                title="Open Knowledge Foundation"></a>
+                <a href="https://www.bundjugend.de" target="_blank"><img src="/img/logo_bundjugend.png"
+                                                                         title="BUNDjugend"></a>
+                <a href="https://www.digital-future.berlin" target="_blank"><img class="gray"
+                                                                                 src="/img/logo_Einstein_Center.svg"
+                                                                                 title="Einstein Center Digital Future"></a>
+                <a href="https://fsfe.org" target="_blank"><img src="/img/logo_fsfe.svg"
+                                                                title="Free Software Foundation Europe"></a>
+                <a href="https://www.verdi.de" target="_blank"><img class="gray" src="/img/logo_verdi.png"
+                                                                    title="Vereinte Dienstleistungsgewerkschaft"></a>
+                <a href="https://weizenbaum-institut.de" target="_blank"><img src="/img/logo_weizenbaum.png"
+                                                                              title="Weizenbaum-Institut"></a>
             </div>
             <p><strong>Medienpartner</strong></p>
             <a href="https://netzpolitik.org" target="_blank"><img class="smaller" src="/img/logo-netzpolitik-org.svg"
