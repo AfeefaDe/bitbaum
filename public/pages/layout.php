@@ -1,3 +1,13 @@
+<?php
+ if ($page == 'konferenz1') {
+
+// echo "test";
+// echo $page_content;
+}
+
+else {?>
+
+
 <!DOCTYPE html>
 <?php switch ($lang) {
     case "en": ?>
@@ -95,3 +105,5 @@ if (strpos($page, 'forderungen') !== false) {
 </script>
 </body>
 </html>
+
+<?php }?>
