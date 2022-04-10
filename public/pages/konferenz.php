@@ -119,67 +119,8 @@
 </script>
 
 <footer>
-    <div class="contact">
-
-                <p><strong>Kontakt</strong></p>
-            <p>
-              <span class="mail_replace_info"></span>
-            </p>
-            <div class="row">
-              <p>Kernteam der Bits&Bäume:<br>Anja Höfner, Constanze Kurz, Hendrik Zimmermann, Juliane Krüger, Leon Kaiser, Maria Bossmann, Nicolas Guenot, Sven Hilbig, Teresa Hoffmann, Tilman Santarius, Rainer Rehak, Rolf Buschmann, Vivian Frick</p>
-              <p>Bits&Bäume-Büro:<br>Jasmin Meiling, Lena Steltzner, Leah Vauth</p>
-            </div>
-
-
-</div>
-<div class="logos">
-                <p id="orgsde"><strong>Trägerkreis</strong></p>
-            <div>
-                <a href="https://www.dnr.de" target="_blank"><img src="/img/logo-dnr.svg"
-                                                                  title="Deutscher Naturschutzring"></a>
-                <a href="https://www.ioew.de" target="_blank"><img src="/img/logo-ioew.svg"
-                                                                   title="Institut für ökologische Wirtschaftsforschung"></a>
-                <a href="http://www.tu-berlin.de" target="_blank"><img src="/img/logo-tu-berlin.svg"
-                                                                       title="Technische Universität Berlin"></a>
-                <a href="http://germanwatch.org" target="_blank"><img src="/img/logo-germanwatch.svg"
-                                                                      title="Germanwatch e.V."></a>
-                <a href="https://www.bund.net" target="_blank"><img src="/img/logo-bund.svg" title="BUND"></a>
-                <a href="https://www.brot-fuer-die-welt.de" target="_blank"><img src="/img/logo-brot-fuer-die-welt.svg"
-                                                                                 title="Brot für die Welt"></a>
-                <a href="https://www.ccc.de" target="_blank"><img src="/img/logo-ccc.svg"
-                                                                  title="Chaos Computer Club"></a>
-                <a href="https://www.fiff.de" target="_blank"><img class="larger gray" src="/img/logo-fiff.png"
-                                                                   title="Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung"></a>
-                <a href="https://www.konzeptwerk-neue-oekonomie.org" target="_blank"><img class="larger"
-                                                                                          src="/img/logo-konzeptwerk.svg"
-                                                                                          title="konzeptwerk neue ökonomie"></a>
-                <a href="https://okfn.de" target="_blank"><img class="larger" src="/img/logo-okfn.svg"
-                                                               title="Open Knowledge Foundation"></a>
-            </div>
-            <p><strong>Medienpartner</strong></p>
-            <a href="https://netzpolitik.org" target="_blank"><img class="smaller" src="/img/logo-netzpolitik-org.svg"
-                                                                   title="Netzpolitik.org"></a>
-            <p><strong>Förderer</strong></p>
-            <p>Die Veranstaltung wird gefördert durch die <a href="https://www.dbu.de" target="_blank">Deutsche Bundesstiftung Umwelt (DBU)</a> und via Förderung von Projekten
-                einzelner Trägerkreisorganisationen vom
-                <a href="https://www.bmbf.de" target="_blank">Bundesministerium für Bildung und Forschung (BMBF)</a>
-                kofinanziert.
-            </p>
-            <a href="https://www.dbu.de" target="_blank"><img class="no-hover" src="/img/logo-dbu.png" title="Deutsche Bundesstiftung Umwelt (DBU)"></a>
-            <!-- <a href="https://www.bmbf.de" target="_blank"><img src="/img/logo-bmbf.svg" title="Bundesministerium für Bildung und Forschung (BMBF)"></a> -->
-
-            <p><strong>Besondere Unterstützung</strong></p>
-                    <a href="https://paradie.so" target="_blank"><img class="larger" src="/img/logo-paradieso.png"
-                        title="paradie.so"></a>
-                    <a href="https://c3voc.de" target="_blank"><img class="larger" src="/img/logo-c3voc.png"
-                        title="C3VOC"></a>
-                    <a href="http://www.audiorama-berlin.de" target="_blank"><img class="larger" src="/img/logo-audiorama.png"
-                        title="Audiorama Berlin"></a>
-
-            <p><strong>Konzept und Umsetzung der Website</strong></p>
-            <a href="https://kollektiv.afeefa.de" target="_blank"><img class="larger gray" src="/img/afeefa-logo.svg"
-                        title="Afeefa Kollektiv"></a>
-        </div>
+    <?php require 'components/contact.php';?>
+    <?php require 'components/logos.php';?>
 
 <p class="submenu">
     <a href='/konferenz/en'>In English</a>
