@@ -156,15 +156,30 @@
             </ul>
 
         </section>
+  
         <section>
-            <h2>Your contributions are wanted!
+        <h2>Your contributions are wanted!
             </h2>
-            <p> With the Call for Participation, we call on people from civil society organisations,
+            <p>  With the Call for Participation, we call on people from civil society organisations,
                 progressive actors from science, the world of work, business and politics to help shape the conference with their own contributions. We are looking forward to diverse and creative topics and formats!
+          
             </p>
 
+            <ul>
+                <li>
+                <a target="_blank" href="/downloads/call_for_participation.pdf">Call for Participation</a> 
+
+                </li>
+                <li>
+                <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">Formular</a>
+                </li>
+            </ul>
+
+
         </section>
-        <section>
+
+
+   <!--     <section>
             <h2 id="organizers">Bits & Bäume 2022 is organised by:</h2>
             <p>Bund für Umwelt und Naturschutz Deutschland (BUND), Brot für die Welt, Chaos Computer Club (CCC),
                 Deutscher Naturschutz Ring (DNR), Einstein Center Digital Future / Technische Universität Berlin,
@@ -177,49 +192,281 @@
                     Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung (FIfF) within the framework of the
                     Bits & Trees Conference 2022 is mainly funded by Stiftung Mercator.</i></p>
 
-        </section>
+        </section> -->
 
 
         <h1>Die Bits &amp; Bäume Konferenz: 30.09.-02.10.2022 </h1>
 
+      
         <section id="cfp">
 
-            <h2>Call for participation</h2>
+            <h2>Call for Participation</h2>
 
-            <p>...to be announced...
+            <p>
+
+            <h3>Bits & Bäume 2022 – Die Konferenz für Digitalisierung und Nachhaltigkeit</h3>
+            </p>
+                
+            <p>
+            Wir bringen Communities zusammen und setzen uns für politische Änderungen
+            im Zusammenspiel von Digitalisierung und Nachhaltigkeit ein. 
+            Unterstütze die Bewegung mit deinem Konferenzbeitrag!
+            </p>
+
+            <p>
+            Nach der erfolgreichen ersten Bits & Bäume-Konferenz 2018 sind die Themen Digitalisierung und Nachhaltigkeit 
+            heute in unserer Gesellschaft so präsent wie nie zuvor. Wir stehen vor großen gesellschaftlichen und globalen 
+            Herausforderungen für eine gerechte und nachhaltige Gestaltung unserer (Um-)Welt. Deshalb möchten wir mit der Konferenz 
+            Bits & Bäume 2022 vom 30. September bis 02. Oktober 2022 die Zusammenarbeit zwischen Umwelt- und Gerechtigkeitsaktivistinnen, 
+            Technikexpertinnen und Menschenrechtlerinnen erweitern und verstetigen. Ein wichtiges Ziel ist die Vernetzung unserer Communities mit Vertreterinnen sozial-ökologisch wirtschaftender kleiner Digital-Unternehmen sowie -Gründer*innen, um gemeinsam konkrete Lösungen für die drängenden Fragen unserer Zeit zu finden. Wir wollen große politische Strategien und Governance-Vorschläge diskutieren, aber auch anhand von Best-Practice-Beispielen voneinander lernen, 
+            wie wir im digitalen Zeitalter Klima- und Umweltschutz, Soziale Gerechtigkeit, Demokratie und Grundrechte verwirklichen können. 
+            </p>
+
+            <p>Gemeinsam wollen wir auf Podien, in Workshops und Open Spaces überlegen, wie wir ins Handeln kommen und eine nachhaltige 
+                Digitalisierung konkret umsetzen können.</p>
+
+            <p><b>Unsere Kernfragen sind:</b></p>
+
+            <ul>
+                <li>1. Wie kann die Digitalisierung so gestaltet werden, dass sie zu einer nachhaltigen und demokratischen Transformation der Gesellschaft beiträgt? </li>
+                <li>2. Wie sieht eine global, wirtschaftlich, sozial und ökologisch gerechte Zukunft in der digitalisierten Welt aus? </li>
+                <li>3. Was können Tech-Community (Bits) und Gerechtigkeits- und Umweltbewegung (Bäume) voneinander lernen? 
+                    Und wie können sie als Zivilgesellschaft in einen organisierten Austausch mit sozial-ökologischen 
+                    Vorreiter-Unternehmen, Wissenschaft und Politik treten? </li>
+                <li>4. Wie können wir gemeinsam politisch aktiv werden?</li>
+            </ul>
+
+            <p>Mit dem Call for Participation rufen wir Menschen aus zivilgesellschaftlichen Organisationen, 
+                progressive Akteurinnen aus der Wissenschaft, Wirtschaft und Politik auf, die Konferenz durch eigene Beiträge 
+                mitzugestalten! Wir freuen uns auf vielfältige und kreative Themen und Formate. Denkbar sind z. B. Diskussionsrunden, 
+                Lightning-Talks, Projektvorstellungen, Kampagnenplanung, (Hands-on-)Workshops, Aktivistinnen-Infotische, Installationen,
+                Filme, Hackathons, Design-Thinking-Sessions, Interviews, Live-Podcasts, Kleingruppenarbeit, kulturelle Formate, World-Cafés,
+                Bastelwerkstätten, 
+                Kunstperformances, Gestaltungselemente oder was euch sonst Kreatives und Innovatives einfällt!</p>
+
+            <p>Neben den Bühnen und Räumen des breiten Calls (1) laden wir Initiativen und Organisationen auch ein, 
+                sich in unserem B&B-Forum vorzustellen, ihr Wissen zu teilen und miteinander ins Gespräch zu kommen (2). 
+                Darüber hinaus freuen wir uns explizit über Beiträge aus der Geschäftswelt mit innovativen Lösungsansätzen zu 
+                den hier beschriebenen Herausforderungen (3). 
+                Demnach gibt es drei Hauptformate: Programmbeiträge, das Forum und Pitch & Thrive for Sustainability.</p>
+
+
+            <p>
+            
+            Hier findest du den ganzen  <a target="_blank" href="/downloads/call_for_participation.pdf">Call for Participation</a>.
+            Über    <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">dieses Formular</a> kannst du einen Beitrag zum 
+            Programm, zum Forum oder zum Pitch & Thrive for Sustainability einreichen.
+
+
             </p>
 
             <hr>
-        </section>
+            </section>
 
-        <section id="buehnenprogramm">
+            <section id="buehnenprogramm">
 
-            <h2>Programme contribution</h2>
+            <h2>Programmbeitrag</h2>
 
-            <p>...to be announced...
+            <p>
+            Die Themen der Konferenz Bits & Bäume decken alle Inhalte an der Schnittstelle von Nachhaltigkeit und 
+            Digitalisierung ab - und reichen z.B. von vernetzter Mobilität über den Rohstoff- und Strombedarf digitaler Geräte, 
+            Datensuffizienz und kooperativen Plattformökonomien bis hin zu smarten Energienetzen oder Monopolisierungstendenzen
+            in der digitalen Ökonomie. Dabei wollen wir die Themen aus vielen Perspektiven betrachten. Was muss beendet, was 
+            geschaffen und was aufrechterhalten werden? Was bedarf durchdachter Kritik und wer sollte mal mit wem reden? 
+            Wir freuen uns auf eure Ideen dazu! Als Anregung hier die Aspekte, die uns wichtig erscheinen, 
+            aber lasst euch davon nicht einschränken.
+            </p>
+
+            <ul>
+                <li>Ökonomie und Ressourcen</li>
+                <li>Neue soziale Frage („New Social Deal“)</li>
+                <li>Sozialverträglichkeit, Technikgestaltung und Gestaltungshoheit/ Souveränität</li>
+                <li>Eigentum, Macht und Demokratie im Zeitalter des Wissens</li>
+                <li>Die globale Nord-Süd-Frage</li>
+                <li>Digitalisierung und Klimaschutz</li>
+                <li>Smarte neue Öffentlichkeit, Gesellschaft und Demokratie</li>
+                <li>Digital und Nachhaltig – transformative Geschäftsmodelle</li>
+            </ul>
+
+            <p>
+            Über dieses   <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp"> Formular</a> kannst du deinen Programmbeitrag 
+            einreichen. 
+            Hier findest du den ganzen   <a target="_blank" href="/downloads/call_for_participation.pdf">Call for Participation</a>.
             </p>
 
             <hr>
-        </section>
+            </section>
 
-        <section id="bbforum">
+            <section id="bbforum">
 
-            <h2>Bits and Bäume Forum</h2>
+            <h2>Bits und Bäume Forum</h2>
 
-            <p>...to be announced...
+            <p>Wir werden auf dem Konferenzareal eine kreative Fläche anbieten, wo Initiativen/ 
+                Organisationen/Institutionen/Netzwerke/Start-Ups usw. vor Ort präsent und aktiv sein können.
+                So ist über das konkrete Programm hinaus Platz für gemeinsame Orte des Austauschs. 
+                Hierzu kann einfach der Call for Participation benutzt und als Format „Forum“ gewählt werden.
             </p>
 
+            <h3>Wie können wir das Forum gestalten?</h3>
+            <p> Hier einige Anregungen, wie ihr euren Platz beim B&B-Forum gestalten könnt: </p>
+            <ul>
+                <li>Info- oder Diskurs-Sofa</li>
+                <li>Küchen- oder Stammtisch mit Tisch, Stühlen und Bänken</li>
+                <li>feste DIY-Ecke</li>
+                <li>Mikroausstellung oder Mikrokino</li>
+                <li>Kreativ-Sessions mit Whiteboard und Klebchen</li>
+                <li>Kampagnenplanung</li>
+                <li>Hackathon oder Lötsession</li>
+                <li>geheime Flashmob-Fläche</li>
+                <li>Speakers Corner (nicht zu laut bitte)</li>
+                <li>Netzwerkecke</li>
+                <li>oder was immer euch einfällt</li>
+            </ul>
+
+            <p><b>Hinweis: Wir stellen euch zwar Platz, Tisch und Stuhl, aber eure Fläche müsst ihr selbst betreuen.</b></p>
+
+            <h3>Was sollen wir angeben?</h3>
+            <p>     Benutzt bitte dasselbe   <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">Formular</a>
+            wie   für den gesamten   <a target="_blank" hhref="/downloads/call_for_participation.pdf">Call for Participation</a>.
+                Wählt dabei bitte das Format „B&B-Forum“. Verdeutlicht in der Beschreibung, 
+                wer ihr seid, wie sich eure Organisation finanziert, welche Aktionen ihr euch vor Ort konkret vorstellt, 
+                wieviel Platz ihr braucht und ggf. welchen Bedarf an Technik (v. a. Strom)
+                und Mobiliar ihr habt. Das Zeitangabenfeld könnt ihr für das Forum ignorieren.</p>
+
             <hr>
-        </section>
-        <section id="pitch">
+            </section>
+            <section id="pitch">
 
             <h2>Pitch and Thrive for Sustainability</h2>
 
-            <p> ...to be announced...
+
+            <h3>Teste Dein Start-Up</h3>
+            <p>  Die Zukunft gehört nachhaltigen Geschäftsmodellen. Spar dir teure Berater*innen und stelle dein Start-Up, 
+            deine Herausforderung oder deine Idee einem Gremium aus ausgewählten Expert*innen und unserer Community vor. 
+            „Shark Tank“ in grün aka „Die Höhle der Löwen“, aber in nachhaltig und ohne Kamera.
+            </p>
+            <p>
+            Du oder deine Firma macht was im IT-Bereich, ihr wollt eine Nachhaltigkeitsherausforderung meistern und 
+            dafür digitale Technologien einsetzen? Ihr wollt wissen, wie nachhaltig ihr selbst unterwegs seid? Du möchtest, 
+            dass Expert*innen deinem Business-Modell auf den Zahn fühlen? Wenn etwas oder alles davon zutrifft, dann bist du 
+            genau richtig bei Pitch & Thrive for Sustainability, 
+            unserem diesjährigen Sonderformat für nachhaltige Start-Ups und/oder alternativ und ökologisch orientierte kleine und 
+            mittlere Unternehmer*innen.
             </p>
 
+            <h3>Wie funktioniert das genau?</h3>
+            <p><b>Pitch (10 Min)</b>: Im Rahmen der Konferenz werden wir täglich Slots anbieten, bei denen ihr euer Projekt, 
+                Start-Up, kleines Unternehmen oder 
+                einfach eure Idee einem ausgewählten Gremium und natürlich der Community, vorstellen könnt.</p>
+            <p>
+            <b>Thrive (20 Min)</b>: Im Anschluss bekommt ihr wertvolles Feedback und Nachfragen zur Nachhaltigkeit eures Unterfangens, 
+            aber natürlich auch zur potentiellen Wirtschaftlichkeit 
+            eures Business-Cases. Eine Bewertung wird von ausgewählten Juror*innen und dem Publikum abgegeben.
+            </p>
+            <h3>Was springt für euch dabei heraus?</h3>
+
+            <p>Die besten Start-Ups, Projekte oder Ideen werden prominent auf unserer Website vorgestellt. Die Sieger*innen 
+                bekommen von uns weiterhin den heiß umkämpften, allseits begehrten und ruhmreichen „Bitsbaum 2022“ überreicht. Darüber 
+                hinaus könnt ihr euch vor Ort mit Gleichgesinnten und möglichen Kooperationspartner*innen vernetzen. Das Format bietet 
+                euch außerdem die einmalige Gelegenheit, euch gratis wertvolles Feedback und hilfreiche
+                Tipps von Expert*innen aus der Nachhaltigkeits-, Tech- und Businesscommunity einzuholen.</p>
+            <h3>Was sollen wir angeben?</h3>
+            <p>
+            Benutzt bitte dasselbe   <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">Formular</a>
+            wie für den gesamten   <a target="_blank" href="/downloads/call_for_participation.pdf">Call for Participation</a>.
+            Wählt dabei bitte das Format    „Pitch & Thrive for Sustainability“. Gebt in jedem Fall an, sofern ihr an einem der Konferenztage NICHT 
+            dabei sein könnt. Wir melden uns bei euch mit einem Zeitslot und allen weiteren wichtigen Informationen.
+            </p>
+
+
             <hr>
-        </section>
+            </section>
+            <section id="presse">
+
+                        
+            <h2>Pressekontakt</h2>
+
+            <p> presse@bits-und-baeume.org
+
+            </p>
+
+            <p>     Pressemitteilungen zur vergangen Konferenz 2018 finden sich 
+                    
+                    <a target="_blank" href="https://bits-und-baeume.org/presse/de">hier</a>.
+                    </p>
+
+                <hr>
+            </section>
+
+            <section id="mitmachen">
+
+                <h2>Mitmachen</h2>
+
+                <p><b>Wir brauchen deine Hilfe!</b><p>
+
+                <p>
+                    In einem Call for Action motivieren wir dazu, sich in die Organisation der Konferenz einzubringen.
+                    Denn helfende Hände und Köpfe werden gebraucht. Es wird bunt, spannend und transformativ!
+
+
+                </p>
+
+                <ul>
+                    <li>
+                        <a target="_blank" href="/downloads/Call_for_Action_neu.pdf">Call for Action</a>
+                    </li>
+                </ul>
+
+                <p> Schreib uns ne Mail an info@bits-und-baeume.org, wenn du in einer AG zur Vorbereitung
+                    Konferenz mitarbeiten möchtest.
+                </p>
+
+
+                <hr>
+            </section>
+
+            <section id="kontakt">
+
+                <h2>Kontakt</h2>
+
+                <p> info@bits-und-baeume.org
+                </p>
+
+                <hr>
+                </section>
+
+
+                <section id="faq">
+
+                <h2>FAQs</h2>
+
+                <p>...to be announced...
+                </p>
+
+                <hr>
+            </section>
+
+            <section id="forderungen">
+
+                <h2>Forderungen</h2>
+
+                <p>
+                Wir, Organisationen aus der Netz-, 
+                Umwelt- und Entwicklungspolitik, haben mit der Konferenz Bits & 
+                Bäume eine gemeinsame Grundlage dafür geschaffen, wie die Digitalisierung 
+                so gestaltet werden kann, dass sie dem Gemeinwohl und dem Frieden dient, 
+                Datenschutz ernst nimmt und soziale und ökologische Ziele gleichermaßen fördert. 
+                Unsere Forderungen der Bits & Bäume 2018 findest du
+                <a target="_blank" href="https://bits-und-baeume.org/forderungen/info/de"> hier</a>.
+
+                </p>
+                <p>
+                <br>
+                Die Forderungen für die Bits & Bäume 2022 kannst du hier bald einsehen.
+                </p>
+
+                <hr>
+            </section>
 
 
 
@@ -870,7 +1117,7 @@
             
         <h2>Pressekontakt</h2>
 
-        <p>Pressekontakt: presse@bits-und-baeume.org
+        <p> presse@bits-und-baeume.org
 
         </p>
 
@@ -1066,13 +1313,14 @@
             <h2>Forderungen</h2>
 
             <p>
-            Wir, 10 (?) Organisationen aus der Netz-, 
+            Wir, Organisationen aus der Netz-, 
             Umwelt- und Entwicklungspolitik, haben mit der Konferenz Bits & 
             Bäume eine gemeinsame Grundlage dafür geschaffen, wie die Digitalisierung 
             so gestaltet werden kann, dass sie dem Gemeinwohl und dem Frieden dient, 
             Datenschutz ernst nimmt und soziale und ökologische Ziele gleichermaßen fördert. 
-            Unsere Forderungen der Bits & Bäume 2018 findest du hier: 
-            https://bits-und-baeume.org/forderungen/info/de 
+            Unsere Forderungen der Bits & Bäume 2018 findest du
+            <a target="_blank" href="https://bits-und-baeume.org/forderungen/info/de"> hier</a>.
+            
             </p>
             <p>
             <br>
