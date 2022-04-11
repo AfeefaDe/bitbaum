@@ -14,11 +14,11 @@
         <div class="button dropbtn">Programm ▾</div>
         <div class="dropdown-content">
 
-            <a class="button" href="#cfp">Call for Participation</a>
-            <a class="button" href="#buehnenprogramm">Bühnenprogramm</a>
+            <a class="button" href="#cfp">Call for participation</a>
+            <a class="button" href="#buehnenprogramm">Program</a>
             <a class="button" href="#bbforum">B&amp;B-Forum</a>
-            <a class="button" href="#pitch">Pitch &amp; Thrive for Sustainability</a>
-            <a class="button" href="#kultur">Kulturprogramm</a>
+            <a class="button" href="#pitch">Pitch &amp; Thrive for sustainability</a>
+            <a class="button" href="#kultur">Cultural program</a>
             <a class="button" href="#party">Abschlussparty</a>
         </div>
     </div>  <!-- Ende  Hauptmenüeintrag           -->
@@ -27,8 +27,8 @@
     <div class="dropdown">
         <div class="button dropbtn">Tickets ▾</div>
         <div class="dropdown-content">
-            <a class="button" href="#pretix">Pretix</a>
-            <a class="button" href="#preiskategorien">Preiskategorien</a>
+            <a class="button" href="#pretix">Tickets</a>
+            <a class="button" href="#preiskategorien">Price categories</a>
         </div>
 
     </div>  <!-- Ende  Hauptmenüeintrag           -->
@@ -172,7 +172,7 @@
 
         <section id="cfp">
 
-            <h2>cfp</h2>
+            <h2>Call for participation</h2>
 
             <p>...
             </p>
@@ -182,7 +182,7 @@
 
         <section id="buehnenprogramm">
 
-            <h2>Bühnenprogramm</h2>
+            <h2>Program</h2>
 
             <p>...
             </p>
@@ -192,7 +192,7 @@
 
         <section id="bbforum">
 
-            <h2>bbforum</h2>
+            <h2>Bits and Bäume Forum</h2>
 
             <p>...
             </p>
@@ -201,18 +201,18 @@
         </section>
         <section id="pitch">
 
-            <h2>pitch</h2>
+            <h2>Pitch and Thrive for Sustainability</h2>
 
-            <p>...
+            <p> ...to be announced...
             </p>
 
             <hr>
         </section>
         <section id="kultur">
 
-            <h2>kultur</h2>
+            <h2>Culture</h2>
 
-            <p>...
+            <p>...to be announced...
             </p>
 
             <hr>
@@ -220,7 +220,7 @@
 
         <section id="party">
 
-            <h2>party</h2>
+            <h2>Party</h2>
 
             <p>...
             </p>
@@ -230,7 +230,7 @@
 
         <section id="pretix">
 
-            <h2>pretix</h2>
+            <h2>Tickets</h2>
 
             <p>...
             </p>
@@ -240,7 +240,7 @@
 
         <section id="preiskategorien">
 
-            <h2>preiskategorien</h2>
+            <h2>Price categories</h2>
 
             <p>...
             </p>
@@ -310,7 +310,7 @@
 
         <section id="mitmachen">
 
-            <h2>mitmachen</h2>
+            <h2>Join</h2>
 
             <p>...
             </p>
@@ -340,7 +340,7 @@
 
         <section id="newsletter">
 
-            <h2>newsletter</h2>
+            <h2>Newsletter</h2>
 
             <p>...
             </p>
@@ -350,7 +350,7 @@
 
         <section id="kontakt">
 
-            <h2>kontakt</h2>
+            <h2>Contact</h2>
 
             <p>...
             </p>
@@ -360,7 +360,7 @@
 
         <section id="verpflegung">
 
-            <h2>verpflegung</h2>
+            <h2>Food</h2>
 
             <p>...
             </p>
@@ -371,7 +371,7 @@
 
         <section id="barrierearmut">
 
-            <h2>barrierearmut</h2>
+            <h2>Barriers reduction</h2>
 
             <p>...
             </p>
@@ -382,7 +382,7 @@
 
         <section id="transparenz">
 
-            <h2>transparenz</h2>
+            <h2>Transparancy</h2>
 
             <p>...
             </p>
@@ -581,7 +581,7 @@
 
         <section id="cfp">
 
-            <h2>cfp</h2>
+            <h2>Call for Participation</h2>
 
             <p>...
             </p>
@@ -601,7 +601,7 @@
 
         <section id="bbforum">
 
-            <h2>bbforum</h2>
+            <h2>Bits und Bäume Forum</h2>
 
             <p>...
             </p>
@@ -610,7 +610,7 @@
         </section>
         <section id="pitch">
 
-            <h2>pitch</h2>
+            <h2>Pitch and Thrive for Sustainability</h2>
 
             <p>...
             </p>
@@ -619,7 +619,7 @@
         </section>
         <section id="kultur">
 
-            <h2>kultur</h2>
+            <h2>Kultur</h2>
 
             <p>...
             </p>
@@ -629,7 +629,7 @@
 
         <section id="party">
 
-            <h2>party</h2>
+            <h2>Party</h2>
 
             <p>...
             </p>
@@ -639,9 +639,13 @@
 
         <section id="pretix">
 
-            <h2>pretix</h2>
+            <h2>Tickets</h2>
 
-            <p>...
+            <p>
+            Am 30. September ist es soweit. Die Bits & Bäume geht in die zweite Runde. Am 30. September geht es mit einer abendlichen Auftaktveranstaltung los. Vom 1. bis 2. Oktober wird die Zusammenarbeit zwischen Umwelt- und Gerechtigkeitsaktivist*innen, Technikexpert*innen und Menschenrechtler*innen erweitert und verstetigt. Ein wichtiges Ziel ist die Vernetzung unserer Communities mit Vertreter*innen sozial-ökologisch wirtschaftender kleiner Digital-Unternehmen sowie –Gründer*innen, um gemeinsam konkrete Lösungen für die drängenden Fragen unserer Zeit zu finden. Um dabei zu sein, schnapp dir dein Ticket.
+
+Die Veranstaltung findet im Hauptgebäude der Technischen Universität Berlin in der Straße des 17. Juni 135 statt.
+
             </p>
 
             <hr>
@@ -649,7 +653,7 @@
 
         <section id="preiskategorien">
 
-            <h2>preiskategorien</h2>
+            <h2>Preiskategorien</h2>
 
             <p>...
             </p>
@@ -659,7 +663,7 @@
 
         <section id="presseverteiler">
 
-            <h2>presseverteiler</h2>
+            <h2>Presseverteiler</h2>
 
             <p>...
             </p>
@@ -669,7 +673,7 @@
 
         <section id="pressemitteilungen">
 
-            <h2>pressemitteilungen</h2>
+            <h2>Pressemitteilungen</h2>
 
             <p>...
             </p>
@@ -679,7 +683,7 @@
 
         <section id="pressekit">
 
-            <h2>pressekit</h2>
+            <h2>Pressekit</h2>
 
             <p>...
             </p>
@@ -689,7 +693,7 @@
 
         <section id="pressespiegel">
 
-            <h2>pressespiegel</h2>
+            <h2>Pressespiegel</h2>
 
             <p>...
             </p>
@@ -699,7 +703,7 @@
 
         <section id="pressekontakt">
 
-            <h2>pressekontakt</h2>
+            <h2>Pressekontakt</h2>
 
             <p>...
             </p>
@@ -709,7 +713,7 @@
 
         <section id="ueberuns">
 
-            <h2>ueberuns</h2>
+            <h2>Über uns</h2>
 
             <p>...
             </p>
@@ -719,7 +723,7 @@
 
         <section id="mitmachen">
 
-            <h2>mitmachen</h2>
+            <h2>Mitmachen</h2>
 
             <p>...
             </p>
@@ -749,7 +753,7 @@
 
         <section id="newsletter">
 
-            <h2>newsletter</h2>
+            <h2>Newsletter</h2>
 
             <p>...
             </p>
@@ -759,7 +763,7 @@
 
         <section id="kontakt">
 
-            <h2>kontakt</h2>
+            <h2>Kontakt</h2>
 
             <p>...
             </p>
@@ -769,7 +773,7 @@
 
         <section id="verpflegung">
 
-            <h2>verpflegung</h2>
+            <h2>Verpflegung</h2>
 
             <p>...
             </p>
@@ -780,7 +784,7 @@
 
         <section id="barrierearmut">
 
-            <h2>barrierearmut</h2>
+            <h2>Barrierearmut</h2>
 
             <p>...
             </p>
@@ -791,7 +795,7 @@
 
         <section id="transparenz">
 
-            <h2>transparenz</h2>
+            <h2>Transparenz</h2>
 
             <p>...
             </p>
@@ -802,7 +806,7 @@
 
         <section id="forderungen">
 
-            <h2>forderungen</h2>
+            <h2>Forderungen</h2>
 
             <p>...
             </p>
