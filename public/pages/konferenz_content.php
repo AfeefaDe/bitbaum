@@ -5,36 +5,40 @@
 
 <!-- Basiert auf dem Pad: "Konferenzwebsite – Struktur"      -->
 
-<nav class="navbar">
-    <a class="button" href="/">Startseite</a>
-    <a class="button" href="#callforaction">Call for Action</a>
-    <a class="button" href="#organizers">Organizers</a>
-    <!--  Start Hauptmenüeintrag           -->
-    <div class="dropdown">
-        <div class="button dropbtn">Programm ▾</div>
-        <div class="dropdown-content">
 
-            <a class="button" href="#cfp">Call for participation</a>
-            <a class="button" href="#buehnenprogramm">Program</a>
-            <a class="button" href="#bbforum">B&amp;B-Forum</a>
-            <a class="button" href="#pitch">Pitch &amp; Thrive for sustainability</a>
-            <a class="button" href="#kultur">Cultural program</a>
-            <a class="button" href="#party">Abschlussparty</a>
+
+<nav class="navbar">
+    <a class="button" href="/">Home</a>
+
+    <!--  Start Hauptmenüeintrag   Programm        -->
+    <div class="dropdown">
+        <div class="button dropbtn">Call for Participation ▾</div>
+        <div class="dropdown-content">
+            <a class="button" href="#cfp">Call for Participation</a>
+            <a class="button" href="#buehnenprogramm">Programme contribution</a>
+            <a class="button" href="#bbforum">Bits-&amp;Bäume-Forum</a>
+            <a class="button" href="#pitch">Pitch &amp; Thrive for Sustainability</a>
         </div>
     </div>  <!-- Ende  Hauptmenüeintrag           -->
 
-    <!--  Start Hauptmenüeintrag           -->
-    <div class="dropdown">
+    <!--  Start Hauptmenüeintrag      Tickets     -->
+ <!--   <a class="button" href="#pretix">Tickets!</a> -->
+          
+  <!--  <div class="dropdown">
         <div class="button dropbtn">Tickets ▾</div>
         <div class="dropdown-content">
-            <a class="button" href="#pretix">Tickets</a>
-            <a class="button" href="#preiskategorien">Price categories</a>
+            <a class="button" href="#pretix">Get a ticket!</a>
+            <a class="button" href="#preiskategorien">Preiskategorien</a>
         </div>
 
-    </div>  <!-- Ende  Hauptmenüeintrag           -->
+    </div> -->
+     <!-- Ende  Hauptmenüeintrag     Tickets      -->
 
-    <!--  Start Hauptmenüeintrag           -->
-    <div class="dropdown">
+    <!--  Start Hauptmenüeintrag    Presse       -->
+
+    <a class="button" href="#presse">Press</a>
+
+ <!--   <div class="dropdown">
         <div class="button dropbtn">Presse ▾</div>
         <div class="dropdown-content">
             <a class="button" href="#presseverteiler">Presseverteiler</a>
@@ -42,34 +46,39 @@
             <a class="button" href="#pressekit">Pressekit</a>
             <a class="button" href="#pressespiegel">Pressespiegel</a>
             <a class="button" href="#pressekontakt">Pressekontakt</a>
-        </div>
+        </div> 
 
-    </div>  <!-- Ende  Hauptmenüeintrag           -->
+    </div> -->
+     <!-- Ende  Hauptmenüeintrag     Presse      -->
 
-    <a class="button" href="#forderungen">Forderungen</a>
+    <a class="button" href="#forderungen">Our demands</a>
 
     <!--  Start Hauptmenüeintrag           -->
     <div class="dropdown">
-        <div class="button dropbtn">Über uns ▾</div>
+        <div class="button dropbtn">About Bits &amp Bäume  ▾</div>
         <div class="dropdown-content">
-            <a class="button" href="#ueberuns">Über uns</a>
-            <a class="button" href="#mitmachen">Mitmachen</a>
-            <a class="button" href="#tk">Trägerkreis</a>
+    <!--        <a class="button" href="#ueberuns">Über uns</a> -->
+            <a class="button" href="#mitmachen">Join</a>
+  <!--          <a class="button" href="#tk">Trägerkreis</a>
             <a class="button" href="#kb">Konferenzbüro</a>
-            <a class="button" href="#newsletter">Newsletter</a>
-            <a class="button" href="#kontakt">Kontakt</a>
+            <a class="button" href="#newsletter">Newsletter</a> -->
+            <a class="button" href="#kontakt">Contact</a>
         </div>
 
     </div>  <!-- Ende  Hauptmenüeintrag           -->
 
+
     <!--  Start Hauptmenüeintrag           -->
-    <div class="dropdown">
+    <a class="button" href="#forderungen">FAQs</a>
+    <!-- bei FAQ doch kein dropdown 
+       <div class="dropdown">
         <div class="button dropbtn">FAQs ▾</div>
         <div class="dropdown-content">
             <a class="button" href="#verpflegung">Verpflegung</a>
             <a class="button" href="#barrierearmut">Barrierearmut/-freiheit</a>
             <a class="button" href="#transparenz">Transparenz</a>
         </div>
+    -->
 
     </div>  <!-- Ende  Hauptmenüeintrag           -->
 
@@ -79,6 +88,9 @@
 
     <div style="clear: left; height: 0;">&nbsp;</div>
 </nav> <!-- Ende Menü -->
+
+
+
 
 <!-- ############### Menü Ende ###################################         -->
 
@@ -182,7 +194,7 @@
 
         <section id="buehnenprogramm">
 
-            <h2>Program</h2>
+            <h2>Programme contribution</h2>
 
             <p>...to be announced...
             </p>
@@ -208,7 +220,12 @@
 
             <hr>
         </section>
-        <section id="kultur">
+
+
+
+
+
+  <!--      <section id="kultur">
 
             <h2>Culture</h2>
 
@@ -403,7 +420,7 @@
 
             <hr>
         </section>
-
+    -->
 
     </article>
 </section>
@@ -431,7 +448,7 @@
         <div class="dropdown-content">
             <a class="button" href="#cfp">Call for Participation</a>
             <a class="button" href="#buehnenprogramm">Programmbeitrag</a>
-            <a class="button" href="#bbforum">&amp;B-Forum</a>
+            <a class="button" href="#bbforum">Bits-&amp;Bäume-Forum</a>
             <a class="button" href="#pitch">Pitch &amp; Thrive for Sustainability</a>
          <!--   <a class="button" href="#kultur">Kulturprogramm</a>
             <a class="button" href="#party">Abschlussparty</a> -->
@@ -472,7 +489,7 @@
 
     <!--  Start Hauptmenüeintrag           -->
     <div class="dropdown">
-        <div class="button dropbtn">Über uns ▾</div>
+        <div class="button dropbtn">Über Bits &amp; Bäume ▾</div>
         <div class="dropdown-content">
     <!--        <a class="button" href="#ueberuns">Über uns</a> -->
             <a class="button" href="#mitmachen">Mitmachen</a>
@@ -486,7 +503,7 @@
 
 
     <!--  Start Hauptmenüeintrag           -->
-    <a class="button" href="#forderungen">FAQ</a>
+    <a class="button" href="#forderungen">FAQs</a>
     <!-- bei FAQ doch kein dropdown 
        <div class="dropdown">
         <div class="button dropbtn">FAQs ▾</div>
@@ -507,6 +524,7 @@
 </nav> <!-- Ende Menü -->
 
 <!-- ############### Menü Ende ###################################         -->
+<p>  <i>Diese Webseite wird gerade überarbeitet.</i></p>
 
 <section>
     <article>
@@ -514,8 +532,8 @@
     <!--    <h1>Die Bits & Bäume 2022 geht in die zweite Runde – eure Mithilfe ist gefragt</h1> -->
         <h1>Die Bits &amp; Bäume Konferenz: 30.09.-02.10.2022 </h1>
 
-        <br>
-        <p>  <i>Diese Website wird gerade überarbeitet.</i></p>
+        
+       
 
         <section>
 
@@ -618,7 +636,7 @@
 
             <p>
 
-            <b>Bits & Bäume 2022 – Die Konferenz für Digitalisierung und Nachhaltigkeit</b>
+            <h3>Bits & Bäume 2022 – Die Konferenz für Digitalisierung und Nachhaltigkeit</h3>
             </p>
                 
             <p>
@@ -702,9 +720,11 @@
                 <li>Digital und Nachhaltig – transformative Geschäftsmodelle</li>
             </ul>
 
-            Über    <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp"> dieses Formular</a> kannst du deinen Programmbeitrag 
+            <p>
+            Über dieses   <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp"> Formular</a> kannst du deinen Programmbeitrag 
             einreichen. 
-           Hier findest du noch einmal den ganzen   <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">Call for Participation</a>.
+           Hier findest du den ganzen   <a target="_blank" href="/downloads/call_for_participation.pdf">Call for Participation</a>.
+            </p>
 
             <hr>
         </section>
@@ -719,7 +739,7 @@
                 Hierzu kann einfach der Call for Participation benutzt und als Format „Forum“ gewählt werden.
             </p>
 
-            <p><b>Wie können wir das Forum gestalten?</b></p>
+            <h3>Wie können wir das Forum gestalten?</h3>
             <p> Hier einige Anregungen, wie ihr euren Platz beim B&B-Forum gestalten könnt: </p>
             <ul>
                 <li>Info- oder Diskurs-Sofa</li>
@@ -737,9 +757,9 @@
 
             <p><b>Hinweis: Wir stellen euch zwar Platz, Tisch und Stuhl, aber eure Fläche müsst ihr selbst betreuen.</b></p>
 
-            <p>Was sollen wir angeben?</p>
+            <h3>Was sollen wir angeben?</h3>
             <p>     Benutzt bitte dasselbe   <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">Formular</a>
-            wie für den gesamten   <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">Call for Participation</a>.
+          wie   für den gesamten   <a target="_blank" hhref="/downloads/call_for_participation.pdf">Call for Participation</a>.
                 Wählt dabei bitte das Format „B&B-Forum“. Verdeutlicht in der Beschreibung, 
                 wer ihr seid, wie sich eure Organisation finanziert, welche Aktionen ihr euch vor Ort konkret vorstellt, 
                 wieviel Platz ihr braucht und ggf. welchen Bedarf an Technik (v. a. Strom)
@@ -751,9 +771,9 @@
 
             <h2>Pitch and Thrive for Sustainability</h2>
 
-            <p>
-            <b>Teste Dein Start-Up</b></br>
-            Die Zukunft gehört nachhaltigen Geschäftsmodellen. Spar dir teure Berater*innen und stelle dein Start-Up, 
+          
+            <h3>Teste Dein Start-Up</h3>
+            <p>  Die Zukunft gehört nachhaltigen Geschäftsmodellen. Spar dir teure Berater*innen und stelle dein Start-Up, 
             deine Herausforderung oder deine Idee einem Gremium aus ausgewählten Expert*innen und unserer Community vor. 
             „Shark Tank“ in grün aka „Die Höhle der Löwen“, aber in nachhaltig und ohne Kamera.
             </p>
@@ -766,7 +786,7 @@
             mittlere Unternehmer*innen.
             </p>
 
-            <p>Wie funktioniert das genau?</p>
+            <h3>Wie funktioniert das genau?</h3>
             <p><b>Pitch (10 Min)</b>: Im Rahmen der Konferenz werden wir täglich Slots anbieten, bei denen ihr euer Projekt, 
                 Start-Up, kleines Unternehmen oder 
                 einfach eure Idee einem ausgewählten Gremium und natürlich der Community, vorstellen könnt.</p>
@@ -775,17 +795,17 @@
             aber natürlich auch zur potentiellen Wirtschaftlichkeit 
             eures Business-Cases. Eine Bewertung wird von ausgewählten Juror*innen und dem Publikum abgegeben.
             </p>
-            <p>Was springt für euch dabei heraus?</p>
+            <h3>Was springt für euch dabei heraus?</h3>
 
             <p>Die besten Start-Ups, Projekte oder Ideen werden prominent auf unserer Website vorgestellt. Die Sieger*innen 
                 bekommen von uns weiterhin den heiß umkämpften, allseits begehrten und ruhmreichen „Bitsbaum 2022“ überreicht. Darüber 
                 hinaus könnt ihr euch vor Ort mit Gleichgesinnten und möglichen Kooperationspartner*innen vernetzen. Das Format bietet 
                 euch außerdem die einmalige Gelegenheit, euch gratis wertvolles Feedback und hilfreiche
                  Tipps von Expert*innen aus der Nachhaltigkeits-, Tech- und Businesscommunity einzuholen.</p>
-            <p>Was sollen wir angeben?</p>
+            <h3>Was sollen wir angeben?</h3>
             <p>
             Benutzt bitte dasselbe   <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">Formular</a>
-            wie für den gesamten   <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">Call for Participation</a>.
+            wie für den gesamten   <a target="_blank" href="/downloads/call_for_participation.pdf">Call for Participation</a>.
              Wählt dabei bitte das Format    „Pitch & Thrive for Sustainability“. Gebt in jedem Fall an, sofern ihr an einem der Konferenztage NICHT 
             dabei sein könnt. Wir melden uns bei euch mit einem Zeitslot und allen weiteren wichtigen Informationen.
         </p>
@@ -856,7 +876,7 @@
 
         <p>     Pressemitteilungen zur vergangen Konferenz 2018 finden sich 
                  
-                 <a target="_blank" href="https://bits-und-baeume.org/presse/de ">hier</a>.
+                 <a target="_blank" href="https://bits-und-baeume.org/presse/de">hier</a>.
                 </p>
 
             <hr>
@@ -917,7 +937,7 @@
             </p>
 
             <hr>
-        </section> -->
+        </section> 
 
         <section id="ueberuns">
 
@@ -927,7 +947,7 @@
             </p>
 
             <hr>
-        </section>
+        </section>-->
 
         <section id="mitmachen">
 
