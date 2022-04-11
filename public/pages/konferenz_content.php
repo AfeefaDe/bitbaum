@@ -330,7 +330,7 @@
 
         <section id="kb">
 
-            <h2>Konferenzbüro</h2>
+            <h2>Conference office</h2>
 
             <p>...
             </p>
@@ -371,7 +371,7 @@
 
         <section id="barrierearmut">
 
-            <h2>Barriers reduction</h2>
+            <h2>Barrier reduction</h2>
 
             <p>...
             </p>
@@ -393,7 +393,7 @@
 
         <section id="forderungen">
 
-            <h2>forderungen</h2>
+            <h2>Demands</h2>
 
             <p>...
             </p>
@@ -591,7 +591,7 @@
 
         <section id="buehnenprogramm">
 
-            <h2>Bühnenprogramm</h2>
+            <h2>Programm</h2>
 
             <p>...
             </p>
