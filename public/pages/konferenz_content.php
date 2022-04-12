@@ -807,7 +807,7 @@ of the conference days. We will contact you with a time slot and further importa
 
     <!--    <h1>Die Bits & Bäume 2022 geht in die zweite Runde – eure Mithilfe ist gefragt</h1> -->
         <h1>Die Konferenz Bits &amp; Bäume 2022 </h1>
-        <br>
+        
          <h2>    30.09.-02.10.2022 </h2>
 
         
