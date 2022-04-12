@@ -97,7 +97,8 @@
 <section>
     <article>
         <h1>Bits & Bäume Conference 2022</h1>
-        <h2>Bits & Bäume 2022 – The Conference for Digitalisation and Sustainability: 30.09.-02.10.2022 </h2>
+        <h2>Bits & Bäume 2022 – The Conference for Digitalisation and Sustainability: October 1st and 2nd 2022, Berlin </h2>
+        <h3>Evening kick-off event on September 30th</h3>
         <p><b><i>This website is currently being updated.</i></b></p>    
 
         <section>
