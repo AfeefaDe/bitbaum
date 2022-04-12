@@ -41,11 +41,12 @@
             <a href="https://netzpolitik.org" target="_blank"><img class="smaller" src="/img/logo-netzpolitik-org.svg"
                                                                    title="Netzpolitik.org"></a> -->
             <p><strong>Supported by</strong></p>
-            <p>The event is co-financed by the <a href="https://www.dbu.de" target="_blank">German Federal Environmental Foundation (DBU)</a> 
-            and by Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz
-                (BMUV). The work of Germanwatch and des Forums InformatikerInnen für
-                Frieden und gesellschaftliche Verantwortung (FIfF) concerning the conference 2022 is mainly supported by
-                Marcator foundation.        
+            <p>  The Conference is funded by the <a href="https://www.dbu.de" target="_blank">German Federal Environmental Foundation (DBU)</a>  and co-funded by
+            Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz
+            (BMUV). The work of Germanwatch and Forum InformatikerInnen für Frieden und
+            gesellschaftliche Verantwortung (FIfF) related to Bits & Bäume 2022 is mainly funded by Stiftung
+            Mercator.
+
             </p>
             <a href="https://www.dbu.de" target="_blank"><img class="no-hover" src="/img/logo-dbu.png" title="Deutsche Bundesstiftung Umwelt (DBU)"></a>
             <!-- <a href="https://www.bmbf.de" target="_blank"><img src="/img/logo-bmbf.svg" title="Bundesministerium für Bildung und Forschung (BMBF)"></a> -->
@@ -113,6 +114,8 @@ break;
                 (BMUV) kofinanziert. Die Arbeit von Germanwatch und des Forums InformatikerInnen für
                 Frieden und gesellschaftliche Verantwortung (FIfF) im Rahmen der Bits & Bäume-Konferenz
                 2022 wird hauptsächlich gefördert durch die Stiftung Mercator.
+
+             
 
 
             </p>
