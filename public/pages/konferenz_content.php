@@ -97,8 +97,8 @@
 <section>
     <article>
         <h1>Bits & Bäume Conference 2022</h1>
-        <h2>  30.09.-02.10.2022 </h2>
-        <p><b><i>This website is currently under construction.</i></b></p>    
+        <h2>Bits & Bäume 2022 – The Conference for Digitalisation and Sustainability: 30.09.-02.10.2022 </h2>
+        <p><b><i>This website is currently being updated.</i></b></p>    
 
         <section>
             <p>
@@ -107,7 +107,7 @@
                 shaping of our (surrounding) world.
                 Therefore, we would like to broaden and consolidate the networking of environmental and justice activists,
                 technology experts and human rights activists with the <b>Bits & Bäume 2022</b> conference from <b>October 1st to 2nd, 2022</b>.
-                A <b>kick-off event</b> will be held on the evening of <b>September 30</b>.
+                A <b>kick-off event</b> will be held on the evening of <b>September 30th</b>.
                 This also includes networking our communities with representatives of social-ecological small digital businesses and
                 founders as well as politicians in order to find concrete solutions for the pressing issues of our time.
                 We want to discuss major political strategies and governance proposals, but also learn from each other through best practice
@@ -118,14 +118,22 @@
             </p>
             <section>
                 <ul>
-                    <li>How can digitalisation be designed to contribute to a sustainable transformation of society?</li>
+                    <li>How should digitalisation be shaped in a way 
+                        that it contributes to a sustainable and democratic transformation of our society?  </ul>
+                <ul>
+                    <li>
+                    What does a globally, economically, 
+                    socially and ecologically just future look like in the digitalised world?        
+                </li>
                 </ul>
                 <ul>
-                    <li>What does a globally, economically, socially and ecologically just future look like in the digitised world?
+                    <li>What can the tech community (bits) and the justice and environmental movement (bäume) learn from each other? And how can those communities
+                         get in touch with social-ecological pioneer companies, science and politics?
                     </li>
                 </ul>
                 <ul>
-                    <li>What can the tech community (bits) and the justice and environmental movement (trees) learn from each other? And how can we become politically active, also together with progressive and alternative-economic actors?
+                    <li>
+                    How can we become politically active together?         
                     </li>
                 </ul>
             </section>
@@ -138,7 +146,7 @@
 
             <p>
 
-             <h3>Bits & Bäume 2022 – The Conference for Digitalisation and Sustainability</h3>
+            
             </p>
                 
             <p>
@@ -153,7 +161,7 @@
 
                 </li>
                 <li>
-                <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">Formul</a>
+                <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">Form</a>
                 </li>
             </ul>
 
