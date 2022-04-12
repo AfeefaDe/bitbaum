@@ -5,6 +5,9 @@ RewriteRule ^.*$ /index.php [L,QSA]
 
 # Fotogalerie in der Cloud
 Redirect 301 /fotogalerie https://cloud.bits-und-baeume.org/index.php/s/eTH4H8zwdeWmjkE
+Redirect 301 /konferenzankuendigung /konferenz
+Redirect 301 /konferenzankuendigung/de /konferenz/de
+Redirect 301 /konferenzankuendigung/en /konferenz/en
 
 Options +MultiViews
 DirectoryIndex index index.php index.html
