@@ -246,7 +246,7 @@ democracy and fundamental rights in our digital age. </p>
 action and how to specifically implement sustainable digitalisation. 
 </p>
 
-            <p><b>Our key questions are:</b></p>
+        <!--    <p><b>Our key questions are:</b></p>
 
             <ul>
                 <li>1.  How should digitalisation be shaped in a way that it contributes  
@@ -257,7 +257,7 @@ just future look like in the digitalised world?  </li>
 (bäume) learn from each other? And how can those communities get in touch with 
 social-ecological pioneer companies, science and politics? </li>
                 <li>4. How can we become politically active together?</li>
-            </ul>
+            </ul>-->
 
             <p>
             The Bits & Bäume 2022 participants want to interfere and stir things up politically. We openly 
@@ -282,14 +282,14 @@ Therefore there will be three different formats: contributions to the programme,
 and Pitch & Thrive for Sustainability.</p>
 
 
-            <p>
+       <!--     <p>
             
             Here you can find the  <a target="_blank" href="/downloads/call_for_participation_english.pdf">Call for Participation</a>.
             About this    <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">formular</a> you can hand in a contribution 
             to the programme, the Forum or the Pitch & Thrive for Sustainability.
 
 
-            </p>
+            </p>-->
 
             <hr>
             </section>
@@ -319,10 +319,10 @@ and Pitch & Thrive for Sustainability.</p>
             </ul>
 
             <p>
-            With this  <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp"> formular</a> you can hand in your
+            With this  <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp"> form</a> you can hand in your
             programme contribution.
  
-            Here you find the  <a target="_blank" href="/downloads/call_for_participation.pdf">Call for Participation</a>.
+            Here you find the  <a target="_blank" href="/downloads/call_for_participation_english.pdf">Call for Participation</a>.
             </p>
 
             <hr>
@@ -361,7 +361,7 @@ also be room for common areas of exchange beyond the programme. For this simply 
             wie   für den gesamten  
               
             Please use the same <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">form</a> as for the entire
-            <a target="_blank" hhref="/downloads/call_for_participation.pdf">Call for Participation</a> and choose the format 
+            <a target="_blank" href="/downloads/call_for_participation_english.pdf">Call for Participation</a> and choose the format 
 “B&B-Forum”. In the description please explain who you are, how your organisation is financed, 
 what actions you envision on site, how much space you need and what technical equipment 
 (especially electricity) and furniture you require. You may ignore the time box for the forum.
@@ -414,7 +414,7 @@ and helpful tips from experts working in the fields of sustainability, tech and 
             <h3>What should we submit?</h3>
             <p>
             Please use the same <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">form</a> as for the entire
-            <a target="_blank" hhref="/downloads/call_for_participation.pdf">Call for Participation</a> and choose the format   „Pitch & Thrive for Sustainability“.
+            <a target="_blank" href="/downloads/call_for_participation_english.pdf">Call for Participation</a> and choose the format   „Pitch & Thrive for Sustainability“.
             In any case please indicate  if you will NOT be able to attend one 
 of the conference days. We will contact you with a time slot and further important information
             </p>
@@ -425,12 +425,12 @@ of the conference days. We will contact you with a time slot and further importa
             <section id="presse">
 
                         
-            <h2>Press contakt</h2>
+            <h2>Press Contact</h2>
 
            
             <p>
-            You are a journalist and would like to receive information about our work? 
-            We would be happy to add you to our press distribution list.
+            You are a journalist and would like to receive information about our Bits & Bäume 2022? 
+            We would be happy to add you to our press list.
 
             Please send press enquiries to presse@bits-und-baeume.org
 
@@ -438,7 +438,7 @@ of the conference days. We will contact you with a time slot and further importa
        
             </p>
 
-            <p>     PPress releases and PR of the Bits & Bäume Conference from 2018 can be found
+            <p>     Press releases of the Bits & Bäume Conference from 2018 can be found
                     
                     <a target="_blank" href="https://bits-und-baeume.org/presse/de">here</a>.
                     </p>
@@ -450,12 +450,11 @@ of the conference days. We will contact you with a time slot and further importa
 
                 <h2>Join!</h2>
 
-                <p><b>We need you help!</b><p>
+              <!--  <p><b>We need you help!</b><p>-->
 
                 <p>
-                    In einem Call for Action motivieren wir dazu, sich in die Organisation der Konferenz einzubringen.
-                    Denn helfende Hände und Köpfe werden gebraucht. Es wird bunt, spannend und transformativ!
-
+                In a Call for Action we will motivate people to get involved in
+                 the organisation of the conference. Helping hands and heads are needed. It will be colorful, exciting and transformative! 
 
                 </p>
 
@@ -465,7 +464,7 @@ of the conference days. We will contact you with a time slot and further importa
                     </li>
                 </ul>
 
-                <p> Send a mail to info@bits-und-baeume.org, if you want to be part of a working group.
+                <p> Send an email to info@bits-und-baeume.org, if you want to be part of a working group.
                 </p>
 
 
@@ -474,7 +473,7 @@ of the conference days. We will contact you with a time slot and further importa
 
             <section id="kontakt">
 
-                <h2>Contakt</h2>
+                <h2>Contact</h2>
 
                 <p> info@bits-und-baeume.org
                 </p>
@@ -495,7 +494,7 @@ of the conference days. We will contact you with a time slot and further importa
 
             <section id="forderungen">
 
-                <h2>Our demands</h2>
+                <h2>Our Demands</h2>
 
                 <p>The joint demands of the 13 member organisations for the Bits & Bäume Conference 2022 will soon be available here.
                 </p>
@@ -1037,7 +1036,7 @@ bewegungsübergreifende Lösungsansätze für eine nachhaltige Digitalisierung.<
 
         <section id="bbforum">
 
-            <h2>B&B-Forum</h2>
+            <h2>Bits & Bäume Forum</h2>
 
             <p>Wir werden auf dem Konferenzareal eine kreative Fläche anbieten, wo Initiativen/ 
                 Organisationen/Institutionen/Netzwerke/Start-Ups usw. vor Ort präsent und aktiv sein können.
