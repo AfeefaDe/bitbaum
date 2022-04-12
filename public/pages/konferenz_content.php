@@ -314,7 +314,7 @@ and Pitch & Thrive for Sustainability.</p>
 
             <section id="bbforum">
 
-            <h2>Bits und Bäume Forum</h2>
+            <h2>The Bits & Bäume Forum</h2>
 
             <p> We are going to offer a creative space within the conference where initiatives/organisations/
 institutions/networks/start-ups etc. will be present and active on site. That way there will 
@@ -806,7 +806,9 @@ of the conference days. We will contact you with a time slot and further importa
     <article>
 
     <!--    <h1>Die Bits & Bäume 2022 geht in die zweite Runde – eure Mithilfe ist gefragt</h1> -->
-        <h1>Die Bits &amp; Bäume Konferenz: 30.09.-02.10.2022 </h1>
+        <h1>Die Konferenz Bits &amp; Bäume 2022 </h1>
+        <br>
+         <h2>    30.09.-02.10.2022 </h2>
 
         
         <p>  <i>Diese Webseite wird gerade überarbeitet.</i></p>
@@ -852,7 +854,7 @@ of the conference days. We will contact you with a time slot and further importa
 
 
         </section>
-        <section>
+    <!--    <section>
             <h2 id="callforaction">Wir brauchen eure Mithilfe!</h2>
             <p>
                 In einem Call for Action motivieren wir dazu, sich in die Organisation der Konferenz einzubringen.
@@ -867,8 +869,8 @@ of the conference days. We will contact you with a time slot and further importa
                 </li>
             </ul>
 
-        </section>
-        <section>
+        </section> -->
+     <!--   <section>
             <h2>Eure Beiträge sind gefragt!
             </h2>
             <p> Mit dem rufen Call for Participation
@@ -877,18 +879,9 @@ of the conference days. We will contact you with a time slot and further importa
             Wir freuen uns auf vielfältige und kreative Themen und Formate!
             </p>
 
-            <ul>
-                <li>
-                <a target="_blank" href="/downloads/call_for_participation.pdf">Call for Participation</a> 
+        
 
-                </li>
-                <li>
-                <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">Einreichungsformular</a>
-                </li>
-            </ul>
-
-
-        </section>
+        </section> -->
 
     <!--    <section>
             <h2 id="organizers">Bits & Bäume 2022 wird organisiert von:</h2>
@@ -921,6 +914,17 @@ of the conference days. We will contact you with a time slot and further importa
             Unterstütze die Bewegung mit deinem Konferenzbeitrag!
             </p>
 
+            <ul>
+                <li>
+                <a target="_blank" href="/downloads/call_for_participation.pdf">Call for Participation</a> 
+
+                </li>
+                <li>
+                <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">Einreichungsformular</a>
+                </li>
+            </ul>
+
+
             <p>
             Nach der erfolgreichen ersten Bits & Bäume-Konferenz 2018 sind die Themen Digitalisierung und Nachhaltigkeit 
             heute in unserer Gesellschaft so präsent wie nie zuvor. Wir stehen vor großen gesellschaftlichen und globalen 
@@ -933,7 +937,7 @@ of the conference days. We will contact you with a time slot and further importa
             <p>Gemeinsam wollen wir auf Podien, in Workshops und Open Spaces überlegen, wie wir ins Handeln kommen und eine nachhaltige 
                 Digitalisierung konkret umsetzen können.</p>
 
-            <p><b>Unsere Kernfragen sind:</b></p>
+      <!--      <p><b>Unsere Kernfragen sind:</b></p>
 
             <ul>
                 <li>1. Wie kann die Digitalisierung so gestaltet werden, dass sie zu einer nachhaltigen und demokratischen Transformation der Gesellschaft beiträgt? </li>
@@ -947,7 +951,7 @@ of the conference days. We will contact you with a time slot and further importa
             <p>Bits & Bäume 2022 ist eine Konferenz, deren Akteur*innen sich politisch einmischen und 
 politisch aufmischen möchten. Wir setzen uns gegen demokratiefeindliche Trends ein und 
 positionieren uns für wissenschaftlich-fundierte, innovative, aktive und 
-bewegungsübergreifende Lösungsansätze für eine nachhaltige Digitalisierung.</p>
+bewegungsübergreifende Lösungsansätze für eine nachhaltige Digitalisierung.</p> -->
 
             <p>Mit dem Call for Participation rufen wir Menschen aus zivilgesellschaftlichen Organisationen, 
                 progressive Akteurinnen aus der Wissenschaft, Wirtschaft und Politik auf, die Konferenz durch eigene Beiträge 
@@ -964,14 +968,14 @@ bewegungsübergreifende Lösungsansätze für eine nachhaltige Digitalisierung.<
                 Demnach gibt es drei Hauptformate: Programmbeiträge, das Forum und Pitch & Thrive for Sustainability.</p>
 
 
-            <p>
+     <!--       <p>
               
               Hier findest du den ganzen  <a target="_blank" href="/downloads/call_for_participation.pdf">Call for Participation</a>.
              Über    <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">dieses Formular</a> kannst du einen Beitrag zum 
              Programm, zum Forum oder zum Pitch & Thrive for Sustainability einreichen.
 
 
-            </p>
+            </p> -->
 
             <hr>
         </section>
@@ -988,8 +992,11 @@ bewegungsübergreifende Lösungsansätze für eine nachhaltige Digitalisierung.<
             Datensuffizienz und kooperativen Plattformökonomien bis hin zu smarten Energienetzen oder Monopolisierungstendenzen
              in der digitalen Ökonomie. Dabei wollen wir die Themen aus vielen Perspektiven betrachten. Was muss beendet, was 
              geschaffen und was aufrechterhalten werden? Was bedarf durchdachter Kritik und wer sollte mal mit wem reden? 
-            Wir freuen uns auf eure Ideen dazu! Als Anregung hier die Aspekte, die uns wichtig erscheinen, 
-            aber lasst euch davon nicht einschränken.
+            Wir freuen uns auf eure Ideen dazu! Als Anregung 
+            hier einige Themenstränge, die uns wichtig erscheinen, aber lass dich 
+            davon nicht einschränken. Eine ausführliche Darstellung von verschiedenen 
+            Aspekten unter dem jeweiligen Themenstrang findest du im 
+            <a target="_blank" href="/downloads/call_for_participation.pdf">Call for Participation</a>.
             </p>
 
             <ul>
@@ -1006,7 +1013,7 @@ bewegungsübergreifende Lösungsansätze für eine nachhaltige Digitalisierung.<
             <p>
             Über dieses   <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp"> Formular</a> kannst du deinen Programmbeitrag 
             einreichen. 
-           Hier findest du den ganzen   <a target="_blank" href="/downloads/call_for_participation.pdf">Call for Participation</a>.
+   
             </p>
 
             <hr>
@@ -1122,16 +1129,7 @@ bewegungsübergreifende Lösungsansätze für eine nachhaltige Digitalisierung.<
             <h2>Tickets</h2>
 
             <p>
-           <b> Am 30. September ist es soweit. Die Bits & Bäume geht in die zweite Runde. </b>
-            Am 30. September geht es mit einer abendlichen Auftaktveranstaltung los. 
-            Vom 1. bis 2. Oktober wird die Zusammenarbeit zwischen Umwelt- und Gerechtigkeitsaktivist*innen, 
-            Technikexpert*innen und Menschenrechtler*innen erweitert und verstetigt. Ein wichtiges Ziel ist die 
-            Vernetzung unserer Communities mit Vertreter*innen sozial-ökologisch wirtschaftender kleiner 
-            Digital-Unternehmen sowie –Gründer*innen, um gemeinsam konkrete Lösungen für die drängenden 
-            Fragen unserer Zeit zu finden. Um dabei zu sein, schnapp dir dein Ticket.
-            <p>
-           <br> Die Veranstaltung findet im Hauptgebäude der Technischen Universität Berlin in der Straße des 17. Juni 135 statt.
-            </p>
+          </p>
 
             </p>
 
@@ -1153,7 +1151,10 @@ bewegungsübergreifende Lösungsansätze für eine nachhaltige Digitalisierung.<
             
         <h2>Pressekontakt</h2>
 
-        <p> presse@bits-und-baeume.org
+        <p>
+        Du bist Journalist*in und willst in unseren Presseverteiler 
+        aufgenommen werden oder hast eine Frage zu Bits & Bäume 2022? Kontaktiere uns unter    
+        presse@bits-und-baeume.org
 
         </p>
 
@@ -1236,7 +1237,7 @@ bewegungsübergreifende Lösungsansätze für eine nachhaltige Digitalisierung.<
 
             <h2>Mitmachen</h2>
 
-        <p><b>Wir brauchen deine Hilfe!</b><p>
+       
 
             <p>
                 In einem Call for Action motivieren wir dazu, sich in die Organisation der Konferenz einzubringen.
@@ -1251,7 +1252,7 @@ bewegungsübergreifende Lösungsansätze für eine nachhaltige Digitalisierung.<
                 </li>
             </ul>
 
-            <p> Schreib uns ne Mail an info@bits-und-baeume.org, wenn du in einer AG zur Vorbereitung
+            <p> Schreib uns eine Mail an info@bits-und-baeume.org, wenn du in einer AG zur Vorbereitung
                 Konferenz mitarbeiten möchtest.
             </p>
 
@@ -1346,15 +1347,12 @@ bewegungsübergreifende Lösungsansätze für eine nachhaltige Digitalisierung.<
 
         <section id="forderungen">
 
-            <h2>Forderungen</h2>
+            <h2>Unsere Forderungen</h2>
 
             <p>
-            Wir, Organisationen aus der Netz-, 
-            Umwelt- und Entwicklungspolitik, haben mit der Konferenz Bits & 
-            Bäume eine gemeinsame Grundlage dafür geschaffen, wie die Digitalisierung 
-            so gestaltet werden kann, dass sie dem Gemeinwohl und dem Frieden dient, 
-            Datenschutz ernst nimmt und soziale und ökologische Ziele gleichermaßen fördert. 
-            Unsere Forderungen der Bits & Bäume 2018 findest du
+            Die gemeinsamen Forderungen der 13 Trägerkreisorganisationen für die Bits & Bäume Konferenz 2022 kannst du hier bald einsehen.
+Mit der Konferenz 2018 haben die 10 Trägerkreisorganisationen aus der Netz-, Umwelt- und Entwicklungspolitik eine gemeinsame Grundlage dafür geschaffen, wie die Digitalisierung so gestaltet werden kann, dass sie dem Gemeinwohl und dem Frieden dient, Datenschutz ernst nimmt und soziale und ökologische Ziele
+ gleichermaßen fördert. Die Forderungen der Bits & Bäume 2018 findest du 
             <a target="_blank" href="https://bits-und-baeume.org/forderungen/info/de"> hier</a>.
             
             </p>
