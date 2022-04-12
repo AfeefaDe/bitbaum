@@ -69,7 +69,7 @@
 
 
     <!--  Start Hauptmenüeintrag           -->
-    <a class="button" href="#forderungen">FAQs</a>
+    <a class="button" href="#faq">FAQs</a>
     <!-- bei FAQ doch kein dropdown 
        <div class="dropdown">
         <div class="button dropbtn">FAQs ▾</div>
@@ -145,11 +145,6 @@
             <h2>Call for Participation</h2>
 
             <p>
-
-            
-            </p>
-                
-            <p>
             We connect communities and stand up for political change in the interaction of digitalisation 
             and sustainability. Support the movement with your contribution to the conference!
             </p>
@@ -212,14 +207,14 @@ social-ecological pioneer companies, science and politics? </li>
             </p>
 
 
-       <!--     <p>
+           <p>
             
             Here you can find the  <a target="_blank" href="/downloads/call_for_participation_english.pdf">Call for Participation</a>.
-            About this    <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">formular</a> you can hand in a contribution 
-            to the programme, the Forum or the Pitch & Thrive for Sustainability.
+            Please apply <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">here</a> <b>until June 7th 2022</b>.
 
 
-            </p>-->
+            </p>
+            <p>In case of questions connected to the Call for Participation please contact <b>cfp@bits-und-baeume.org</b>. </p>
 
             <hr>
         </section>
@@ -228,10 +223,17 @@ social-ecological pioneer companies, science and politics? </li>
             <h2> Programme Contribution</h2>
             <h3>Which topics can be submitted?</h3>
             <p>
-                Topics at Bits & Bäume cover all content at the interface of 
-                sustainability and digitalisation. They range from cross-linked mobility to the 
-                raw material and power requirements for digital devices, data sufficiency and cooperative platform economies to smart energy networks or monopolisation tendencies in the digital economy. Topics should be looked at from many different perspectives. What needs to be stopped, created or maintained? What lacks thoughtful criticism and who should be talking with whom? We‘re very much looking forward to hear your ideas! As a suggestion, 
-                here are some of the aspects that seem important to us, but do not look at them as a limit.
+            Topics at Bits & Bäume cover all content at the interface of 
+            sustainability and digitalisation. They range from cross-linked mobility 
+            to the raw material and power requirements for digital devices, data 
+            sufficiency and cooperative platform economies to smart energy networks 
+            or monopolisation tendencies in the digital economy. Topics should be 
+            looked at from many different perspectives. What needs to be stopped,
+             created or maintained? What lacks thoughtful criticism and who should be 
+             talking to whom? We are looking forward to hearing your ideas! 
+             As a suggestion, here are some of the broader themes that seem important 
+             to us. You can find a detailed presentation of different aspects under the 
+             respective theme in our   <a target="_blank" href="/downloads/call_for_participation_english.pdf">Call for Participation</a>.
             </p>
 
             <ul>
@@ -286,7 +288,7 @@ social-ecological pioneer companies, science and politics? </li>
             <h3>What should we submit?</h3>
 
             <p>
-                Benutzt bitte dasselbe wie für den gesamten  
+                
                 Please use the same <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">form</a> as for the entire
                 <a target="_blank" href="/downloads/call_for_participation_english.pdf">Call for Participation</a> and choose the format 
                 “B&B-Forum”. In the description please explain who you are, how your organisation is financed, 
@@ -367,9 +369,9 @@ social-ecological pioneer companies, science and politics? </li>
               <!--  <p><b>We need you help!</b><p>-->
 
                 <p>
-                    With our Call for Action we would like to motivate you to become involved in the 
-                    organisation of the conference. Helping hands and heads are needed. 
-                    It will be colourful, exciting and transformative!  
+                With our Call for Action we would like to motivate you to become 
+                involved in the organisation of the conference. 
+                Helping hands and heads are needed. It will be colourful, exciting and transformative!
                 </p>
                 <ul>
                     <li>
@@ -384,7 +386,7 @@ social-ecological pioneer companies, science and politics? </li>
 
             <section id="kontakt">
                 <h2>Contact</h2>
-                <p> "Do you have a question? Then feel free get in touch with us under <b>info@bits-und-baeume.org</b>
+                <p> Do you have a question? Then feel free get in touch with us under <b>info@bits-und-baeume.org</b>
                 </p>
                 <hr>
             </section>
@@ -402,12 +404,12 @@ social-ecological pioneer companies, science and politics? </li>
                     The joint demands of the 13 member organisations for the Bits & Bäume Conference 2022 will soon be available here.
                 </p>
                 <p>    
-                    At the 2018 conference, the civil society member organisations from tech, environment 
-                    and development sectors agreed on eleven demands. These demands constitute a basis on how 
-                    digitalisation can be designed in a manner that serves the common good as well as peace, 
-                    takes data protection seriously and promotes  social and ecological goals alike. 
-                    You can find the demands of Bits & Bäume 2022 
-                    <a target="_blank" href="https://bits-und-baeume.org/forderungen/info/en">here</a>.
+                At the 2018 conference, the ten civil society member 
+                organisations from tech, environment and development sectors agreed on 
+                eleven demands. These demands constitute a basis on how digitalisation can be 
+                designed in a manner that serves the common good as well as peace, takes data 
+                protection seriously and promotes social and ecological goals alike. You can 
+                find the demands of Bits & Bäume 2018 <a target="_blank" href="https://bits-und-baeume.org/forderungen/info/en">here</a>.
                 </p>
                 <hr>
             </section>
@@ -493,7 +495,7 @@ social-ecological pioneer companies, science and politics? </li>
 
 
     <!--  Start Hauptmenüeintrag           -->
-    <a class="button" href="#forderungen">FAQs</a>
+    <a class="button" href="#faq">FAQs</a>
     <!-- bei FAQ doch kein dropdown 
        <div class="dropdown">
         <div class="button dropbtn">FAQs ▾</div>
