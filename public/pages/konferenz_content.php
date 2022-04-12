@@ -612,6 +612,16 @@ Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Polit
                 den hier beschriebenen Herausforderungen (3). 
                 Demnach gibt es drei Hauptformate: Programmbeiträge, das Forum und Pitch & Thrive for Sustainability.
             </p>
+
+            <p>
+
+
+                Bewerben könnt ihr euch über <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">Einreichungsformular</a> bis einschließlich 7. Juni 2022. 
+                
+                Bei Fragen zum <a target="_blank" href="/downloads/call_for_participation.pdf">Call for Participation</a>  schreibt an <b>cfp@bits-und-baeume.org</b>.
+            </p>
+
+
             <hr>
         </section>
         <section id="buehnenprogramm">
@@ -693,7 +703,7 @@ Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Polit
         </section>
         <section id="pitch">
             <h2>Pitch and Thrive for Sustainability</h2>
-            <h3>Teste Dein Start-Up</h3>
+            <h3>Teste dein Start-Up</h3>
             <p> 
                 Die Zukunft gehört nachhaltigen Geschäftsmodellen. Spar dir teure Berater*innen und stelle dein Start-Up, 
                 deine Herausforderung oder deine Idee einem Gremium aus ausgewählten Expert*innen und unserer Community vor. 
@@ -742,7 +752,7 @@ Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Polit
             <p>
                 Du bist Journalist*in und willst in unseren Presseverteiler 
                 aufgenommen werden oder hast eine Frage zu Bits & Bäume 2022? Kontaktiere uns unter    
-                presse@bits-und-baeume.org
+                <b>presse@bits-und-baeume.org</b>.
 
             </p>
             <p>
@@ -766,7 +776,7 @@ Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Polit
                 </li>
             </ul>
             <p>
-                Schreib uns eine Mail an info@bits-und-baeume.org, wenn du in einer AG zur Vorbereitung
+                Schreib uns eine Mail an <b>info@bits-und-baeume.org</b>, wenn du in einer AG zur Vorbereitung
                 Konferenz mitarbeiten möchtest.
             </p>
             <hr>
@@ -777,7 +787,7 @@ Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Polit
         <section id="kontakt">
             <h2>Kontakt</h2>
             <p> 
-                info@bits-und-baeume.org
+            Hast du eine Frage? Dann melden dich bei uns unter: <b>info@bits-und-baeume.org</b>
             </p>
             <hr>
         </section>
@@ -795,15 +805,17 @@ Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Polit
         <section id="forderungen">
             <h2>Unsere Forderungen</h2>
             <p>
-                Die gemeinsamen Forderungen der 13 Trägerkreisorganisationen für die Bits & Bäume Konferenz 2022 kannst du hier bald einsehen.
-                Mit der Konferenz 2018 haben die 10 Trägerkreisorganisationen aus der Netz-, Umwelt- und Entwicklungspolitik eine gemeinsame Grundlage dafür geschaffen, wie die Digitalisierung so gestaltet werden kann, dass sie dem Gemeinwohl und dem Frieden dient, Datenschutz ernst nimmt und soziale und ökologische Ziele
+                Die gemeinsamen Forderungen der 13 Trägerkreisorganisationen für die Bits & Bäume Konferenz 2022 kannst du hier bald einsehen.</p>
+
+            <p>
+                Mit der Konferenz 2018 haben die zehn Trägerkreisorganisationen aus der Netz-, 
+                Umwelt- und Entwicklungspolitik eine gemeinsame Grundlage dafür geschaffen, wie die Digitalisierung so gestaltet werden kann, dass sie dem Gemeinwohl und dem Frieden dient, 
+                Datenschutz ernst nimmt und soziale und ökologische Ziele
                 gleichermaßen fördert. Die Forderungen der Bits & Bäume 2018 findest du 
                 <a target="_blank" href="https://bits-und-baeume.org/forderungen/info/de"> hier</a>.
             </p>
-            <p>
-                <br>
-                Die Forderungen für die Bits & Bäume 2022 kannst du hier bald einsehen.
-            </p>
+   
+            
 
             <hr>
         </section>
