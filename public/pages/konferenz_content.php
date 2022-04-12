@@ -12,11 +12,11 @@
 
     <!--  Start Hauptmenüeintrag   Programm        -->
     <div class="dropdown">
-        <div class="button dropbtn">Call for Participation ▾</div>
+        <div class="button dropbtn">Programme ▾</div>
         <div class="dropdown-content">
             <a class="button" href="#cfp">Call for Participation</a>
             <a class="button" href="#buehnenprogramm">Programme contribution</a>
-            <a class="button" href="#bbforum">Bits-&amp;Bäume-Forum</a>
+            <a class="button" href="#bbforum">B&amp;B-Forum</a>
             <a class="button" href="#pitch">Pitch &amp; Thrive for Sustainability</a>
         </div>
     </div>  <!-- Ende  Hauptmenüeintrag           -->
@@ -725,11 +725,11 @@ of the conference days. We will contact you with a time slot and further importa
   
     <!--  Start Hauptmenüeintrag   Programm        -->
     <div class="dropdown">
-        <div class="button dropbtn">Call for Participation ▾</div>
+        <div class="button dropbtn">Programm ▾</div>
         <div class="dropdown-content">
             <a class="button" href="#cfp">Call for Participation</a>
             <a class="button" href="#buehnenprogramm">Programmbeitrag</a>
-            <a class="button" href="#bbforum">Bits-&amp;Bäume-Forum</a>
+            <a class="button" href="#bbforum">B&amp;B-Forum</a>
             <a class="button" href="#pitch">Pitch &amp; Thrive for Sustainability</a>
          <!--   <a class="button" href="#kultur">Kulturprogramm</a>
             <a class="button" href="#party">Abschlussparty</a> -->
@@ -1026,7 +1026,7 @@ bewegungsübergreifende Lösungsansätze für eine nachhaltige Digitalisierung.<
 
         <section id="bbforum">
 
-            <h2>Bits und Bäume Forum</h2>
+            <h2>B&B-Forum</h2>
 
             <p>Wir werden auf dem Konferenzareal eine kreative Fläche anbieten, wo Initiativen/ 
                 Organisationen/Institutionen/Netzwerke/Start-Ups usw. vor Ort präsent und aktiv sein können.
@@ -1054,7 +1054,7 @@ bewegungsübergreifende Lösungsansätze für eine nachhaltige Digitalisierung.<
 
             <h3>Was sollen wir angeben?</h3>
             <p>     Benutzt bitte dasselbe   <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">Formular</a>
-          wie   für den gesamten   <a target="_blank" hhref="/downloads/call_for_participation.pdf">Call for Participation</a>.
+          wie   für den gesamten   <a target="_blank" href="/downloads/call_for_participation.pdf">Call for Participation</a>.
                 Wählt dabei bitte das Format „B&B-Forum“. Verdeutlicht in der Beschreibung, 
                 wer ihr seid, wie sich eure Organisation finanziert, welche Aktionen ihr euch vor Ort konkret vorstellt, 
                 wieviel Platz ihr braucht und ggf. welchen Bedarf an Technik (v. a. Strom)
