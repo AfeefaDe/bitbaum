@@ -24,8 +24,8 @@
                                                                                           title="konzeptwerk neue ökonomie"></a>
                 <a href="https://okfn.de" target="_blank"><img class="larger" src="/img/logo-okfn.svg"
                                                                title="Open Knowledge Foundation"></a>
-                <a href="https://www.bundjugend.de" target="_blank"><img src="/img/logo_bundjugend.png"
-                                                                         title="BUNDjugend"></a>
+           <!--     <a href="https://www.bundjugend.de" target="_blank"><img src="/img/logo_bundjugend.png"
+                                                                         title="BUNDjugend"></a> -->
                 <a href="https://www.digital-future.berlin" target="_blank"><img class="gray"
                                                                                  src="/img/logo_Einstein_Center.svg"
                                                                                  title="Einstein Center Digital Future"></a>
@@ -37,9 +37,9 @@
                                                                               title="Weizenbaum-Institut"></a>
 
             </div>
-            <p><strong>Media Partner</strong></p>
+      <!--      <p><strong>Media Partner</strong></p>
             <a href="https://netzpolitik.org" target="_blank"><img class="smaller" src="/img/logo-netzpolitik-org.svg"
-                                                                   title="Netzpolitik.org"></a>
+                                                                   title="Netzpolitik.org"></a> -->
             <p><strong>Supported by</strong></p>
             <p>The event is supported by the <a href="https://www.dbu.de" target="_blank">German Federal Environmental Foundation (DBU)</a> and via financial support of
                 specific projects from the organization committee co-financed by the
@@ -48,13 +48,13 @@
             <a href="https://www.dbu.de" target="_blank"><img class="no-hover" src="/img/logo-dbu.png" title="Deutsche Bundesstiftung Umwelt (DBU)"></a>
             <!-- <a href="https://www.bmbf.de" target="_blank"><img src="/img/logo-bmbf.svg" title="Bundesministerium für Bildung und Forschung (BMBF)"></a> -->
 
-            <p><strong>Special assistance</strong></p>
+        <!--    <p><strong>Special assistance</strong></p>
                     <a href="https://paradie.so" target="_blank"><img class="larger" src="/img/logo-paradieso.png"
                         title="paradie.so"></a>
                     <a href="https://c3voc.de" target="_blank"><img class="larger" src="/img/logo-c3voc.png"
                         title="C3VOC"></a>
                     <a href="http://www.audiorama-berlin.de" target="_blank"><img class="larger" src="/img/logo-audiorama.png"
-                        title="Audiorama Berlin"></a>
+                        title="Audiorama Berlin"></a>-->
 
             <p><strong>Concept and realization of the website</strong></p>
             <a href="https://kollektiv.afeefa.de" target="_blank"><img class="larger gray" src="/img/afeefa-logo.svg"
@@ -85,8 +85,8 @@ break;
                                                                                           title="konzeptwerk neue ökonomie"></a>
                 <a href="https://okfn.de" target="_blank"><img class="larger" src="/img/logo-okfn.svg"
                                                                title="Open Knowledge Foundation"></a>
-                <a href="https://www.bundjugend.de" target="_blank"><img src="/img/logo_bundjugend.png"
-                                                                         title="BUNDjugend"></a>
+              <!--  <a href="https://www.bundjugend.de" target="_blank"><img src="/img/logo_bundjugend.png"
+                                                                         title="BUNDjugend"></a> -->
                 <a href="https://www.digital-future.berlin" target="_blank"><img class="gray"
                                                                                  src="/img/logo_Einstein_Center.svg"
                                                                                  title="Einstein Center Digital Future"></a>
@@ -97,25 +97,35 @@ break;
                 <a href="https://weizenbaum-institut.de" target="_blank"><img src="/img/logo_weizenbaum.png"
                                                                               title="Weizenbaum-Institut"></a>
             </div>
-            <p><strong>Medienpartner</strong></p>
+        <!--    <p><strong>Medienpartner</strong></p>
             <a href="https://netzpolitik.org" target="_blank"><img class="smaller" src="/img/logo-netzpolitik-org.svg"
-                                                                   title="Netzpolitik.org"></a>
+                                                                   title="Netzpolitik.org"></a> -->
             <p><strong>Förderer</strong></p>
-            <p>Die Veranstaltung wird gefördert durch die <a href="https://www.dbu.de" target="_blank">Deutsche Bundesstiftung Umwelt (DBU)</a> und via Förderung von Projekten
+            <p>
+                <!--Die Veranstaltung wird gefördert durch die <a href="https://www.dbu.de" target="_blank">Deutsche Bundesstiftung Umwelt (DBU)</a> und via Förderung von Projekten
                 einzelner Trägerkreisorganisationen vom
                 <a href="https://www.bmbf.de" target="_blank">Bundesministerium für Bildung und Forschung (BMBF)</a>
-                kofinanziert.
+                kofinanziert.-->
+                Die Veranstaltung wird gefördert durch die <a href="https://www.dbu.de" target="_blank">Deutsche Bundesstiftung Umwelt (DBU)</a> und vom
+                Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz
+                (BMUV) kofinanziert. Die Arbeit von Germanwatch und des Forums InformatikerInnen für
+                Frieden und gesellschaftliche Verantwortung (FIfF) im Rahmen der Bits & Bäume-Konferenz
+                2022 wird hauptsächlich gefördert durch die Stiftung Mercator.
+
+
             </p>
             <a href="https://www.dbu.de" target="_blank"><img class="no-hover" src="/img/logo-dbu.png" title="Deutsche Bundesstiftung Umwelt (DBU)"></a>
-            <!-- <a href="https://www.bmbf.de" target="_blank"><img src="/img/logo-bmbf.svg" title="Bundesministerium für Bildung und Forschung (BMBF)"></a> -->
+          <!--   <a href="https://www.bmbf.de" target="_blank"><img src="/img/logo-bmbf.svg" title="Bundesministerium für Bildung und Forschung (BMBF)"></a> -->
 
-            <p><strong>Besondere Unterstützung</strong></p>
+
+
+         <!--   <p><strong>Besondere Unterstützung</strong></p>
                     <a href="https://paradie.so" target="_blank"><img class="larger" src="/img/logo-paradieso.png"
                         title="paradie.so"></a>
                     <a href="https://c3voc.de" target="_blank"><img class="larger" src="/img/logo-c3voc.png"
                         title="C3VOC"></a>
                     <a href="http://www.audiorama-berlin.de" target="_blank"><img class="larger" src="/img/logo-audiorama.png"
-                        title="Audiorama Berlin"></a>
+                        title="Audiorama Berlin"></a> -->
 
             <p><strong>Konzept und Umsetzung der Website</strong></p>
             <a href="https://kollektiv.afeefa.de" target="_blank"><img class="larger gray" src="/img/afeefa-logo.svg"
