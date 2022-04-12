@@ -151,18 +151,19 @@
 
 
         </section>
-        <section>
+     <!--   <section>
             <h2 id="callforaction">We need your help!</h2>
-            <p>In a Call for Action we will motivate people to get involved in the organisation of the conference. Helping hands and heads are needed. It will be colorful, exciting and transformative!
+            <p>In a Call for Action we will motivate people to get involved in the organisation 
+                of the conference. Helping hands and heads are needed. It will be colorful, exciting and transformative!
             </p>    <ul>
                 <li>
                     <a target="_blank" href="/downloads/Call_for_Action_neu.pdf">Call for Action</a>
                 </li>
             </ul>
 
-        </section>
+        </section> -->
   
-        <section>
+    <!--    <section>
         <h2>Your contributions are wanted!
             </h2>
             <p>  With the Call for Participation, we call on people from civil society organisations,
@@ -181,7 +182,7 @@
             </ul>
 
 
-        </section>
+        </section> -->
 
 
    <!--     <section>
@@ -200,7 +201,6 @@
         </section> -->
 
 
-        <h1>Bits &amp; Bäume Conference 2022: 30.09.-02.10.2022 </h1>
 
       
         <section id="cfp">
@@ -216,6 +216,17 @@
             We connect communities and stand up for political change in the interaction of digitalisation 
 and sustainability. Support the movement with your contribution to the conference!
             </p>
+
+
+            <ul>
+                <li>
+                <a target="_blank" href="/downloads/call_for_participation.pdf">Call for Participation</a> 
+
+                </li>
+                <li>
+                <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">Formular</a>
+                </li>
+            </ul>
 
             <p>
             After the successful Bits & Bäume Conference in 2018 the topics of digitalisation and 
