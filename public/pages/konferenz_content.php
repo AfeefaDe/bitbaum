@@ -153,14 +153,15 @@
 
                 </li>
                 <li>
-                <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">Formular</a>
+                <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">Formul</a>
                 </li>
             </ul>
 
            
 
-            <p>Together in panel discussions, workshops and open spaces we want to reflect on how to take 
-            action and how to specifically implement sustainable digitalisation. 
+            <p>
+                Together in panel discussions, workshops and open spaces we want to reflect on how to take 
+                action and how to specifically implement sustainable digitalisation. 
             </p>
 
         <!--    <p><b>Our key questions are:</b></p>
