@@ -129,6 +129,7 @@
                     </li>
                 </ul>
             </section>
+            <hr>
         </section>
 
         <section id="cfp">
@@ -512,7 +513,7 @@ social-ecological pioneer companies, science and politics? </li>
         <h1>Die Konferenz Bits &amp; Bäume 2022 </h1>
         <h2>    30.09.-02.10.2022 </h2>
         <p>
-            <b><i>Diese Webseite wird gerade überarbeitet.</i><</b>
+            <b><i>Diese Webseite wird gerade überarbeitet.</i></b>
         </p>
         <section>
             <p>
@@ -548,6 +549,7 @@ social-ecological pioneer companies, science and politics? </li>
                     </li>
                 </ul>
             </section>
+            <hr>
         </section>
 
         <section id="cfp">
