@@ -521,8 +521,9 @@ social-ecological pioneer companies, science and politics? </li>
 <section>
     <article>
     <!--    <h1>Die Bits & Bäume 2022 geht in die zweite Runde – eure Mithilfe ist gefragt</h1> -->
-        <h1>Die Konferenz Bits &amp; Bäume 2022 </h1>
-        <h2>    30.09.-02.10.2022 </h2>
+        <h1>Bits &amp; Bäume-Konferenz 2022 </h1>
+        <h2>  Die Konferenz für Digitalisierung und Nachhaltigkeit: 01. bis 2. Oktober 2022 </h2>
+        <h3>Abendliche Auftaktveranstaltung am 30. September </h3>
         <p>
             <b><i>Diese Webseite wird gerade überarbeitet.</i></b>
         </p>
@@ -545,18 +546,27 @@ social-ecological pioneer companies, science and politics? </li>
             <section>
                 <ul>
                     <li>
-                        Wie sieht eine global, wirtschaftlich, sozial und ökologisch gerechte Zukunft in der digitalisierten Welt aus?
+                    Wie kann die Digitalisierung so gestaltet werden, dass sie zu einer nachhaltigen
+und demokratischen Transformation der Gesellschaft beiträgt?
                     </li>
                 </ul>
                 <ul>
                     <li>
-                        Wie kann die Digitalisierung so gestaltet werden, dass sie zu einer nachhaltigen Transformation der Gesellschaft beiträgt?
+                    Wie sieht eine global, wirtschaftlich, sozial und ökologisch gerechte Zukunft
+in der digitalisierten Welt aus?
                     </li>
 
                 </ul>
                 <ul>
                     <li>
-                        Was können Tech-Community (Bits) und Gerechtigkeits- und Umweltbewegung (Bäume) voneinander lernen? Und wie können wir, auch gemeinsam mit progressiven und alternativ-ökonomischen Akteuren, politisch aktiv werden?
+                    Was können Tech-Community (Bits) und Gerechtigkeits- und Umweltbewegung (Bäume)
+voneinander lernen? Und wie können sie als Zivilgesellschaft in einen organisierten
+Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Politik treten?
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                    Wie können wir gemeinsam politisch aktiv werden?
                     </li>
                 </ul>
             </section>
@@ -566,10 +576,7 @@ social-ecological pioneer companies, science and politics? </li>
         <section id="cfp">
 
             <h2>Call for Participation</h2>
-            <p>
-                <h3>Bits & Bäume 2022 – Die Konferenz für Digitalisierung und Nachhaltigkeit</h3>
-            </p>
-                
+   
             <p>
                 Wir bringen Communities zusammen und setzen uns für politische Änderungen
                 im Zusammenspiel von Digitalisierung und Nachhaltigkeit ein. 
