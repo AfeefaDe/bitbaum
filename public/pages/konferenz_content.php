@@ -99,7 +99,6 @@
         <h1>Bits & Bäume Conference 2022</h1>
         <h2>Bits & Bäume 2022 – The Conference for Digitalisation and Sustainability: October 1st and 2nd 2022, Berlin </h2>
         <h3>Evening kick-off event on September 30th</h3>
-        <p><b><i>This website is currently being updated.</i></b></p>    
 
         <section>
             <p>
@@ -525,9 +524,7 @@ social-ecological pioneer companies, science and politics? </li>
         <h1>Bits &amp; Bäume-Konferenz 2022 </h1>
         <h2>  Die Konferenz für Digitalisierung und Nachhaltigkeit: 01. bis 2. Oktober 2022 </h2>
         <h3>Abendliche Auftaktveranstaltung am 30. September </h3>
-        <p>
-            <b><i>Diese Webseite wird gerade überarbeitet.</i></b>
-        </p>
+
         <section>
             <p>
                 Nach der erfolgreichen ersten Bits & Bäume-Konferenz 2018 sind die Themen Digitalisierung und Nachhaltigkeit
