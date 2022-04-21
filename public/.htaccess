@@ -10,9 +10,25 @@ Redirect 301 /fotogalerie https://cloud.bits-und-baeume.org/index.php/s/eTH4H8zw
 Redirect 301 /konferenzankuendigung /konferenz
 Redirect 301 /konferenzankuendigung/de /konferenz/de
 Redirect 301 /konferenzankuendigung/en /konferenz/en
-
 # ÖA-Weiterleitungen
 Redirect 301 /programm-anregungen https://etherpad.wikimedia.org/p/bb22-programm-anregungen
+Redirect 301 /organisationsmodell https://cloud.bits-und-baeume.org/index.php/apps/collectives/p/wTQid3SwdpwHE4d/Organisationsmodell
+Redirect 301 /matrixanmeldung https://cloud.bits-und-baeume.org/index.php/apps/collectives/p/pKHpa63gZH5DZAz/Matrix
+
+
+# BigBlueButton-Räume
+Redirect 301 /BBB-AG-ÖA https://lecture.senfcall.de/rai-emd-p9r-gen
+Redirect 301 /BBB-AG-Vernetzung https://lecture.senfcall.de/bbk-uud-whn-psv
+Redirect 301 /BBB-AG-Kultur https://lecture.senfcall.de/bbk-u9e-wgy-qct
+Redirect 301 /BBB-AG-Logistik https://lecture.senfcall.de/bbk-rgt-abt-jsw
+Redirect 301 /BBB-AG-Forum https://lecture.senfcall.de/bbk-rmf-4hr-cqm
+Redirect 301 /BBB-AG-Care https://lecture.senfcall.de/bbk-uax-ad5-odx
+Redirect 301 /BBB-AG-Programm https://lecture.senfcall.de/bbk-uud-whn-psv
+Redirect 301 /BBB-Orgakreis https://lecture.senfcall.de/bbk-nt6-nsq-90n
+Redirect 301 /BBB-AG-IT https://bbb.xn--bits-und-bume-kfb.de/b/car-5si-yec-gfx
+Redirect 301 /BBB-AG-Awareness https://lecture.senfcall.de/bbk-qf9-tko-yxa
+Redirect 301 /BBB-Mithilfe-Lounge https://lecture.senfcall.de/rai-qmi-0mh-ziw
+
 
 
 
