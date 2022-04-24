@@ -504,9 +504,9 @@ social-ecological pioneer companies, science and politics? </li>
             <a class="button" href="#barrierearmut">Barrierearmut/-freiheit</a>
             <a class="button" href="#transparenz">Transparenz</a>
         </div>
-    -->
 
-    </div>  <!-- Ende  Hauptmenüeintrag           -->
+
+    </div> -->  <!-- Ende  Hauptmenüeintrag           -->
 
 
     <!-- <a class="button" href="#forderungen">Blog</a>  kein Blog fürs erste -->
