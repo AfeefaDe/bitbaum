@@ -55,7 +55,7 @@
 
     <!--  Start Hauptmenüeintrag           -->
     <div class="dropdown">
-        <div class="button dropbtn">About Bits &amp Bäume  ▾</div>
+        <div class="button dropbtn">About Bits &amp; Bäume  ▾</div>
         <div class="dropdown-content">
     <!--        <a class="button" href="#ueberuns">Über uns</a> -->
             <a class="button" href="#mitmachen">Join</a>
@@ -78,9 +78,9 @@
             <a class="button" href="#barrierearmut">Barrierearmut/-freiheit</a>
             <a class="button" href="#transparenz">Transparenz</a>
         </div>
-    -->
 
-    </div>  <!-- Ende  Hauptmenüeintrag           -->
+
+    </div>  --> <!-- Ende  Hauptmenüeintrag           -->
 
 
     <!-- <a class="button" href="#forderungen">Blog</a>  kein Blog fürs erste -->
