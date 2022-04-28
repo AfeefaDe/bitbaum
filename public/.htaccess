@@ -14,6 +14,7 @@ Redirect 301 /konferenzankuendigung/en /konferenz/en
 Redirect 301 /programm-anregungen https://etherpad.wikimedia.org/p/bb22-programm-anregungen
 Redirect 301 /organisationsmodell https://cloud.bits-und-baeume.org/index.php/apps/collectives/p/wTQid3SwdpwHE4d/Organisationsmodell
 Redirect 301 /matrixanmeldung https://cloud.bits-und-baeume.org/index.php/apps/collectives/p/pKHpa63gZH5DZAz/Matrix
+Redirect 301 /Kalender https://cloud.bits-und-baeume.org/index.php/apps/calendar/p/4kNZbfrsPjWkcEJ5/listMonth/now
 
 
 # BigBlueButton-Räume
