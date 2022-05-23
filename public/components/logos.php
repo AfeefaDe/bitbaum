@@ -37,9 +37,10 @@
                                                                               title="Weizenbaum-Institut"></a>
 
             </div>
-      <!--      <p><strong>Media Partner</strong></p>
-            <a href="https://netzpolitik.org" target="_blank"><img class="smaller" src="/img/logo-netzpolitik-org.svg"
-                                                                   title="Netzpolitik.org"></a> -->
+            <p><strong>Media Partner</strong></p>
+            <a href="https://reset.org" target="_blank"><img src="/img/logo-reset.svg" title="RESET"></a>
+            <!-- <a href="https://www.heise.de" target="_blank"><img src="/img/logo-heise-online.svg" title="Heise Online"></a> -->
+
             <p><strong>Supported by</strong></p>
             <p>  The Conference is funded by the <a href="https://www.dbu.de" target="_blank">German Federal Environmental Foundation (DBU)</a>  and co-funded by
             Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz
@@ -100,9 +101,10 @@ break;
                 <a href="https://weizenbaum-institut.de" target="_blank"><img src="/img/logo_weizenbaum.png"
                                                                               title="Weizenbaum-Institut"></a>
             </div>
-        <!--    <p><strong>Medienpartner</strong></p>
-            <a href="https://netzpolitik.org" target="_blank"><img class="smaller" src="/img/logo-netzpolitik-org.svg"
-                                                                   title="Netzpolitik.org"></a> -->
+            <p><strong>Medienpartner</strong></p>
+            <a href="https://reset.org" target="_blank"><img src="/img/logo-reset.svg" title="RESET"></a>
+            <!-- <a href="https://www.heise.de" target="_blank"><img src="/img/logo-heise-online.svg" title="Heise Online"></a> -->
+
             <p><strong>Förderer</strong></p>
             <p>
                 <!--Die Veranstaltung wird gefördert durch die <a href="https://www.dbu.de" target="_blank">Deutsche Bundesstiftung Umwelt (DBU)</a> und via Förderung von Projekten
