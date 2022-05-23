@@ -96,17 +96,17 @@
 
 <section>
     <article>
-        <h1>Bits & Bäume Conference 2022</h1>
-        <h2>Bits & Bäume 2022 – The Conference for Digitalisation and Sustainability: October 1st and 2nd 2022, Berlin </h2>
+        <h1>Bits &amp; Bäume Conference 2022</h1>
+        <h2>Bits &amp; Bäume 2022 – The Conference for Digitalisation and Sustainability: October 1st and 2nd 2022, at the TU Berlin</h2>
         <h3>Evening kick-off event on September 30th</h3>
 
         <section>
             <p>
-                After the successful first Bits & Bäume Conference in 2018, the topics of digitalization and sustainability are more present
+                After the successful first Bits &amp; Bäume Conference in 2018, the topics of digitalization and sustainability are more present
                 in our society today than ever before. We are facing major societal and global challenges for a just and sustainable
                 shaping of our (surrounding) world.
                 Therefore, we would like to broaden and consolidate the networking of environmental and justice activists,
-                technology experts and human rights activists with the <b>Bits & Bäume 2022</b> conference from <b>October 1st to 2nd, 2022</b>.
+                technology experts and human rights activists with the <b>Bits &amp; Bäume 2022</b> conference from <b>October 1st to 2nd, 2022</b>.
                 A <b>kick-off event</b> will be held on the evening of <b>September 30th</b>.
                 This also includes networking our communities with representatives of social-ecological small digital businesses and
                 founders as well as politicians in order to find concrete solutions for the pressing issues of our time.
@@ -181,7 +181,7 @@ social-ecological pioneer companies, science and politics? </li>
             </ul>-->
 
             <p>
-                The Bits & Bäume 2022 participants want to interfere and stir things up politically. We openly 
+                The Bits &amp; Bäume 2022 participants want to interfere and stir things up politically. We openly
                 stand up against anti-democratic trends and position ourselves for scientific-based, 
                 innovative, active and cross-movement approaches to solutions for sustainable digitalisation.
             </p>
@@ -199,11 +199,11 @@ social-ecological pioneer companies, science and politics? </li>
 
             <p>
                 In addition to all the stages and spaces of the broad call (1) we are also inviting initiatives and 
-                organisations to present themselves and their projects in our B&B-Forum to share knowledge 
+                organisations to present themselves and their projects in our B&amp;B-Forum to share knowledge
                 and to engage with one another (2). Furthermore, we would like to welcome contributions from 
                 the business world with innovative approaches to the challenges described in this paper (3). 
-                Therefore there will be three different formats: contributions to the programme, B&B-Forum 
-                and Pitch & Thrive for Sustainability.
+                Therefore there will be three different formats: contributions to the programme, B&amp;B-Forum
+                and Pitch &amp; Thrive for Sustainability.
             </p>
 
 
@@ -220,10 +220,10 @@ social-ecological pioneer companies, science and politics? </li>
         </section>
         <section id="buehnenprogramm">
 
-            <h2> Programme Contribution</h2>
+            <h2>Programme Contribution</h2>
             <h3>Which topics can be submitted?</h3>
             <p>
-            Topics at Bits & Bäume cover all content at the interface of 
+            Topics at Bits &amp; Bäume cover all content at the interface of
             sustainability and digitalisation. They range from cross-linked mobility 
             to the raw material and power requirements for digital devices, data 
             sufficiency and cooperative platform economies to smart energy networks 
@@ -258,7 +258,7 @@ social-ecological pioneer companies, science and politics? </li>
 
             <section id="bbforum">
 
-            <h2>The Bits & Bäume Forum</h2>
+            <h2>The Bits &amp; Bäume Forum</h2>
 
             <p>
                 We are going to offer a creative space within the conference where initiatives/organisations/
@@ -268,7 +268,7 @@ social-ecological pioneer companies, science and politics? </li>
             </p>
 
             <h3>How can we design the Forum?</h3>
-            <p> Here are some suggestions on how to design your space at B&B-Forum: </p>
+            <p> Here are some suggestions on how to design your space at B&amp;B-Forum: </p>
             <ul>
                 <li>info or discourse sofa</li>
                 <li>kitchen or regulars’ table with table, chairs and benches</li>
@@ -291,7 +291,7 @@ social-ecological pioneer companies, science and politics? </li>
                 
                 Please use the same <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">form</a> as for the entire
                 <a target="_blank" href="/downloads/call_for_participation_english.pdf">Call for Participation</a> and choose the format 
-                “B&B-Forum”. In the description please explain who you are, how your organisation is financed, 
+                “B&amp;B-Forum”. In the description please explain who you are, how your organisation is financed,
                 what actions you envision on site, how much space you need and what technical equipment 
                 (especially electricity) and furniture you require. You may ignore the time box for the forum.
             </p>
@@ -312,14 +312,14 @@ social-ecological pioneer companies, science and politics? </li>
                 Are you or your company working in the IT sector, do you want to master a sustainability 
                 challenge and use digital technologies to do so? Would you like to know how sustainable you are? 
                 Do you want experts to take a closer look at your business model? If any or all of these things 
-                apply then you‘re in the right place at “Pitch & Thrive for Sustainability” – this year‘s special 
+                apply then you‘re in the right place at “Pitch &amp; Thrive for Sustainability” – this year‘s special
                 format for sustainable start-ups and/or alternative and ecologically oriented small and 
                 medium-sized enterprises.
             </p>
 
             <h3>How exactly does it work?</h3>
             <p><b>Pitch (10 Min)</b>: During the conference we will offer daily slots where you can pitch your project, 
-                start-up, small business or simply your idea to a selected panel and to the Bits & Bäume 
+                start-up, small business or simply your idea to a selected panel and to the Bits &amp; Bäume
                 community.
             </p>
             <p>
@@ -340,7 +340,7 @@ social-ecological pioneer companies, science and politics? </li>
             <h3>What should we submit?</h3>
             <p>
                 Please use the same <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">form</a> as for the entire
-                <a target="_blank" href="/downloads/call_for_participation_english.pdf">Call for Participation</a> and choose the format   „Pitch & Thrive for Sustainability“.
+                <a target="_blank" href="/downloads/call_for_participation_english.pdf">Call for Participation</a> and choose the format   „Pitch &amp; Thrive for Sustainability“.
                 In any case please indicate  if you will NOT be able to attend one 
                 of the conference days. We will contact you with a time slot and further important information
             </p>
@@ -351,13 +351,13 @@ social-ecological pioneer companies, science and politics? </li>
         <section id="presse">         
             <h2>Press Contact</h2>
             <p>
-                You are a journalist and would like to receive information about our Bits & Bäume 2022? 
+                You are a journalist and would like to receive information about our Bits &amp; Bäume 2022?
                 We would be happy to add you to our press list.
                 Please send press enquiries to <b>presse@bits-und-baeume.org</b>
             </p>
 
             <p>
-                Press releases of the Bits & Bäume Conference from 2018 can be found
+                Press releases of the Bits &amp; Bäume Conference from 2018 can be found
                 <a target="_blank" href="https://bits-und-baeume.org/presse/de">here</a>.
             </p>
 
@@ -401,7 +401,7 @@ social-ecological pioneer companies, science and politics? </li>
             <section id="forderungen">
                 <h2>Our Demands</h2>
                 <p>
-                    The joint demands of the 13 member organisations for the Bits & Bäume Conference 2022 will soon be available here.
+                    The joint demands of the 13 member organisations for the Bits &amp; Bäume Conference 2022 will soon be available here.
                 </p>
                 <p>    
                 At the 2018 conference, the ten civil society member 
@@ -409,7 +409,7 @@ social-ecological pioneer companies, science and politics? </li>
                 eleven demands. These demands constitute a basis on how digitalisation can be 
                 designed in a manner that serves the common good as well as peace, takes data 
                 protection seriously and promotes social and ecological goals alike. You can 
-                find the demands of Bits & Bäume 2018 <a target="_blank" href="https://bits-und-baeume.org/forderungen/info/en">here</a>.
+                find the demands of Bits &amp; Bäume 2018 <a target="_blank" href="https://bits-und-baeume.org/forderungen/info/en">here</a>.
                 </p>
                 <hr>
             </section>
@@ -512,7 +512,7 @@ social-ecological pioneer companies, science and politics? </li>
     <!-- <a class="button" href="#forderungen">Blog</a>  kein Blog fürs erste -->
     <!-- <a href="#impressum">Impressum/Datenschutz</a>  ist bereits im Footer -->
 
-    <div style="clear: left; height: 0;">&nbsp;</div>
+    <div style="clear: left; height: 0;">&amp;nbsp;</div>
 </nav> <!-- Ende Menü -->
 
 <!-- ############### Menü Ende ###################################         -->
@@ -520,17 +520,17 @@ social-ecological pioneer companies, science and politics? </li>
 
 <section>
     <article>
-    <!--    <h1>Die Bits & Bäume 2022 geht in die zweite Runde – eure Mithilfe ist gefragt</h1> -->
+    <!--    <h1>Die Bits &amp; Bäume 2022 geht in die zweite Runde – eure Mithilfe ist gefragt</h1> -->
         <h1>Bits &amp; Bäume-Konferenz 2022 </h1>
-        <h2>  Die Konferenz für Digitalisierung und Nachhaltigkeit: 01. bis 2. Oktober 2022 </h2>
+        <h2>Die Konferenz für Digitalisierung und Nachhaltigkeit: 01. bis 2. Oktober 2022 an der TU Berlin</h2>
         <h3>Abendliche Auftaktveranstaltung am 30. September </h3>
 
         <section>
             <p>
-                Nach der erfolgreichen ersten Bits & Bäume-Konferenz 2018 sind die Themen Digitalisierung und Nachhaltigkeit
+                Nach der erfolgreichen ersten Bits &amp; Bäume-Konferenz 2018 sind die Themen Digitalisierung und Nachhaltigkeit
                 heute in unserer Gesellschaft so präsent wie nie zuvor. Wir stehen vor großen gesellschaftlichen und
                 globalen Herausforderungen für eine gerechte und nachhaltige Gestaltung unserer (Um-)Welt.
-                Deshalb möchten wir mit der <b>Konferenz Bits & Bäume 2022</b> vom <b>01. bis 2. Oktober 2022</b> die Vernetzung von Umwelt-
+                Deshalb möchten wir mit der <b>Konferenz Bits &amp; Bäume 2022</b> vom <b>01. bis 2. Oktober 2022</b> die Vernetzung von Umwelt-
                 und Gerechtigkeitsaktivist*innen, Technikexpert*innen und Menschenrechtler*innen verbreitern und verstetigen.
                 Eine <b>Auftaktveranstaltung</b> wird am Abend des <b>30. September</b> stattfinden.
                 Dazu gehört auch die Vernetzung unserer Communities mit Vertreter*innen sozial-ökologisch wirtschaftender kleiner Digital-Unternehmen und
@@ -605,10 +605,10 @@ Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Polit
             </p>
             <p>
                 Neben den Bühnen und Räumen des breiten Calls (1) laden wir Initiativen und Organisationen auch ein, 
-                sich in unserem B&B-Forum vorzustellen, ihr Wissen zu teilen und miteinander ins Gespräch zu kommen (2). 
+                sich in unserem B&amp;B-Forum vorzustellen, ihr Wissen zu teilen und miteinander ins Gespräch zu kommen (2).
                 Darüber hinaus freuen wir uns explizit über Beiträge aus der Geschäftswelt mit innovativen Lösungsansätzen zu 
                 den hier beschriebenen Herausforderungen (3). 
-                Demnach gibt es drei Hauptformate: Programmbeiträge, das Forum und Pitch & Thrive for Sustainability.
+                Demnach gibt es drei Hauptformate: Programmbeiträge, das Forum und Pitch &amp; Thrive for Sustainability.
             </p>
 
             <p>
@@ -629,7 +629,7 @@ Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Polit
             <h3>Welche Themen kann ich einreichen?</h3>
 
             <p>
-                Die Themen der Konferenz Bits & Bäume decken alle Inhalte an der Schnittstelle von Nachhaltigkeit und 
+                Die Themen der Konferenz Bits &amp; Bäume decken alle Inhalte an der Schnittstelle von Nachhaltigkeit und
                 Digitalisierung ab - und reichen z.B. von vernetzter Mobilität über den Rohstoff- und Strombedarf digitaler Geräte, 
                 Datensuffizienz und kooperativen Plattformökonomien bis hin zu smarten Energienetzen oder Monopolisierungstendenzen
                 in der digitalen Ökonomie. Dabei wollen wir die Themen aus vielen Perspektiven betrachten. Was muss beendet, was 
@@ -663,7 +663,7 @@ Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Polit
 
         <section id="bbforum">
 
-            <h2>Bits & Bäume Forum</h2>
+            <h2>Bits &amp; Bäume Forum</h2>
 
             <p>Wir werden auf dem Konferenzareal eine kreative Fläche anbieten, wo Initiativen/ 
                 Organisationen/Institutionen/Netzwerke/Start-Ups usw. vor Ort präsent und aktiv sein können.
@@ -672,7 +672,7 @@ Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Polit
             </p>
 
             <h3>Wie können wir das Forum gestalten?</h3>
-            <p> Hier einige Anregungen, wie ihr euren Platz beim B&B-Forum gestalten könnt: </p>
+            <p> Hier einige Anregungen, wie ihr euren Platz beim B&amp;B-Forum gestalten könnt: </p>
             <ul>
                 <li>Info- oder Diskurs-Sofa</li>
                 <li>Küchen- oder Stammtisch mit Tisch, Stühlen und Bänken</li>
@@ -693,7 +693,7 @@ Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Polit
             <p>
                 Benutzt bitte dasselbe <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">Formular</a>
                 wie für den gesamten <a target="_blank" href="/downloads/call_for_participation.pdf">Call for Participation</a>.
-                Wählt dabei bitte das Format „B&B-Forum“. Verdeutlicht in der Beschreibung, 
+                Wählt dabei bitte das Format „B&amp;B-Forum“. Verdeutlicht in der Beschreibung,
                 wer ihr seid, wie sich eure Organisation finanziert, welche Aktionen ihr euch vor Ort konkret vorstellt, 
                 wieviel Platz ihr braucht und ggf. welchen Bedarf an Technik (v. a. Strom)
                 und Mobiliar ihr habt. Das Zeitangabenfeld könnt ihr für das Forum ignorieren.</p>
@@ -711,7 +711,7 @@ Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Polit
                 Du oder deine Firma macht was im IT-Bereich, ihr wollt eine Nachhaltigkeitsherausforderung meistern und 
                 dafür digitale Technologien einsetzen? Ihr wollt wissen, wie nachhaltig ihr selbst unterwegs seid? Du möchtest, 
                 dass Expert*innen deinem Business-Modell auf den Zahn fühlen? Wenn etwas oder alles davon zutrifft, dann bist du 
-                genau richtig bei Pitch & Thrive for Sustainability, 
+                genau richtig bei Pitch &amp; Thrive for Sustainability,
                 unserem diesjährigen Sonderformat für nachhaltige Start-Ups und/oder alternativ und ökologisch orientierte kleine und 
                 mittlere Unternehmer*innen.
             </p>
@@ -737,7 +737,7 @@ Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Polit
             <p>
                 Benutzt bitte dasselbe   <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">Formular</a>
                 wie für den gesamten   <a target="_blank" href="/downloads/call_for_participation.pdf">Call for Participation</a>.
-                Wählt dabei bitte das Format    „Pitch & Thrive for Sustainability“. Gebt in jedem Fall an, sofern ihr an einem der Konferenztage NICHT 
+                Wählt dabei bitte das Format    „Pitch &amp; Thrive for Sustainability“. Gebt in jedem Fall an, sofern ihr an einem der Konferenztage NICHT
                 dabei sein könnt. Wir melden uns bei euch mit einem Zeitslot und allen weiteren wichtigen Informationen.
             </p>
             <hr>
@@ -749,7 +749,7 @@ Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Polit
             <h2>Pressekontakt</h2>
             <p>
                 Du bist Journalist*in und willst in unseren Presseverteiler 
-                aufgenommen werden oder hast eine Frage zu Bits & Bäume 2022? Kontaktiere uns unter    
+                aufgenommen werden oder hast eine Frage zu Bits &amp; Bäume 2022? Kontaktiere uns unter
                 <b>presse@bits-und-baeume.org</b>.
 
             </p>
@@ -803,13 +803,13 @@ Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Polit
         <section id="forderungen">
             <h2>Unsere Forderungen</h2>
             <p>
-                Die gemeinsamen Forderungen der 13 Trägerkreisorganisationen für die Bits & Bäume Konferenz 2022 kannst du hier bald einsehen.</p>
+                Die gemeinsamen Forderungen der 13 Trägerkreisorganisationen für die Bits &amp; Bäume Konferenz 2022 kannst du hier bald einsehen.</p>
 
             <p>
                 Mit der Konferenz 2018 haben die zehn Trägerkreisorganisationen aus der Netz-, 
                 Umwelt- und Entwicklungspolitik eine gemeinsame Grundlage dafür geschaffen, wie die Digitalisierung so gestaltet werden kann, dass sie dem Gemeinwohl und dem Frieden dient, 
                 Datenschutz ernst nimmt und soziale und ökologische Ziele
-                gleichermaßen fördert. Die Forderungen der Bits & Bäume 2018 findest du 
+                gleichermaßen fördert. Die Forderungen der Bits &amp; Bäume 2018 findest du
                 <a target="_blank" href="https://bits-und-baeume.org/forderungen/info/de"> hier</a>.
             </p>
    
