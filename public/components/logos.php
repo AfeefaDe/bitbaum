@@ -37,9 +37,9 @@
                                                                               title="Weizenbaum-Institut"></a>
 
             </div>
-            <p><strong>Media Partner</strong></p>
+            <p><strong>Our topics are spread by the media professionals</strong></p>
             <a href="https://reset.org" target="_blank"><img src="/img/logo-reset.svg" title="RESET"></a>
-            <!-- <a href="https://www.heise.de" target="_blank"><img src="/img/logo-heise-online.svg" title="Heise Online"></a> -->
+            <a href="https://www.heise.de" target="_blank"><img src="/img/logo-heise-online.svg" title="Heise Online"></a>
 
             <p><strong>Supported by</strong></p>
             <p>  The Conference is funded by the <a href="https://www.dbu.de" target="_blank">German Federal Environmental Foundation (DBU)</a>  and co-funded by
@@ -101,9 +101,9 @@ break;
                 <a href="https://weizenbaum-institut.de" target="_blank"><img src="/img/logo_weizenbaum.png"
                                                                               title="Weizenbaum-Institut"></a>
             </div>
-            <p><strong>Medienpartner</strong></p>
+            <p><strong>Unsere Themen werden verbreitet von den Medienprofis</strong></p>
             <a href="https://reset.org" target="_blank"><img src="/img/logo-reset.svg" title="RESET"></a>
-            <!-- <a href="https://www.heise.de" target="_blank"><img src="/img/logo-heise-online.svg" title="Heise Online"></a> -->
+            <a href="https://www.heise.de" target="_blank"><img src="/img/logo-heise-online.svg" title="Heise Online"></a> 
 
             <p><strong>Förderer</strong></p>
             <p>
