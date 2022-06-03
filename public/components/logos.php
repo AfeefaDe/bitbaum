@@ -31,8 +31,8 @@
                                                                                  title="Einstein Center Digital Future"></a>
                 <a href="https://fsfe.org" target="_blank"><img src="/img/logo_fsfe.svg"
                                                                 title="Free Software Foundation Europe"></a>
-                <a href="https://www.verdi.de" target="_blank"><img class="gray" src="/img/logo_verdi.png"
-                                                                    title="Vereinte Dienstleistungsgewerkschaft"></a>
+         <!--       <a href="https://www.verdi.de" target="_blank"><img class="gray" src="/img/logo_verdi.png"
+                                                                    title="Vereinte Dienstleistungsgewerkschaft"></a> -->
                 <a href="https://weizenbaum-institut.de" target="_blank"><img src="/img/logo_weizenbaum.png"
                                                                               title="Weizenbaum-Institut"></a>
 
@@ -96,8 +96,8 @@ break;
                                                                                  title="Einstein Center Digital Future"></a>
                 <a href="https://fsfe.org" target="_blank"><img src="/img/logo_fsfe.svg"
                                                                 title="Free Software Foundation Europe"></a>
-                <a href="https://www.verdi.de" target="_blank"><img class="gray" src="/img/logo_verdi.png"
-                                                                    title="Vereinte Dienstleistungsgewerkschaft"></a>
+           <!--     <a href="https://www.verdi.de" target="_blank"><img class="gray" src="/img/logo_verdi.png"
+                                                                    title="Vereinte Dienstleistungsgewerkschaft"></a> -->
                 <a href="https://weizenbaum-institut.de" target="_blank"><img src="/img/logo_weizenbaum.png"
                                                                               title="Weizenbaum-Institut"></a>
             </div>
