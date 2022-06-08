@@ -614,7 +614,7 @@ Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Polit
             <p>
 
 
-                Bewerben könnt ihr euch über <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">Einreichungsformular</a> bis einschließlich 7. Juni 2022. 
+                Bewerben könnt ihr euch über <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">Einreichungsformular</a> bis nun verlängert auf einschließlich 21. Juni 2022. 
                 
                 Bei Fragen zum <a target="_blank" href="/downloads/call_for_participation.pdf">Call for Participation</a>  schreibt an <b>cfp@bits-und-baeume.org</b>.
             </p>
