@@ -210,7 +210,7 @@ social-ecological pioneer companies, science and politics? </li>
            <p>
             
             Here you can find the  <a target="_blank" href="/downloads/call_for_participation_english.pdf">Call for Participation</a>.
-            Please apply <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">here</a> <b>until June 7th 2022</b>.
+            Please apply <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">here</a> <b>until June 21st 2022</b>.
 
 
             </p>
