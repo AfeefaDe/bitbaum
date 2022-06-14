@@ -152,7 +152,7 @@
 
             <ul>
                 <li>
-                <a target="_blank" href="/downloads/call_for_participation.pdf">Call for Participation</a> 
+                <a target="_blank" href="/downloads/call_for_participation_english.pdf">Call for Participation</a>
 
                 </li>
                 <li>
@@ -375,7 +375,7 @@ social-ecological pioneer companies, science and politics? </li>
                 </p>
                 <ul>
                     <li>
-                        <a target="_blank" href="/downloads/Call_for_Action_neu.pdf">Call for Action</a>
+                        <a target="_blank" href="/downloads/Call_for_Action_neu.pdf">Call for Action (German)</a>
                     </li>
                 </ul>
                 <p>
