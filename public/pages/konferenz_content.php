@@ -99,7 +99,7 @@
         <h1>Bits &amp; Bäume Conference 2022</h1>
         <h2>Bits &amp; Bäume 2022 – The Conference for Digitalisation and Sustainability: September 30th until 2nd 2022, at the TU Berlin</h2>
         <h3>Evening kick-off event on September 30th</h3>
-        <h2>Ticketsale will start on this website on July 4th. </h3>
+        <h2>Ticketsale will start on this website on July 4th</h3>
 
         <section>
             <p>
@@ -525,7 +525,7 @@ social-ecological pioneer companies, science and politics? </li>
         <h1>Bits &amp; Bäume-Konferenz 2022 </h1>
         <h2>Die Konferenz für Digitalisierung und Nachhaltigkeit: 30. September bis 2. Oktober 2022 an der TU Berlin</h2>
         <h3>Abendliche Auftaktveranstaltung am 30. September </h3>
-        <h2>Der Ticketverkauf startet am 4. Juli hier auf dieser Webseite.</h3>
+        <h2>Der Ticketverkauf startet am 4. Juli hier auf dieser Webseite</h3>
 
         <section>
             <p>
