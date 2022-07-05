@@ -57,7 +57,7 @@
         <div class="button dropbtn">About Bits &amp; Bäume  ▾</div>
         <div class="dropdown-content">
     <!--        <a class="button" href="#ueberuns">Über uns</a> -->
-            <a class="button" href="#mitmachen">Join</a>
+     <!--       <a class="button" href="#mitmachen">Join</a> -->
   <!--          <a class="button" href="#tk">Trägerkreis</a>
             <a class="button" href="#kb">Konferenzbüro</a>
             <a class="button" href="#newsletter">Newsletter</a> -->
@@ -186,38 +186,23 @@ Topics at Bits & Bäume cover content at the interface of sustainability and dig
         <section id="presse">         
             <h2>Press Contact</h2>
             <p>
-                You are a journalist and would like to receive information about our Bits &amp; Bäume 2022?
-                We would be happy to add you to our press list.
-                Please send press enquiries to <b>presse@bits-und-baeume.org</b>
+               You are a journalist and would like to receive information about Bits & Bäume 2022? We would be happy to add you to our mailing list. 
+                Please send press enquiries to presse@bits-und-baeume.org
+Press releases of the Bits & Bäume Conference from 2018 can be found here.​ Click <a target="_blank" href="/downloads/Bits&Baeume_Pressemitteilung_7.6.22.pdf">HERE</a> for our most recent release. 
+                
+              
             </p>
 
             <p>
+                
+                
                 Press releases of the Bits &amp; Bäume Conference from 2018 can be found
                 <a target="_blank" href="https://bits-und-baeume.org/presse/de">here</a>.
             </p>
 
             <hr>
         </section>
-            <section id="mitmachen">
-                <h2>Join us!</h2>
-
-              <!--  <p><b>We need you help!</b><p>-->
-
-                <p>
-                With our Call for Action we would like to motivate you to become 
-                involved in the organisation of the conference. 
-                Helping hands and heads are needed. It will be colourful, exciting and transformative!
-                </p>
-                <ul>
-                    <li>
-                        <a target="_blank" href="/downloads/Call_for_Action_neu.pdf">Call for Action (German)</a>
-                    </li>
-                </ul>
-                <p>
-                    If you would like to participate in a working group, please send a short email to <b>info@bits-und-baeume.org</b>
-                </p>
-                <hr>
-            </section>
+           
 
             <section id="kontakt">
                 <h2>Contact</h2>
@@ -319,7 +304,7 @@ Topics at Bits & Bäume cover content at the interface of sustainability and dig
         <div class="button dropbtn">Über Bits &amp; Bäume ▾</div>
         <div class="dropdown-content">
     <!--        <a class="button" href="#ueberuns">Über uns</a> -->
-            <a class="button" href="#mitmachen">Mitmachen</a>
+       <!--     <a class="button" href="#mitmachen">Mitmachen</a>-->
   <!--          <a class="button" href="#tk">Trägerkreis</a>
             <a class="button" href="#kb">Konferenzbüro</a>
             <a class="button" href="#newsletter">Newsletter</a> -->
@@ -462,6 +447,10 @@ Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Polit
                 Du bist Journalist*in und willst in unseren Presseverteiler 
                 aufgenommen werden oder hast eine Frage zu Bits &amp; Bäume 2022? Kontaktiere uns unter
                 <b>presse@bits-und-baeume.org</b>.
+                
+                Du bist Journalist*in und willst in unseren Presseverteiler aufgenommen werden oder 
+                hast eine Frage zu Bits & Bäume 2022? Kontaktiere uns unter presse@bits-und-baeume.org.
+Pressemitteilungen zur vergangen Konferenz 2018 finden sich hier. Unsere aktuelle Pressemeldung findest du <a target="_blank" href="/downloads/Bits&Baeume_Pressemitteilung_7.6.22.pdf">hier</a>.
 
             </p>
             <p>
@@ -473,23 +462,6 @@ Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Polit
             <hr>
         </section>
 
-        <section id="mitmachen">
-            <h2>Mitmachen</h2>
-            <p>
-                In einem Call for Action motivieren wir dazu, sich in die Organisation der Konferenz einzubringen.
-                Denn helfende Hände und Köpfe werden gebraucht. Es wird bunt, spannend und transformativ!
-            </p>
-            <ul>
-                <li>
-                    <a target="_blank" href="/downloads/Call_for_Action_neu.pdf">Call for Action</a>
-                </li>
-            </ul>
-            <p>
-                Schreib uns eine Mail an <b>info@bits-und-baeume.org</b>, wenn du in einer AG zur Vorbereitung
-                Konferenz mitarbeiten möchtest.
-            </p>
-            <hr>
-        </section>
 
     
 
