@@ -51,24 +51,13 @@
      <!-- Ende  Hauptmenüeintrag     Presse      -->
 
     <a class="button" href="#forderungen">Our demands</a>
+     <a class="button" href="#kontakt">Contact</a>
 
-    <!--  Start Hauptmenüeintrag           -->
-    <div class="dropdown">
-        <div class="button dropbtn">About Bits &amp; Bäume  ▾</div>
-        <div class="dropdown-content">
-    <!--        <a class="button" href="#ueberuns">Über uns</a> -->
-     <!--       <a class="button" href="#mitmachen">Join</a> -->
-  <!--          <a class="button" href="#tk">Trägerkreis</a>
-            <a class="button" href="#kb">Konferenzbüro</a>
-            <a class="button" href="#newsletter">Newsletter</a> -->
-            <a class="button" href="#kontakt">Contact</a>
-        </div>
-
-    </div>  <!-- Ende  Hauptmenüeintrag           -->
+  
 
 
     <!--  Start Hauptmenüeintrag           -->
-    <a class="button" href="#faq">FAQs</a>
+ <!--   <a class="button" href="#faq">FAQs</a> -->
     <!-- bei FAQ doch kein dropdown 
        <div class="dropdown">
         <div class="button dropbtn">FAQs ▾</div>
@@ -298,24 +287,13 @@ Press releases of the Bits & Bäume Conference from 2018 can be found here.​ C
      <!-- Ende  Hauptmenüeintrag     Presse      -->
 
     <a class="button" href="#forderungen">Forderungen</a>
+     <a class="button" href="#kontakt">Kontakt</a>
 
-    <!--  Start Hauptmenüeintrag           -->
-    <div class="dropdown">
-        <div class="button dropbtn">Über Bits &amp; Bäume ▾</div>
-        <div class="dropdown-content">
-    <!--        <a class="button" href="#ueberuns">Über uns</a> -->
-       <!--     <a class="button" href="#mitmachen">Mitmachen</a>-->
-  <!--          <a class="button" href="#tk">Trägerkreis</a>
-            <a class="button" href="#kb">Konferenzbüro</a>
-            <a class="button" href="#newsletter">Newsletter</a> -->
-            <a class="button" href="#kontakt">Kontakt</a>
-        </div>
 
-    </div>  <!-- Ende  Hauptmenüeintrag           -->
 
 
     <!--  Start Hauptmenüeintrag           -->
-    <a class="button" href="#faq">FAQs</a>
+ <!--   <a class="button" href="#faq">FAQs</a> -->
     <!-- bei FAQ doch kein dropdown 
        <div class="dropdown">
         <div class="button dropbtn">FAQs ▾</div>
