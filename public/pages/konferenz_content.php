@@ -325,6 +325,15 @@ Press releases of the Bits & Bäume Conference from 2018 can be found here.​ C
         <h2>Der Ticketverkauf startet am 4. Juli hier auf dieser Webseite</h3>
 
         <section>
+            
+            <p>
+            Der Ticketverkauf ist gestartet. Hier geht es zu den Ticketkategorien und den Preisen: 
+                  <a target="_blank" href="   https://events.fairetickets.de/gedlv/">TICKETS</a>.
+                
+     
+
+            </p>  
+            
             <p>
                 Nach der erfolgreichen ersten Bits &amp; Bäume-Konferenz 2018 sind die Themen Digitalisierung und Nachhaltigkeit
                 heute in unserer Gesellschaft so präsent wie nie zuvor. Wir stehen vor großen gesellschaftlichen und
@@ -367,6 +376,31 @@ Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Polit
                     </li>
                 </ul>
             </section>
+            
+            <p>
+                Aktuell stellen wir ein spannendes <b>Programm</b> aus hunderten von Einreichungen zusammen. Weitere Informationen zu den Referierenden und Workshops folgen in Kürze!
+            </p>
+            
+            <p>
+             Hast du Lust bekommen, selbst Teil der Konferenz zu werden und dazu beizutragen, dass die Community wächst? 
+                Um die Großkonferenz möglich zu machen, brauchen wir viele helfende Hände. Deshalb verstehen wir uns als Mitmachkonferenz 
+                und bedanken uns nicht nur mit dem Blick hinter die Kulissen der Bits & Bäume, sondern auch mit freiem Eintritt an allen drei 
+                Tagen, Essen und natürlich jeder Menge Spaß! Trag dich einfach in eine (oder mehrere) Schicht(en) in unser Engelssystem ein: 
+                <a target="_blank" href=" https://engelsystem.de/bub/news">https://engelsystem.de/bub/news</a>.
+                Wir freuen uns sehr auf dich!!
+
+            </p>
+    <p>
+    Falls du gerade keine Kapazitäten hast, selbst aktiv zu werden, unterstützt du uns mit dem Kauf deines Eintrittstickets: 
+        
+        <a target="_blank" href=" https://bits-und-baeume.org/konferenz/">https://bits-und-baeume.org/konferenz/</a>.
+          </p>
+    <p>
+    Wir sehen uns bei der Bits & Bäume 2022!
+            </p>
+
+            
+            
             <hr>
         </section>
 
