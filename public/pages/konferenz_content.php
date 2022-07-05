@@ -87,7 +87,8 @@
         <h1>Bits &amp; Bäume Conference 2022</h1>
         <h2>Bits &amp; Bäume 2022 – The Conference for Digitalisation and Sustainability: September 30th until 2nd 2022, at the TU Berlin</h2>
         <h3>Evening kick-off event on September 30th</h3>
-        <h2>Get your ticket now. For more info about the categories and prices go    <a target="_blank" href="   https://events.fairetickets.de/gedlv/">HERE</a>.</h3>
+        <h3>Get your ticket now. For more info about the categories and prices go  
+            <a target="_blank" href="   https://events.fairetickets.de/gedlv/">HERE</a>.</h3>
 
         <section>
             <p>
@@ -348,7 +349,7 @@ Press releases of the Bits & Bäume Conference from 2018 can be found here.​ C
         <h1>Bits &amp; Bäume-Konferenz 2022 </h1>
         <h2>Die Konferenz für Digitalisierung und Nachhaltigkeit: 30. September bis 2. Oktober 2022 an der TU Berlin</h2>
         <h3>Abendliche Auftaktveranstaltung am 30. September </h3>
-        <h2>    Der Ticketverkauf ist gestartet. Hier geht es zu den Ticketkategorien und den Preisen: 
+        <h3>    Der Ticketverkauf ist gestartet. Hier geht es zu den Ticketkategorien und den Preisen: 
                   <a target="_blank" href="   https://events.fairetickets.de/gedlv/">TICKETS</a>.</h3>
 
         <section>
