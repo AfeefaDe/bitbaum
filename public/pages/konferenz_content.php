@@ -513,7 +513,7 @@ social-ecological pioneer companies, science and politics? </li>
     <!-- <a class="button" href="#forderungen">Blog</a>  kein Blog fürs erste -->
     <!-- <a href="#impressum">Impressum/Datenschutz</a>  ist bereits im Footer -->
 
-    <div style="clear: left; height: 0;">&amp;nbsp;</div>
+    <div style="clear: left; height: 0;">&nbsp;</div>
 </nav> <!-- Ende Menü -->
 
 <!-- ############### Menü Ende ###################################         -->
