@@ -14,7 +14,6 @@
     <div class="dropdown">
         <div class="button dropbtn">Programme ▾</div>
         <div class="dropdown-content">
-            <a class="button" href="#cfp">Call for Participation</a>
             <a class="button" href="#buehnenprogramm">Programme contribution</a>
             <a class="button" href="#bbforum">B&amp;B-Forum</a>
             <a class="button" href="#pitch">Pitch &amp; Thrive for Sustainability</a>
@@ -141,118 +140,16 @@
             <hr>
         </section>
 
-        <section id="cfp">
-
-            <h2>Call for Participation</h2>
-
-            <p>
-            We connect communities and stand up for political change in the interaction of digitalisation 
-            and sustainability. Support the movement with your contribution to the conference!
-            </p>
-
-
-            <ul>
-                <li>
-                <a target="_blank" href="/downloads/call_for_participation_english.pdf">Call for Participation</a>
-
-                </li>
-                <li>
-                <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">Form</a>
-                </li>
-            </ul>
-
-           
-
-            <p>
-                Together in panel discussions, workshops and open spaces we want to reflect on how to take 
-                action and how to specifically implement sustainable digitalisation. 
-            </p>
-
-        <!--    <p><b>Our key questions are:</b></p>
-
-            <ul>
-                <li>1.  How should digitalisation be shaped in a way that it contributes  
-to a sustainable and democratic transformation of our society? </li>
-                <li>2.  What does a globally, economically, socially and ecologically  
-just future look like in the digitalised world?  </li>
-                <li>3. What can the tech community (bits) and the justice and environmental movement 
-(bäume) learn from each other? And how can those communities get in touch with 
-social-ecological pioneer companies, science and politics? </li>
-                <li>4. How can we become politically active together?</li>
-            </ul>-->
-
-            <p>
-                The Bits &amp; Bäume 2022 participants want to interfere and stir things up politically. We openly
-                stand up against anti-democratic trends and position ourselves for scientific-based, 
-                innovative, active and cross-movement approaches to solutions for sustainable digitalisation.
-            </p>
-
-            <p>
-                With this Call for Participation, we call on people from civic organisations and progressive players 
-                within science, economy and politics to help shape the conference with their own contributions! 
-                We are looking forward to various diverse and creative topics and formats. Possible formats 
-                include discussion rounds, lightning talks, project presentations, campaign planning, (hands-on) 
-                workshops, activist info tables, installations, film screenings, hackathons, design thinking 
-                sessions, interviews, live podcasts, small group work, cultural formats, world cafés, craft 
-                workshops, art performances, design elements or anything else creative and innovative you can 
-                think of!
-            </p>
-
-            <p>
-                In addition to all the stages and spaces of the broad call (1) we are also inviting initiatives and 
-                organisations to present themselves and their projects in our B&amp;B-Forum to share knowledge
-                and to engage with one another (2). Furthermore, we would like to welcome contributions from 
-                the business world with innovative approaches to the challenges described in this paper (3). 
-                Therefore there will be three different formats: contributions to the programme, B&amp;B-Forum
-                and Pitch &amp; Thrive for Sustainability.
-            </p>
-
-
-           <p>
-            
-            Here you can find the  <a target="_blank" href="/downloads/call_for_participation_english.pdf">Call for Participation</a>.
-            Please apply <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">here</a> <b>until June 21st 2022</b>.
-
-
-            </p>
-            <p>In case of questions connected to the Call for Participation please contact <b>cfp@bits-und-baeume.org</b>. </p>
-
-            <hr>
-        </section>
+       
         <section id="buehnenprogramm">
 
             <h2>Programme Contribution</h2>
-            <h3>Which topics can be submitted?</h3>
+           
             <p>
-            Topics at Bits &amp; Bäume cover all content at the interface of
-            sustainability and digitalisation. They range from cross-linked mobility 
-            to the raw material and power requirements for digital devices, data 
-            sufficiency and cooperative platform economies to smart energy networks 
-            or monopolisation tendencies in the digital economy. Topics should be 
-            looked at from many different perspectives. What needs to be stopped,
-             created or maintained? What lacks thoughtful criticism and who should be 
-             talking to whom? We are looking forward to hearing your ideas! 
-             As a suggestion, here are some of the broader themes that seem important 
-             to us. You can find a detailed presentation of different aspects under the 
-             respective theme in our   <a target="_blank" href="/downloads/call_for_participation_english.pdf">Call for Participation</a>.
+Topics at Bits & Bäume cover content at the interface of sustainability and digitalisation. 
+                They range from cross-linked mobility to the raw material and power requirements for digital devices, data sufficiency and cooperative platform economies to smart energy networks or monopolisation tendencies in the digital economy. There will be many lectures, workshops and panel discussions to choose from. Soon the program and schedule will be here on our website.
             </p>
 
-            <ul>
-                <li>Economy and Resources </li>
-                <li>New social Question (“New social Deal”) </li>
-                <li>Social Compatibility, Technology Design and Sovereignty</li>
-                <li>Property, power and democracy in the age of knowledge</li>
-                <li>Global north-south question </li>
-                <li>Digitalisation and climate protection </li>
-                <li>Smart new public, society and democracy</li>
-                <li>Digital und sustainable – transformative business models</li>
-            </ul>
-
-            <p>
-                You can use this   <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">application form</a> 
-                to submit your programme contribution. Here you can find the
-                <a target="_blank" href="/downloads/call_for_participation_english.pdf">Call for Participation</a>.
-            </p>
 
             <hr>
             </section>
@@ -262,40 +159,11 @@ social-ecological pioneer companies, science and politics? </li>
             <h2>The Bits &amp; Bäume Forum</h2>
 
             <p>
-                We are going to offer a creative space within the conference where initiatives/organisations/
-                institutions/networks/start-ups etc. will be present and active on site. That way there will 
-                also be room for common areas of exchange beyond the programme. For this simply select 
-                “Forum” as the format.      
+              In addition, you may look forward to a variety of networking opportunities at Bits & Bäume Forum. A creative space for projects, organisations, networks and others, hack space, living room, open stage, dance floor and many more.
+  
             </p>
 
-            <h3>How can we design the Forum?</h3>
-            <p> Here are some suggestions on how to design your space at B&amp;B-Forum: </p>
-            <ul>
-                <li>info or discourse sofa</li>
-                <li>kitchen or regulars’ table with table, chairs and benches</li>
-                <li>fixed DIY-corner</li>
-                <li>micro-exhibition or micro-cinema</li>
-                <li>creative sessions with whiteboard and stickers</li>
-                <li> campaign planning</li>
-                <li>hackathon or soldering session</li>
-                <li>secret flash mob area</li>
-                <li> speakers corner (not too loud, please)</li>
-                <li>networking corner</li>
-                <li>or whatever comes to mind</li>
-            </ul>
-
-            <p><b>Note: We will provide space, table(s) and chairs but you will have to manage your own space.</b></p>
-
-            <h3>What should we submit?</h3>
-
-            <p>
-                
-                Please use the same <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">form</a> as for the entire
-                <a target="_blank" href="/downloads/call_for_participation_english.pdf">Call for Participation</a> and choose the format 
-                “B&amp;B-Forum”. In the description please explain who you are, how your organisation is financed,
-                what actions you envision on site, how much space you need and what technical equipment 
-                (especially electricity) and furniture you require. You may ignore the time box for the forum.
-            </p>
+           
 
             <hr>
             </section>
@@ -304,46 +172,12 @@ social-ecological pioneer companies, science and politics? </li>
             <h2>Pitch and Thrive for Sustainability</h2>    
             <h3>Challenge your start-up</h3>
             <p>  
-                The future belongs to sustainable business models. Save yourself expensive consultants and 
-                present your start-up, your challenge or your idea to a panel of selected experts and our 
-                community. “Shark tank” in green aka “Die Höhle der Löwen” though sustainable and without 
-                a camera
+                “Shark tank” in green aka “Die Höhle der Löwen” though sustainable and without a camera. 
+                The future belongs to sustainable business models. As part of the conference ideas are presented daily to a selected jury and the community. There will be valuable feedback and questions about the sustainability of the undertaking and also about the potential profitability of the business case. An evaluation will be made by selected jurors and the audience.
             </p>
             <p>
-                Are you or your company working in the IT sector, do you want to master a sustainability 
-                challenge and use digital technologies to do so? Would you like to know how sustainable you are? 
-                Do you want experts to take a closer look at your business model? If any or all of these things 
-                apply then you‘re in the right place at “Pitch &amp; Thrive for Sustainability” – this year‘s special
-                format for sustainable start-ups and/or alternative and ecologically oriented small and 
-                medium-sized enterprises.
-            </p>
-
-            <h3>How exactly does it work?</h3>
-            <p><b>Pitch (10 Min)</b>: During the conference we will offer daily slots where you can pitch your project, 
-                start-up, small business or simply your idea to a selected panel and to the Bits &amp; Bäume
-                community.
-            </p>
-            <p>
-                <b>Thrive (20 Min)</b>: 
-                Afterwards you will get valuable feedback and follow-up questions on the 
-                sustainability of your venture, but of course also on the potential profitability of your business 
-                case. An evaluation will be given by selected jurors and the audience. 
-            </p>
-            <h3>What do you get out of this?</h3>
-
-            <p>
-                The best start-ups, projects or ideas will be prominently presented on our website. The winners 
-                will also receive the fiercely contested, much wanted and glorious “Bitsbaum 2022”. In addition 
-                you have the chance to network with like-minded people and possible cooperation partners on 
-                site. The format also offers you the unique opportunity to receive cost-free valuable feedback 
-                and helpful tips from experts working in the fields of sustainability, tech and business.
-            </p>
-            <h3>What should we submit?</h3>
-            <p>
-                Please use the same <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">form</a> as for the entire
-                <a target="_blank" href="/downloads/call_for_participation_english.pdf">Call for Participation</a> and choose the format   „Pitch &amp; Thrive for Sustainability“.
-                In any case please indicate  if you will NOT be able to attend one 
-                of the conference days. We will contact you with a time slot and further important information
+               Naturally on top of all mentioned above there will be a diversified cultural program. 
+                Music, readings and theatre. What more do you need? We are looking forward to a glorious opening event with "vollehalle" and an unforgettable closing party on Sunday evening.
             </p>
 
 
@@ -439,7 +273,7 @@ social-ecological pioneer companies, science and politics? </li>
     <div class="dropdown">
         <div class="button dropbtn">Programm ▾</div>
         <div class="dropdown-content">
-            <a class="button" href="#cfp">Call for Participation</a>
+           
             <a class="button" href="#buehnenprogramm">Programmbeitrag</a>
             <a class="button" href="#bbforum">B&amp;B-Forum</a>
             <a class="button" href="#pitch">Pitch &amp; Thrive for Sustainability</a>
@@ -573,57 +407,7 @@ Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Polit
             <hr>
         </section>
 
-        <section id="cfp">
-
-            <h2>Call for Participation</h2>
-   
-            <p>
-                Wir bringen Communities zusammen und setzen uns für politische Änderungen
-                im Zusammenspiel von Digitalisierung und Nachhaltigkeit ein. 
-                Unterstütze die Bewegung mit deinem Konferenzbeitrag!
-            </p>
-            <ul>
-                <li>
-                <a target="_blank" href="/downloads/call_for_participation.pdf">Call for Participation</a> 
-
-                </li>
-                <li>
-                <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">Einreichungsformular</a>
-                </li>
-            </ul>
-
-            <p>
-                Gemeinsam wollen wir auf Podien, in Workshops und Open Spaces überlegen, wie wir ins Handeln kommen und eine nachhaltige 
-                Digitalisierung konkret umsetzen können.
-            </p>
-            <p>
-                Mit dem Call for Participation rufen wir Menschen aus zivilgesellschaftlichen Organisationen, 
-                progressive Akteurinnen aus der Wissenschaft, Wirtschaft und Politik auf, die Konferenz durch eigene Beiträge 
-                mitzugestalten! Wir freuen uns auf vielfältige und kreative Themen und Formate. Denkbar sind z. B. Diskussionsrunden, 
-                Lightning-Talks, Projektvorstellungen, Kampagnenplanung, (Hands-on-)Workshops, Aktivistinnen-Infotische, Installationen,
-                Filme, Hackathons, Design-Thinking-Sessions, Interviews, Live-Podcasts, Kleingruppenarbeit, kulturelle Formate, World-Cafés,
-                Bastelwerkstätten, 
-                Kunstperformances, Gestaltungselemente oder was euch sonst Kreatives und Innovatives einfällt!
-            </p>
-            <p>
-                Neben den Bühnen und Räumen des breiten Calls (1) laden wir Initiativen und Organisationen auch ein, 
-                sich in unserem B&amp;B-Forum vorzustellen, ihr Wissen zu teilen und miteinander ins Gespräch zu kommen (2).
-                Darüber hinaus freuen wir uns explizit über Beiträge aus der Geschäftswelt mit innovativen Lösungsansätzen zu 
-                den hier beschriebenen Herausforderungen (3). 
-                Demnach gibt es drei Hauptformate: Programmbeiträge, das Forum und Pitch &amp; Thrive for Sustainability.
-            </p>
-
-            <p>
-
-
-                Bewerben könnt ihr euch über <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">Einreichungsformular</a> bis noch einschließlich 21. Juni 2022. 
-                
-                Bei Fragen zum <a target="_blank" href="/downloads/call_for_participation.pdf">Call for Participation</a>  schreibt an <b>cfp@bits-und-baeume.org</b>.
-            </p>
-
-
-            <hr>
-        </section>
+       
         <section id="buehnenprogramm">
 
             <h2>Programmbeitrag</h2>
