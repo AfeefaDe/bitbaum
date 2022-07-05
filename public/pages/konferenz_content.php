@@ -627,38 +627,16 @@ Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Polit
         <section id="buehnenprogramm">
 
             <h2>Programmbeitrag</h2>
-
-            <h3>Welche Themen kann ich einreichen?</h3>
-
+            
             <p>
-                Die Themen der Konferenz Bits &amp; Bäume decken alle Inhalte an der Schnittstelle von Nachhaltigkeit und
-                Digitalisierung ab - und reichen z.B. von vernetzter Mobilität über den Rohstoff- und Strombedarf digitaler Geräte, 
-                Datensuffizienz und kooperativen Plattformökonomien bis hin zu smarten Energienetzen oder Monopolisierungstendenzen
-                in der digitalen Ökonomie. Dabei wollen wir die Themen aus vielen Perspektiven betrachten. Was muss beendet, was 
-                geschaffen und was aufrechterhalten werden? Was bedarf durchdachter Kritik und wer sollte mal mit wem reden? 
-                Wir freuen uns auf eure Ideen dazu! Als Anregung 
-                hier einige Themenstränge, die uns wichtig erscheinen, aber lass dich 
-                davon nicht einschränken. Eine ausführliche Darstellung von verschiedenen 
-                Aspekten unter dem jeweiligen Themenstrang findest du im 
-                <a target="_blank" href="/downloads/call_for_participation.pdf">Call for Participation</a>.
-            </p>
+             Die Themen der Bits & Bäume 2022 decken Inhalte an der Schnittstelle von Nachhaltigkeit und Digitalisierung ab. 
+             Sie reichen von vernetzter Mobilität über den Rohstoff- und Strombedarf digitaler Geräte, Datensuffizienz und 
+             kooperativen Plattformökonomien bis hin zu smarten Energienetzen oder Monopolisierungstendenzen in der digitalen Ökonomie. #
+            Es warten Vorträge, Workshops und Podiumsdiskussionen auf dich. Das komplette Programm wirst du ab August hier auf unserer Webseite finden.
 
-            <ul>
-                <li>Ökonomie und Ressourcen</li>
-                <li>Neue soziale Frage („New Social Deal“)</li>
-                <li>Sozialverträglichkeit, Technikgestaltung und Gestaltungshoheit/ Souveränität</li>
-                <li>Eigentum, Macht und Demokratie im Zeitalter des Wissens</li>
-                <li>Die globale Nord-Süd-Frage</li>
-                <li>Digitalisierung und Klimaschutz</li>
-                <li>Smarte neue Öffentlichkeit, Gesellschaft und Demokratie</li>
-                <li>Digital und Nachhaltig – transformative Geschäftsmodelle</li>
-            </ul>
-
-            <p>
-            Über dieses   <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp"> Formular</a> kannst du deinen Programmbeitrag 
-            einreichen. 
-   
             </p>
+             
+          
 
             <hr>
         </section>
@@ -667,81 +645,28 @@ Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Polit
 
             <h2>Bits &amp; Bäume Forum</h2>
 
-            <p>Wir werden auf dem Konferenzareal eine kreative Fläche anbieten, wo Initiativen/ 
-                Organisationen/Institutionen/Netzwerke/Start-Ups usw. vor Ort präsent und aktiv sein können.
-                 So ist über das konkrete Programm hinaus Platz für gemeinsame Orte des Austauschs. 
-                Hierzu kann einfach der Call for Participation benutzt und als Format „Forum“ gewählt werden.
+            <p>
+                Zusätzlich kannst du dich im Bits & Bäume Forum auf viele Vernetzungsmöglichkeiten freuen. 
+                Kreativer Raum für Projekte, Organisationen, Netzwerke und andere, Hack Space, Wohnzimmer, Open Stage, Dancefloor und vieles mehr.
             </p>
 
-            <h3>Wie können wir das Forum gestalten?</h3>
-            <p> Hier einige Anregungen, wie ihr euren Platz beim B&amp;B-Forum gestalten könnt: </p>
-            <ul>
-                <li>Info- oder Diskurs-Sofa</li>
-                <li>Küchen- oder Stammtisch mit Tisch, Stühlen und Bänken</li>
-                <li>feste DIY-Ecke</li>
-                <li>Mikroausstellung oder Mikrokino</li>
-                <li>Kreativ-Sessions mit Whiteboard und Klebchen</li>
-                <li>Kampagnenplanung</li>
-                <li>Hackathon oder Lötsession</li>
-                <li>geheime Flashmob-Fläche</li>
-                <li>Speakers Corner (nicht zu laut bitte)</li>
-                <li>Netzwerkecke</li>
-                <li>oder was immer euch einfällt</li>
-            </ul>
-
-            <p><b>Hinweis: Wir stellen euch zwar Platz, Tisch und Stuhl, aber eure Fläche müsst ihr selbst betreuen.</b></p>
-
-            <h3>Was sollen wir angeben?</h3>
-            <p>
-                Benutzt bitte dasselbe <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">Formular</a>
-                wie für den gesamten <a target="_blank" href="/downloads/call_for_participation.pdf">Call for Participation</a>.
-                Wählt dabei bitte das Format „B&amp;B-Forum“. Verdeutlicht in der Beschreibung,
-                wer ihr seid, wie sich eure Organisation finanziert, welche Aktionen ihr euch vor Ort konkret vorstellt, 
-                wieviel Platz ihr braucht und ggf. welchen Bedarf an Technik (v. a. Strom)
-                und Mobiliar ihr habt. Das Zeitangabenfeld könnt ihr für das Forum ignorieren.</p>
+         
             <hr>
         </section>
         <section id="pitch">
             <h2>Pitch and Thrive for Sustainability</h2>
             <h3>Teste dein Start-Up</h3>
             <p> 
-                Die Zukunft gehört nachhaltigen Geschäftsmodellen. Spar dir teure Berater*innen und stelle dein Start-Up, 
-                deine Herausforderung oder deine Idee einem Gremium aus ausgewählten Expert*innen und unserer Community vor. 
-                „Shark Tank“ in grün aka „Die Höhle der Löwen“, aber in nachhaltig und ohne Kamera.
+               
+                
+              „Shark Tank“ in grün aka „Die Höhle der Löwen“, aber nachhaltig und ohne Kamera. Die Zukunft gehört nachhaltigen Geschäftsmodellen. Im Rahmen der Konferenz werden täglich Ideen vor einem ausgewählten Gremium und der Community vorgestellt. Im Anschluss gibt es wertvolles Feedback und Nachfragen zur Nachhaltigkeit des Unterfangens, aber natürlich auch zur potentiellen Wirtschaftlichkeit des Business-Case. Eine Bewertung wird von ausgewählten Juror*innen und dem Publikum abgegeben.
             </p>
             <p>
-                Du oder deine Firma macht was im IT-Bereich, ihr wollt eine Nachhaltigkeitsherausforderung meistern und 
-                dafür digitale Technologien einsetzen? Ihr wollt wissen, wie nachhaltig ihr selbst unterwegs seid? Du möchtest, 
-                dass Expert*innen deinem Business-Modell auf den Zahn fühlen? Wenn etwas oder alles davon zutrifft, dann bist du 
-                genau richtig bei Pitch &amp; Thrive for Sustainability,
-                unserem diesjährigen Sonderformat für nachhaltige Start-Ups und/oder alternativ und ökologisch orientierte kleine und 
-                mittlere Unternehmer*innen.
+            Selbstverständlich ist auch für ein abwechslungsreiches Kulturprogramm gesorgt. Musik, Lesungen und Theater. 
+            Was will mensch mehr? Wir freuen uns auf eine glorreiche Auftaktveranstaltung mit "vollehalle" und eine unvergessliche Abschlussparty 
+                am Sonntagabend.  
             </p>
-            <h3>Wie funktioniert das genau?</h3>
-            <p>
-                <b>Pitch (10 Min)</b>:Im Rahmen der Konferenz werden wir täglich Slots anbieten, bei denen ihr euer Projekt, 
-                Start-Up, kleines Unternehmen oder 
-                einfach eure Idee einem ausgewählten Gremium und natürlich der Community, vorstellen könnt.
-            </p>
-            <p>
-                <b>Thrive (20 Min)</b>: Im Anschluss bekommt ihr wertvolles Feedback und Nachfragen 
-                zur Nachhaltigkeit eures Unterfangens, aber natürlich auch zur potentiellen Wirtschaftlichkeit 
-                eures Business-Cases. Eine Bewertung wird von ausgewählten Juror*innen und dem Publikum abgegeben.
-            </p>
-            <h3>Was springt für euch dabei heraus?</h3>
-            <p>Die besten Start-Ups, Projekte oder Ideen werden prominent auf unserer Website vorgestellt. Die Sieger*innen 
-                bekommen von uns weiterhin den heiß umkämpften, allseits begehrten und ruhmreichen „Bitsbaum 2022“ überreicht. Darüber 
-                hinaus könnt ihr euch vor Ort mit Gleichgesinnten und möglichen Kooperationspartner*innen vernetzen. Das Format bietet 
-                euch außerdem die einmalige Gelegenheit, euch gratis wertvolles Feedback und hilfreiche
-                 Tipps von Expert*innen aus der Nachhaltigkeits-, Tech- und Businesscommunity einzuholen.
-            </p>
-            <h3>Was sollen wir angeben?</h3>
-            <p>
-                Benutzt bitte dasselbe   <a target="_blank" href="https://pretalx.com/bitsundbaeume/cfp">Formular</a>
-                wie für den gesamten   <a target="_blank" href="/downloads/call_for_participation.pdf">Call for Participation</a>.
-                Wählt dabei bitte das Format    „Pitch &amp; Thrive for Sustainability“. Gebt in jedem Fall an, sofern ihr an einem der Konferenztage NICHT
-                dabei sein könnt. Wir melden uns bei euch mit einem Zeitslot und allen weiteren wichtigen Informationen.
-            </p>
+     
             <hr>
         </section>
   
