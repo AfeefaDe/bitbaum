@@ -226,13 +226,13 @@ Press releases of the Bits & Bäume Conference from 2018 can be found here.​ C
                 </p>
                 <hr>
             </section>
-            <section id="faq">
+     <!--       <section id="faq">
                 <h2>FAQs</h2>
                 <p>
                     ...to be announced...
                 </p>
                 <hr>
-            </section>
+            </section> -->
 
             <section id="forderungen">
                 <h2>Our Demands</h2>
@@ -508,7 +508,7 @@ Pressemitteilungen zur vergangen Konferenz 2018 finden sich hier. Unsere aktuell
         </section>
 
 
-        <section id="faq">
+    <!--    <section id="faq">
 
             <h2>FAQs</h2>
             <p>
@@ -516,7 +516,7 @@ Pressemitteilungen zur vergangen Konferenz 2018 finden sich hier. Unsere aktuell
             </p>
 
             <hr>
-        </section>
+        </section> -->
         <section id="forderungen">
             <h2>Unsere Forderungen</h2>
             <p>
