@@ -203,8 +203,9 @@ Topics at Bits & Bäume cover content at the interface of sustainability and dig
             <h2>Press Contact</h2>
             <p>
                You are a journalist and would like to receive information about Bits & Bäume 2022? We would be happy to add you to our mailing list. 
-                Please send press enquiries to presse@bits-und-baeume.org
-Press releases of the Bits & Bäume Conference from 2018 can be found here.​ Click <a target="_blank" href="/downloads/Bits&Baeume_Pressemitteilung_7.6.22.pdf">HERE</a> for our most recent release. 
+                Please send press enquiries to <b>presse@bits-und-baeume.org</b>.</p>
+            <p>
+ Click <a target="_blank" href="/downloads/Bits&Baeume_Pressemitteilung_7.6.22.pdf">HERE</a> for our most recent release. 
                 
               
             </p>
@@ -478,13 +479,14 @@ Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Polit
 
             <h2>Pressekontakt</h2>
             <p>
-                Du bist Journalist*in und willst in unseren Presseverteiler 
-                aufgenommen werden oder hast eine Frage zu Bits &amp; Bäume 2022? Kontaktiere uns unter
-                <b>presse@bits-und-baeume.org</b>.
+                
                 
                 Du bist Journalist*in und willst in unseren Presseverteiler aufgenommen werden oder 
-                hast eine Frage zu Bits & Bäume 2022? Kontaktiere uns unter presse@bits-und-baeume.org.
-Pressemitteilungen zur vergangen Konferenz 2018 finden sich hier. Unsere aktuelle Pressemeldung findest du <a target="_blank" href="/downloads/Bits&Baeume_Pressemitteilung_7.6.22.pdf">hier</a>.
+                hast eine Frage zu Bits & Bäume 2022? Kontaktiere uns unter <b>presse@bits-und-baeume.org</b>.
+                Pressemitteilungen zur vergangen Konferenz 2018 finden sich hier. </p>
+                
+            <p>
+                Unsere aktuelle Pressemeldung findest du <a target="_blank" href="/downloads/Bits&Baeume_Pressemitteilung_7.6.22.pdf">hier</a>.
 
             </p>
             <p>
