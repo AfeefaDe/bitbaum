@@ -141,7 +141,7 @@
             </p>
             
             <p>
-            If you do not have enough time to get involved yourself, you can support us by buying a ticket:  <a target="_blank" href=" https://bits-und-baeume.org/konferenz/">https://bits-und-baeume.org/konferenz/</a>.
+            If you do not have enough time to get involved yourself, you can support us by buying a ticket:  <a target="_blank" href="https://events.fairetickets.de/gedlv/">https://events.fairetickets.de/gedlv/</a>.
           </p>
 
             </p>
@@ -415,7 +415,7 @@ Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Polit
     <p>
     Falls du gerade keine Kapazitäten hast, selbst aktiv zu werden, unterstützt du uns mit dem Kauf deines Eintrittstickets: 
         
-        <a target="_blank" href=" https://bits-und-baeume.org/konferenz/">https://bits-und-baeume.org/konferenz/</a>.
+      <a target="_blank" href="https://events.fairetickets.de/gedlv/">https://events.fairetickets.de/gedlv/</a>.
           </p>
     <p>
     Wir sehen uns bei der Bits & Bäume 2022!
@@ -434,7 +434,7 @@ Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Polit
             <p>
              Die Themen der Bits & Bäume 2022 decken Inhalte an der Schnittstelle von Nachhaltigkeit und Digitalisierung ab. 
              Sie reichen von vernetzter Mobilität über den Rohstoff- und Strombedarf digitaler Geräte, Datensuffizienz und 
-             kooperativen Plattformökonomien bis hin zu smarten Energienetzen oder Monopolisierungstendenzen in der digitalen Ökonomie. #
+             kooperativen Plattformökonomien bis hin zu smarten Energienetzen oder Monopolisierungstendenzen in der digitalen Ökonomie. 
             Es warten Vorträge, Workshops und Podiumsdiskussionen auf dich. Das komplette Programm wirst du ab August hier auf unserer Webseite finden.
 
             </p>
