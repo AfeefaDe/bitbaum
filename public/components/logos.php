@@ -50,6 +50,7 @@
 
             </p>
             <a href="https://www.dbu.de" target="_blank"><img class="no-hover" src="/img/logo-dbu.png" title="Deutsche Bundesstiftung Umwelt (DBU)"></a>
+            <a href="https://www.stiftung-mercator.de/en/" target="_blank"><img src="/img/Stiftung_Mercator_Blau_RGB.png" title="Stiftung Mercator"></a>
             <!-- <a href="https://www.bmbf.de" target="_blank"><img src="/img/logo-bmbf.svg" title="Bundesministerium für Bildung und Forschung (BMBF)"></a> -->
 
         <!--    <p><strong>Special assistance</strong></p>
@@ -116,12 +117,9 @@ break;
                 (BMUV) kofinanziert. Die Arbeit von Germanwatch und des Forums InformatikerInnen für
                 Frieden und gesellschaftliche Verantwortung (FIfF) im Rahmen der Bits & Bäume-Konferenz
                 2022 wird hauptsächlich gefördert durch die Stiftung Mercator.
-
-             
-
-
             </p>
             <a href="https://www.dbu.de" target="_blank"><img class="no-hover" src="/img/logo-dbu.png" title="Deutsche Bundesstiftung Umwelt (DBU)"></a>
+            <a href="https://www.stiftung-mercator.de/" target="_blank"><img src="/img/Stiftung_Mercator_Blau_RGB.png" title="Stiftung Mercator"></a>
           <!--   <a href="https://www.bmbf.de" target="_blank"><img src="/img/logo-bmbf.svg" title="Bundesministerium für Bildung und Forschung (BMBF)"></a> -->
 
 
