@@ -18,6 +18,8 @@ Redirect 301 /Matrixanmeldung https://cloud.bits-und-baeume.org/index.php/apps/c
 Redirect 301 /matrixanmeldung https://cloud.bits-und-baeume.org/index.php/apps/collectives/p/fLP8pwfbELPM78L/Matrix
 Redirect 301 /Kalender https://cloud.bits-und-baeume.org/index.php/apps/calendar/p/4kNZbfrsPjWkcEJ5/listMonth/now
 Redirect 301 /kalender https://cloud.bits-und-baeume.org/index.php/apps/calendar/p/4kNZbfrsPjWkcEJ5/listMonth/now
+Redirect 301 /tickets https://events.fairetickets.de/gedlv/
+Redirect 301 /Tickets https://events.fairetickets.de/gedlv/
 
 
 # BigBlueButton-Räume
