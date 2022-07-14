@@ -136,7 +136,7 @@
                 Would you like to be part of the conference and help the community grow? To make the conference possible we need many <b>helping hands</b>.
                 In return for supporting us, we not only offer a look behind the scenes of Bits & Bäume, 
                 but also free entry on all three days, food and lots of fun obviously! Just sign up for one (or more) shift(s) 
-                in our Engelsystem:   <a target="_blank" href=" https://engelsystem.de/bub/news">https://engelsystem.de/bub/news</a>. We are looking forward to meeting you!
+                in our Engelsystem:   <a target="_blank" href=" https://engelsystem.de/bub/login">https://engelsystem.de/bub/login</a>. We are looking forward to meeting you!
 
             </p>
             
@@ -409,7 +409,7 @@ Austausch mit sozial-ökologischen Vorreiter-Unternehmen, Wissenschaft und Polit
                 Um die Großkonferenz möglich zu machen, brauchen wir viele <b>helfende Hände</b>. Deshalb verstehen wir uns als Mitmachkonferenz 
                 und bedanken uns nicht nur mit dem Blick hinter die Kulissen der Bits & Bäume, sondern auch mit freiem Eintritt an allen drei 
                 Tagen, Essen und natürlich jeder Menge Spaß! Trag dich einfach in eine (oder mehrere) Schicht(en) in unser Engelssystem ein: 
-                <a target="_blank" href=" https://engelsystem.de/bub/news">https://engelsystem.de/bub/news</a>.
+                <a target="_blank" href=" https://engelsystem.de/bub/login">https://engelsystem.de/bub/login</a>.
                 Wir freuen uns sehr auf dich!!
 
             </p>
