@@ -85,7 +85,7 @@
 <section>
     <article>
         <h1>Bits &amp; Bäume Conference 2022</h1>
-        <h2>Bits &amp; Bäume 2022 – The Conference for Digitalisation and Sustainability: September 30th until 2nd 2022, at the TU Berlin</h2>
+        <h2>Bits &amp; Bäume 2022 – The Conference for Digitalisation and Sustainability: September 30th until October 2nd 2022, at the TU Berlin</h2>
         <h3>Evening kick-off event on September 30th</h3>
         <h3>Get your ticket now. For more info about the categories and prices go  
             <a target="_blank" href="   https://events.fairetickets.de/gedlv/">HERE</a>.</h3>
