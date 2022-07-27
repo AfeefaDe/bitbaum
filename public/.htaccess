@@ -20,6 +20,8 @@ Redirect 301 /Kalender https://cloud.bits-und-baeume.org/index.php/apps/calendar
 Redirect 301 /kalender https://cloud.bits-und-baeume.org/index.php/apps/calendar/p/4kNZbfrsPjWkcEJ5/listMonth/now
 Redirect 301 /tickets https://events.fairetickets.de/gedlv/
 Redirect 301 /Tickets https://events.fairetickets.de/gedlv/
+Redirect 301 /helfen https://engelsystem.de/bub/login
+Redirect 301 /Helfen https://engelsystem.de/bub/login
 
 
 # BigBlueButton-Räume
