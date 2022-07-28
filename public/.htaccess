@@ -22,6 +22,10 @@ Redirect 301 /tickets https://events.fairetickets.de/gedlv/
 Redirect 301 /Tickets https://events.fairetickets.de/gedlv/
 Redirect 301 /helfen https://engelsystem.de/bub/login
 Redirect 301 /Helfen https://engelsystem.de/bub/login
+Redirect 301 /Schlafplatzbörse https://cloud.bits-und-baeume.org/pad/p/j21pggkhtbykbv6m
+Redirect 301 /schlafplatzbörse https://cloud.bits-und-baeume.org/pad/p/j21pggkhtbykbv6m
+Redirect 301 /Schlafplatzboerse https://cloud.bits-und-baeume.org/pad/p/j21pggkhtbykbv6m
+Redirect 301 /schlafplatzboerse https://cloud.bits-und-baeume.org/pad/p/j21pggkhtbykbv6m
 
 
 # BigBlueButton-Räume
