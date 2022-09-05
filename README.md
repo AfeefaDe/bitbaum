@@ -1,4 +1,26 @@
-# Bits und Bäume – Conference Website
+
+
+
+
+# Old Bits und Bäume – Conference Website
+
+<br>
+
+The new (by 2022-08) website is maintained in <https://github.com/bitsundbaeume/bits-und-baeume.org>
+
+This repo is leagacy.
+
+<br>
+
+
+<br>
+
+
+
+<br>
+
+
+<br>
 
 ## dev setup
 **quick:**
